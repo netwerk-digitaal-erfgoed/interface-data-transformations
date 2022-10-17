@@ -9,3 +9,5 @@ There are two sub-directory in control-data:
 
 2-oai-pmh-data consists of collected(rdf/xml files) and converted/converted_ttlKol folders to select which datasets must consider for the next steps (based on dc:created).
 
+
+data-gathering folder consists of oai-pmh (for more information: please study readme in the folder)
