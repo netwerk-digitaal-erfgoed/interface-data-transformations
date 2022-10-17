@@ -11,3 +11,6 @@ There are two sub-directory in control-data:
 
 
 data-gathering folder consists of oai-pmh (for more information: please study readme in the folder)
+
+
+This GitHub is frequently changing and what you see is not the final product.
