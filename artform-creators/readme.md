@@ -13,4 +13,4 @@ Then:
 
 your python path on your system (e.g., python = "C:\Program Files\Python37\python.exe" )
 
-python art-form.py
+`python art-form.py`
