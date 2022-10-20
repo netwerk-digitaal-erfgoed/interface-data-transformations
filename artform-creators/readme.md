@@ -11,6 +11,6 @@ https://github.com/netwerk-digitaal-erfgoed/interface-data-transformations/tree/
 
 Then:
 
-python = "C:\Program Files\Python37\python.exe" 
+your python path on your system (e.g.,"C:\Program Files\Python37\python.exe" )
 
 python art-form.py
