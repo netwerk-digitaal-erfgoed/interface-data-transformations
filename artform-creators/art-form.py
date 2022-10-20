@@ -5,7 +5,7 @@ import traceback
 from rdflib import Graph, BNode
 from rdflib.namespace import Namespace
 
-schema = Namespace("http://www.schema.org/type")
+
 edm = Namespace("http://www.europeana.eu/schemas/edm/")
 rdf = Namespace("http://www.w3.org/1999/02/22-rdf-syntax-ns#")
 dcterms = Namespace("http://purl.org/dc/terms/")
