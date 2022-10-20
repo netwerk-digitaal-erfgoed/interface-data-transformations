@@ -9,7 +9,7 @@ Install required libraries using following command before running script. pip in
 ## Usage
 
 Find your python path on your system :
-
+my example:
 python = "C:\Program Files\Python37\python.exe"
 
 #### Help:
