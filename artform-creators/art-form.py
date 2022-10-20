@@ -99,7 +99,7 @@ def extract_csv_creators(_entities, _resultArtForm='./art-form/', _resultCreator
 
         with open(_resultCreatorsCsv + f'creatorWithoutType_{entityName}.csv', 'w', encoding='utf-8',
                   newline='') as fileHanler:
-            writer = csv.writer(fileHanler, delimiter=',', quotechar="\'", quoting=csv.QUOTE_NONE, escapechar=' ')
+            writer = csv.writer(fileHanler, delimiter=',', quotechar="", quoting=csv.QUOTE_NONE, escapechar=' ')
             writer.writerow(["uri", "creators"])
             for row in queryResult:
                 sub = row.a.split("/n")[0]
