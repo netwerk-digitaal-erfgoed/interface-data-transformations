@@ -13,4 +13,4 @@ Then:
 
 python = "C:\Program Files\Python37\python.exe" 
 
-python art-type-extract.py
+`python art-type-extract.py`
