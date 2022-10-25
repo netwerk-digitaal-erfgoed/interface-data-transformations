@@ -39,7 +39,7 @@ python = "C:\Program Files\Python37\python.exe"
 
 Folders 4 and 5 will be used for the next steps.
 
-The rest of folders are only for control and creating 4 and 5 folders.
+The rest of folders are only for control and creating folders for the next steps.
 
 
 
