@@ -17,13 +17,29 @@ Indeed, the name of file in the type folder must be the same as converted folder
 
 ## usage
 
-These files are not final files.
-
-Under development.. TODO
-
 ### 1- run script
 
+Find your python path on your system :
 
+python = "C:\Program Files\Python37\python.exe"
+
+`python art-form-creators.py`
 
 ### 2- Folders after running script:
+
+1- csvartform
+
+2- csv-final
+
+3-artformtriple
+
+4- enrich-step1
+
+5- creators
+
+Folders 4 and 5 will be used for the next steps.
+
+The rest of folders are only for control and creating 4 and 5 folders.
+
+
 
