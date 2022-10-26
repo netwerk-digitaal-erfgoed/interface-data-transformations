@@ -1,0 +1,854 @@
+@prefix aat: <http://vocab.getty.edu/aat/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/101> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/102> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/103> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/104> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/105> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/108> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1080> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1089> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1090> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1091> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1092> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1093> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1094> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1095> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1096> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1097> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1098> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1099> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/11> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1100> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1101> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1102> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1103> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1104> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1105> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1106> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1113> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1114> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1116> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/112> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1129> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1138> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1139> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1140> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/115> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1153> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1155> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1161> dcterms:artform aat:300078925,
+        aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1177> dcterms:artform aat:300181918 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/119> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/12> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/120> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/121> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/122> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/123> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/124> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/128> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/129> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/131> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/134> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/135> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/138> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1380> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1381> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1382> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1383> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1384> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1385> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1386> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/139> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1398> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1403> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1409> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1410> dcterms:artform aat:300181918 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1411> dcterms:artform aat:300181918 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1412> dcterms:artform aat:300181918 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1413> dcterms:artform aat:300181918 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1414> dcterms:artform aat:300181918 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1415> dcterms:artform aat:300181918 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1416> dcterms:artform aat:300181918 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1417> dcterms:artform aat:300181918 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1418> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/142> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/143> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1433> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1447> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1456> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1457> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1460> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1463> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1472> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1475> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1476> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1488> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1489> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1493> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1498> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1499> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/15> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1512> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1513> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1514> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1517> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1519> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1536> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1537> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1538> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1539> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1540> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1545> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1546> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1549> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1550> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1564> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/160> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1607> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/161> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1615> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1627> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1632> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1633> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1634> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1635> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1644> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1645> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1652> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1653> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/167> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/168> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/169> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/171> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/172> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1746> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/176> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/177> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1788> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1789> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/179> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/180> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1804> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/182> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1828> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1829> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/183> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1835> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1836> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/184> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/185> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/186> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1862> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1875> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/188> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/190> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1904> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/191> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1911> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1912> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/193> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/1936> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/194> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/195> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/198> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/199> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/201> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2044> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2056> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/206> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/207> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/208> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/209> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2093> dcterms:artform aat:300181918 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2094> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2095> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/21> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/210> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/211> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/212> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/213> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2136> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/217> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2180> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/22> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2265> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2287> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/23> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2363> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2394> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2395> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2396> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2397> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2398> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/24> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2427> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2432> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2485> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/25> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2533> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/26> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2600> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2645> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2677> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2682> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2690> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2713> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2841> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2842> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2843> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2844> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2892> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/2972> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3017> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3036> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3058> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3070> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3071> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3072> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3080> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3122> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3123> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3124> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3125> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3126> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3127> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3128> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3129> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3130> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/315> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/316> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/317> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/318> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/319> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/324> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/327> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/328> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/331> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/332> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/333> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/335> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3359> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3360> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3366> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3367> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3368> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3369> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/337> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3375> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3376> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3394> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3395> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3402> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3403> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3404> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3414> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/342> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/343> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/344> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3458> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/346> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3471> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3472> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/350> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3513> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3516> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3517> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3518> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3519> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3520> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3521> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3523> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3524> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/353> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/354> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3560> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/358> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/359> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3591> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3592> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3596> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/36> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/3613> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/366> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/368> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/37> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/370> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/379> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/38> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/381> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/382> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/383> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/384> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/385> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/386> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/387> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/389> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/39> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/390> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/391> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/392> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/393> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/398> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/399> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/4> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/40> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/401> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/403> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/404> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/407> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/408> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/41> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/410> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/411> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/412> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/413> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/42> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/426> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/427> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/428> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/429> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/434> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/435> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/436> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/437> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/438> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/439> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/44> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/441> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/442> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/443> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/444> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/445> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/446> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/447> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/448> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/449> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/45> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/450> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/451> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/452> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/456> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/458> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/46> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/466> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/469> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/470> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/471> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/472> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/474> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/476> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/477> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/478> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/479> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/480> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/483> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/485> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/486> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/487> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/489> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/49> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/5> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/502> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/503> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/504> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/505> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/508> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/509> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/51> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/510> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/511> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/52> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/53> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/54> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/544> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/58> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/583> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/592> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/599> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/6> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/60> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/601> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/61> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/611> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/622> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/63> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/64> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/65> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/67> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/68> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/69> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/7> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/70> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/701> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/702> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/71> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/710> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/713> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/72> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/724> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/73> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/738> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/744> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/745> dcterms:artform aat:300404216 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/749> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/754> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/765> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/772> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/774> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/777> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/794> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/80> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/811> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/813> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/826> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/835> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/838> dcterms:artform aat:300078928 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/84> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/854> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/857> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/864> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/869> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/870> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/871> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/878> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/881> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/889> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/89> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/891> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/892> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/894> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/900> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/901> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/910> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/911> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/932> dcterms:artform aat:300410350 .
+
+<http://data.collectienederland.nl/resource/document/van-abbe-museum/94> dcterms:artform aat:300410350 .
+
