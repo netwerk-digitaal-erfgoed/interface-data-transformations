@@ -12,7 +12,7 @@ Install required libraries using following command before running script. pip in
 2- Add the results of artType from openRefine inside of `type` folder.
 
 
-`Please Note that the name of files in side of two folders must be the same.
+`Please Note that the name of files inside of two folders must be the same.
 Indeed, the name of file in the type folder must be the same as converted folder `
 
 ## usage
