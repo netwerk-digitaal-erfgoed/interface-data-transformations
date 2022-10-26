@@ -1,4 +1,4 @@
-# artform-creators:
+# Artform-creators:
 
 Collecting creators for paintings'art form.
 
