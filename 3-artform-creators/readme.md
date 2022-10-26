@@ -17,7 +17,7 @@ Indeed, the name of file in the type folder must be the same as converted folder
 
 ## Usage
 
-### 1- run script
+### 1- Run script
 
 Find your python path on your system :
 
