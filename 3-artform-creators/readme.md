@@ -1,4 +1,4 @@
-# enrich step one and extract creators
+# Enrich step one and extract creators
 This script allows you to enrich converted data in step one (1-data-gathering)
 and extract creators who have painting artwork. Indeed, exclude painting visual work from other art work.
 
