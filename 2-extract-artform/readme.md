@@ -1,4 +1,4 @@
-# artform-creators:
+# Artform-creators:
 
 Collecting creators for paintings'art form.
 
@@ -14,3 +14,9 @@ Then:
 python = "C:\Program Files\Python37\python.exe" 
 
 `python art-type-extract.py`
+
+##### Folders
+
+input = converted 
+
+output = art_type_All

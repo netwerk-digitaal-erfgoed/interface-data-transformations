@@ -153,7 +153,7 @@ def csvToTripleProcess(_path, _entities, artformPath='./artformtriple/', enrichf
             gOrginFile = Graph()
             gOrginFile.parse(f"./converted/{entity}.ttl", format='turtle')
             integrateFile = gArtFrom + gOrginFile
-            integrateFile.serialize(destination=f'{enrichfile}{entity}_Graph.ttl', format='turtle', encoding='utf-8')
+            integrateFile.serialize(destination=f'{enrichfile}{entity}.ttl', format='turtle', encoding='utf-8')
 
     except Exception as e:
         print(str(e), traceback.format_exc())
@@ -179,7 +179,7 @@ def extract_csv_creators(enrichfile='./enrich-step1/', _resultCreatorsCsv='./cre
             }"""
 
             qres = g.query(getByIdentifiers)
-            with open(_resultCreatorsCsv + f'{entityName}_creators.csv', 'w', encoding='utf-8', newline='') as f:
+            with open(_resultCreatorsCsv + f'{entityName}.csv', 'w', encoding='utf-8', newline='') as f:
                 writer = csv.writer(f, quoting=csv.QUOTE_ALL, delimiter=',', quotechar='"')  # quotechar='',
                 f.write(",".join(["uri", "creators"]))
                 f.write("\n")
