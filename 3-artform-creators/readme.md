@@ -25,7 +25,14 @@ python = "C:\Program Files\Python37\python.exe"
 
 `python art-form-creators.py`
 
-### 2- Folders after running script:
+### 2- required Folders
+
+1- type
+
+
+
+
+### 3- Folders after running script:
 
 1- csvartform
 
