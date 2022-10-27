@@ -33,7 +33,7 @@ def extractArtForm(_entities,result ='./art_type_All/'):
 
         qres = g.query(getByIdentifiers)
 
-        with open(result + f'Type_{url}.csv', 'w', encoding='utf-8', newline='') as f:
+        with open(result + f'{url}.csv', 'w', encoding='utf-8', newline='') as f:
             writer = csv.writer(f, quoting=csv.QUOTE_ALL, delimiter=',', quotechar='"')#quotechar='',
             f.write(",".join(["uri", "type"]))
             f.write("\n")
