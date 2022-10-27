@@ -27,7 +27,8 @@ python = "C:\Program Files\Python37\python.exe"
 
 ### 2- required Folders
 
-1- type
+1- type: result of open refine and the name of file = the name of file in converted. NO additional prefixes.
+2-converted
 
 
 
