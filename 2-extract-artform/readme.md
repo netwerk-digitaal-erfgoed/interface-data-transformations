@@ -14,3 +14,9 @@ Then:
 python = "C:\Program Files\Python37\python.exe" 
 
 `python art-type-extract.py`
+
+##### Folders
+
+input = converted 
+
+output = art_type_All
