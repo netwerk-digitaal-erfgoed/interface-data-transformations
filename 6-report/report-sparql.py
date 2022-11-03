@@ -5,7 +5,7 @@ import traceback
 from rdflib import Graph
 import os.path
 
-result_enrichment = './report-enrichment/'
+result_enrichment = './report-final/'
 
 shutil.rmtree(result_enrichment, ignore_errors=True)
 os.makedirs(result_enrichment, exist_ok=True)
