@@ -93,7 +93,7 @@ CONSTRUCT {
 
   ?image rdf:type schema:ImageObject ;
 
-  		schema:isShownBy ?isShownBy;
+  		schema:contentUrl ?isShownBy;
 
   	    schema:encodingFormat ?img ;
 
