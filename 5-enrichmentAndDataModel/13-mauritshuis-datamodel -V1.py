@@ -34,10 +34,10 @@ def startEnrichment(_entities):
                 query_txt = file.read()
                 res = g_data.query(query_txt)
 
-            res.serialize(f'{result}/artworks.n3', format='ntriples') #N3 fine
+            res.serialize(f'{result}/artworks.n3', format='ntriples')
             g = Graph()
             g.parse(f'{result}/artworks.n3', format='ntriples')
-            g.namespace_manager.bind('schema', URIRef('http://schema.org/'), replace=True)
+            g.namespace_manager.bind('schema', URIRef('https://schema.org/'), replace=True)
             g.serialize(destination=f'{result}/artworks.ttl', format='turtle', encoding='utf-8')
             print(f'{filename} for Artwork graph has been serialized, successfully!')
 
@@ -50,7 +50,7 @@ def startEnrichment(_entities):
             res.serialize(f'{result}/art-periods.n3', format='ntriples') #N3 fine
             g = Graph()
             g.parse(f'{result}/art-periods.n3', format='ntriples')
-            g.namespace_manager.bind('schema', URIRef('http://schema.org/'), replace=True)
+            g.namespace_manager.bind('schema', URIRef('https://schema.org/'), replace=True)
             g.serialize(destination=f'{result}/art-periods.ttl', format='turtle', encoding='utf-8')
             print(f'{filename} for art-period graph has been serialized, successfully!')
 
@@ -60,23 +60,23 @@ def startEnrichment(_entities):
                 query_txt = file.read()
                 res = g_data_period.query(query_txt)
 
-            res.serialize(f'{result}/artists.n3', format='ntriples') #N3 fine
+            res.serialize(f'{result}/artists.n3', format='ntriples')
             g = Graph()
             g.parse(f'{result}/artists.n3', format='ntriples')
-            g.namespace_manager.bind('schema', URIRef('http://schema.org/'), replace=True)
+            g.namespace_manager.bind('schema', URIRef('https://schema.org/'), replace=True)
             g.serialize(destination=f'{result}/artists.ttl', format='turtle', encoding='utf-8')
             print(f'{filename} for person graph has been serialized, successfully!')
 
-            #####Organization Graph we do not know yet
+            #####Organization Graph
             g_data_org = Graph()
             with open('Organization.rq') as file:
                 query_txt = file.read()
                 res = g_data_org.query(query_txt)
 
-            res.serialize(f'{result}/organization.n3', format='ntriples') #N3 fine
+            res.serialize(f'{result}/organization.n3', format='ntriples')
             g = Graph()
             g.parse(f'{result}/organization.n3', format='ntriples')
-            g.namespace_manager.bind('schema', URIRef('http://schema.org/'), replace=True)
+            g.namespace_manager.bind('schema', URIRef('https://schema.org/'), replace=True)
             g.serialize(destination=f'{result}/organization.ttl', format='turtle', encoding='utf-8')
             print(f'organization graph has been serialized, successfully!')
 

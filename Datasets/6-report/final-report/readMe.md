@@ -6,8 +6,6 @@ These files consist of four reports files:
 
 Results of conversion RDF/XML to triples. Indeed, it reports on the number of untouched triples after conversion.
 
-#### entity,count
-
 catharijneconvent-records,148630
 
 mauritshuis-records,1712
@@ -26,7 +24,6 @@ moderne-kunst-museum-deventer-records,2776
 
 ### 2- creators with painting work
 
-#### entity,count
 
 catharijneconvent-records,968
 
@@ -46,9 +43,8 @@ van-abbe-museum-records,3832
 
 ### 3- enrich-data-for-datamodel
 
-After enrichment of dataset
+After enrichment of dataset:
 
-#### entity,count
 
 catharijneconvent-records,222953
 
@@ -70,9 +66,7 @@ moderne-kunst-museum-deventer-records,4164
 
 after adding data model and executing cardinalities
 
-5 datasets fullfilled cardinalities
-
-#### entity,count
+5 datasets fullfilled cardinalities:
 
 mauritshuis-records,252
 

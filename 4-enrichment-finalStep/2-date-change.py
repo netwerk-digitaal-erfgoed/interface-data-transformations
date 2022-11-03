@@ -1,4 +1,3 @@
-from rdflib import Graph, URIRef
 import os
 import shutil
 from timeit import default_timer as timer
@@ -45,7 +44,7 @@ def startEnrichment(_entities, _pathdate="./date-change-enrichment/", _finalPath
                 query_txt = file.read()
                 res = g_data.query(query_txt)
 
-            res.serialize(f'{result}/{filename}.n3', format='ntriples') #N3 fine
+            res.serialize(f'{result}/{filename}.n3', format='ntriples')
             g = Graph()
             g.parse(f'{result}/{filename}.n3', format='ntriples')
             g.namespace_manager.bind('dcterms', URIRef('http://purl.org/dc/terms/'), replace=True)

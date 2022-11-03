@@ -1,6 +1,6 @@
 PREFIX ore: <http://www.openarchives.org/ore/terms/>
 PREFIX edm: <http://www.europeana.eu/schemas/edm/>
-PREFIX schema: <http://schema.org/>
+PREFIX schema: <https://schema.org/>
 PREFIX cd: <http://citydata.wu.ac.at/ns#>
 PREFIX dc: <http://purl.org/dc/elements/1.1/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -57,7 +57,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 
 
-## 4 museumdefundatie
+# 4 museumdefundatie
 #CONSTRUCT {
 #
 #<https://www.museumdefundatie.nl/>

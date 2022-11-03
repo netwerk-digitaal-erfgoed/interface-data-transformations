@@ -5,7 +5,7 @@ import traceback
 from rdflib import Graph
 import os.path
 
-result_enrichment = './report-enrichment/'
+result_enrichment = './report-final/'
 
 shutil.rmtree(result_enrichment, ignore_errors=True)
 os.makedirs(result_enrichment, exist_ok=True)
@@ -48,22 +48,15 @@ def startEnrichment(_entities, _dirName, _result_enrichment):
                 ?s ?p ?o .
 
             }"""
-            # count = 0
-            # finalList = []
 
             qres = g.query(getByIdentifiers)
-            # print(qres)
             for index, row in enumerate(qres):
                 print(row.scount)
-                # if row.s not in finalList:
-                #     finalList.append(row.s)
-                #     count += 1
 
             with open(resultFilePath, 'a', encoding='utf-8', newline='') as csvResultValue:
                 resultWriter = csv.writer(csvResultValue)
                 resultWriter.writerow([f'{url}-records', row.scount])
 
-            # print(qres)
     except Exception as e:
         print(str(e), traceback.format_exc())
 

@@ -1,0 +1,155 @@
+@prefix schema: <https://schema.org/> .
+
+<https://data.rkd.nl/artists/16695> a schema:Person ;
+    schema:name "Giorgio de Chirico"@nl .
+
+<https://data.rkd.nl/artists/16920> a schema:Person ;
+    schema:name "Paul Citroen"@nl .
+
+<https://data.rkd.nl/artists/17076> a schema:Person ;
+    schema:name "R. Clarke"@nl,
+        "Richard Clarke"@nl .
+
+<https://data.rkd.nl/artists/19654> a schema:Person ;
+    schema:name "Hippolyte Daeye"@nl .
+
+<https://data.rkd.nl/artists/24420> a schema:Person ;
+    schema:name "Emanuel de Witte"@nl,
+        "Hendrick Jacobsz. Dubbels"@nl .
+
+<https://data.rkd.nl/artists/2458> a schema:Person ;
+    schema:name "Armando"@nl .
+
+<https://data.rkd.nl/artists/27138> a schema:Person ;
+    schema:name "Carel Fabritius"@nl,
+        "onbekend"@nl .
+
+<https://data.rkd.nl/artists/33103> a schema:Person ;
+    schema:name "Abraham van Beijeren"@nl,
+        "Aert van der Neer"@nl,
+        "Jan Josephsz. van Goyen"@nl .
+
+<https://data.rkd.nl/artists/39049> a schema:Person ;
+    schema:name "William Hogarth"@nl .
+
+<https://data.rkd.nl/artists/39452> a schema:Person ;
+    schema:name "Anthonie Waterloo"@nl,
+        "Emanuel de Witte"@nl,
+        "Gottfried Libalt"@nl,
+        "Johannes Vermeer"@nl,
+        "Pieter de Hooch"@nl,
+        "onbekend"@nl .
+
+<https://data.rkd.nl/artists/4345> a schema:Person ;
+    schema:name "Carlo Magini"@nl,
+        "Paolo Antonio Barbieri"@nl .
+
+<https://data.rkd.nl/artists/45163> a schema:Person ;
+    schema:name "Nicolaes Knüpfer"@nl .
+
+<https://data.rkd.nl/artists/46668> a schema:Person ;
+    schema:name "Jan Adam Kruseman"@nl .
+
+<https://data.rkd.nl/artists/49212> a schema:Person ;
+    schema:name "Adriaan de Lelie"@nl .
+
+<https://data.rkd.nl/artists/49886> a schema:Person ;
+    schema:name "Anthonie Waterloo"@nl,
+        "Emanuel de Witte"@nl,
+        "Gottfried Libalt"@nl,
+        "Johannes Vermeer"@nl,
+        "Pieter de Hooch"@nl,
+        "onbekend"@nl .
+
+<https://data.rkd.nl/artists/51956> a schema:Person ;
+    schema:name "Carlo Magini"@nl,
+        "Paolo Antonio Barbieri"@nl .
+
+<https://data.rkd.nl/artists/56665> a schema:Person ;
+    schema:name "Nicolaes Molenaer"@nl .
+
+<https://data.rkd.nl/artists/59047> a schema:Person ;
+    schema:name "Abraham van Beijeren"@nl,
+        "Aert van der Neer"@nl,
+        "Jan Josephsz. van Goyen"@nl .
+
+<https://data.rkd.nl/artists/59115> a schema:Person ;
+    schema:name "Martinus Nellius"@nl .
+
+<https://data.rkd.nl/artists/65295> a schema:Person ;
+    schema:name "Hendrik Raab"@nl .
+
+<https://data.rkd.nl/artists/66553> a schema:Person ;
+    schema:name "Jusepe Ribera"@nl,
+        "onbekend"@nl .
+
+<https://data.rkd.nl/artists/66719> a schema:Person ;
+    schema:name "Marius Richters"@nl .
+
+<https://data.rkd.nl/artists/67915> a schema:Person ;
+    schema:name "Cornelis Troost"@nl,
+        "George Romney"@nl .
+
+<https://data.rkd.nl/artists/7578> a schema:Person ;
+    schema:name "Herman Berserik"@nl .
+
+<https://data.rkd.nl/artists/76786> a schema:Person ;
+    schema:name "David (II) Teniers"@nl .
+
+<https://data.rkd.nl/artists/77150> a schema:Person ;
+    schema:name "Willem Bastiaan Tholen"@nl .
+
+<https://data.rkd.nl/artists/78260> a schema:Person ;
+    schema:name "Cornelis Troost"@nl,
+        "George Romney"@nl .
+
+<https://data.rkd.nl/artists/78930> a schema:Person ;
+    schema:name "Walter Vaes"@nl .
+
+<https://data.rkd.nl/artists/79592> a schema:Person ;
+    schema:name "Balthasar van der Veen"@nl,
+        "Johannes Vermeer"@nl .
+
+<https://data.rkd.nl/artists/7990> a schema:Person ;
+    schema:name "Abraham van Beijeren"@nl,
+        "Aert van der Neer"@nl,
+        "Jan Josephsz. van Goyen"@nl .
+
+<https://data.rkd.nl/artists/80476> a schema:Person ;
+    schema:name "Anthonie Waterloo"@nl,
+        "Balthasar van der Veen"@nl,
+        "Emanuel de Witte"@nl,
+        "Gottfried Libalt"@nl,
+        "Johannes Vermeer"@nl,
+        "Pieter de Hooch"@nl,
+        "onbekend"@nl .
+
+<https://data.rkd.nl/artists/81475> a schema:Person ;
+    schema:name "Hendrik Cornelisz. van der Vliet"@nl .
+
+<https://data.rkd.nl/artists/83001> a schema:Person ;
+    schema:name "Anthonie Waterloo"@nl,
+        "Emanuel de Witte"@nl,
+        "Gottfried Libalt"@nl,
+        "Johannes Vermeer"@nl,
+        "Pieter de Hooch"@nl,
+        "onbekend"@nl .
+
+<https://data.rkd.nl/artists/84167> a schema:Person ;
+    schema:name "Jan Wiegers"@nl .
+
+<https://data.rkd.nl/artists/84577> a schema:Person ;
+    schema:name "Adam Willaerts"@nl .
+
+<https://data.rkd.nl/artists/85180> a schema:Person ;
+    schema:name "Anthonie Waterloo"@nl,
+        "Emanuel de Witte"@nl,
+        "Gottfried Libalt"@nl,
+        "Hendrick Jacobsz. Dubbels"@nl,
+        "Johannes Vermeer"@nl,
+        "Pieter de Hooch"@nl,
+        "onbekend"@nl .
+
+<https://data.rkd.nl/artists/86112> a schema:Person ;
+    schema:name "Jan Adam Zandleven"@nl .
+
