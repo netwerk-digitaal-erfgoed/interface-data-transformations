@@ -1,6 +1,0 @@
-@prefix schema: <http://schema.org/> .
-
-<https://www.museumdefundatie.nl/> a schema:Organization ;
-    schema:mainEntityOfPage <https://www.museumdefundatie.nl/> ;
-    schema:name "museumdefundatie"@nl .
-

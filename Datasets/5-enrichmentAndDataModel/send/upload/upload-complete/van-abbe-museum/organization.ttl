@@ -1,6 +1,0 @@
-@prefix schema: <http://schema.org/> .
-
-<https://vanabbemuseum.nl/> a schema:Organization ;
-    schema:mainEntityOfPage <https://www.vanabbemuseum.nl/> ;
-    schema:name "vanabbemuseum"@nl .
-
