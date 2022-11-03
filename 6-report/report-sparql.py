@@ -50,20 +50,14 @@ def startEnrichment(_entities, _dirName, _result_enrichment):
             }"""
             # count = 0
             # finalList = []
-
             qres = g.query(getByIdentifiers)
-            # print(qres)
             for index, row in enumerate(qres):
                 print(row.scount)
-                # if row.s not in finalList:
-                #     finalList.append(row.s)
-                #     count += 1
-
             with open(resultFilePath, 'a', encoding='utf-8', newline='') as csvResultValue:
                 resultWriter = csv.writer(csvResultValue)
                 resultWriter.writerow([f'{url}-records', row.scount])
 
-            # print(qres)
+
     except Exception as e:
         print(str(e), traceback.format_exc())
 
