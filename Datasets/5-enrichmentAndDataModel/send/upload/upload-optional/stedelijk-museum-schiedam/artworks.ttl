@@ -1,0 +1,2875 @@
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00000205> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/77873> ;
+    schema:dateCreated "1914" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=G-00000205.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00000205> ;
+    schema:name "Storm over water"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1914 / 1914" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00000429> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/18369> ;
+    schema:dateCreated "1938" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00000429> ;
+    schema:name "Tekenoefening van roze rozen"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1938 / 1938" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00001423> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/18369> ;
+    schema:dateCreated "1938" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00001423> ;
+    schema:name "Tekenoefening van een gele iris"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1938 / 1938" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00001424> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/18369> ;
+    schema:dateCreated "1938" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00001424> ;
+    schema:name "Tekenoefening van een blauwe iris"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1938 / 1938" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00001426> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/18369> ;
+    schema:dateCreated "1938" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00001426> ;
+    schema:name "Tekenoefening van een rode lelie"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1938 / 1938" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00001428> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/18369> ;
+    schema:dateCreated "1938" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00001428> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1938 / 1938" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00001431> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/18369> ;
+    schema:dateCreated "1938" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00001431> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1938 / 1938" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00001432> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/18369> ;
+    schema:dateCreated "1938" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00001432> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1938 / 1938" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00001718> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/70999> ;
+    schema:dateCreated "1952" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00001718> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1952 / 1952" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00001719> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/70999> ;
+    schema:dateCreated "1955" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00001719> ;
+    schema:name "Het paleis van de aartsbisschop"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1955 / 1955" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00002416> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/25640> ;
+    schema:dateCreated "1987" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=G-00002416.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00002416> ;
+    schema:name "Transport van het toeval"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1987-02-06 / 1987-02-06" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00002579> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/25640> ;
+    schema:dateCreated "1988" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=G-00002579.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/G-00002579> ;
+    schema:name "Vruchten der wijsheid"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1988 / 1989" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0000.1-2> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/16943> ;
+    schema:dateCreated "1990" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0000.1-2> ;
+    schema:name "Onrust door wind/ gehoornde"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1990 / 1990" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0017> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/2427> ;
+    schema:dateCreated "1994" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0017.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0017> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1994 / 1994" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0019> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/2427> ;
+    schema:dateCreated "1996" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0019.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0019> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1996 / 1996" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0020> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/2427> ;
+    schema:dateCreated "2004" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0020.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0020> ;
+    schema:name "Treurwilg"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2004 / 2006" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0021> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/2427> ;
+    schema:dateCreated "2006" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0021.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0021> ;
+    schema:name "Hoornaar VIII"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2006 / 2006" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0022.1-3> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/2427> ;
+    schema:dateCreated "2000" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0022.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0022.1-3> ;
+    schema:name "Lange Akkers 2"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2000 / 2000" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0023> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/2427> ;
+    schema:dateCreated "1999" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0023.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0023> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1999 / 1999" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0024> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/2427> ;
+    schema:dateCreated "1991" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0024.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0024> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1991 / 1991" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0025.1-3> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/2427> ;
+    schema:dateCreated "1993" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0025.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0025.1-3> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1993 / 1993" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0027.1-8> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/203371> ;
+    schema:dateCreated "1995" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0027.1-8> ;
+    schema:name "Mars Suite A"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1995 / 1995" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0028.1-8> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/203371> ;
+    schema:dateCreated "1995" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0028.1-8> ;
+    schema:name "Mars Suite B"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1995 / 1995" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0040> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/90677> ;
+    schema:dateCreated "2002" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0040.1-2.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0040> ;
+    schema:name "Gezelligheid kent geen tijd"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2002 / 2002" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0046> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/90677> ;
+    schema:dateCreated "1997" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0046.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0046> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1997 / 1997" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0048> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/335883> ;
+    schema:dateCreated "2005" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0048> ;
+    schema:name "Fresh Fruit For Rotting Vegetables"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2005 / 2005" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0054> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/5727> ;
+    schema:dateCreated "2004" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0054> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2004 / 2005" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0067> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/11461> ;
+    schema:dateCreated "2002" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0067.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0067> ;
+    schema:name "I can't see"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2002 / 2003" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0068> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/11461> ;
+    schema:dateCreated "2002" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0068.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0068> ;
+    schema:name "Hurt Head I"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2002 / 2002" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0069> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/11461> ;
+    schema:dateCreated "2002" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0069.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0069> ;
+    schema:name "Hurt Head II"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2002 / 2002" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0074> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/13600> ;
+    schema:dateCreated "1991" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0074> ;
+    schema:name "Mountain Spirit I"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1991 / 1991" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0075> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/13600> ;
+    schema:dateCreated "1991" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0075> ;
+    schema:name "Mountain Spirit II"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1991 / 1991" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0076> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/13600> ;
+    schema:dateCreated "1991" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0076> ;
+    schema:name "Mountain Spirit III"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1991 / 1991" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0077> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/13600> ;
+    schema:dateCreated "1991" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0077> ;
+    schema:name "Mountain Spirit IV"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1991 / 1991" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0078> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/13600> ;
+    schema:dateCreated "1991" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0078> ;
+    schema:name "Mountain Spirit V"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1991 / 1991" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0079> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/13600> ;
+    schema:dateCreated "1991" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0079> ;
+    schema:name "Mountain Spirit VI"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1991 / 1991" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0080> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/13600> ;
+    schema:dateCreated "2004" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0080> ;
+    schema:name "El Enamorado"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2004 / 2004" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0086> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/12272> ;
+    schema:dateCreated "2004" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0086> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2004 / 2004" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0087> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/12272> ;
+    schema:dateCreated "2000" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0087> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2000 / 2000" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0088> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/12795> ;
+    schema:dateCreated "2001" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0088> ;
+    schema:name "Desert landscape"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2001 / 2001" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0090> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/16943> ;
+    schema:dateCreated "2006" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0090> ;
+    schema:name "Vaderschap en jongen die een hondje aait"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2006 / 2006" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0092> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/16943> ;
+    schema:dateCreated "2004" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0092> ;
+    schema:name "Droom met witte vogel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2004 / 2005" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0094.1-2> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/16943> ;
+    schema:dateCreated "1990" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0094.1-2> ;
+    schema:name "Overwegingen voor nieuwe sculpturen"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1990 / 1990" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0106> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/94405> ;
+    schema:dateCreated "2001" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0106.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0106> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2001 / 2001" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0107> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/94405> ;
+    schema:dateCreated "2001" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0107.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0107> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2001 / 2001" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0108> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/94405> ;
+    schema:dateCreated "2001" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0108.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0108> ;
+    schema:name "Dank je wel Piet, Gerrit, El.L."@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2001 / 2001" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0109> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/94405> ;
+    schema:dateCreated "2009" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0109.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0109> ;
+    schema:name "Schöner Malen"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2009 / 2009" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0110> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/94405> ;
+    schema:dateCreated "2009" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0110.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0110> ;
+    schema:name "Schöner Malen"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2009 / 2009" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0123> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/29535> ;
+    schema:dateCreated "2006" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0123> ;
+    schema:name "Forgetfull"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2006 / 2006" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0125> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/29535> ;
+    schema:dateCreated "2004" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0125> ;
+    schema:name "Boredom well to-do"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2004 / 2005" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0128> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/29535> ;
+    schema:dateCreated "1993" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0128> ;
+    schema:name "Family tree"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1993 / 1993" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0129> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/29535> ;
+    schema:dateCreated "1993" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0129> ;
+    schema:name "Go on, do it"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1993 / 1993" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0137> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/32294> ;
+    schema:dateCreated "1997" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0137> ;
+    schema:name "Pulse"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1997 / 1998" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0173> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/34668> ;
+    schema:dateCreated "2005" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0173> ;
+    schema:name "In-Out"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2005 / 2005" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0174> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/34668> ;
+    schema:dateCreated "2009" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0174> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2009 / 2009" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0175> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/320013> ;
+    schema:dateCreated "2011" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0175.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0175> ;
+    schema:name "Marc"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2011 / 2011" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0176.1-4.1> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300181918> ;
+    schema:creator <https://data.rkd.nl/artists/320013> ;
+    schema:dateCreated "2007" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0176.1-4.1.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0176.1-4.1> ;
+    schema:name "Easily Removable People /1"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2007 / 2007" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0176.1-4.2> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300181918> ;
+    schema:creator <https://data.rkd.nl/artists/320013> ;
+    schema:dateCreated "2007" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0176.1-4.2.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0176.1-4.2> ;
+    schema:name "Easily Removable People/ 2"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2007 / 2007" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0176.1-4.3> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300181918> ;
+    schema:creator <https://data.rkd.nl/artists/320013> ;
+    schema:dateCreated "2007" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0176.1-4.3.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0176.1-4.3> ;
+    schema:name "Easily Removable People/ 3"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2007 / 2007" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0176.1-4.4> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300181918> ;
+    schema:creator <https://data.rkd.nl/artists/320013> ;
+    schema:dateCreated "2007" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0176.1-4.4.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0176.1-4.4> ;
+    schema:name "Easily Removable People/ 4"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2007 / 2007" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0177> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/37801> ;
+    schema:dateCreated "1995" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0177> ;
+    schema:name "Het voor en op zichzelf zijnde"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1995 / 1995" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0178> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/37801> ;
+    schema:dateCreated "2004" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0178> ;
+    schema:name "Der Erfinder der Pop-Art"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2004 / 2004" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0182.1-15> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/37335> ;
+    schema:dateCreated "1995" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0182.1-15.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0182.1-15> ;
+    schema:name "Secret survivors"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1995 / 1995" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0183> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/37335> ;
+    schema:dateCreated "1995" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0183.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0183> ;
+    schema:name "Initiatie"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1995 / 1995" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0185> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/37335> ;
+    schema:dateCreated "1998" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0185.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0185> ;
+    schema:name "You Me"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1998 / 1999" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0186> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/37335> ;
+    schema:dateCreated "1997" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0186.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0186> ;
+    schema:name "YOU/ME"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1997 / 1997" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0187.1-2> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/37335> ;
+    schema:dateCreated "2007" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0187.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0187.1-2> ;
+    schema:name "La petite Mort"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2007 / 2007" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0190> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/37985> ;
+    schema:dateCreated "2008" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0190.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0190> ;
+    schema:name "Van onderaf"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2008 / 2008" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0194> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/37985> ;
+    schema:dateCreated "2011" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0194.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0194> ;
+    schema:name "Zesde dag"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2011 / 2011" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0205> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/38778> ;
+    schema:dateCreated "2003" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0205> ;
+    schema:name "Portret"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2003 / 2003" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0206> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/38778> ;
+    schema:dateCreated "2003" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0206> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2003 / 2003" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0207> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/38778> ;
+    schema:dateCreated "2003" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0207> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2003 / 2003" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0208> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/38778> ;
+    schema:dateCreated "1988" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0208> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1988 / 1988" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0220> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/39562> ;
+    schema:dateCreated "1995" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0220.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0220> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1995 / 1995" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0221> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/39562> ;
+    schema:dateCreated "1995" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0221.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0221> ;
+    schema:name "Flowers from Tory"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1995 / 1995" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0222> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/39562> ;
+    schema:dateCreated "1995" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0222.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0222> ;
+    schema:name "Flowers from T."@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1995 / 1995" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0227> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/40013> ;
+    schema:dateCreated "2006" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0227> ;
+    schema:name "Blumenzucht"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2006 / 2006" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0240> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/46244> ;
+    schema:dateCreated "1995" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0240.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0240> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1995 / 1995" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0241> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/46244> ;
+    schema:dateCreated "1996" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0241.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0241> ;
+    schema:name "Bewijsplaatsen"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1996 / 1996" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0251> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/46244> ;
+    schema:dateCreated "2005" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0251.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0251> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2005 / 2005" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0252> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/46244> ;
+    schema:dateCreated "2006" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0252.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0252> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2006 / 2006" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0253> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/46244> ;
+    schema:dateCreated "1995" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0253.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0253> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1995 / 1995" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0254> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/46244> ;
+    schema:dateCreated "1995" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0254.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0254> ;
+    schema:name "Ballinskellig"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1995 / 1995" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0255> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/46244> ;
+    schema:dateCreated "1996" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0255.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0255> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1996 / 1996" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0256> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/46244> ;
+    schema:dateCreated "1996" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0256.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0256> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1996 / 1996" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0265> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/482292> ;
+    schema:dateCreated "1996" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0265.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0265> ;
+    schema:name "De natuur zelf"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1996 / 1996" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0272> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/46969> ;
+    schema:dateCreated "1999" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0272.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0272> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1999 / 1999" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0273> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/46969> ;
+    schema:dateCreated "1996" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0273.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0273> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1996 / 1996" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0274> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/46969> ;
+    schema:dateCreated "2001" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0274.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0274> ;
+    schema:name "Gezakt zelfportret"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2001 / 2001" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0275.1-2> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/46969> ;
+    schema:dateCreated "2005" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0275.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0275.1-2> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2005 / 2005" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0276> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/46969> ;
+    schema:dateCreated "1998" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0276.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0276> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1998 / 1998" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0280> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/50164> ;
+    schema:dateCreated "1995" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0280.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0280> ;
+    schema:name "Drie"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1995 / 1995" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0281> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/50164> ;
+    schema:dateCreated "1995" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0281.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0281> ;
+    schema:name "Wooman"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1995 / 1995" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0294> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/466167> ;
+    schema:dateCreated "2008" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0294> ;
+    schema:name "The Denkökonom (perspective)"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2008 / 2008" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0295> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/51278> ;
+    schema:dateCreated "2002" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0295> ;
+    schema:name "Verstuiver"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2002 / 2002" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0308> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/123546> ;
+    schema:dateCreated "2007" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0308.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0308> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2007 / 2007" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0309> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/123546> ;
+    schema:dateCreated "2007" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0309.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0309> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2007 / 2007" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0310> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/123546> ;
+    schema:dateCreated "2007" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0310.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0310> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2007 / 2008" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0311> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/123546> ;
+    schema:dateCreated "1997" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0311.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0311> ;
+    schema:name "Le mémorial des enfants"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1997 / 1997" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0312> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/123546> ;
+    schema:dateCreated "1998" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0312.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0312> ;
+    schema:name "Le mémorial des enfants"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1998 / 1998" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0313> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/123546> ;
+    schema:dateCreated "1999" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0313.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0313> ;
+    schema:name "Le mémorial des enfants"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1999 / 1999" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0314> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/123546> ;
+    schema:dateCreated "1998" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0314.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0314> ;
+    schema:name "Le mémorial des enfants"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1998 / 1998" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0315> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/123546> ;
+    schema:dateCreated "1997" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0315.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0315> ;
+    schema:name "Le mémorial des enfants"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1997 / 1997" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0316> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/123546> ;
+    schema:dateCreated "1996" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0316.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0316> ;
+    schema:name "Le mémorial des enfants"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1996 / 1996" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0330> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/245328> ;
+    schema:dateCreated "2005" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0330> ;
+    schema:name "Black Ghost Dog"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2005 / 2005" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0331> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/245328> ;
+    schema:dateCreated "2000" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0331> ;
+    schema:name "Standing Rubber Angel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2000 / 2000" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0334> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/61075> ;
+    schema:dateCreated "1996" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0334.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0334> ;
+    schema:name "Landschap"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1996 / 1996" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0335> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/61075> ;
+    schema:dateCreated "1992" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0335.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0335> ;
+    schema:name "Lieg (Variant B)"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1992 / 1992" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0338> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/61075> ;
+    schema:dateCreated "1992" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0338.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0338> ;
+    schema:name "Stof (Variant B )"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1992 / 1992" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0341> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/61167> ;
+    schema:dateCreated "2005" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0341> ;
+    schema:name "Reverse II"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2005 / 2005" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0342> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/61167> ;
+    schema:dateCreated "2005" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0342> ;
+    schema:name "Bare"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2005 / 2005" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0343> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/61167> ;
+    schema:dateCreated "2005" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0343> ;
+    schema:name "K"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2005 / 2005" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0344> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/61167> ;
+    schema:dateCreated "2005" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0344> ;
+    schema:name "Verkeerde hand"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2005 / 2005" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0347> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/61167> ;
+    schema:dateCreated "2000" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0347> ;
+    schema:name "Zeg me"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2000 / 2000" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0353> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/287881> ;
+    schema:dateCreated "1998" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0353> ;
+    schema:name "kammende vrouw"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1998 / 1998" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0356> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/62369> ;
+    schema:dateCreated "1994" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0356.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0356> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1994 / 1994" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0359> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/62369> ;
+    schema:dateCreated "1992" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0359.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0359> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1992 / 1992" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0360> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/62369> ;
+    schema:dateCreated "1994" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0360.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0360> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1994 / 1994" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0362> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/62369> ;
+    schema:dateCreated "1994" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0362.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0362> ;
+    schema:name "Douche-afvoerputjes"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1994 / 1994" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0363> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/62369> ;
+    schema:dateCreated "1994" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0363.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0363> ;
+    schema:name "Putdeksels"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1994 / 1994" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0367> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/210776> ;
+    schema:dateCreated "2007" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0367> ;
+    schema:name "De Schuilplaats van de Architectuur nr 7"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2007 / 2007" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0382> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/218137> ;
+    schema:dateCreated "2010" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0382.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0382> ;
+    schema:name "Escape"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2010 / 2010" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0386> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/71424> ;
+    schema:dateCreated "1994" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0386> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1994 / 1994" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0387> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/71424> ;
+    schema:dateCreated "1995" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0387> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1995 / 1995" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0389> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/71918> ;
+    schema:dateCreated "1984" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0389.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0389> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1984 / 1984" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0390> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/71918> ;
+    schema:dateCreated "1980" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0390.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0390> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1980 / 1980" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0398> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/73091> ;
+    schema:dateCreated "1998" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0398.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0398> ;
+    schema:name "aarde"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1998 / 1998" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0414> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/75756> ;
+    schema:dateCreated "2000" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0414.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0414> ;
+    schema:name "Le Bonnet de Monet"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2000-06 / 2000-06" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0420> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/117046> ;
+    schema:dateCreated "2010" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0420> ;
+    schema:name "Speechless 30"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2010 / 2010" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0421> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/117046> ;
+    schema:dateCreated "2009" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0421> ;
+    schema:name "BOXED"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2009 / 2009" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0422.1-13> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/117046> ;
+    schema:dateCreated "1998" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0422.1-13> ;
+    schema:name "Amok"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1998 / 2003" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0423> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/77213> ;
+    schema:dateCreated "2004" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0423.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0423> ;
+    schema:name "Ik reis in jouw hoofd"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2004-10-04 / 2004-10-04" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0424> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/77213> ;
+    schema:dateCreated "2004" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0424.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0424> ;
+    schema:name "Ik reis in jouw hoofd"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2004-11-18 / 2004-11-18" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0425> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/77213> ;
+    schema:dateCreated "2004" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0425.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0425> ;
+    schema:name "Ik reis in jouw hoofd"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2004-10-12 / 2004-10-12" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0426> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/77213> ;
+    schema:dateCreated "2004" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0426.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0426> ;
+    schema:name "Ik reis in jouw hoofd"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2004-12-15 / 2004-12-15" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0427> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/77213> ;
+    schema:dateCreated "2004" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0427.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0427> ;
+    schema:name "Ik reis in jouw hoofd"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2004-10-05 / 2004-10-05" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0428> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/77213> ;
+    schema:dateCreated "2004" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0428.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0428> ;
+    schema:name "Ik reis in jouw hoofd"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2004-11-16 / 2004-11-16" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0429> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/77213> ;
+    schema:dateCreated "2004" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0429.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0429> ;
+    schema:name "Ik reis in jouw hoofd"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2004-11-05 / 2004-11-05" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0430> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/77213> ;
+    schema:dateCreated "2003" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0430.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0430> ;
+    schema:name "Dood van Tarek"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2003 / 2003" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0431> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/77213> ;
+    schema:dateCreated "2002" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0431.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0431> ;
+    schema:name "Dood van Tarek"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2002 / 2002" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0432> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/77213> ;
+    schema:dateCreated "2005" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0432.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0432> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2005 / 2005" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0433> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/77213> ;
+    schema:dateCreated "2008" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0433.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0433> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2008 / 2008" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0434> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/77213> ;
+    schema:dateCreated "2008" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0434.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0434> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2008 / 2008" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0441> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/90294> ;
+    schema:dateCreated "1997" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0441.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0441> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1997 / 1997" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0466> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/78811> ;
+    schema:dateCreated "2008" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0466> ;
+    schema:name "Break Out I"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2008 / 2009" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0467> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/78811> ;
+    schema:dateCreated "2008" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0467> ;
+    schema:name "Break Out II"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2008 / 2009" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0468> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/78811> ;
+    schema:dateCreated "2008" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0468> ;
+    schema:name "Break Out III"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2008 / 2009" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0469.1-2.1> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/78811> ;
+    schema:dateCreated "2008" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0469.1-2.1> ;
+    schema:name "Break Out (study)"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2008 / 2009" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0469.1-2.2> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/78811> ;
+    schema:dateCreated "2008" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0469.1-2.2> ;
+    schema:name "Break Out (study)"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2008 / 2009" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0470> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/80417> ;
+    schema:dateCreated "1997" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0470.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0470> ;
+    schema:name "Amadeaus Quartet"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1997 / 1997" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0474> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/80417> ;
+    schema:dateCreated "1996" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0474.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0474> ;
+    schema:name "Stroomnaad I"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1996 / 1996" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0475> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/80417> ;
+    schema:dateCreated "1996" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0475.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0475> ;
+    schema:name "Stroomnaad 3 of 4"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1996 / 1996" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0476> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/80341> ;
+    schema:dateCreated "2005" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0476.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0476> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2005 / 2005" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0480> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/88378> ;
+    schema:dateCreated "2002" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0480.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0480> ;
+    schema:name "Cetabever Boy"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2002 / 2002" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0481> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/88378> ;
+    schema:dateCreated "2001" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0481.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0481> ;
+    schema:name "Koblenz/ Lobith (I)"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2001 / 2001" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0482> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/88378> ;
+    schema:dateCreated "2001" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0482.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0482> ;
+    schema:name "Koblenz/ Lobith (II)"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2001 / 2001" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0485> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/481418> ;
+    schema:dateCreated "2001" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0485> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2001 / 2001" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0487> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/481418> ;
+    schema:dateCreated "2001" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0487> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2001 / 2001" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0490> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/386532> ;
+    schema:dateCreated "1997" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0490.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0490> ;
+    schema:name "Rebis serie"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1997 / 1998" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0491> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/386532> ;
+    schema:dateCreated "1998" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0491.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0491> ;
+    schema:name "Rebis serie"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1998 / 1998" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0492> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/386532> ;
+    schema:dateCreated "2002" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0492.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0492> ;
+    schema:name "Rebis serie"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2002 / 2002" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0493> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/386532> ;
+    schema:dateCreated "1998" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0493.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0493> ;
+    schema:name "Rebis serie"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1998 / 1999" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0495> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/386532> ;
+    schema:dateCreated "1998" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0495.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0495> ;
+    schema:name "Rebis serie"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1998 / 1999" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0496> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/386532> ;
+    schema:dateCreated "1998" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0496.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0496> ;
+    schema:name "Rebis serie"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1998 / 1999" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0497> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/386532> ;
+    schema:dateCreated "1998" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0497.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0497> ;
+    schema:name "Rebis serie"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1998 / 1999" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0498> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/386532> ;
+    schema:dateCreated "1998" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0498.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0498> ;
+    schema:name "Rebis serie"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1998 / 1998" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0499> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/386532> ;
+    schema:dateCreated "1998" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0499.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0499> ;
+    schema:name "Rebis serie"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1998 / 1998" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0501> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/386532> ;
+    schema:dateCreated "1998" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0501.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0501> ;
+    schema:name "Rebis serie"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1998 / 1998" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0502> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/386532> ;
+    schema:dateCreated "1998" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0502.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0502> ;
+    schema:name "Rebis serie"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1998 / 1998" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0503> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/386532> ;
+    schema:dateCreated "1998" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0503.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0503> ;
+    schema:name "Rebis serie"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1998 / 1998" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0540.1-2> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/472126> ;
+    schema:dateCreated "2015" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=nog-0540.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0540.1-2> ;
+    schema:name "A Massage Salon - Excuse me! You are not a real lady!"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2015 / 2015" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0556> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/218137> ;
+    schema:dateCreated "2016" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=NOG-0556.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0556> ;
+    schema:name "Climate report"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2016 / 2016" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0567> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/42009> ;
+    schema:dateCreated "2018" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0567> ;
+    schema:name "Exodus"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2018 / 2018" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0568> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/42009> ;
+    schema:dateCreated "2016" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/NOG-0568> ;
+    schema:name "Danse Macabre"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2016 / 2016" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/O-00000106> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/2458> ;
+    schema:dateCreated "1971" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/O-00000106> ;
+    schema:name "6 x rood"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1971 / 1971" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000012> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/2208> ;
+    schema:dateCreated "1947" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000012> ;
+    schema:name "Mannetje met de zon"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1947 / 1947" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000016> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/2208> ;
+    schema:dateCreated "1948" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000016> ;
+    schema:name "Steigerend beest"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1948 / 1948" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000028.1-2> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/2208> ;
+    schema:dateCreated "1947" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000028.1-2> ;
+    schema:name "Orgeldraaier"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1947 / 1947" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000035> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/2208> ;
+    schema:dateCreated "1945" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000035> ;
+    schema:name "Kop"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1945 / 1945" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000094> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/32469> ;
+    schema:dateCreated "1984" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000094> ;
+    schema:name "Compositie"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1984 / 1984" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000108> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/18369> ;
+    schema:dateCreated "1953" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000108> ;
+    schema:name "Zon"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1953 / 1953" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000110> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/18369> ;
+    schema:dateCreated "1950" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000110> ;
+    schema:name "Vis"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1950 / 1950" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000145> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/73135> ;
+    schema:dateCreated "1930" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000145> ;
+    schema:name "Portret van jonge vrouw"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1930 / 1940" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000206> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/83844> ;
+    schema:dateCreated "1915" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000206> ;
+    schema:name "Meisjesportret"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1915 / 1915" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000245.1-2.2> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/80155> ;
+    schema:dateCreated "1961" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=s-00000245.1-2.2.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000245.1-2.2> ;
+    schema:name "Gouache I - 61"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1961 / 1961" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000439> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/9932> ;
+    schema:dateCreated "1966" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000439> ;
+    schema:name "Roderuitblauwebal"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1966 / 1966" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000458> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/18831> ;
+    schema:dateCreated "1965" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000458> ;
+    schema:name "Boerenzakdoek Promised Land"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1965 / 1965" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000800.1-2.1> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/7205> ;
+    schema:dateCreated "1987" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000800.1-2.1> ;
+    schema:name "Parnassia no. 1"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1987 / 1987" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000800.1-2.2> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/7205> ;
+    schema:dateCreated "1987" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000800.1-2.2> ;
+    schema:name "Parnassia no. 1"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1987 / 1987" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000812> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/55350> ;
+    schema:dateCreated "1988" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000812> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1988 / 1988" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000833> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/29843> ;
+    schema:dateCreated "1966" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00000833> ;
+    schema:name "Bosgod"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1966 / 1966" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001276> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/29843> ;
+    schema:dateCreated "1970" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001276> ;
+    schema:name "Attente Supreme"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1970 / 1970" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001317> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/249368> ;
+    schema:dateCreated "2013" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=S-00001317.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001317> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2013 / 2013" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001382> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/25906> ;
+    schema:dateCreated "1961" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=S-00001382.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001382> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1961 / 1961" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001387> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/68092> ;
+    schema:dateCreated "1997" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001387> ;
+    schema:name "Krabben"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1997 / 1998" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001388> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/68092> ;
+    schema:dateCreated "2008" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001388> ;
+    schema:name "Mestkever"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2008 / 2008" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001389> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/68092> ;
+    schema:dateCreated "2007" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001389> ;
+    schema:name "Doornen"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2007 / 2007" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001390> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/68092> ;
+    schema:dateCreated "2010" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001390> ;
+    schema:name "Roos"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2010 / 2010" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001391> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/68092> ;
+    schema:dateCreated "2006" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001391> ;
+    schema:name "Overloop van liefde"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2006 / 2006" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001406> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/68092> ;
+    schema:dateCreated "2012" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001406> ;
+    schema:name "Voetzool"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2012 / 2012" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001453> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/51181> ;
+    schema:dateCreated "1989" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001453> ;
+    schema:name "Lieve juf"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1989-08-25 / 1989-08-25" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001455> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/51181> ;
+    schema:dateCreated "1993" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001455> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1993 / 1993" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001456> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/51181> ;
+    schema:dateCreated "1993" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001456> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1993 / 1993" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001462> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/51181> ;
+    schema:dateCreated "1993" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001462> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1993 / 1993" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001464> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/51181> ;
+    schema:dateCreated "1993" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001464> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1993 / 1993" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001480> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/51181> ;
+    schema:dateCreated "1994" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001480> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1994 / 1994" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001481> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/51181> ;
+    schema:dateCreated "1994" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001481> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1994 / 1994" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001527*> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/51181> ;
+    schema:dateCreated "1994" ;
+    schema:image [ a schema:ImageObject ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00001527*> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1994 / 1994" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002018> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/25640> ;
+    schema:dateCreated "1985" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=S-00002018.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002018> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1985 / 1985" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002022> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/25640> ;
+    schema:dateCreated "1983" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=S-00002022.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002022> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1983-03-01 / 1983-03-01" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002023> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/25640> ;
+    schema:dateCreated "1982" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=S-00002023.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002023> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1982-02-18 / 1982-02-18" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002028> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/25640> ;
+    schema:dateCreated "1993" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=S-00002028.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002028> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1993-08-31 / 1993-08-31" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002029> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/25640> ;
+    schema:dateCreated "1993" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=S-00002029.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002029> ;
+    schema:name "Kosmos op straat"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1993-09-02 / 1993-09-02" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002030> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/25640> ;
+    schema:dateCreated "1993" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=S-00002030.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002030> ;
+    schema:name "Klein museum bij de trekvaart"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1993-09-01 / 1993-09-01" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002031> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/25640> ;
+    schema:dateCreated "1993" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=S-00002031.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002031> ;
+    schema:name "Zonder titel"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1993-08-31 / 1993-08-31" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002183> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/25640> ;
+    schema:dateCreated "1986" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=S-00002183.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002183> ;
+    schema:name "Selection, arrangement and harmony"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "1986 / 1986" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002761> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/25640> ;
+    schema:dateCreated "2013" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=s-00002761.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002761> ;
+    schema:name "Wund VII"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2013 / 2013" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002762> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/25640> ;
+    schema:dateCreated "2013" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=s-00002762.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002762> ;
+    schema:name "Wund V"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2013 / 2013" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002763> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/25640> ;
+    schema:dateCreated "2013" ;
+    schema:image [ a schema:ImageObject ;
+            schema:encodingFormat "jpg"^^xsd:string ;
+            schema:isShownBy <https://api.stedelijkmuseumschiedam.nl/axiellweboai/wwwopac.ashx?command=getcontent&server=images&value=s-00002763.jpg> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/stedelijk-museum-schiedam/S-00002763> ;
+    schema:name "Wund VI"@nl ;
+    schema:publisher <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:temporal "2013 / 2013" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+

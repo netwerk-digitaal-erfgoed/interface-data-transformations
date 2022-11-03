@@ -1,0 +1,6 @@
+@prefix schema: <http://schema.org/> .
+
+<https://www.stedelijkmuseumschiedam.nl/> a schema:Organization ;
+    schema:mainEntityOfPage <https://www.stedelijkmuseumschiedam.nl/> ;
+    schema:name "stedelijkmuseumschiedam"@nl .
+

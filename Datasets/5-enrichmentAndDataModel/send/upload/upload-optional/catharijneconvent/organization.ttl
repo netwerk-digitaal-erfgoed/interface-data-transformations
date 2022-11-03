@@ -1,0 +1,6 @@
+@prefix schema: <http://schema.org/> .
+
+<https://www.catharijneconvent.nl/> a schema:Organization ;
+    schema:mainEntityOfPage <https://www.catharijneconvent.nl/> ;
+    schema:name "catharijneconvent"@nl .
+

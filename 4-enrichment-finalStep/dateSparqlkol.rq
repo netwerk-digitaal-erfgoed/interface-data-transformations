@@ -1,0 +1,52 @@
+PREFIX ore: <http://www.openarchives.org/ore/terms/>
+PREFIX edm: <http://www.europeana.eu/schemas/edm/>
+PREFIX schema: <http://schema.org/>
+PREFIX cd: <http://citydata.wu.ac.at/ns#>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+
+delete {
+ ?artwork dc:date ?year .
+ ?artwork dc:date ?another_year .
+}
+insert {
+  ?artwork dcterms:dateCreated ?final_year .
+}
+
+where {
+    ?artwork dc:date ?year .
+    optional {
+        ?artwork dc:date ?another_year .
+        Filter (?year != ?another_year)
+        BIND( if(?year < ?another_year, ?year, ?another_year) AS ?older_year)
+    }
+    BIND (IF (!BOUND(?another_year), ?year, ?older_year) AS ?final_year) ## to get prossible date without range
+     BIND(xsd:integer(?final_year) AS ?yearCreated)
+
+      ?heritageObject dc:type ?type .
+  VALUES ?type {
+    # We're only interested in paintings
+    # TODO: add all types of paintings: https://www.getty.edu/vow/AATHierarchy?find=&logic=AND&note=&subjectid=300033638
+    aat:300033618 # paintings (visual works)
+    aat:300177435 # easel paintings
+    aat:300033639 # cabinet pictures (paintings)
+    aat:300265620 # double-sided paintings
+  }
+
+
+  BIND(
+    COALESCE(
+      IF(?yearCreated >= 1000 && ?yearCreated < 1450, aat:300020756, ?noPeriodFound), # Medieval
+      IF(?yearCreated >= 1450 && ?yearCreated < 1600, aat:300021140, ?noPeriodFound), # Renaissance
+      IF(?yearCreated >= 1600 && ?yearCreated < 1750, aat:300021147, ?noPeriodFound), # Baroque
+      IF(?yearCreated >= 1750 && ?yearCreated < 1850, aat:300056513, ?noPeriodFound), # Classicism
+      IF(?yearCreated >= 1830 && ?yearCreated < 1870, aat:300172861, ?noPeriodFound), # Realist
+      IF(?yearCreated >= 1860 && ?yearCreated < 1890, aat:300021503, ?noPeriodFound), # Impressionist
+      IF(?yearCreated >= 1890 && ?yearCreated < 1970, aat:300021474, ?noPeriodFound), # Modernist
+      IF(?yearCreated >= 1970, aat:300022208, ?noPeriodFound) # Postmodern
+    )
+  AS ?artPeriod)
+    }
