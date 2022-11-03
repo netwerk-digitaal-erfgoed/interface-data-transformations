@@ -48,8 +48,7 @@ def startEnrichment(_entities, _dirName, _result_enrichment):
                 ?s ?p ?o .
 
             }"""
-            # count = 0
-            # finalList = []
+
             qres = g.query(getByIdentifiers)
             for index, row in enumerate(qres):
                 print(row.scount)
