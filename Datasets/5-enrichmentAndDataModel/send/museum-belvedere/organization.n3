@@ -1,3 +1,0 @@
-<https://www.museumbelvedere.nl/> <https://schema.org/name> "museumbelvedere"@nl .
-<https://www.museumbelvedere.nl/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://www.museumbelvedere.nl/> <https://schema.org/mainEntityOfPage> <https://www.museumbelvedere.nl/> .
