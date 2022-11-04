@@ -49,7 +49,7 @@ def startEnrichment(_entities, _result_enrichment,_edm,_rdf,_dcterms,_dc,_aat):
                     if formatIMG == "JPG" or formatIMG == "jpg" :
                         formatIMG = f'image/{formatIMG}'
                         g.add((row.s, _dcterms['format'], Literal(formatIMG, datatype=XSD.string)))
-                if (str(row.p) == "http://purl.org/dc/terms/created"):
+                if (str(row.p) == "http://purl.org/dc/terms/created") or (str(row.p) == "http://purl.org/dc/terms/dateCreated") or (str(row.p) == "http://purl.org/dc/elements/1.1/date") :
                     dateOfCreation = str(row.o)
                     match = re.search(r'\d{4}', dateOfCreation)
                     if match and match.group(0) is not None:
@@ -57,22 +57,23 @@ def startEnrichment(_entities, _result_enrichment,_edm,_rdf,_dcterms,_dc,_aat):
                         Date = str(match.group(0))
                     else:
                         continue
-                    g.add((row.s, _dcterms.dateCreated, Literal(Date, datatype=XSD.integer)))
+                    g.add((row.s, _dcterms.dateCreated, Literal(Date, datatype=XSD.gYear)))
                     g.add((row.s, _dcterms.temporal, Literal(dateOfCreation, lang="nl")))
 
-                ###  it is for dc:date and createdDate
-                elif (str(row.p) == "http://purl.org/dc/terms/dateCreated"): ##rijksakademie
-                # elif (str(row.p) == "http://purl.org/dc/elements/1.1/date"):  ##de fundatie
-
-                    dateOfCreation = str(row.o)
-                    match = re.search(r'\d{4}', dateOfCreation)
-                    if match and match.group(0) is not None:
-                        dateOfCreation_forComparison = int(match.group(0))
-                        Date = str(match.group(0))
-                    else:
-                        continue
-                    g.add((row.s, _dcterms.dateCreated, Literal(Date, datatype=XSD.integer)))
-                    g.add((row.s, _dcterms.temporal, Literal(dateOfCreation, lang="nl")))
+                # ###  it is for dc:date and createdDate
+                # elif (str(row.p) == "http://purl.org/dc/terms/dateCreated"): ##rijksakademie
+                # # elif (str(row.p) == "http://purl.org/dc/elements/1.1/date"):  ##de fundatie
+                # #####print(row.o)
+                #     dateOfCreation = str(row.o)
+                #     match = re.search(r'\d{4}', dateOfCreation)
+                #     if match and match.group(0) is not None:
+                #         dateOfCreation_forComparison = int(match.group(0))
+                #         Date = str(match.group(0))
+                #     else:
+                #         continue
+                #     g.add((row.s, _dcterms.dateCreated, Literal(Date, datatype=XSD.integer)))
+                #     g.add((row.s, _dcterms.temporal, Literal(dateOfCreation, lang="nl")))
+                #####print(row.s ,"is", dateOfCreation_forComparison)
 
                     if dateOfCreation_forComparison >= 1000 and dateOfCreation_forComparison < 1450:
                         g.add((row.s, _edm.temporalCoverage, _aat['300020756']))
@@ -119,7 +120,6 @@ def startEnrichment(_entities, _result_enrichment,_edm,_rdf,_dcterms,_dc,_aat):
                     elif dateOfCreation_forComparison >= 1970:
                         g.add((row.s, _edm.temporalCoverage, _aat['300022208']))
                         g.add((_aat['300022208'], _dcterms.startDate, Literal(1970, datatype=XSD.integer)))
-                        # g.add((_aat['300022208'], _dcterms.endDate, Literal("Now", datatype=XSD.integer)))
                         g.add((_aat['300022208'], _dcterms.name, Literal("Postmodern", lang="nl")))
                         continue
             g.serialize(destination=f'{result_enrichment}{url}.ttl', format='turtle', encoding='utf-8')
@@ -176,7 +176,14 @@ def csvToTripleProcess(_path, _entities, finalPath='./final-creator-triples/', e
             integrateFile = gcreators + gOrginFile
             integrateFile.serialize(destination=f'{enrichfile}{entity}.ttl', format='turtle', encoding='utf-8')
             print(f' final enrichment has been done! your final datasets are in {enrichfile} folder')
+            # try:
+            #     if entity == csvFile :
+            #         integrateFile = gcreators + gOrginFile
+            #         integrateFile.serialize(destination=f'{enrichfile}{entity}.ttl', format='turtle', encoding='utf-8')
+            #         print(' final enrichment has been done! your final datasets are in "enrich-data-for-datamodel" folder')
 
+            # except Exception as e:
+            #    print("integration Error: ", str(e), traceback.format_exc())
     except Exception as e:
         print(str(e), traceback.format_exc())
 
