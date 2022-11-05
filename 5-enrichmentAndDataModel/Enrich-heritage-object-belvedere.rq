@@ -1,0 +1,58 @@
+PREFIX ore: <http://www.openarchives.org/ore/terms/>
+PREFIX edm: <http://www.europeana.eu/schemas/edm/>
+PREFIX schema: <https://schema.org/>
+PREFIX cd: <http://citydata.wu.ac.at/ns#>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+#<https://www.museumbelvedere.nl/>
+
+CONSTRUCT {
+
+  ?heritageObject
+
+        rdf:type schema:VisualArtwork ;
+		schema:artform ?artform;
+		schema:name ?titleNL ;
+		schema:description ?discribeNL ;
+		schema:publisher <https://www.museumbelvedere.nl/> ;
+		schema:creator ?creator;
+  		schema:temporal ?created ;
+		schema:dateCreated ?yearCreated;
+		schema:mainEntityOfPage ?isShownAt;
+		schema:isBasedOn ?heritageObject ;
+		schema:temporalCoverage ?temporalCoverage ;
+    	schema:image ?image.
+
+  ?image rdf:type schema:ImageObject ;
+  		schema:contentUrl ?isShownBy2;
+  	    schema:encodingFormat ?img ;
+		schema:license ?rights.
+}
+
+WHERE {
+
+    ?heritageObject a edm:ProvidedCHO ;
+		dcterms:artform ?artform;
+		dc:title ?title ;
+		dc:description ?discription ;
+		dcterms:creators ?creator ;
+  		dcterms:created ?created ;
+		dcterms:dateCreated ?yearCreated ;
+		edm:temporalCoverage ?temporalCoverage ;
+		edm:image ?image.
+		bind(strlang(str(?title), "nl") as ?titleNL)
+		BIND(STRLANG(str(?discription), "nl") as ?discribeNL)
+		FILTER(LANG(?discribeNL) = "nl")
+
+	?aggregation a ore:Aggregation ;
+		edm:aggregatedCHO ?heritageObject ;
+		edm:isShownBy ?isShownBy ;
+		edm:rights ?rights .
+		BIND(URI(?isShownBy) as ?isShownBy2)
+		OPTIONAL { ?aggregation edm:isShownAt ?isShownAt }
+		OPTIONAL { ?aggregation dcterms:format ?img }
+}

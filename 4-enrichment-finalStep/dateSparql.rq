@@ -8,12 +8,12 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX dcterms: <http://purl.org/dc/terms/>
 
 CONSTRUCT {
-  ?artwork dcterms:dateCreated ?jaar .
+  ?artwork dcterms:created ?jaar .
 }
 
   WHERE {
-    select ?artwork (min(?year) as ?jaar)
-    where {
+    SELECT ?artwork (min(?year) as ?jaar)
+    WHERE {
           ?artwork dc:date ?year .
     }
     group by ?artwork

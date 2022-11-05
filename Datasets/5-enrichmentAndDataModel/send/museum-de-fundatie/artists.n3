@@ -1,0 +1,116 @@
+<https://data.rkd.nl/artists/49886> <https://schema.org/name> "Johannes Vermeer"@nl .
+<https://data.rkd.nl/artists/39452> <https://schema.org/name> "onbekend"@nl .
+<https://data.rkd.nl/artists/16695> <https://schema.org/name> "Giorgio de Chirico"@nl .
+<https://data.rkd.nl/artists/27138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/66719> <https://schema.org/name> "Marius Richters"@nl .
+<https://data.rkd.nl/artists/85180> <https://schema.org/name> "Gottfried Libalt"@nl .
+<https://data.rkd.nl/artists/83001> <https://schema.org/name> "Johannes Vermeer"@nl .
+<https://data.rkd.nl/artists/7578> <https://schema.org/name> "Herman Berserik"@nl .
+<https://data.rkd.nl/artists/78260> <https://schema.org/name> "Cornelis Troost"@nl .
+<https://data.rkd.nl/artists/51956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/86112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/4345> <https://schema.org/name> "Carlo Magini"@nl .
+<https://data.rkd.nl/artists/84577> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/33103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/79592> <https://schema.org/name> "Balthasar van der Veen"@nl .
+<https://data.rkd.nl/artists/79592> <https://schema.org/name> "Johannes Vermeer"@nl .
+<https://data.rkd.nl/artists/78930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/45163> <https://schema.org/name> "Nicolaes Knüpfer"@nl .
+<https://data.rkd.nl/artists/80476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/77150> <https://schema.org/name> "Willem Bastiaan Tholen"@nl .
+<https://data.rkd.nl/artists/39049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/51956> <https://schema.org/name> "Paolo Antonio Barbieri"@nl .
+<https://data.rkd.nl/artists/67915> <https://schema.org/name> "George Romney"@nl .
+<https://data.rkd.nl/artists/39452> <https://schema.org/name> "Anthonie Waterloo"@nl .
+<https://data.rkd.nl/artists/27138> <https://schema.org/name> "Carel Fabritius"@nl .
+<https://data.rkd.nl/artists/16920> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/67915> <https://schema.org/name> "Cornelis Troost"@nl .
+<https://data.rkd.nl/artists/83001> <https://schema.org/name> "onbekend"@nl .
+<https://data.rkd.nl/artists/27138> <https://schema.org/name> "onbekend"@nl .
+<https://data.rkd.nl/artists/4345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/7990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/46668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/39452> <https://schema.org/name> "Johannes Vermeer"@nl .
+<https://data.rkd.nl/artists/49886> <https://schema.org/name> "onbekend"@nl .
+<https://data.rkd.nl/artists/66553> <https://schema.org/name> "onbekend"@nl .
+<https://data.rkd.nl/artists/7990> <https://schema.org/name> "Abraham van Beijeren"@nl .
+<https://data.rkd.nl/artists/49212> <https://schema.org/name> "Adriaan de Lelie"@nl .
+<https://data.rkd.nl/artists/76786> <https://schema.org/name> "David (II) Teniers"@nl .
+<https://data.rkd.nl/artists/83001> <https://schema.org/name> "Pieter de Hooch"@nl .
+<https://data.rkd.nl/artists/2458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/49886> <https://schema.org/name> "Pieter de Hooch"@nl .
+<https://data.rkd.nl/artists/49886> <https://schema.org/name> "Anthonie Waterloo"@nl .
+<https://data.rkd.nl/artists/59047> <https://schema.org/name> "Abraham van Beijeren"@nl .
+<https://data.rkd.nl/artists/59115> <https://schema.org/name> "Martinus Nellius"@nl .
+<https://data.rkd.nl/artists/84577> <https://schema.org/name> "Adam Willaerts"@nl .
+<https://data.rkd.nl/artists/83001> <https://schema.org/name> "Anthonie Waterloo"@nl .
+<https://data.rkd.nl/artists/78260> <https://schema.org/name> "George Romney"@nl .
+<https://data.rkd.nl/artists/66553> <https://schema.org/name> "Jusepe Ribera"@nl .
+<https://data.rkd.nl/artists/83001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/85180> <https://schema.org/name> "Anthonie Waterloo"@nl .
+<https://data.rkd.nl/artists/17076> <https://schema.org/name> "R. Clarke"@nl .
+<https://data.rkd.nl/artists/81475> <https://schema.org/name> "Hendrik Cornelisz. van der Vliet"@nl .
+<https://data.rkd.nl/artists/76786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/85180> <https://schema.org/name> "onbekend"@nl .
+<https://data.rkd.nl/artists/86112> <https://schema.org/name> "Jan Adam Zandleven"@nl .
+<https://data.rkd.nl/artists/84167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/17076> <https://schema.org/name> "Richard Clarke"@nl .
+<https://data.rkd.nl/artists/7578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/80476> <https://schema.org/name> "Anthonie Waterloo"@nl .
+<https://data.rkd.nl/artists/4345> <https://schema.org/name> "Paolo Antonio Barbieri"@nl .
+<https://data.rkd.nl/artists/85180> <https://schema.org/name> "Pieter de Hooch"@nl .
+<https://data.rkd.nl/artists/59047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/39452> <https://schema.org/name> "Gottfried Libalt"@nl .
+<https://data.rkd.nl/artists/59047> <https://schema.org/name> "Jan Josephsz. van Goyen"@nl .
+<https://data.rkd.nl/artists/78260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/19654> <https://schema.org/name> "Hippolyte Daeye"@nl .
+<https://data.rkd.nl/artists/85180> <https://schema.org/name> "Emanuel de Witte"@nl .
+<https://data.rkd.nl/artists/59047> <https://schema.org/name> "Aert van der Neer"@nl .
+<https://data.rkd.nl/artists/39452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/85180> <https://schema.org/name> "Hendrick Jacobsz. Dubbels"@nl .
+<https://data.rkd.nl/artists/80476> <https://schema.org/name> "onbekend"@nl .
+<https://data.rkd.nl/artists/49886> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/24420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/77150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/17076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/80476> <https://schema.org/name> "Pieter de Hooch"@nl .
+<https://data.rkd.nl/artists/84167> <https://schema.org/name> "Jan Wiegers"@nl .
+<https://data.rkd.nl/artists/78930> <https://schema.org/name> "Walter Vaes"@nl .
+<https://data.rkd.nl/artists/45163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/80476> <https://schema.org/name> "Emanuel de Witte"@nl .
+<https://data.rkd.nl/artists/24420> <https://schema.org/name> "Emanuel de Witte"@nl .
+<https://data.rkd.nl/artists/49886> <https://schema.org/name> "Gottfried Libalt"@nl .
+<https://data.rkd.nl/artists/56665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/83001> <https://schema.org/name> "Emanuel de Witte"@nl .
+<https://data.rkd.nl/artists/51956> <https://schema.org/name> "Carlo Magini"@nl .
+<https://data.rkd.nl/artists/39049> <https://schema.org/name> "William Hogarth"@nl .
+<https://data.rkd.nl/artists/49212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/83001> <https://schema.org/name> "Gottfried Libalt"@nl .
+<https://data.rkd.nl/artists/85180> <https://schema.org/name> "Johannes Vermeer"@nl .
+<https://data.rkd.nl/artists/81475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/16920> <https://schema.org/name> "Paul Citroen"@nl .
+<https://data.rkd.nl/artists/24420> <https://schema.org/name> "Hendrick Jacobsz. Dubbels"@nl .
+<https://data.rkd.nl/artists/79592> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/33103> <https://schema.org/name> "Jan Josephsz. van Goyen"@nl .
+<https://data.rkd.nl/artists/85180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/49886> <https://schema.org/name> "Emanuel de Witte"@nl .
+<https://data.rkd.nl/artists/2458> <https://schema.org/name> "Armando"@nl .
+<https://data.rkd.nl/artists/80476> <https://schema.org/name> "Gottfried Libalt"@nl .
+<https://data.rkd.nl/artists/16695> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/33103> <https://schema.org/name> "Aert van der Neer"@nl .
+<https://data.rkd.nl/artists/80476> <https://schema.org/name> "Johannes Vermeer"@nl .
+<https://data.rkd.nl/artists/80476> <https://schema.org/name> "Balthasar van der Veen"@nl .
+<https://data.rkd.nl/artists/33103> <https://schema.org/name> "Abraham van Beijeren"@nl .
+<https://data.rkd.nl/artists/59115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/66553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/7990> <https://schema.org/name> "Jan Josephsz. van Goyen"@nl .
+<https://data.rkd.nl/artists/19654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/65295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/65295> <https://schema.org/name> "Hendrik Raab"@nl .
+<https://data.rkd.nl/artists/39452> <https://schema.org/name> "Pieter de Hooch"@nl .
+<https://data.rkd.nl/artists/39452> <https://schema.org/name> "Emanuel de Witte"@nl .
+<https://data.rkd.nl/artists/46668> <https://schema.org/name> "Jan Adam Kruseman"@nl .
+<https://data.rkd.nl/artists/56665> <https://schema.org/name> "Nicolaes Molenaer"@nl .
+<https://data.rkd.nl/artists/7990> <https://schema.org/name> "Aert van der Neer"@nl .
+<https://data.rkd.nl/artists/66719> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/67915> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .

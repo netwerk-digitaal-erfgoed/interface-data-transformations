@@ -32,11 +32,11 @@ if you want to have final outputs in different folders run 12-mauritshuis-datamo
 3- artists
 4- art-period
 
+Please Note that we have 3 queries for five datasets for artists and artworks:
+1- mauritshuis and vanabbemuseum (different dc:createddate) 
+2- museumdefundatie and rijksakademie (different dc:date)
+3- museumbelvedere (different dc:description)
+
 if you want to have all objects in one file run 13-mauritshuis-datamodel-V1.py
 
 1- outputs-for-uploads
-
-
-
-
-

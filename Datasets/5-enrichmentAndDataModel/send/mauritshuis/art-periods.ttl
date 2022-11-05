@@ -30,13 +30,13 @@
     schema:name "Postmodern"@nl ;
     schema:startDate 1970 .
 
-<http://vocab.getty.edu/aat/300172861> a schema:DefinedTerm ;
-    schema:endDate 1870 ;
-    schema:name "Realist"@nl ;
-    schema:startDate 1830 .
-
 <http://vocab.getty.edu/aat/300056513> a schema:DefinedTerm ;
     schema:endDate 1850 ;
     schema:name "Classicism "@nl ;
     schema:startDate 1750 .
+
+<http://vocab.getty.edu/aat/300172861> a schema:DefinedTerm ;
+    schema:endDate 1870 ;
+    schema:name "Realist"@nl ;
+    schema:startDate 1830 .
 

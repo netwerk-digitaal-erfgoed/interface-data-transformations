@@ -1,0 +1,511 @@
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002278> <https://schema.org/temporal> "1750" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002325> <https://schema.org/description> "Gemberpot met roserode roosjes"@nl .
+_:n0cc24f5c4ecb48498dd839782a3268a4b1412 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/9000000860/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002361> <https://schema.org/creator> <https://data.rkd.nl/artists/80476> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004043> <https://schema.org/name> "Meisjesportret Péronne Arntzenius"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004090> <https://schema.org/creator> <https://data.rkd.nl/artists/59115> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002167> <https://schema.org/creator> <https://data.rkd.nl/artists/4345> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002040> <https://schema.org/temporal> "1926" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000860> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000860> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002270> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021147> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000175> <https://schema.org/description> "Zittende en staande figuren in een landschap, waaronder een meisje in een roze jurk en een ruiter."@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002360> <https://schema.org/creator> <https://data.rkd.nl/artists/49886> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002277> <https://schema.org/dateCreated> "1742"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002046> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002321> <https://schema.org/creator> <https://data.rkd.nl/artists/24420> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004043> <https://schema.org/dateCreated> "1900"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002360> <https://schema.org/description> "Herfstlandschap met ruiters en badende figuren."@nl .
+_:n0cc24f5c4ecb48498dd839782a3268a4b365 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002019> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b222 .
+_:n0cc24f5c4ecb48498dd839782a3268a4b473 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002277/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002270> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b466 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004088> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021147> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002364> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002100> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b353 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002022> <https://schema.org/creator> <https://data.rkd.nl/artists/59047> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000175> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002218> <https://schema.org/temporal> "1922" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002284> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002284> <https://schema.org/description> "Eugène de Stuers (1879-1940)"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002354> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b546 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000042> <https://schema.org/description> "In dikke witte verflagen met iets rood is een driehoekige compositie gevormd op zwarte ondergrond."@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004090> <https://schema.org/temporal> "1673" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002167> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002167> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002040> <https://schema.org/description> "Stilleven"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002019> <https://schema.org/description> "Trompe-l'oeil"@nl .
+_:n0cc24f5c4ecb48498dd839782a3268a4b846 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002100> <https://schema.org/creator> <https://data.rkd.nl/artists/39049> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002209> <https://schema.org/dateCreated> "1923"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002218> <https://schema.org/description> "Zonder dreigende lucht"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002040> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b242 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002046> <https://schema.org/description> "Daeye, Yvonne"@nl .
+_:n0cc24f5c4ecb48498dd839782a3268a4b966 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002136> <https://schema.org/temporal> "1655" .
+_:n0cc24f5c4ecb48498dd839782a3268a4b956 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b416 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002218/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004091> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004089> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b966 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002215> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021147> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002218> <https://schema.org/creator> <https://data.rkd.nl/artists/66719> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000042> <https://schema.org/temporal> "1980" .
+_:n0cc24f5c4ecb48498dd839782a3268a4b846 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000003179/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004088> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004088> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000003179> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002040> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021474> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000175> <https://schema.org/dateCreated> "1929"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004088> <https://schema.org/dateCreated> "1676"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b1363 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004091> <https://schema.org/description> "Kunstgezicht met op de voorgrond mensen die vis verkopen. daar achter enkele schepen. Bij één schip worden netten binnengehaald en vis van boord geladen."@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002218> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002100> <https://schema.org/temporal> "1764" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002022> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004089> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004090> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021147> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000175> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b1371 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002045> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004027> <https://schema.org/description> "persoon"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002355> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b407 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002022> <https://schema.org/dateCreated> "1699"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000003179> <https://schema.org/temporal> "1835" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002209> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002270> <https://schema.org/name> "Landschap met de barmhartige Samaritaan"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004027> <https://schema.org/description> "manspersoon"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002321> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002209> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002209> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004091> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b968 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002154> <https://schema.org/temporal> "1820" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002019> <https://schema.org/dateCreated> "1968"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004089> <https://schema.org/temporal> "1675" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004091> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002167> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300056513> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b966 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000004089/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002215> <https://schema.org/temporal> "1699" .
+_:n0cc24f5c4ecb48498dd839782a3268a4b1371 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004043> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002166> <https://schema.org/creator> <https://data.rkd.nl/artists/4345> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002218> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021474> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002361> <https://schema.org/name> "Portret van Frederik de Marselaere"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002355> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002218> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b480 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002284/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004089> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021147> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000042> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002360> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002360> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002361> <https://schema.org/description> "Portret van Frederik de Marselaere, staande ter driekwart diepte, in zwart kostuum en met hoed"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004088> <https://schema.org/description> "Ruig landschap met links op de achtergrond een kerktoren. in het midden staan vier figuren vrij dicht op elkaar, in gesprek ?.Midden voor staat links een vrouw en rechts een man, cavelier? Rechts achter is een boerderij te zien."@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004043> <https://schema.org/temporal> "1900" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002218> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b416 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004088> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b965 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002167> <https://schema.org/creator> <https://data.rkd.nl/artists/51956> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002022> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002022> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000003179> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000003179> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002209> <https://schema.org/name> "Stilleven"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002136> <https://schema.org/description> "De dood van Herodes Agrippa (Handelingen 12: 21-23). Stond eerder ten onrechte bekend als 'Salomo's oordeel'. Is door J.I. Kuznetzow (zie literatuurvermeldingen) beschreven als de dood van Herodes Agrippa."@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002321> <https://schema.org/creator> <https://data.rkd.nl/artists/85180> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000860> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b1412 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002136> <https://schema.org/name> "De dood van Herodes Agrippa"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004089> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004089> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002167> <https://schema.org/dateCreated> "1806"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b967 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000004090/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002166> <https://schema.org/name> "Stilleven met flessen"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004027> <https://schema.org/creator> <https://data.rkd.nl/artists/84167> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000042> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000003179> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b846 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002167> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b365 .
+_:n0cc24f5c4ecb48498dd839782a3268a4b407 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b518 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b248 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002046/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002355> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021147> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b353 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002136> <https://schema.org/creator> <https://data.rkd.nl/artists/45163> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000042> <https://schema.org/dateCreated> "1980"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002277> <https://schema.org/creator> <https://data.rkd.nl/artists/78260> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002045> <https://schema.org/dateCreated> "1924"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002321> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021147> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b547 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002355/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000175> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021474> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002355> <https://schema.org/creator> <https://data.rkd.nl/artists/80476> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000003179> <https://schema.org/dateCreated> "1835"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b1412 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002360> <https://schema.org/creator> <https://data.rkd.nl/artists/85180> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002321> <https://schema.org/description> "Bij het werk hoort een lijst inv. nr. 3132"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000003179> <https://schema.org/creator> <https://data.rkd.nl/artists/46668> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002325> <https://schema.org/temporal> "1923" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002045> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021474> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002364> <https://schema.org/creator> <https://data.rkd.nl/artists/79592> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002355> <https://schema.org/dateCreated> "1700"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002284> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b480 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002019> <https://schema.org/temporal> "1968" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004043> <https://schema.org/description> "kind"@nl .
+_:n0cc24f5c4ecb48498dd839782a3268a4b518 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002325/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002354> <https://schema.org/name> "Mansportret"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002215> <https://schema.org/description> "Portret van een monnik, staand ter driekwart diepte, met doodshoofd in zijn linkerhand"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002040> <https://schema.org/creator> <https://data.rkd.nl/artists/16695> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002209> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b956 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000004027/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002046> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b965 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000004088/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b552 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b968 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002354> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021147> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002022> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b225 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002040> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002361> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b552 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002321> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002321> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002209> <https://schema.org/description> "Stilleven, op een tafel voor een raam: een schaal met appels, een kan, een glas."@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002364> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b555 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004091> <https://schema.org/creator> <https://data.rkd.nl/artists/84577> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000175> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000175> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b846 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002136> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002136> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002166> <https://schema.org/name> "Stilleven met etenswaren, drinkgerei en een kandelaar."@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000175> <https://schema.org/description> "figuren"@nl .
+_:n0cc24f5c4ecb48498dd839782a3268a4b546 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002354/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002364> <https://schema.org/temporal> "1657" .
+_:n0cc24f5c4ecb48498dd839782a3268a4b222 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002364> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002100> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b353 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002154/2000> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b222 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004043> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b960 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002360> <https://schema.org/creator> <https://data.rkd.nl/artists/83001> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002166> <https://schema.org/dateCreated> "1800"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002209> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021474> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002277> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021147> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b354 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002155/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002209> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b407 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002284> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b968 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000004091/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002325> <https://schema.org/dateCreated> "1923"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002355> <https://schema.org/name> "Jongensportret"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002360> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002019> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002019> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002284> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002284> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004043> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004043> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002046> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b248 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004090> <https://schema.org/description> "Stilleven met links midden een sinasappel, met daar achter een peer. Op één van de bladeren aan de peer zit een vlinder. Naast deze stukken fruit liggen nog enkele mispels"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002278> <https://schema.org/dateCreated> "1750"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002022> <https://schema.org/creator> <https://data.rkd.nl/artists/7990> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b413 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002215/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002022> <https://schema.org/name> "Schepen bij zonsondergang in stormachtig weer"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002166> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300056513> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002019> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004088> <https://schema.org/creator> <https://data.rkd.nl/artists/56665> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b247 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002278> <https://schema.org/description> "Bij dit schilderij hoort een lijst, inv. nr. 1528."@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002019> <https://schema.org/name> "Visgerei"@nl .
+_:n0cc24f5c4ecb48498dd839782a3268a4b546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002045> <https://schema.org/temporal> "1924" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000003179> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300056513> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000860> <https://schema.org/description> "landschap"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002166> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002019> <https://schema.org/description> "Kastje met dobbers"@nl .
+_:n0cc24f5c4ecb48498dd839782a3268a4b222 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002019/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002360> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021147> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002045> <https://schema.org/name> "Portret van Suzanna Daeye (dochter van de kunstenaar)"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002325> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b555 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b337 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002136/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004090> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002354> <https://schema.org/creator> <https://data.rkd.nl/artists/27138> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002364> <https://schema.org/dateCreated> "1657"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004091> <https://schema.org/dateCreated> "1625"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002166> <https://schema.org/description> "Bij dit schilderij hoort een lijst apart opgenomen als inv. nr. 1534."@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002361> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b364 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002166/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004088> <https://schema.org/temporal> "1676" .
+_:n0cc24f5c4ecb48498dd839782a3268a4b967 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002360> <https://schema.org/creator> <https://data.rkd.nl/artists/39452> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b514 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002136> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002354> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000860> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021474> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002360> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b551 .
+_:n0cc24f5c4ecb48498dd839782a3268a4b248 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002270> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002270> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002154> <https://schema.org/dateCreated> "1820"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b364 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000175> <https://schema.org/name> "Dejeuner sur l'herbe"@nl .
+_:n0cc24f5c4ecb48498dd839782a3268a4b967 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002270> <https://schema.org/description> "Kopie in klein formaat naar een werk van Jacopo Bassano in de verzameling van aartshertog Leopold Wilhelm te Brussel. Naar Terniers kopieen verschenen in 1660 gravures."@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002354> <https://schema.org/description> "Portret van een man, zeventig jaar oud, staand ter halve diepte, in zwart kostuum met kanten kraag"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004043> <https://schema.org/creator> <https://data.rkd.nl/artists/77150> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002361> <https://schema.org/temporal> "1664" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000042> <https://schema.org/name> "Fahne"@nl .
+_:n0cc24f5c4ecb48498dd839782a3268a4b225 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002022/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002277> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002325> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004027> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004027> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002154> <https://schema.org/creator> <https://data.rkd.nl/artists/49212> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002270> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002355> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b547 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002278> <https://schema.org/creator> <https://data.rkd.nl/artists/78260> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002325> <https://schema.org/name> "Gemberpot"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000042> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b1363 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002284> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002155> <https://schema.org/creator> <https://data.rkd.nl/artists/49212> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b466 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002361> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002361> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002278> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002270> <https://schema.org/creator> <https://data.rkd.nl/artists/76786> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002019> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021474> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002046> <https://schema.org/creator> <https://data.rkd.nl/artists/19654> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002284> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021474> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004091> <https://schema.org/temporal> "1625" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004089> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002284> <https://schema.org/temporal> "1918" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002215> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002215> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002278> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002278> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b416 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000860> <https://schema.org/temporal> "1964" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002209> <https://schema.org/creator> <https://data.rkd.nl/artists/65295> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002167> <https://schema.org/temporal> "1806" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002100> <https://schema.org/name> "Portret van Daniel Lock F.S.A. (1753)"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002270> <https://schema.org/dateCreated> "1660"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002278> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b474 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002100> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b301 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000003179> <https://schema.org/name> "Portret mevr. Dimont geb. Kemper"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002136> <https://schema.org/dateCreated> "1655"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002166> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002166> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002364> <https://schema.org/creator> <https://data.rkd.nl/artists/80476> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002325> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b518 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000003179> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002022> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002360> <https://schema.org/temporal> "1700" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002277> <https://schema.org/temporal> "1742" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002167> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b247 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b480 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004027> <https://schema.org/temporal> "1923" .
+_:n0cc24f5c4ecb48498dd839782a3268a4b247 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002045/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002215> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002155> <https://schema.org/temporal> "1820" .
+_:n0cc24f5c4ecb48498dd839782a3268a4b1363 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/9000000042/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000860> <https://schema.org/name> "Passif central"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000860> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002354> <https://schema.org/temporal> "1642" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004091> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021147> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002215> <https://schema.org/creator> <https://data.rkd.nl/artists/66553> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002355> <https://schema.org/temporal> "1700" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002284> <https://schema.org/name> "Portret Jhr. Eugène de Stuers"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004027> <https://schema.org/description> "kind"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004090> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b966 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002022> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021147> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002355> <https://schema.org/description> "Portret van een jongeman, ter halve diepte, in bruin kostuum"@nl .
+_:n0cc24f5c4ecb48498dd839782a3268a4b960 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b1371 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/9000000175/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002325> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002046> <https://schema.org/dateCreated> "1919"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b474 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002361> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b407 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002209/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004090> <https://schema.org/dateCreated> "1673"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b473 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004088> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b965 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002270> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002155> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300056513> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002364> <https://schema.org/description> "De drie vrouwen bij het graf"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000860> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002209> <https://schema.org/temporal> "1923" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002360> <https://schema.org/name> "Boslandschap met ruiters te paard"@nl .
+_:n0cc24f5c4ecb48498dd839782a3268a4b365 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b960 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000003179> <https://schema.org/description> "Portret van Catharina Margaretha Kemper, geb. 27 augustus 1802, overl. 27 april 1873, gehuwd met mr. Christiaan Diemont"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000860> <https://schema.org/description> "Abstracte weergegeven landschap"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002277> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b473 .
+_:n0cc24f5c4ecb48498dd839782a3268a4b365 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002167/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002100> <https://schema.org/description> "'Fellow Society of Antoquaries'. Hij was de stichter van het Lock Hospital in Londen en tevens 'governor' van het Foundling Hospital, dat nog bestaat."@nl .
+_:n0cc24f5c4ecb48498dd839782a3268a4b354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000042> <https://schema.org/creator> <https://data.rkd.nl/artists/2458> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004089> <https://schema.org/name> "Oude kerk te Delft."@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002100> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300056513> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002166> <https://schema.org/creator> <https://data.rkd.nl/artists/51956> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002040> <https://schema.org/name> "Schaal met vruchten"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002284> <https://schema.org/dateCreated> "1918"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004089> <https://schema.org/description> "Interieur van de Oude Kerk te Delft."@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002155> <https://schema.org/dateCreated> "1820"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b416 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004027> <https://schema.org/dateCreated> "1923"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002155> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002155> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b1371 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002215> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b413 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002136> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b337 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002277> <https://schema.org/name> "Familie Tolling."@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004090> <https://schema.org/name> "Stilleven van vruchten met vlinder"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000860> <https://schema.org/creator> <https://data.rkd.nl/artists/17076> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002136> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021147> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002321> <https://schema.org/dateCreated> "1650"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002154> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002364> <https://schema.org/name> "Bijbelse voorstelling"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004027> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021474> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002321> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b514 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002155> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b354 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002022> <https://schema.org/creator> <https://data.rkd.nl/artists/33103> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002154> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002154> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002360> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002325> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002325> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002278> <https://schema.org/creator> <https://data.rkd.nl/artists/67915> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b965 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000175> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004091> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004091> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b480 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b552 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002325> <https://schema.org/creator> <https://data.rkd.nl/artists/86112> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004043> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021474> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002167> <https://schema.org/name> "Stilleven met geplukte kip"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000175> <https://schema.org/creator> <https://data.rkd.nl/artists/16920> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b474 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002278/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002155> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b242 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002040/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002019> <https://schema.org/creator> <https://data.rkd.nl/artists/7578> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002046> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021474> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002100> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002100> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002022> <https://schema.org/temporal> "1699" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002364> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002364> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004088> <https://schema.org/name> "Landschap, de wandeling"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002040> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002218> <https://schema.org/name> "Gezicht in Rotterdam"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000042> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300022208> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002155> <https://schema.org/description> "Mw. M.C. van Nellesteijn - Von König (1785-1824)"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002354> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002215> <https://schema.org/dateCreated> "1699"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002284> <https://schema.org/creator> <https://data.rkd.nl/artists/78930> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b956 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004043> <https://schema.org/description> "vrouwspersoon"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002154> <https://schema.org/description> "W.H. van Nellesteijn (1788-1864)"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002167> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002360> <https://schema.org/dateCreated> "1700"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002155> <https://schema.org/name> "Portret van mevr. M.C. van Nellesteijn - Von König"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000003179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002045> <https://schema.org/creator> <https://data.rkd.nl/artists/19654> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002045> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002325> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021474> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004027> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b956 .
+_:n0cc24f5c4ecb48498dd839782a3268a4b1412 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b547 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002360> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002215> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b466 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002270/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002046> <https://schema.org/temporal> "1919" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002155> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002215> <https://schema.org/name> "Franciscaner monnik"@nl .
+_:n0cc24f5c4ecb48498dd839782a3268a4b248 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b337 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b514 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002321/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004089> <https://schema.org/creator> <https://data.rkd.nl/artists/81475> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002361> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021147> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b547 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002321> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b413 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004043> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002040> <https://schema.org/dateCreated> "1926"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002278> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002167> <https://schema.org/description> "Bij dit schilderij hoort een lijst, apart opgenomen als inv. nr. 1534."@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b474 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004089> <https://schema.org/dateCreated> "1675"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002045> <https://schema.org/description> "Daeye, Suzanne"@nl .
+_:n0cc24f5c4ecb48498dd839782a3268a4b968 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002277> <https://schema.org/description> "Portret van Egidius Tolling, 43 jaar oud, zijn vrouw Golina Smith, 36 jaar oud en hun zoon Egidius Laurens, 17 jaar oud, in een interieur. Familie uit Deventer."@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002278> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300056513> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b551 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002360/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002166> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004027> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b225 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b225 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004091> <https://schema.org/name> "Schepen in baai"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002045> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002045> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002154> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000042> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000042> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b555 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002321> <https://schema.org/temporal> "1650" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002046> <https://schema.org/name> "Meisje met rode sjaal"@nl .
+_:n0cc24f5c4ecb48498dd839782a3268a4b301 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002100/2000> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b552 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002361/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004043> <https://schema.org/description> "persoon"@nl .
+_:n0cc24f5c4ecb48498dd839782a3268a4b518 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b301 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002045> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b247 .
+_:n0cc24f5c4ecb48498dd839782a3268a4b337 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000860> <https://schema.org/dateCreated> "1964"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002154> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300056513> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b1363 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b555 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002364/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002045> <https://schema.org/name> "Meisje met vlechten"@nl .
+_:n0cc24f5c4ecb48498dd839782a3268a4b551 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002218> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002218> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004090> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004090> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002166> <https://schema.org/temporal> "1800" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002360> <https://schema.org/creator> <https://data.rkd.nl/artists/80476> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b546 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002361> <https://schema.org/dateCreated> "1664"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002355> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002355> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002154> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b353 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002364> <https://schema.org/temporalCoverage> <http://vocab.getty.edu/aat/300021147> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002321> <https://schema.org/name> "Havengezicht"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004027> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002136> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002270> <https://schema.org/temporal> "1660" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002166> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b364 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b354 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002154> <https://schema.org/name> "Portret van W.H. van Nellesteijn."@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004090> <https://schema.org/image> _:n0cc24f5c4ecb48498dd839782a3268a4b967 .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002277> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002277> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002046> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002046> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002278> <https://schema.org/name> "Portret van een man"@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002354> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002354> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000175> <https://schema.org/temporal> "1929" .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b242 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002364> <https://schema.org/name> "De drie Maria's bij het geopende graf van Christus."@nl .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/VisualArtwork> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002022> <https://schema.org/description> "Bij dit werk hoort een lijst inv. nr. 1524."@nl .
+_:n0cc24f5c4ecb48498dd839782a3268a4b364 <https://schema.org/license> <https://rightsstatements.org/page/InC/1.0/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002218> <https://schema.org/dateCreated> "1922"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002277> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004088> <https://schema.org/publisher> <https://www.museumdefundatie.nl/> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002019> <https://schema.org/artform> <http://vocab.getty.edu/aat/300033618> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004027> <https://schema.org/name> "Portret Frans Wiegers"@nl .
+_:n0cc24f5c4ecb48498dd839782a3268a4b960 <https://schema.org/contentUrl> <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000004043/2000> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002100> <https://schema.org/dateCreated> "1764"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002040> <https://schema.org/isBasedOn> <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002040> .
+_:n0cc24f5c4ecb48498dd839782a3268a4b466 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/ImageObject> .
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002354> <https://schema.org/dateCreated> "1642"^^<http://www.w3.org/2001/XMLSchema#gYear> .

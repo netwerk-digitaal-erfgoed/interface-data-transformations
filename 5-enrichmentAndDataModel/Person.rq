@@ -18,11 +18,6 @@ WHERE {
 		dcterms:creators ?creator ;
 		dc:description ?discription ;
 		dc:creator ?person .
-### for datasets with of @nl
-#		BIND(STRLANG(str(?person), "nl") as ?personNL)
-#		FILTER(LANG(?discription) = "nl")
-
-### for datasets without label of @nl fore example belvedere
 		BIND(STRLANG(str(?person), "nl") as ?personNL)
 		BIND(STRLANG(str(?discription), "nl") as ?discribeNL)
 		FILTER(LANG(?discribeNL) = "nl")

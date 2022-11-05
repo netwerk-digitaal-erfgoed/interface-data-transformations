@@ -23,9 +23,8 @@ python = "C:\Program Files\Python37\python.exe"
 
 `python 1-enrich-step2.py`
 
-If date is in dc:date into two seperate lines, first, run 2-date-change.py and then run  1-enrich-step2.py
+If date is in dc:date into two seperate lines or have only dc:date, first, run 2-date-change.py and then run  1-enrich-step2.py
 
-In the next step and in sparql, please filter with date datatype.
 
 ### 3- Folders after running script:
 

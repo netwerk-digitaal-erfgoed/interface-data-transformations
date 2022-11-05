@@ -9,159 +9,56 @@ PREFIX dcterms: <http://purl.org/dc/terms/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 
-#<https://www.catharijneconvent.nl/>
-#<https://www.mauritshuis.nl/>
-#<https://www.stedelijkmuseumschiedam.nl/>
-#<https://www.museumbelvedere.nl/>
-#<https://www.catharijneconvent.nl/>
+#<https://www.catharijneconvent.nl/> ###not match
+#<https://www.stedelijkmuseumschiedam.nl/> ###not match
 #<https://www.museumdefundatie.nl/>
-#<https://vanabbemuseum.nl/
 #<https://www.rijksakademie.nl/>
-
-
 
 CONSTRUCT {
 
   ?heritageObject
 
         rdf:type schema:VisualArtwork ;
-
 		schema:artform ?artform;
-
 		schema:name ?titleNL ;
-
-#		schema:description ?discription ;
 		schema:description ?discribeNL ;
-
 		schema:publisher <https://www.rijksakademie.nl/> ;
-
 		schema:creator ?creator;
-
   		schema:temporal ?created ;
-
 		schema:dateCreated ?yearCreated;
-
 		schema:mainEntityOfPage ?isShownAt;
-
 		schema:isBasedOn ?heritageObject ;
-
 		schema:temporalCoverage ?temporalCoverage ;
-
     	schema:image ?image.
 
   ?image rdf:type schema:ImageObject ;
-
-  		schema:contentUrl ?isShownBy;
-
+  		schema:contentUrl ?isShownBy2;
   	    schema:encodingFormat ?img ;
-
 		schema:license ?rights.
 }
 
 WHERE {
 
     ?heritageObject a edm:ProvidedCHO ;
-
 		dcterms:artform ?artform;
-
 		dc:title ?title ;
-
 		dc:description ?discription ;
-
 		dcterms:creators ?creator ;
-
 		dc:date ?created ;
-
-#  		dcterms:created ?created ;
-
-#		dcterms:dateCreated ?yearCreated ;
-		dcterms:dateCreated ?possiblyYearCreated ; ###rijksakademie
-
+		dcterms:dateCreated ?yearCreated ;
 		edm:temporalCoverage ?temporalCoverage ;
-
 		edm:image ?image.
-
 		bind(strlang(str(?title), "nl") as ?titleNL)
 
-#		FILTER(LANG(?discription) = "nl")
-	  BIND(xsd:integer(?possiblyYearCreated) AS ?yearCreated)
-
-
 		BIND(STRLANG(str(?discription), "nl") as ?discribeNL)
+
 		FILTER(LANG(?discribeNL) = "nl")
-
 	?aggregation a ore:Aggregation ;
-
 		edm:aggregatedCHO ?heritageObject ;
-
 		edm:isShownBy ?isShownBy ;
-
 		edm:rights ?rights .
-
+		BIND(URI(?isShownBy) as ?isShownBy2)
 		OPTIONAL { ?aggregation edm:isShownAt ?isShownAt }
-
 		OPTIONAL { ?aggregation dcterms:format ?img }
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-#CONSTRUCT {
-#
-#  ?heritageObject
-#
-#        rdf:type schema:VisualArtwork ;
-#		schema:artform ?artform;
-#		schema:name ?titleNL ;
-##		schema:description ?discribeNL ;
-#		schema:description ?description ;
-#		schema:publisher <https://www.mauritshuis.nl/> ;
-#		schema:creator ?creator;
-#  		schema:temporal ?created ;
-#		schema:dateCreated ?yearCreated;
-#		schema:mainEntityOfPage ?isShownAt;
-#		schema:isBasedOn ?heritageObject ;
-#		schema:temporalCoverage ?temporalCoverage ;
-#    	schema:image ?image.
-#
-#  ?image rdf:type schema:ImageObject ;
-#
-#  		schema:contentUrl ?isShownBy;
-#  	    schema:encodingFormat ?img ;
-#		schema:license ?rights.
-#}
-#WHERE {
-#
-#    ?heritageObject a edm:ProvidedCHO ;
-#
-#		dcterms:artform ?artform;
-#		dc:title ?title ;
-#		dc:description ?discription ;
-#		dcterms:creators ?creator ;
-#		dc:date ?created ;
-#		dcterms:dateCreated ?yearCreated ;
-#		edm:temporalCoverage ?temporalCoverage ;
-#		edm:image ?image.
-#		bind(strlang(str(?title), "nl") as ?titleNL)
-##		BIND(STRLANG(?discription, "nl") as ?discribeNL)
-##		FILTER(LANG(?discribeNL) = "nl")
-#		FILTER(LANG(?discription) = "nl")
-#
-#	?aggregation a ore:Aggregation ;
-#
-#		edm:aggregatedCHO ?heritageObject ;
-#		edm:rights ?rights ;
-#		edm:isShownBy ?isShownBy .
-#		OPTIONAL { ?aggregation edm:isShownAt ?isShownAt }
-#		OPTIONAL { ?aggregation dcterms:format ?img }
-#}
 
