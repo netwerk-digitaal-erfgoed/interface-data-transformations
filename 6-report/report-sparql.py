@@ -46,6 +46,7 @@ def startEnrichment(_entities, _dirName, _result_enrichment):
             SELECT distinct  (count( DISTINCT  ?s) as ?scount)
             WHERE {
                 ?s ?p ?o .
+                FILTER (!isBlank(?s))
 
             }"""
 
