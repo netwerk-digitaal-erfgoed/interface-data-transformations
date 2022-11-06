@@ -24,7 +24,6 @@ moderne-kunst-museum-deventer-records,2776
 
 ### 2- creators with painting work
 
-
 catharijneconvent-records,968
 
 mauritshuis-records,1643
@@ -45,22 +44,22 @@ van-abbe-museum-records,3832
 
 After enrichment of dataset:
 
+catharijneconvent,148638
 
-catharijneconvent-records,222953
+mauritshuis,1720
 
-mauritshuis-records,2576
+museum-belvedere,3018
 
-museum-belvedere-records,4526
+museum-de-fundatie,3458
 
-museum-de-fundatie-records,5183
+van-abbe-museum,6317
 
-van-abbe-museum-records,9474
+rijksakademie,8240
 
-rijksakademie-records,12356
+stedelijk-museum-schiedam,6197
 
-stedelijk-museum-schiedam-records,9245
+moderne-kunst-museum-deventer,2776
 
-moderne-kunst-museum-deventer-records,4164
 
 ### 4- heritage-object files = artwork
 
