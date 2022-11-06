@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="318b7eb5-5dbd-46ff-897b-ad728bea2177" name="Changes" comment="" />
+    <list default="true" id="75da7130-b95c-4b01-9a92-e9673ceaf573" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2GS767UpbqFSpMdwIahMVO5RYOi" />
+  <component name="ProjectId" id="2H8QiquZHh5TEVVQDP45yqWerBZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,17 +16,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Taxonic/00Project/github/2-extract-artform"
+    "last_opened_file_path": "C:/Taxonic/00Project/000-github-myprojectfinal-files/getting-image"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="318b7eb5-5dbd-46ff-897b-ad728bea2177" name="Changes" comment="" />
-      <created>1666369952786</created>
+      <changelist id="75da7130-b95c-4b01-9a92-e9673ceaf573" name="Changes" comment="" />
+      <created>1667664360810</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1666369952786</updated>
+      <updated>1667664360810</updated>
     </task>
     <servers />
   </component>
