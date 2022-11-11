@@ -55,6 +55,15 @@ def parse_csv(_entities, result = "./triples/" ):
                 g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), RDF.type, EDM.ProvidedCHO))
                 g.add((URIRef(zm["rdf:RDF - ore:Aggregation - rdf:about"][index]), EDM.aggregatedCHO,
                        URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index])))
+                try:
+
+                    g.add((URIRef(zm["rdf:RDF - ore:Aggregation - rdf:about"][index]), DC.creator,
+
+                           Literal(zm["rdf:RDF - dc:creator - rdf:about"][index])))
+
+                except:
+
+                    print("Warning: No creator in dataset.")
 
                 g.add((URIRef(zm["rdf:RDF - ore:Aggregation - rdf:about"][index]), EDM.providers,
                        Literal(zm["rdf:RDF - ore:Aggregation - edm:provider - edm:Agent - skos:prefLabel"][
