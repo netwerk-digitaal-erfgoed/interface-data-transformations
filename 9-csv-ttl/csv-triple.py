@@ -18,21 +18,23 @@ def startProcessing(_path="./csv/"):
     except Exception as e:
         print(str(e), traceback.format_exc())
 
-def parse_csv(_entities, result = "./triples/" ):
+def parse_csv(_entities, cleanCSV = "./clean-csv/" ,result = "./enrich-step1/" ):
     try:
         shutil.rmtree(result, ignore_errors=True)
         os.makedirs(result , exist_ok=True)
+        shutil.rmtree(cleanCSV, ignore_errors=True)
+        os.makedirs(cleanCSV , exist_ok=True)
         for fileName in _entities:
             path = f'./csv/'
             zm = pd.read_csv(f'{path}{fileName}.csv')
-            zm.to_excel(f'{path}{fileName}.xlsx')
+            zm.to_excel(f'{cleanCSV}{fileName}.xlsx')
             eerste_regels = zm[pd.notna(zm['rdf:RDF - edm:ProvidedCHO - rdf:about'])].index
 
             zm['rdf:RDF - edm:ProvidedCHO - rdf:about'] = zm['rdf:RDF - edm:ProvidedCHO - rdf:about'].fillna(
                 method="pad")
             zm["rdf:RDF - ore:Aggregation - rdf:about"] = zm["rdf:RDF - ore:Aggregation - rdf:about"].fillna(
                 method="pad")
-            zm.to_excel(f'{path}{fileName}-work.xlsx')
+            zm.to_excel(f'{cleanCSV}{fileName}-work.xlsx')
 
             g = Graph()
             EDM = Namespace("http://www.europeana.eu/schemas/edm/")
@@ -77,8 +79,6 @@ def parse_csv(_entities, result = "./triples/" ):
 
                 g.add((URIRef(zm["rdf:RDF - ore:Aggregation - rdf:about"][index]), EDM.provider,
                        URIRef(zm["rdf:RDF - ore:Aggregation - edm:provider - edm:Agent - rdf:about"][index])))
-                # g.add((URIRef(zm["rdf:RDF - ore:Aggregation - edm:provider - edm:Agent - rdf:about"][index]), SKOS.prefLabel,
-                #        Literal(zm["rdf:RDF - ore:Aggregation - edm:provider - edm:Agent - skos:prefLabel"][index]))) ###check
 
                 g.add((URIRef(zm["rdf:RDF - ore:Aggregation - rdf:about"][index]), EDM.dataProvider,
                        Literal(zm["rdf:RDF - ore:Aggregation - edm:dataProvider - edm:Agent - skos:prefLabel"][index],
@@ -152,9 +152,5 @@ def parse_csv(_entities, result = "./triples/" ):
 
     except Exception as e:
         print(str(e))
-
-
-
-
 
 startProcessing()
