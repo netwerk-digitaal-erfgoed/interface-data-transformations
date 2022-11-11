@@ -99,7 +99,7 @@ https://monumentenregister.cultureelerfgoed.nl/monumenten/510882%20|%20510883%20
 https://monumentenregister.cultureelerfgoed.nl/monumenten/510882%20|%20510883%20|%20510884 does not look like a valid URI, trying to serialize this will break.
 https://monumentenregister.cultureelerfgoed.nl/monumenten/5380%20|%205381 does not look like a valid URI, trying to serialize this will break.
 
-2-	This dataset does not have dc:type and dc:title.However, I attached some part of it,  I could not attach the complete xml file because zip file is enough large, and I also could not push it on Github.
+2-	This dataset does not have dc:type and dc:title.However, I attached some part of it(please check your email),  I could not attach the complete xml file because zip file is enough large, and I also could not push it on Github.
 It is also very large dataset. I can not uploaded.
 
 ## nationaal-archief-beeldbank
