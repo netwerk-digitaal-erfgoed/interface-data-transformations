@@ -90,6 +90,25 @@ description contains tags and not real words.
 No date and art period 
 
 
+## rce-beeldbank dataset
+
+It seems this dataset has 2 problems:
+
+1-	The first problem happens during serializations to turtle. Here, you see the messages after serializations. We can have them only in N3 format.
+https://monumentenregister.cultureelerfgoed.nl/monumenten/510882%20|%20510883%20|%20510884 does not look like a valid URI, I cannot serialize this as N3/Turtle. Perhaps you wanted to urlencode it?
+https://monumentenregister.cultureelerfgoed.nl/monumenten/510882%20|%20510883%20|%20510884 does not look like a valid URI, trying to serialize this will break.
+https://monumentenregister.cultureelerfgoed.nl/monumenten/5380%20|%205381 does not look like a valid URI, trying to serialize this will break.
+
+2-	This dataset does not have dc:type and dc:title.However, I attached some part of it,  I could not attach the complete xml file because zip file is enough large, and I also could not push it on Github.
+It is also very large dataset. I can not uploaded.
+
+## nationaal-archief-beeldbank
+
+It  does not have dc:title. It is also very large dataset. I can not uploaded.
+
+
+
+
 
 
 
