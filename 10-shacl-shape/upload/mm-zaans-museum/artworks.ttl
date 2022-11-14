@@ -1,0 +1,1365 @@
+@prefix edmfp: <http://www.europeanafashion.eu/edmfp/technique/> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZM-17363> a schema:CreativeWork ;
+    edmfp:technique <http://vocab.getty.edu/aat/300053642> ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1750/1825"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZM-17363.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZM-17363> ;
+    schema:material <http://vocab.getty.edu/aat/300243430> ;
+    schema:name "Hemdrok of jasje"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZM-17430> a schema:CreativeWork ;
+    edmfp:technique <http://vocab.getty.edu/aat/300053642> ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1840/1850"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZM-17430.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZM-17430> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Paars gebloemde schootjak voor een meisje"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZM-17517> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    schema:dateCreated "1725/1775"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-11769.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZM-17517> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Groene rok of wagd van wollen damast"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZM-17532> a schema:CreativeWork ;
+    edmfp:technique <http://vocab.getty.edu/aat/300053642> ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1790/1820"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZM-17532.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZM-17532> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Roze jak voor een meisje"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02248> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    schema:dateCreated "1775/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02248.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02248> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Lichtblauwe doorgestikte zijden rok"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02249> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    schema:dateCreated "1750/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02249.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02249> ;
+    schema:material <http://vocab.getty.edu/aat/300014069> ;
+    schema:name "Roze zijde rok of wagd met rankenpatroon"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02251> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02251.JPG> ;
+            schema:encodingFormat "image/JPG"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02251> ;
+    schema:material <http://vocab.getty.edu/aat/300243428> ;
+    schema:name "Rok van blauw changeant-zijde"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02270> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    schema:dateCreated "1900/1924"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02270.JPG> ;
+            schema:encodingFormat "image/JPG"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02270> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Groene spiegeldamasten japon rok of wagd"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02278> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02278.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02278> ;
+    schema:material <http://vocab.getty.edu/aat/300014069> ;
+    schema:name "Japonrok of wagd van katoen"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02284> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    schema:dateCreated "1800"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02284.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02284> ;
+    schema:name "Roodwitte rok of wagd van sits en linnen"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02310> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10434> ;
+    schema:dateCreated "1800/1824"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02310.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02310> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Sitsen wagd of rok"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02317> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10434> ;
+    schema:dateCreated "1750/1800"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02317.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02317> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Ovalen panier of hoepelrok"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02323> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1795/1805"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02323.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02323> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Katoenen kassekien of jak"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02335> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1785/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02335.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02335> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Sitsen kassekien of jak"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02342> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1875/1899"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02342.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02342> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Sits kassekien of jak"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02360> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    schema:dateCreated "1775/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02360.JPG> ;
+            schema:encodingFormat "image/JPG"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02360> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Rode sitsen kassekien of jak met bloemmotief"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02366> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1800/1824"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02366.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02366> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Blauwe zijden kassekien of jak"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02368> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1750/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02368.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02368> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Wit en blauw gestreept zijden kassekien of jak"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02370> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1785/1800"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02370.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02370> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Roze zijden kassekien of jak"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02371> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02371.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02371> ;
+    schema:name "Kassekien of jak van roze damastzijde"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02375> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1785/1800"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02375.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02375> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak of kassekien van lichtblauwe zijde met een slingerpatroon"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02376> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1800/1824"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02376.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02376> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Roze zijden kassekien of jak"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02392> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    schema:dateCreated "1820"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02392.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02392> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Wit katoenen jak of japonlijfje"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02396> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    schema:dateCreated "1860/1870"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02396a.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02396> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Zwarte zijden kassekien of jak met pagodemouwen"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02409> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10072> ;
+    schema:dateCreated "1800"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02409.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02409> ;
+    schema:name "Damasten herenkamerjas of japonse rok"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02410> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10046> ;
+    schema:dateCreated "1800"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02410.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02410> ;
+    schema:name "Japonse rok oftewel heren kamerjas van damast"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02412> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1700/1800"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02412.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02412> ;
+    schema:material <http://vocab.getty.edu/aat/300243428> ;
+    schema:name "Blauw zijden herenvest of kamisool met lichtblauw bladmotief"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02413> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    schema:dateCreated "1800"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02413.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02413> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Lakense jas met linnen voering"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02441> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10029> ;
+    schema:dateCreated "1750/1775"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02441.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02441> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Witte zijden damast hemdrok of kamisool"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02465> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1775/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02465.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02465> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Groene zijden jak of kassekien"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02466> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1750/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02466.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02466> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Lichtgrijze zijden kassekien of jak"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02469> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    schema:dateCreated "1785/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02469.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02469> ;
+    schema:material <http://vocab.getty.edu/aat/300243428> ;
+    schema:name "Zijde prunuskleurige kassekien met groen bloemmotief"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02497> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10086> ;
+    schema:dateCreated "1700/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02497.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02497> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Groen damasten korset of keurslijf"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02509> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10079> ;
+    schema:dateCreated "1775/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02509.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02509> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Chemisette of dameshemd"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02579> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1750/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02579.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02579> ;
+    schema:name "Satijnen babyjasje met Zaans stikwerk"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02580> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10987> ;
+    schema:dateCreated "1700/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02580.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02580> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Babyjak"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02582> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1700/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02582.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02582> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Katoenen jak voor een baby en een paar polsmoffen"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02583> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1800/1825"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02583.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02583> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Blauw/roze changeantzijde jak voor een baby"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02584> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1775/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02584.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02584> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Lichtblauwe zijden jak voor een baby"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02585> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1800/1850"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02585.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02585> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak voor een baby van linnen damast"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02586> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1775/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02586.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02586> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak voor een baby van wit en rood katoen"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02588> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10079> ;
+    schema:dateCreated "1700/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02588.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02588> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Baby lijfje of borstrok"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02589> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1775/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02589.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02589> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak van roze damastzijde voor een baby"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02591> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1800/1825"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02591.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02591> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak voor een baby van gestreepte zijde"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02592> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1700/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02592.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02592> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak van een baby van wit linnen damast"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02593> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1700/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02593.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02593> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak voor een baby van roze ripszijde"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02594> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1775/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02594.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02594> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Moirézijden jak voor een baby"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02595> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1800"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02595.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02595> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Lichtblauw zijden jakvoor een baby"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02596> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1800/1825"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02596.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02596> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak voor een baby van witte sits met een rankpatroon"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02597> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1700/1824"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02597.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02597> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak voor een baby van lichtgrijze katoen met een zwart en wit patroon"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02599> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1700/1824"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02599.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02599> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak voor een baby van rode sits met rankpatronen"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02600> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1800/1824"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02600.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02600> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak voor een baby van lichtblauwe zijde"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02601> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1700/1899"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02601.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02601> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak voor een baby van witte damastzijde"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02609> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10987> ;
+    schema:dateCreated "1775/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02609.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02609> ;
+    schema:material <http://vocab.getty.edu/aat/300014067> ;
+    schema:name "Wit katoenen babyjak met Zaans stikwerk"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02722> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10245> ;
+    schema:dateCreated "1775/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02722.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02722> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Paar gebreide blauw/zijden mitaines"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02790> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10053> ;
+    schema:dateCreated "1725/1775"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02790.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-02790> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Manchetten of mouwstroken"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-03000> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    schema:dateCreated "1780/1820"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-03000.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-03000> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Doorgestikte rok"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-03094> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10297> ;
+    schema:dateCreated "1800/1899"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-03094.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-03094> ;
+    schema:material <http://vocab.getty.edu/aat/300243428> ;
+    schema:name "Fragment van een zijde gestikte rok, lap stof"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-04093.01> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1785/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-04093.01.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-04093.01> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Blauw en zwart geruit zijden jak of kassekien"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-04097> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10188> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-04097.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-04097> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Luifelhoed met brede rand en achterflap"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-04611> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1700/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-04611.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-04611> ;
+    schema:material <http://vocab.getty.edu/aat/300014069> ;
+    schema:name "Wit katoenen babyjasje met Zaans Stikwerk"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-04864> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    schema:dateCreated "1750/1849"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-04864.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-04864> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Wollen spiegeldamasten rok of wagd"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-04865> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    schema:dateCreated "1750/1849"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-04865.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-04865> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Wollen spiegeldamasten rok of wagd"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-04866> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    schema:dateCreated "1750/1849"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-04866.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-04866> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Wollen spiegeldamasten rok of wagd"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-04867> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    schema:dateCreated "1750/1849"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-04867.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-04867> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Wollen spiegeldamasten rok of wagd"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05042> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1800/1824"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05042.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05042> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Katoenen kassekien of jak"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05048> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1700/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05048.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05048> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak voor een baby"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05321> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1750/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05321b.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05321> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Zijde kassekien"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05344> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10297> ;
+    schema:dateCreated "1775/1800"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05344.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05344> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Katoenen kleed met tamboereerwerk in sitspatroon"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05375> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10134> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05375.JPG> ;
+            schema:encodingFormat "image/JPG"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05375> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Goudkleurige tas, ook wel reticule genoemd"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05473.01> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1800/1824"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05473.01.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05473.01> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak voor een baby van katoen en linnen"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05473.02> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1800/1824"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05473.02.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05473.02> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak voor een baby van katoen en linnen"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05474> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05474.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05474> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak voor een baby van roze zijde"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05475> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1775/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05475.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05475> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Zijden jak voor een baby"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05476> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1775/1824"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05476.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05476> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Wit sitsen jak voor een baby"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05497> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1700/1800"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05497a.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05497> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Sitsen jak voor een baby met polsmoffen"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05586> a schema:CreativeWork ;
+    edmfp:technique <http://vocab.getty.edu/aat/300053658> ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10118> ;
+    schema:dateCreated "1675/1699"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05586.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05586> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Doopdeken of doopkleed"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05771> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1775/1800"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05771.JPG> ;
+            schema:encodingFormat "image/JPG"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05771> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Kassekien of jak van blauwe zijde met een grijs bloempatroon"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05772> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    schema:dateCreated "1775/1800"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05772.JPG> ;
+            schema:encodingFormat "image/JPG"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05772> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Wollen spiegeldamasten rok of wagd"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05796> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1700/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05796.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05796> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Wit/roze linnen babyjak"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05797> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1700/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05797.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05797> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak voor een baby van rood en wit gestreepte zijde"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05798> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1700/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05798.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05798> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Meerkleurige katoenen jak voor een baby"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05799> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05799.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05799> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Wit met rood geruite katoenen jak voor een baby"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05821> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1785/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05821.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05821> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Kassekien of jak van blauw gebloemde zijde"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05822> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1775/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05822.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05822> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Beige groen geruite kassekien of jak van zijde"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05826> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1700/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05826.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05826> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak voor een baby van zijde-damast"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05829> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1700/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05829.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05829> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak voor een baby van lichtblauwe zijde"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05830> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:dateCreated "1700/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05830.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05830> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak voor een baby van blauw en witte zijde"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05831> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05831.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05831> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak voor een baby van licht blauwgroene zijde en een witte batisten jak"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05832> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05832.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05832> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak voor een baby van blauw katoen en een jak van witte tule"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05916> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05916.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05916> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Lila katoenen kassekien of jak"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05917> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1775/1824"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05917.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-05917> ;
+    schema:name "Katoenen kassekien"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06024.01> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-06024.01.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-06024.01> ;
+    schema:name "Jak of japonjak"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06132> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    schema:dateCreated "1700/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-06132.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-06132> ;
+    schema:material <http://vocab.getty.edu/aat/300243428> ;
+    schema:name "Rok of wagd van blauwe zijdendamast"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06136> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10434> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-06136.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-06136> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Sitsen rok of wagd"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06147> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    schema:dateCreated "1785/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-06147.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-06147> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Blauw zijden kassekien"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06149> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    schema:dateCreated "1830/1839"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-06149.JPG> ;
+            schema:encodingFormat "image/JPG"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-06149> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Jak met ovale hals en wijde mouw"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06154> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    schema:dateCreated "1785/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-06154.JPG> ;
+            schema:encodingFormat "image/JPG"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-06154> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Zijde roze/ wit gestreepte meisjes kassekien"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06158> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-06158.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-06158> ;
+    schema:material <http://vocab.getty.edu/aat/300014067> ;
+    schema:name "Wit blauwe katoenen rok met rankenpatroon"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06159> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    schema:dateCreated "1750/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-06159.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-06159> ;
+    schema:name "Zijde lichtblauwe rok met witte en roze-oranje bloemmotieven"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06165> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10086> ;
+    schema:dateCreated "1700/1800"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-06165.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-06165> ;
+    schema:material <http://vocab.getty.edu/aat/300014069> ;
+    schema:name "Linnen keurslijf of korset met rode sits"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06166> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10048> ;
+    schema:dateCreated "1790/1820"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-06166.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-06166> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Wit en paars katoenen spencer of jak"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06168> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    schema:dateCreated "1700/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-06168.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-06168> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Wijd model rok of wagd  met florale motieven in blauw, rood, geel en zwart"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06228> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1750/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-06228.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-06228> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Zijden/wollen kassekien"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06338> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10188> ;
+    schema:dateCreated "1775/1824"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-06338c.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-06338> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Blauw-roze changeantzijden kaper"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06379> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    schema:dateCreated "1750/1849"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-06379.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-06379> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Rok of wagd van sits"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06554> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10058> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-06554.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-06554> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Katoenen kraag"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-08002> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    schema:dateCreated "1750/1799"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-08002.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-08002> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Rode damasten rok of wagd"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-08475> a schema:CreativeWork ;
+    edmfp:technique <http://vocab.getty.edu/aat/300053642> ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10619> ;
+    schema:dateCreated "1700/1749"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-08475.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-08475> ;
+    schema:material <http://vocab.getty.edu/aat/300014069> ;
+    schema:name "Chemisette of half hemd voor vrouw of meisje"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-08520> a schema:CreativeWork ;
+    edmfp:technique <http://vocab.getty.edu/aat/300053642> ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10619> ;
+    schema:dateCreated "1750/1824"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-08520.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-08520> ;
+    schema:material <http://vocab.getty.edu/aat/300014069> ;
+    schema:name "Chemisette of half hemd voor vrouw of meisje"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-08561> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10293> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-08561.JPG> ;
+            schema:encodingFormat "image/JPG"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-08561> ;
+    schema:material <http://vocab.getty.edu/aat/300231565> ;
+    schema:name "Sitsen schort"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-08747> a schema:CreativeWork ;
+    edmfp:technique <http://vocab.getty.edu/aat/300053642> ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    schema:dateCreated "1775/1824"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-08747.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-08747> ;
+    schema:material <http://vocab.getty.edu/aat/300243428> ;
+    schema:name "Jak of kassekien"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-11941> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10201> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-11941.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-11941> ;
+    schema:material <http://vocab.getty.edu/aat/300014069> ;
+    schema:name "Meisjesmuts met Zaans stikwerk"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-11953> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10201> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-11953a.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-11953> ;
+    schema:material <http://vocab.getty.edu/aat/300014067> ;
+    schema:name "Nachtmuts voor vrouwen met Zaans Stikwerk"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-11955> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10245> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-11955.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://creativecommons.org/publicdomain/zero/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/ZOV-11955> ;
+    schema:material <http://vocab.getty.edu/aat/300014069> ;
+    schema:name "Twee baby-mitaines of mouwtjes met Zaans stikwerk"@nl ;
+    schema:publisher <https://zaansmuseum.nl> .
+

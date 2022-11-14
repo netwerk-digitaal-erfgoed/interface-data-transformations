@@ -19,9 +19,9 @@ Find your python path on your system :
 
 python = "C:\Program Files\Python37\python.exe"
 
-`python 12-mauritshuis-datamodel.py`
+`python 12-datamodel.py`
 or 
-`python 13-mauritshuis-datamodel-V1.py`
+`python 13-datamodel-V1.py`
 
 ### 3- Folders after running script:
 

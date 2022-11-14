@@ -1,0 +1,1741 @@
+@prefix edmfp: <http://www.europeanafashion.eu/edmfp/technique/> .
+@prefix schema: <https://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+[] a sh:ValidationReport ;
+    sh:conforms false ;
+    sh:result [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06154> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1785/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06379> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05048> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-03000> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05473.01> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1800/1824"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05797> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02600> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-04611> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02585> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1800/1850"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02469> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1785/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02509> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1775/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02591> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05796> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02376> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02375> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1785/1800"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02465> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1775/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05916> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-08002> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1750/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02609> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1775/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06168> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06132> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05917> ;
+            sh:resultMessage "Error material: material must be IRI and have at least one material.  " ;
+            sh:resultPath schema:material ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db28 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06166> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02593> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-11941> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06159> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02465> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02790> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1725/1775"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05344> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1775/1800"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02360> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02248> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02284> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05497> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1800"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05772> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1775/1800"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02335> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1785/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02584> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06166> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1790/1820"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02251> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02595> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02597> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02790> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06159> ;
+            sh:resultMessage "Error material: material must be IRI and have at least one material.  " ;
+            sh:resultPath schema:material ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db28 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05831> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05771> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02441> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1750/1775"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06158> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-08002> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02600> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1800/1824"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06338> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1775/1824"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05830> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02441> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06554> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06136> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-11953> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02466> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05821> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1785/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05473.02> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05321> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1750/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02370> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05829> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02270> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-11955> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02323> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05321> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02409> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02335> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02596> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06147> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-04097> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05473.01> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02596> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1800/1825"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06024.01> ;
+            sh:resultMessage "Error material: material must be IRI and have at least one material.  " ;
+            sh:resultPath schema:material ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db28 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02278> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06165> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02579> ;
+            sh:resultMessage "Error material: material must be IRI and have at least one material.  " ;
+            sh:resultPath schema:material ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db28 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02469> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02410> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06228> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1750/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02583> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1800/1825"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02360> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1775/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-11953> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02586> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1775/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05375> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02270> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1900/1924"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02609> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02594> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02589> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02376> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1800/1824"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02409> ;
+            sh:resultMessage "Error material: material must be IRI and have at least one material.  " ;
+            sh:resultPath schema:material ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db28 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02413> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05772> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02371> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05475> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1775/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-08561> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05796> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02597> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1824"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05048> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-03000> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1780/1820"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-04097> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05822> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZM-17532> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1790/1820"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02284> ;
+            sh:resultMessage "Error material: material must be IRI and have at least one material.  " ;
+            sh:resultPath schema:material ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db28 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZM-17430> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1840/1850"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02366> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1800/1824"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-04866> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05497> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02588> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06159> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1750/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06154> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02249> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1750/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06136> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05799> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05917> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02584> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1775/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02371> ;
+            sh:resultMessage "Error material: material must be IRI and have at least one material.  " ;
+            sh:resultPath schema:material ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db28 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02580> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02594> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1775/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-11955> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05586> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1675/1699"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-04611> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-04867> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1750/1849"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05344> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02509> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-04867> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02583> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05821> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02249> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02413> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1800"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZM-17517> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1725/1775"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05474> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06554> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05475> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06158> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02722> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1775/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02310> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1800/1824"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02592> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05829> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02412> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1800"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02396> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1860/1870"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02284> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1800"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02579> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05473.02> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1800/1824"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05917> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1775/1824"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02722> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02278> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02585> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02396> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-04865> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1750/1849"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-03094> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-04864> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06149> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02580> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05798> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-11941> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-04866> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1750/1849"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02310> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02595> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1800"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02342> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1875/1899"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05797> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02589> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1775/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-04093.01> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1785/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02601> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02371> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02591> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1800/1825"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-04093.01> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06024.01> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05476> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-04865> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02370> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1785/1800"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02392> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-08561> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02366> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02497> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02375> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02599> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1824"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02410> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1800"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02579> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1750/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05042> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1800/1824"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05799> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05831> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-08475> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1749"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05798> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05830> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02582> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02323> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1795/1805"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05832> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05822> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1775/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05474> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05826> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-08520> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1750/1824"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-03094> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1800/1899"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05771> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1775/1800"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06024.01> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05375> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02410> ;
+            sh:resultMessage "Error material: material must be IRI and have at least one material.  " ;
+            sh:resultPath schema:material ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db28 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02317> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1750/1800"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06338> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05832> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02466> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1750/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-08747> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1775/1824"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06228> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02248> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1775/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02251> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02497> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-04864> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1750/1849"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05042> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05826> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02592> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02412> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06165> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1800"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02409> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1800"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02368> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1750/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02392> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1820"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06149> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1830/1839"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02317> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06132> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06147> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1785/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06379> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1750/1849"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02593> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02599> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02582> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZM-17517> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02588> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZM-17363> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1750/1825"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02586> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02368> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05476> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1775/1824"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02601> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1899"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-06168> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ;
+            sh:value "1700/1799"@nl ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-05916> ;
+            sh:resultMessage "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+            sh:resultPath schema:dateCreated ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db23 ],
+        [ a sh:ValidationResult ;
+            sh:focusNode <https://modemuze.nl/localID/europeana-fashion/ZOV-02342> ;
+            sh:resultMessage "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+            sh:resultPath edmfp:technique ;
+            sh:resultSeverity sh:Violation ;
+            sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+            sh:sourceShape _:ne3d23dff40a34c3482e0bf0ac053784db30 ] .
+
+_:ne3d23dff40a34c3482e0bf0ac053784db28 sh:message "Error material: material must be IRI and have at least one material.  " ;
+    sh:minCount 1 ;
+    sh:nodeKind sh:IRI ;
+    sh:path schema:material ;
+    sh:severity sh:Violation .
+
+_:ne3d23dff40a34c3482e0bf0ac053784db30 sh:message "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. " ;
+    sh:minCount 1 ;
+    sh:nodeKind sh:IRI ;
+    sh:path edmfp:technique ;
+    sh:severity sh:Violation .
+
+_:ne3d23dff40a34c3482e0bf0ac053784db23 sh:datatype xsd:gYear ;
+    sh:message "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. " ;
+    sh:minCount 1 ;
+    sh:path schema:dateCreated ;
+    sh:pattern "[0-9]{4}" ;
+    sh:severity sh:Violation .
+
