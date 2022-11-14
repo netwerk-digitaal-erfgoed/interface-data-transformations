@@ -4,7 +4,6 @@ import traceback
 from rdflib import Graph, URIRef, RDF, OWL, Namespace, Literal
 import pandas as pd
 
-
 def startProcessing(_path="./csv/"):
     try:
         _entities = []
