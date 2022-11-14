@@ -1,0 +1,163 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ore: <http://www.openarchives.org/ore/terms/>.
+@prefix edm: <http://www.europeana.eu/schemas/edm/>.
+@prefix schema: <https://schema.org/>.
+@prefix cd: <http://citydata.wu.ac.at/ns#>.
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+sh:ArtPeriod a sh:NodeShape ;
+sh:targetClass schema:DefinedTerm ;
+ sh:property [
+  sh:path schema:startDate ;
+  sh:minCount 1 ;
+  sh:maxCount 1;
+  sh:datatype xsd:integer ;
+  sh:pattern "[0-9]{4}";
+  sh:severity sh:Violation ;
+  sh:message "Error ArtPeriod: startDate must be exactly one and integer. ";
+ ];
+  sh:property [
+  sh:path schema:endDate ;
+  sh:maxCount 1;
+  sh:pattern "[0-9]{4}";
+  sh:datatype xsd:integer;
+  sh:severity sh:Info ;
+  sh:message "Error ArtPeriod: endDate can be one and it must be integer. ";
+ ];
+  sh:property [
+  sh:path schema:name ;
+  sh:languageIn ( "nl");
+  sh:minCount 1 ;
+  sh:maxCount 1;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtPeriod: Name of period must be exactly one and string and have Language tag @nl. ";
+ ] .
+
+sh:Artist a sh:NodeShape ;
+sh:targetClass schema:Person ;
+  sh:property [
+  sh:path schema:name ;
+  sh:minCount 1 ;
+  sh:severity sh:Violation ;
+  sh:message "Error Artist: Name of Artist must be at least one artist and string and have Language tag @nl. ";
+ ] .
+
+sh:Organization a sh:NodeShape ;
+sh:targetClass schema:Organization ;
+  sh:property [
+  sh:path schema:name ;
+  sh:minCount 1 ;
+  sh:maxCount 1;
+  sh:severity sh:Violation ;
+  sh:message "Error Organization: Name of organization must be at least one organization .";
+ ] .
+
+sh:Organization2 a sh:NodeShape ;
+sh:targetClass schema:Organization ;
+  sh:property [
+  sh:path schema:mainEntityOfPage ;
+  sh:severity sh:Violation ;
+  sh:nodeKind sh:IRI ;
+  sh:message "Error Organization: mainEntityOfPage of organization (website) must be URI ";
+ ]  .
+
+sh:ArtWork-Artform a sh:NodeShape ;
+sh:targetClass schema:VisualArtwork ;
+  sh:property [
+  sh:path schema:artform;
+  sh:minCount 1 ;
+  sh:nodeKind sh:IRI ;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-Artform: artform must be URI and a one art form . ";
+   ].
+
+sh:ArtWork-Creator a sh:NodeShape ;
+sh:targetClass schema:VisualArtwork ;
+  sh:property [
+  sh:path schema:creator;
+  sh:minCount 1 ;
+  sh:nodeKind sh:IRI ;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-Creator: Creator must be URI and have at lease one creator. ";
+   ];
+   sh:property [
+  sh:path schema:dateCreated;
+  sh:minCount 1 ;
+  sh:datatype  xsd:gYear;
+  sh:pattern "[0-9]{4}";
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-dateCreated: dateCreated's data type must be gYear and have at lease one date path. ";
+   ];
+  sh:property [
+  sh:path schema:description;
+  sh:minCount 1 ;
+  sh:languageIn ( "nl");
+  sh:severity sh:Violation ;
+  sh:message "Error description: description must have @nl tag and at least one description. ";
+   ];
+  sh:property [
+  sh:path schema:isBasedOn;
+  sh:minCount 1 ;
+  sh:nodeKind sh:IRI ;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. ";
+   ];
+  sh:property [
+  sh:path schema:isBasedOn;
+  sh:minCount 1 ;
+  sh:nodeKind sh:IRI ;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-isBasedOn: ArtWork must have at least version and the version must be URI. ";
+   ];
+  sh:property [
+  sh:path schema:name;
+  sh:minCount 1 ;
+  sh:languageIn ( "nl");
+  sh:severity sh:Violation ;
+  sh:message "Error title: title must have @nl tag and at least one name path.  ";
+   ];
+  sh:property [
+  sh:path schema:publisher;
+  sh:minCount 1 ;
+  sh:nodeKind sh:IRI ;
+  sh:severity sh:Violation ;
+  sh:message "Error publisher: publisher must be URI and have at least one publisher's name.  ";
+   ];
+  sh:property [
+  sh:path  schema:temporalCoverage;
+  sh:minCount 1 ;
+  sh:nodeKind sh:IRI ;
+  sh:severity sh:Violation ;
+  sh:message "Error temporalCoverage: temporalCoverage must be URI and have at least one temporalCoverage.  ";
+   ];
+  sh:property [
+  sh:path  schema:temporal;
+  sh:minCount 1 ;
+  sh:datatype  xsd:string;
+  sh:severity sh:Violation ;
+  sh:message "Error temporal: temporal must be string and have at least one date";
+   ].
+
+sh:ArtWork-imageObject a sh:NodeShape ;
+sh:targetClass schema:ImageObject ;
+  sh:property [
+  sh:path schema:contentUrl;
+  sh:minCount 1 ;
+  sh:nodeKind sh:IRI ;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-image: image must have an URI and a one contentUrl path. ";
+   ] ;
+  sh:property [
+  sh:path schema:license;
+  sh:minCount 1 ;
+  sh:nodeKind sh:IRI ;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-license: license must have an URI and a one license path . ";
+   ].

@@ -1,0 +1,6 @@
+@prefix schema: <https://schema.org/> .
+
+<https://www.museumbelvedere.nl/> a schema:Organization ;
+    schema:mainEntityOfPage <https://www.museumbelvedere.nl/> ;
+    schema:name "museumbelvedere"@nl .
+

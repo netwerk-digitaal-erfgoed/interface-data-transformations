@@ -1,0 +1,6 @@
+@prefix schema: <https://schema.org/> .
+
+<https://www.rijksakademie.nl/> a schema:Organization ;
+    schema:mainEntityOfPage <https://www.rijksakademie.nl/> ;
+    schema:name "rijksakademie"@nl .
+

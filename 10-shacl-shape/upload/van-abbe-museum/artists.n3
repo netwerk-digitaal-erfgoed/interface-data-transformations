@@ -1,0 +1,142 @@
+<https://data.rkd.nl/artists/23572> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/59613> <https://schema.org/name> "Dirk Nijland"@nl .
+<https://data.rkd.nl/artists/41024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/49554> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/43662> <https://schema.org/name> "On Kawara"@nl .
+<https://data.rkd.nl/artists/56854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/40862> <https://schema.org/name> "Raoul Hynckes"@nl .
+<https://data.rkd.nl/artists/65722> <https://schema.org/name> "Roger Raveel"@nl .
+<https://data.rkd.nl/artists/59705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/43433> <https://schema.org/name> "Wassily Kandinsky"@nl .
+<https://data.rkd.nl/artists/45471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/15018> <https://schema.org/name> "Heinrich Campendonk"@nl .
+<https://data.rkd.nl/artists/77872> <https://schema.org/name> "Charley Toorop"@nl .
+<https://data.rkd.nl/artists/4869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/66689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/42924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/13612> <https://schema.org/name> "Jean Brusselmans"@nl .
+<https://data.rkd.nl/artists/52595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/122357> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/63276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/227086> <https://schema.org/name> "Iris Kensmil"@nl .
+<https://data.rkd.nl/artists/43433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/6531> <https://schema.org/name> "Gerrit Benner"@nl .
+<https://data.rkd.nl/artists/227086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/19980> <https://schema.org/name> "René Daniëls"@nl .
+<https://data.rkd.nl/artists/41356> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/51181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/51175> <https://schema.org/name> "Reinier Lucassen"@nl .
+<https://data.rkd.nl/artists/71301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/81841> <https://schema.org/name> "Friedrich Vordemberge-Gildewart"@nl .
+<https://data.rkd.nl/artists/43815> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/24755> <https://schema.org/name> "Marlene Dumas"@nl .
+<https://data.rkd.nl/artists/52595> <https://schema.org/name> "Nicola de Maria"@nl .
+<https://data.rkd.nl/artists/96347> <https://schema.org/name> "Antonio Saura"@nl .
+<https://data.rkd.nl/artists/96347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/28965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/77872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/5533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/62418> <https://schema.org/name> "Bart Peizel"@nl .
+<https://data.rkd.nl/artists/49072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/17999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/13612> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/6531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/44489> <https://schema.org/name> "Per Kirkeby"@nl .
+<https://data.rkd.nl/artists/59705> <https://schema.org/name> "Hermann Nitsch"@nl .
+<https://data.rkd.nl/artists/16236> <https://schema.org/name> "Marc Chagall"@nl .
+<https://data.rkd.nl/artists/17804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/49554> <https://schema.org/name> "Eugène Leroy"@nl .
+<https://data.rkd.nl/artists/44264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/33914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/23793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/52302> <https://schema.org/name> "Alfred Manessier"@nl .
+<https://data.rkd.nl/artists/75011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/41356> <https://schema.org/name> "Henri Jacobs"@nl .
+<https://data.rkd.nl/artists/18369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/63792> <https://schema.org/name> "Wim van de Plas"@nl .
+<https://data.rkd.nl/artists/42924> <https://schema.org/name> "Asger Jorn"@nl .
+<https://data.rkd.nl/artists/71301> <https://schema.org/name> "Wim Schuhmacher"@nl .
+<https://data.rkd.nl/artists/16236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/65722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/1025> <https://schema.org/name> "Pierre Alechinsky"@nl .
+<https://data.rkd.nl/artists/68112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/45471> <https://schema.org/name> "Oskar Kokoschka"@nl .
+<https://data.rkd.nl/artists/79766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/99164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/27726> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/64091> <https://schema.org/name> "Serge Poliakoff"@nl .
+<https://data.rkd.nl/artists/23572> <https://schema.org/name> "Victor Dolphijn"@nl .
+<https://data.rkd.nl/artists/17999> <https://schema.org/name> "Constant"@nl .
+<https://data.rkd.nl/artists/46679> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/62418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/70033> <https://schema.org/name> "Egbert Rubertus Derk Schaap"@nl .
+<https://data.rkd.nl/artists/99164> <https://schema.org/name> "Robert Delaunay"@nl .
+<https://data.rkd.nl/artists/84773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/16217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/27726> <https://schema.org/name> "Edgar Fernhout"@nl .
+<https://data.rkd.nl/artists/16217> <https://schema.org/name> "Hendrik Chabot"@nl .
+<https://data.rkd.nl/artists/26545> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/122357> <https://schema.org/name> "Natasja Kensmil"@nl .
+<https://data.rkd.nl/artists/19980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/43815> <https://schema.org/name> "Ellsworth Kelly"@nl .
+<https://data.rkd.nl/artists/51242> <https://schema.org/name> "Markus Lüpertz"@nl .
+<https://data.rkd.nl/artists/14127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/28965> <https://schema.org/name> "Sam Francis"@nl .
+<https://data.rkd.nl/artists/23793> <https://schema.org/name> "Willem Dooyewaard"@nl .
+<https://data.rkd.nl/artists/12125> <https://schema.org/name> "Georges Braque"@nl .
+<https://data.rkd.nl/artists/5263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/37031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/51181> <https://schema.org/name> "Lucebert"@nl .
+<https://data.rkd.nl/artists/44264> <https://schema.org/name> "Anselm Kiefer"@nl .
+<https://data.rkd.nl/artists/24482> <https://schema.org/name> "Jean Dubuffet"@nl .
+<https://data.rkd.nl/artists/44489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/51007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/73135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/17804> <https://schema.org/name> "Arnout Colnot"@nl .
+<https://data.rkd.nl/artists/81841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/66689> <https://schema.org/name> "Gerhard Richter"@nl .
+<https://data.rkd.nl/artists/62716> <https://schema.org/name> "Constant Permeke"@nl .
+<https://data.rkd.nl/artists/70033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/40862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/15018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/79766> <https://schema.org/name> "Bram van Velde"@nl .
+<https://data.rkd.nl/artists/49072> <https://schema.org/name> "Fernand Léger"@nl .
+<https://data.rkd.nl/artists/63276> <https://schema.org/name> "Pablo Picasso"@nl .
+<https://data.rkd.nl/artists/62716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/37031> <https://schema.org/name> "Herman Heijenbrock"@nl .
+<https://data.rkd.nl/artists/26545> <https://schema.org/name> "Max Ernst"@nl .
+<https://data.rkd.nl/artists/26953> <https://schema.org/name> "Charles Eyck"@nl .
+<https://data.rkd.nl/artists/23481> <https://schema.org/name> "Theo van Doesburg"@nl .
+<https://data.rkd.nl/artists/18369> <https://schema.org/name> "Corneille"@nl .
+<https://data.rkd.nl/artists/64091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/41024> <https://schema.org/name> "Robert Indiana"@nl .
+<https://data.rkd.nl/artists/51175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/51242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/114974> <https://schema.org/name> "Alan Charlton"@nl .
+<https://data.rkd.nl/artists/23481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/24755> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/68112> <https://schema.org/name> "Anton Rooskens"@nl .
+<https://data.rkd.nl/artists/46679> <https://schema.org/name> "Herman Kruyder"@nl .
+<https://data.rkd.nl/artists/51007> <https://schema.org/name> "Morris Louis"@nl .
+<https://data.rkd.nl/artists/26953> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/5263> <https://schema.org/name> "Jean Bazaine"@nl .
+<https://data.rkd.nl/artists/63792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/8658> <https://schema.org/name> "Roger Bissière"@nl .
+<https://data.rkd.nl/artists/59613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/43662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/52302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/58278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/24482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/84773> <https://schema.org/name> "Carel Willink"@nl .
+<https://data.rkd.nl/artists/5533> <https://schema.org/name> "Max Beckmann"@nl .
+<https://data.rkd.nl/artists/114974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/14127> <https://schema.org/name> "Daniel Buren"@nl .
+<https://data.rkd.nl/artists/75011> <https://schema.org/name> "Frank Stella"@nl .
+<https://data.rkd.nl/artists/33914> <https://schema.org/name> "Juan Gris"@nl .
+<https://data.rkd.nl/artists/1025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/73135> <https://schema.org/name> "Jan Sluijters"@nl .
+<https://data.rkd.nl/artists/56854> <https://schema.org/name> "Piet Mondriaan"@nl .
+<https://data.rkd.nl/artists/12125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/4869> <https://schema.org/name> "Georg Baselitz"@nl .
+<https://data.rkd.nl/artists/8658> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://data.rkd.nl/artists/58278> <https://schema.org/name> "Marc Mulders"@nl .

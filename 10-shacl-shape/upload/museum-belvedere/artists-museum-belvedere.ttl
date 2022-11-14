@@ -1,0 +1,455 @@
+@prefix schema: <https://schema.org/> .
+
+<https://data.rkd.nl/artists/102806> a schema:Person ;
+    schema:name "Kuitwaard, Christiaan"@nl .
+
+<https://data.rkd.nl/artists/105727> a schema:Person ;
+    schema:name "Werkhoven, Isabella"@nl .
+
+<https://data.rkd.nl/artists/105877> a schema:Person ;
+    schema:name "Kaldenberg, Leen"@nl .
+
+<https://data.rkd.nl/artists/107149> a schema:Person ;
+    schema:name "Evenhuis, Barteld"@nl .
+
+<https://data.rkd.nl/artists/10864> a schema:Person ;
+    schema:name "Borst, Günther Hans Karl"@nl .
+
+<https://data.rkd.nl/artists/109297> a schema:Person ;
+    schema:name "Dufresne, Charles"@nl .
+
+<https://data.rkd.nl/artists/110198> a schema:Person ;
+    schema:name "Vries, Sjoerd de"@nl .
+
+<https://data.rkd.nl/artists/11271> a schema:Person ;
+    schema:name "Bottema, Tjerk"@nl .
+
+<https://data.rkd.nl/artists/11442> a schema:Person ;
+    schema:name "Bouma, Tineke"@nl .
+
+<https://data.rkd.nl/artists/1155> a schema:Person ;
+    schema:name "Alkema, Wobbe"@nl .
+
+<https://data.rkd.nl/artists/120083> a schema:Person ;
+    schema:name "Snijder, Jonas"@nl .
+
+<https://data.rkd.nl/artists/121521> a schema:Person ;
+    schema:name "Geveke, Robert"@nl .
+
+<https://data.rkd.nl/artists/12302> a schema:Person ;
+    schema:name "Bregman, Boele"@nl .
+
+<https://data.rkd.nl/artists/1268> a schema:Person ;
+    schema:name "Alma, Peter"@nl .
+
+<https://data.rkd.nl/artists/1311> a schema:Person ;
+    schema:name "Alphen, Jacques van"@nl .
+
+<https://data.rkd.nl/artists/13612> a schema:Person ;
+    schema:name "Brusselmans, Jean"@nl .
+
+<https://data.rkd.nl/artists/1381> a schema:Person ;
+    schema:name "Althuis, Willem van"@nl .
+
+<https://data.rkd.nl/artists/1393> a schema:Person ;
+    schema:name "Altink, Jan"@nl .
+
+<https://data.rkd.nl/artists/16403> a schema:Person ;
+    schema:name "Charchoune, Serge"@nl .
+
+<https://data.rkd.nl/artists/19763> a schema:Person ;
+    schema:name "Dallinga, Siert"@nl .
+
+<https://data.rkd.nl/artists/21019> a schema:Person ;
+    schema:name "Smet, Gustave Franciscus de"@nl .
+
+<https://data.rkd.nl/artists/212145> a schema:Person ;
+    schema:name "Graaf, Evert de"@nl .
+
+<https://data.rkd.nl/artists/213> a schema:Person ;
+    schema:name "Abma, Harmen"@nl .
+
+<https://data.rkd.nl/artists/21431> a schema:Person ;
+    schema:name "Nuncques, William Degouve de"@nl .
+
+<https://data.rkd.nl/artists/224445> a schema:Person ;
+    schema:name "Hart Nibbrig, Ferdinand"@nl .
+
+<https://data.rkd.nl/artists/23089> a schema:Person ;
+    schema:name "Dijkstra, Johan"@nl .
+
+<https://data.rkd.nl/artists/23481> a schema:Person ;
+    schema:name "Doesburg, Theo van"@nl .
+
+<https://data.rkd.nl/artists/23596> a schema:Person ;
+    schema:name "Domela Nieuwenhuis, César"@nl .
+
+<https://data.rkd.nl/artists/237393> a schema:Person ;
+    schema:name "Vries, Henk de"@nl .
+
+<https://data.rkd.nl/artists/23841> a schema:Person ;
+    schema:name "Doorn, Tinus van"@nl .
+
+<https://data.rkd.nl/artists/2427> a schema:Person ;
+    schema:name "Arkel, Dick van"@nl .
+
+<https://data.rkd.nl/artists/2458> a schema:Person ;
+    schema:name "Armando"@nl .
+
+<https://data.rkd.nl/artists/24715> a schema:Person ;
+    schema:name "Dukkers, Ed"@nl .
+
+<https://data.rkd.nl/artists/26402> a schema:Person ;
+    schema:name "Ensor, James"@nl .
+
+<https://data.rkd.nl/artists/266394> a schema:Person ;
+    schema:name "Stoop, Francoise"@nl .
+
+<https://data.rkd.nl/artists/27490> a schema:Person ;
+    schema:name "Feddema, Anne"@nl .
+
+<https://data.rkd.nl/artists/275193> a schema:Person ;
+    schema:name "Berg, Jan van den"@nl .
+
+<https://data.rkd.nl/artists/293303> a schema:Person ;
+    schema:name "Brown, Tim"@nl .
+
+<https://data.rkd.nl/artists/299493> a schema:Person ;
+    schema:name "Snijder, Jan"@nl .
+
+<https://data.rkd.nl/artists/29962> a schema:Person ;
+    schema:name "Gailliard, Jean Jacques"@nl .
+
+<https://data.rkd.nl/artists/30670> a schema:Person ;
+    schema:name "Geertsma, Sierd"@nl .
+
+<https://data.rkd.nl/artists/33060> a schema:Person ;
+    schema:name "Gouwe, Adriaan Herman"@nl .
+
+<https://data.rkd.nl/artists/34419> a schema:Person ;
+    schema:name "Gubbels, Klaas"@nl .
+
+<https://data.rkd.nl/artists/34908> a schema:Person ;
+    schema:name "Haanstra, Folkert jr."@nl .
+
+<https://data.rkd.nl/artists/34912> a schema:Person ;
+    schema:name "Haanstra, Johan"@nl .
+
+<https://data.rkd.nl/artists/34965> a schema:Person ;
+    schema:name "Haas, Henri de"@nl .
+
+<https://data.rkd.nl/artists/35025> a schema:Person ;
+    schema:name "Haaster, Bettie van"@nl .
+
+<https://data.rkd.nl/artists/35608> a schema:Person ;
+    schema:name "Hamel, Vincent"@nl .
+
+<https://data.rkd.nl/artists/35743> a schema:Person ;
+    schema:name "Hamstra, Jochem"@nl .
+
+<https://data.rkd.nl/artists/35882> a schema:Person ;
+    schema:name "Hansen, Job"@nl .
+
+<https://data.rkd.nl/artists/366701> a schema:Person ;
+    schema:name "Jongsma, Jantien"@nl .
+
+<https://data.rkd.nl/artists/36901> a schema:Person ;
+    schema:name "Heerkens, José"@nl .
+
+<https://data.rkd.nl/artists/37238> a schema:Person ;
+    schema:name "Hell, Johan van"@nl .
+
+<https://data.rkd.nl/artists/38226> a schema:Person ;
+    schema:name "Heyden, J.C.J. van der"@nl .
+
+<https://data.rkd.nl/artists/38467> a schema:Person ;
+    schema:name "Hillenius, Jaap"@nl .
+
+<https://data.rkd.nl/artists/39562> a schema:Person ;
+    schema:name "Hooghiemstra, Tjibbe"@nl .
+
+<https://data.rkd.nl/artists/40463> a schema:Person ;
+    schema:name "Huitema, Anne"@nl .
+
+<https://data.rkd.nl/artists/40727> a schema:Person ;
+    schema:name "Hussem, Willem"@nl .
+
+<https://data.rkd.nl/artists/40734> a schema:Person ;
+    schema:name "Huszar, Vilmos"@nl .
+
+<https://data.rkd.nl/artists/40862> a schema:Person ;
+    schema:name "Hynckes, Raoul"@nl .
+
+<https://data.rkd.nl/artists/41978> a schema:Person ;
+    schema:name "Janzen, Sjoerd"@nl .
+
+<https://data.rkd.nl/artists/42243> a schema:Person ;
+    schema:name "Jespers, Floris"@nl .
+
+<https://data.rkd.nl/artists/42589> a schema:Person ;
+    schema:name "Jong, André de"@nl .
+
+<https://data.rkd.nl/artists/42618> a schema:Person ;
+    schema:name "Jong, Germ de"@nl .
+
+<https://data.rkd.nl/artists/42898> a schema:Person ;
+    schema:name "Jordens, Jan Gerrit"@nl .
+
+<https://data.rkd.nl/artists/43130> a schema:Person ;
+    schema:name "Jurcka, Willem"@nl .
+
+<https://data.rkd.nl/artists/43239> a schema:Person ;
+    schema:name "Kagie, Jan"@nl .
+
+<https://data.rkd.nl/artists/43345> a schema:Person ;
+    schema:name "Kamerlingh Onnes, Harm"@nl .
+
+<https://data.rkd.nl/artists/43533> a schema:Person ;
+    schema:name "Karsen, Eduard"@nl .
+
+<https://data.rkd.nl/artists/43585> a schema:Person ;
+    schema:name "Kat, Otto B. de"@nl .
+
+<https://data.rkd.nl/artists/43767> a schema:Person ;
+    schema:name "Kelder, Toon"@nl .
+
+<https://data.rkd.nl/artists/44846> a schema:Person ;
+    schema:name "Klinkhamer, Han"@nl .
+
+<https://data.rkd.nl/artists/45090> a schema:Person ;
+    schema:name "Knobbe, Wiebe"@nl .
+
+<https://data.rkd.nl/artists/45543> a schema:Person ;
+    schema:name "Kolthoff, Mark"@nl .
+
+<https://data.rkd.nl/artists/456448> a schema:Person ;
+    schema:name "Boer, Hans"@nl .
+
+<https://data.rkd.nl/artists/45796> a schema:Person ;
+    schema:name "Koopmans, Klaas"@nl .
+
+<https://data.rkd.nl/artists/46679> a schema:Person ;
+    schema:name "Kruyder, Herman"@nl .
+
+<https://data.rkd.nl/artists/47821> a schema:Person ;
+    schema:name "Landsaat, Hans"@nl .
+
+<https://data.rkd.nl/artists/481551> a schema:Person ;
+    schema:name "Oost, Albert"@nl .
+
+<https://data.rkd.nl/artists/50631> a schema:Person ;
+    schema:name "Lohmann, Theo"@nl .
+
+<https://data.rkd.nl/artists/50671> a schema:Person ;
+    schema:name "Loman, Jan"@nl .
+
+<https://data.rkd.nl/artists/508> a schema:Person ;
+    schema:name "Adriaans, Leon"@nl .
+
+<https://data.rkd.nl/artists/51175> a schema:Person ;
+    schema:name "Lucassen, Reinier"@nl .
+
+<https://data.rkd.nl/artists/52092> a schema:Person ;
+    schema:name "Maks, Kees"@nl .
+
+<https://data.rkd.nl/artists/52330> a schema:Person ;
+    schema:name "Mankes, Jan"@nl .
+
+<https://data.rkd.nl/artists/52735> a schema:Person ;
+    schema:name "Marle, Felix del"@nl .
+
+<https://data.rkd.nl/artists/52805> a schema:Person ;
+    schema:name "Mars, Ton"@nl .
+
+<https://data.rkd.nl/artists/55539> a schema:Person ;
+    schema:name "Metsaars, Janus"@nl .
+
+<https://data.rkd.nl/artists/55613> a schema:Person ;
+    schema:name "Meulen, Tjalling van der"@nl .
+
+<https://data.rkd.nl/artists/55714> a schema:Person ;
+    schema:name "Meijer, Dave"@nl .
+
+<https://data.rkd.nl/artists/55861> a schema:Person ;
+    schema:name "Michaux, John"@nl .
+
+<https://data.rkd.nl/artists/56301> a schema:Person ;
+    schema:name "Mink, Gerrit"@nl .
+
+<https://data.rkd.nl/artists/56524> a schema:Person ;
+    schema:name "Moerman, Piet"@nl .
+
+<https://data.rkd.nl/artists/56548> a schema:Person ;
+    schema:name "Moget, Piet"@nl .
+
+<https://data.rkd.nl/artists/5720> a schema:Person ;
+    schema:name "Beekman, Chris"@nl .
+
+<https://data.rkd.nl/artists/57570> a schema:Person ;
+    schema:name "Mooy, Gerard"@nl .
+
+<https://data.rkd.nl/artists/57711> a schema:Person ;
+    schema:name "Morgan, Cole"@nl .
+
+<https://data.rkd.nl/artists/58828> a schema:Person ;
+    schema:name "Nanninga, Jaap"@nl .
+
+<https://data.rkd.nl/artists/59442> a schema:Person ;
+    schema:name "Nie, Eric de"@nl .
+
+<https://data.rkd.nl/artists/59570> a schema:Person ;
+    schema:name "Nieweg, Jaap"@nl .
+
+<https://data.rkd.nl/artists/61181> a schema:Person ;
+    schema:name "Oud, Tames"@nl .
+
+<https://data.rkd.nl/artists/62351> a schema:Person ;
+    schema:name "Peeter, Zoltin"@nl .
+
+<https://data.rkd.nl/artists/62716> a schema:Person ;
+    schema:name "Permeke, Constant"@nl .
+
+<https://data.rkd.nl/artists/63855> a schema:Person ;
+    schema:name "Pleysier, Huug"@nl .
+
+<https://data.rkd.nl/artists/64293> a schema:Person ;
+    schema:name "Popma, Jentsje"@nl .
+
+<https://data.rkd.nl/artists/6531> a schema:Person ;
+    schema:name "Benner, Gerrit"@nl .
+
+<https://data.rkd.nl/artists/65722> a schema:Person ;
+    schema:name "Raveel, Roger"@nl .
+
+<https://data.rkd.nl/artists/65952> a schema:Person ;
+    schema:name "Rees, Otto van"@nl .
+
+<https://data.rkd.nl/artists/66182> a schema:Person ;
+    schema:name "Reisma. Cor"@nl .
+
+<https://data.rkd.nl/artists/67109> a schema:Person ;
+    schema:name "Rinsema, Evert"@nl .
+
+<https://data.rkd.nl/artists/67110> a schema:Person ;
+    schema:name "Rinsema, Thijs"@nl .
+
+<https://data.rkd.nl/artists/67115> a schema:Person ;
+    schema:name "Rinzema, Anton"@nl .
+
+<https://data.rkd.nl/artists/67977> a schema:Person ;
+    schema:name "Rood, Simon"@nl .
+
+<https://data.rkd.nl/artists/68069> a schema:Person ;
+    schema:name "Roos, Jan"@nl .
+
+<https://data.rkd.nl/artists/69913> a schema:Person ;
+    schema:name "Saverijs, Albert"@nl .
+
+<https://data.rkd.nl/artists/7008> a schema:Person ;
+    schema:name "Berg, Siep van den"@nl .
+
+<https://data.rkd.nl/artists/70176> a schema:Person ;
+    schema:name "Schaperkotter, Gerardus Johannes"@nl .
+
+<https://data.rkd.nl/artists/70580> a schema:Person ;
+    schema:name "Schirren, Ferdinand"@nl .
+
+<https://data.rkd.nl/artists/71301> a schema:Person ;
+    schema:name "Schumacher, Wim"@nl .
+
+<https://data.rkd.nl/artists/71558> a schema:Person ;
+    schema:name "Schwitters, Kurt"@nl .
+
+<https://data.rkd.nl/artists/72543> a schema:Person ;
+    schema:name "Sys, Maurice"@nl .
+
+<https://data.rkd.nl/artists/73099> a schema:Person ;
+    schema:name "Sloot, Jentje van der"@nl .
+
+<https://data.rkd.nl/artists/74341> a schema:Person ;
+    schema:name "Spilliaert, Leon"@nl .
+
+<https://data.rkd.nl/artists/75150> a schema:Person ;
+    schema:name "Stevens, Alfred"@nl .
+
+<https://data.rkd.nl/artists/77484> a schema:Person ;
+    schema:name "Tytgat, Edgar"@nl .
+
+<https://data.rkd.nl/artists/77549> a schema:Person ;
+    schema:name "Timmerman, Els"@nl .
+
+<https://data.rkd.nl/artists/78579> a schema:Person ;
+    schema:name "Tuynman, Dora"@nl .
+
+<https://data.rkd.nl/artists/79202> a schema:Person ;
+    schema:name "Berghe, Frits van den"@nl .
+
+<https://data.rkd.nl/artists/80417> a schema:Person ;
+    schema:name "Verkerk, Emo"@nl .
+
+<https://data.rkd.nl/artists/819> a schema:Person ;
+    schema:name "Akkerman, Ben"@nl .
+
+<https://data.rkd.nl/artists/8203> a schema:Person ;
+    schema:name "Bieruma Oosting, Jeanne"@nl .
+
+<https://data.rkd.nl/artists/82095> a schema:Person ;
+    schema:name "Vries, Hendrik de"@nl .
+
+<https://data.rkd.nl/artists/82112> a schema:Person ;
+    schema:name "Vries, Jan Murk de"@nl .
+
+<https://data.rkd.nl/artists/8237> a schema:Person ;
+    schema:name "Biewenga, Wim"@nl .
+
+<https://data.rkd.nl/artists/82709> a schema:Person ;
+    schema:name "Walon, Frans"@nl .
+
+<https://data.rkd.nl/artists/83671> a schema:Person ;
+    schema:name "Werkman, Fie"@nl .
+
+<https://data.rkd.nl/artists/84233> a schema:Person ;
+    schema:name "Wiersma, Ids"@nl .
+
+<https://data.rkd.nl/artists/85391> a schema:Person ;
+    schema:name "Wolfkamp, Harry"@nl .
+
+<https://data.rkd.nl/artists/86049> a schema:Person ;
+    schema:name "Zadkine, Ossip"@nl .
+
+<https://data.rkd.nl/artists/86207> a schema:Person ;
+    schema:name "Zee, Jan van der"@nl .
+
+<https://data.rkd.nl/artists/86748> a schema:Person ;
+    schema:name "Zweep, Douwe van der"@nl .
+
+<https://data.rkd.nl/artists/89424> a schema:Person ;
+    schema:name "Jansen, Han"@nl .
+
+<https://data.rkd.nl/artists/8972> a schema:Person ;
+    schema:name "Bleeker, Sies"@nl .
+
+<https://data.rkd.nl/artists/90781> a schema:Person ;
+    schema:name "Zandvliet, Robert"@nl .
+
+<https://data.rkd.nl/artists/912> a schema:Person ;
+    schema:name "Albert, Jos"@nl .
+
+<https://data.rkd.nl/artists/93148> a schema:Person ;
+    schema:name "Roder, Anke"@nl .
+
+<https://data.rkd.nl/artists/93218> a schema:Person ;
+    schema:name "Zuurmond, Ronald"@nl .
+
+<https://data.rkd.nl/artists/94772> a schema:Person ;
+    schema:name "Bouman, Marije"@nl .
+
+<https://data.rkd.nl/artists/95085> a schema:Person ;
+    schema:name "Postma, Rienold"@nl .
+
+<https://data.rkd.nl/artists/97797> a schema:Person ;
+    schema:name "Rinsema, Krin"@nl .
+
+<https://data.rkd.nl/artists/98914> a schema:Person ;
+    schema:name "Pollack, Fred"@nl .
+

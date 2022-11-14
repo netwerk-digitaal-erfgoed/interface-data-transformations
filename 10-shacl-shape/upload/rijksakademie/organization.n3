@@ -1,0 +1,3 @@
+<https://www.rijksakademie.nl/> <https://schema.org/name> "rijksakademie"@nl .
+<https://www.rijksakademie.nl/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://www.rijksakademie.nl/> <https://schema.org/mainEntityOfPage> <https://www.rijksakademie.nl/> .
