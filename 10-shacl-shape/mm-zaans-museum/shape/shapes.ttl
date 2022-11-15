@@ -72,10 +72,8 @@ sh:targetClass schema:CreativeWork ;
   sh:property [
   sh:path schema:dateCreated;
   sh:deactivated false;
-  ###sh:minCount 1 ;
   sh:maxCount 1;
-  ###sh:datatype  xsd:gYear;
-  ###sh:pattern "[0-9]{4}";
+  sh:languageIn ("nl");
   sh:severity sh:Violation ;
   sh:message "Error ArtWork-dateCreated: invalid datatype: dateCreated's data type must be gYear or/and must have exactly dateCreated path. ";
    ];
@@ -113,7 +111,7 @@ sh:targetClass schema:CreativeWork ;
   sh:property [
   sh:path schema:material;
   sh:deactivated false;
-  ###sh:minCount 1 ;
+  sh:maxCount 1;
   sh:nodeKind sh:IRI ;
   sh:severity sh:Violation ;
   sh:message "Error material: material's datatype is invalid and/or at least one material path is required.  ";
@@ -132,7 +130,6 @@ sh:targetClass schema:CreativeWork ;
   sh:property [
   sh:path schema:description;
   sh:deactivated false;
-  ###sh:minCount 1 ;
   sh:maxCount 1;
   sh:languageIn ("nl");
   sh:severity sh:Violation ;
