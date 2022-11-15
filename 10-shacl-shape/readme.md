@@ -15,4 +15,33 @@ python = "C:\Program Files\Python37\python.exe"
 `python validation-report.py`
 
 ### 3- Folders after running script:
+
 One folder contains validation reports
+
+
+
+## report
+
+That means it might be more than one:
+
+## mincount
+
+Zaan museum for matrial , description, technique, created Date
+
+## maxcount
+
+Rijskacademie for temporal and artistShape.
+
+maurithuis for temporal and data created and artist
+
+Belvedere for title 
+
+de fundatie for title, description , and artist
+
+
+
+
+
+
+
+
