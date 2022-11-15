@@ -38,20 +38,6 @@ same like above examples
 
 
 
-PREFIX schema: <http://schema.org/>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-SELECT * WHERE {
-  
-
-  ?sub <https://schema.org/name> ?obj .
-   ?sub1 <https://schema.org/name> ?obj1 .
-  
-  filter (?sub = ?sub1 )
-  filter (?obj != ?obj1 )
-
-} 
-
 
 
 
