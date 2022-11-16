@@ -18,23 +18,37 @@ python = "C:\Program Files\Python37\python.exe"
 
 One folder contains validation reports
 
-## report
+## report on cardinality: check for maxcount
 
-That means it might be more than one:
+There is more than one object in the below paths:
 
-## maxcount
+###### Rijskacademie for schema:temporal and artist object.
 
-###### Rijskacademie for temporal and artistShape.
-
-###### maurithuis for temporal and data created and artist
+###### maurithuis for schema:temporal and schema:createdDate and artist object
 temoral and data created maurithuis (http://data.collectienederland.nl/resource/document/mauritshuis/198) and  (http://data.collectienederland.nl/resource/document/mauritshuis/621)
  artist maurithuis: the https://data.rkd.nl/artists/18572 has more than one Artist name.
-###### Belvedere for title 
+###### Belvedere for schema:title 
 
 example: http://data.collectienederland.nl/resource/document/museum-belvedere/0042 2 titles
 
-###### de fundatie for title, description , and artist
+###### de fundatie for schema:title, schema:description , and artist object
 same like above examples
+
+
+YOu can also text with the below SPARQL.
+PREFIX schema: <http://schema.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT * WHERE {
+  
+  ?sub <https://schema.org/name> ?obj .
+   ?sub1 <https://schema.org/name> ?obj1 .
+  
+  filter (?sub = ?sub1 )
+  filter (?obj != ?obj1 )
+
+} 
+
 
 
 
