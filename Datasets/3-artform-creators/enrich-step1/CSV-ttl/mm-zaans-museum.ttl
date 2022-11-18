@@ -2,9 +2,9 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix edm: <http://www.europeana.eu/schemas/edm/> .
 @prefix edmfp: <http://www.europeanafashion.eu/edmfp/technique/> .
-@prefix ore: <http://www.openarchives.org/ore/terms/Aggregation/> .
+@prefix ore: <http://www.openarchives.org/ore/terms/> .
 
-<localID/europeana-fashion/Aggregation_ZM-17179> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZM-17179> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZM-17179> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -13,7 +13,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZM-17363> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZM-17363> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZM-17363> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -22,7 +22,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZM-17430> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZM-17430> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZM-17430> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -31,7 +31,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZM-17517> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZM-17517> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZM-17517> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -40,7 +40,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZM-17532> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZM-17532> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZM-17532> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -49,7 +49,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02248> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02248> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02248> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -58,7 +58,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02249> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02249> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02249> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -67,7 +67,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02251> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02251> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02251> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -76,7 +76,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02270> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02270> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02270> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -85,7 +85,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02278> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02278> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02278> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -94,7 +94,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02284> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02284> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02284> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -103,7 +103,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02310> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02310> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02310> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -112,7 +112,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02317> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02317> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02317> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -121,7 +121,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02323> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02323> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02323> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -130,7 +130,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02335> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02335> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02335> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -139,7 +139,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02342> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02342> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02342> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -148,7 +148,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02360> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02360> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02360> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -157,7 +157,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02366> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02366> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02366> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -166,7 +166,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02368> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02368> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02368> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -175,7 +175,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02370> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02370> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02370> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -184,7 +184,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02371> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02371> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02371> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -193,7 +193,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02375> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02375> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02375> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -202,7 +202,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02376> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02376> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02376> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -211,7 +211,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02392> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02392> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02392> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -220,7 +220,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02396> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02396> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02396> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -229,7 +229,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02409> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02409> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02409> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -238,7 +238,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02410> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02410> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02410> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -247,7 +247,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02412> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02412> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02412> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -256,7 +256,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02413> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02413> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02413> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -265,7 +265,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02441> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02441> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02441> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -274,7 +274,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02465> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02465> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02465> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -283,7 +283,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02466> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02466> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02466> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -292,7 +292,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02469> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02469> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02469> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -301,7 +301,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02497> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02497> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02497> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -310,7 +310,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02509> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02509> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02509> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -319,7 +319,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02564> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02564> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02564> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -328,7 +328,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02579> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02579> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02579> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -337,7 +337,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02580> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02580> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02580> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -346,7 +346,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02582> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02582> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02582> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -355,7 +355,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02583> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02583> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02583> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -364,7 +364,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02584> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02584> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02584> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -373,7 +373,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02585> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02585> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02585> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -382,7 +382,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02586> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02586> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02586> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -391,7 +391,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02588> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02588> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02588> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -400,7 +400,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02589> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02589> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02589> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -409,7 +409,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02591> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02591> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02591> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -418,7 +418,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02592> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02592> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02592> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -427,7 +427,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02593> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02593> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02593> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -436,7 +436,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02594> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02594> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02594> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -445,7 +445,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02595> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02595> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02595> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -454,7 +454,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02596> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02596> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02596> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -463,7 +463,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02597> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02597> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02597> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -472,7 +472,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02599> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02599> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02599> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -481,7 +481,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02600> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02600> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02600> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -490,7 +490,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02601> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02601> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02601> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -499,7 +499,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02609> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02609> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02609> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -508,7 +508,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02722> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02722> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02722> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -517,7 +517,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-02790> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-02790> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02790> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -526,7 +526,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-03000> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-03000> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-03000> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -535,7 +535,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-03094> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-03094> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-03094> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -544,7 +544,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-04093.01> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-04093.01> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-04093.01> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -553,7 +553,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-04097> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-04097> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-04097> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -562,7 +562,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-04611> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-04611> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-04611> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -571,7 +571,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-04864> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-04864> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-04864> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -580,7 +580,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-04865> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-04865> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-04865> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -589,7 +589,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-04866> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-04866> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-04866> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -598,7 +598,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-04867> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-04867> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-04867> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -607,7 +607,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05042> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05042> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05042> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -616,7 +616,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05048> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05048> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05048> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -625,7 +625,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05321> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05321> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05321> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -634,7 +634,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05344> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05344> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05344> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -643,7 +643,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05375> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05375> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05375> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -652,7 +652,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05473.01> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05473.01> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05473.01> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -661,7 +661,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05473.02> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05473.02> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05473.02> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -670,7 +670,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05474> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05474> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05474> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -679,7 +679,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05475> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05475> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05475> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -688,7 +688,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05476> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05476> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05476> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -697,7 +697,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05497> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05497> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05497> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -706,7 +706,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05586> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05586> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05586> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -715,7 +715,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05771> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05771> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05771> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -724,7 +724,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05772> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05772> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05772> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -733,7 +733,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05796> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05796> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05796> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -742,7 +742,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05797> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05797> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05797> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -751,7 +751,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05798> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05798> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05798> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -760,7 +760,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05799> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05799> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05799> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -769,7 +769,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05821> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05821> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05821> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -778,7 +778,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05822> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05822> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05822> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -787,7 +787,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05826> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05826> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05826> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -796,7 +796,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05829> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05829> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05829> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -805,7 +805,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05830> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05830> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05830> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -814,7 +814,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05831> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05831> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05831> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -823,7 +823,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05832> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05832> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05832> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -832,7 +832,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05916> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05916> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05916> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -841,7 +841,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-05917> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-05917> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05917> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -850,7 +850,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-06024.01> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-06024.01> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06024.01> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -859,7 +859,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-06132> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-06132> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06132> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -868,7 +868,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-06136> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-06136> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06136> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -877,7 +877,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-06147> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-06147> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06147> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -886,7 +886,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-06149> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-06149> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06149> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -895,7 +895,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-06154> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-06154> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06154> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -904,7 +904,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-06158> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-06158> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06158> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -913,7 +913,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-06159> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-06159> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06159> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -922,7 +922,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-06165> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-06165> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06165> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -931,7 +931,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-06166> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-06166> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06166> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -940,7 +940,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-06168> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-06168> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06168> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -949,7 +949,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-06228> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-06228> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06228> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -958,7 +958,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-06338> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-06338> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06338> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -967,7 +967,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-06379> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-06379> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06379> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -976,7 +976,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-06554> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-06554> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06554> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -985,7 +985,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-06617> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-06617> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06617> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -994,7 +994,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-08002> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-08002> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-08002> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -1003,7 +1003,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-08475> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-08475> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-08475> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -1012,7 +1012,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-08520> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-08520> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-08520> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -1021,7 +1021,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-08561> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-08561> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-08561> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -1030,7 +1030,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-08747> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-08747> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-08747> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -1039,7 +1039,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-11941> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-11941> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-11941> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -1048,7 +1048,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-11953> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-11953> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-11953> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
@@ -1057,7 +1057,7 @@
     edm:providers "Europeana Fashion" ;
     edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
 
-<localID/europeana-fashion/Aggregation_ZOV-11955> a ore:aggregation ;
+<localID/europeana-fashion/Aggregation_ZOV-11955> a ore:Aggregation ;
     edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-11955> ;
     edm:dataProvider "Zaans Museum"@nl ;
     edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
