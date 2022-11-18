@@ -21,7 +21,7 @@ python = "C:\Program Files\Python37\python.exe"
 
 `python csv-triple_final.py`
 
-### 3- Folders after running script:
+### 2- Folders after running script:
 
 1- clean-csv
 
