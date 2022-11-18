@@ -22,7 +22,15 @@ sh:targetClass schema:Organization ;
   sh:maxCount 1;
   sh:severity sh:Violation ;
   sh:message "Error Organization: Name of organization must be exactly one organization.";
- ] .
+ ];
+
+  sh:property [
+  sh:deactivated false;
+  sh:path schema:name ;
+  sh:languageIn ("nl");
+  sh:severity sh:Violation ;
+  sh:message "Error Organization: name of organization must have language tag.";
+ ].
 
 sh:OrganizationIRI a sh:NodeShape ;
 sh:targetClass schema:Organization ;
@@ -31,10 +39,17 @@ sh:targetClass schema:Organization ;
   sh:path schema:mainEntityOfPage ;
   sh:severity sh:Violation ;
   sh:nodeKind sh:IRI ;
+  sh:message "Error Organization: invalid datatype: mainEntityOfPage of organization (website) must be IRI ";
+ ];
+
+  sh:property [
+  sh:deactivated false;
+  sh:path schema:mainEntityOfPage ;
+  sh:severity sh:Violation ;
   sh:minCount 1 ;
   sh:maxCount 1;
-  sh:message "Error Organization: invalid datatype: mainEntityOfPage of organization (website) must be IRI ";
- ]  .
+  sh:message "Error Organization: invalid path: exactly one mainEntityOfPage path is required. ";
+ ] .
 
 sh:ArtWork-imageObject a sh:NodeShape ;
 sh:targetClass schema:ImageObject ;
@@ -43,39 +58,76 @@ sh:targetClass schema:ImageObject ;
   sh:path schema:contentUrl;
   sh:minCount 1 ;
   sh:maxCount 1;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-contentUrl: exactly one contentUrl path is required. ";
+   ] ;
+
+  sh:property [
+  sh:deactivated false;
+  sh:path schema:contentUrl;
   sh:nodeKind sh:IRI ;
   sh:severity sh:Violation ;
-  sh:message "Error ArtWork-contentUrl: datatype is not valid and exactly one contentUrl path is required. ";
+  sh:message "Error ArtWork-contentUrl: datatype is not valid IRI. ";
    ] ;
 
   sh:property [
   sh:path schema:encodingFormat ;
   sh:deactivated false;
   sh:maxCount 1 ;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-encodingFormat: check cardinality. ";
+   ] ;
+
+  sh:property [
+  sh:path schema:encodingFormat ;
+  sh:deactivated false;
   sh:datatype  xsd:string;
   sh:severity sh:Violation ;
-  sh:message "Error ArtWork-encodingFormat: encodingFormat object has invalid datatype and/or check cardinality. ";
+  sh:message "Error ArtWork-encodingFormat: encodingFormat object has invalid datatype. ";
    ] ;
+
+  sh:property [
+  sh:deactivated false;
+  sh:path schema:license;
+  sh:nodeKind sh:IRI ;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-license: invalid IRI datatype. ";
+   ];
 
   sh:property [
   sh:deactivated false;
   sh:path schema:license;
   sh:minCount 1 ;
   sh:maxCount 1;
-  sh:nodeKind sh:IRI ;
   sh:severity sh:Violation ;
-  sh:message "Error ArtWork-license: invalid datatype or exactly one path is required . ";
+  sh:message "Error ArtWork-license: exactly one path is required. ";
    ].
 
-sh:CreativeWork a sh:NodeShape ; ###problem with cardinality
+sh:CreativeWork a sh:NodeShape ;
 sh:targetClass schema:CreativeWork ;
+  sh:property [
+  sh:path schema:dateCreated;
+  sh:deactivated false;
+  sh:maxCount 1;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-dateCreated: invalid datatype: dateCreated's data type must have exactly dateCreated path. ";
+   ];
+
   sh:property [
   sh:path schema:dateCreated;
   sh:deactivated false;
   sh:maxCount 1;
   sh:languageIn ("nl");
   sh:severity sh:Violation ;
-  sh:message "Error ArtWork-dateCreated: invalid datatype: dateCreated's data type must be gYear or/and must have exactly dateCreated path. ";
+  sh:message "Error ArtWork-dateCreated: invalid datatype: dateCreated's data type have language tag. ";
+   ];
+
+  sh:property [
+  sh:path schema:publisher;
+  sh:deactivated false;
+  sh:nodeKind sh:IRI ;
+  sh:severity sh:Violation ;
+  sh:message "Error publisher: Invalid IRI datatype.";
    ];
 
   sh:property [
@@ -83,9 +135,16 @@ sh:targetClass schema:CreativeWork ;
   sh:deactivated false;
   sh:minCount 1 ;
   sh:maxCount 1;
+  sh:severity sh:Violation ;
+  sh:message "Error publisher: invalid path, exactly one path required.";
+   ];
+
+  sh:property [
+  sh:path schema:additionalType;
+  sh:deactivated false;
   sh:nodeKind sh:IRI ;
   sh:severity sh:Violation ;
-  sh:message "Error publisher: Invalid datatype or/and missing path.";
+  sh:message "Error additionalType: additionalType has invalid IRI datatype.  ";
    ];
 
   sh:property [
@@ -93,9 +152,16 @@ sh:targetClass schema:CreativeWork ;
   sh:deactivated false;
   sh:minCount 1 ;
   sh:maxCount 1;
-  sh:nodeKind sh:IRI ;
   sh:severity sh:Violation ;
-  sh:message "Error additionalType: additionalType has invalid datatype and has exactly one type path.  ";
+  sh:message "Error additionalType: additionalType has exactly one type path.  ";
+   ];
+
+  sh:property [
+  sh:path schema:name;
+  sh:deactivated false;
+  sh:languageIn ( "nl");
+  sh:severity sh:Violation ;
+  sh:message "Error name: Name must have language tag @nl.  ";
    ];
 
   sh:property [
@@ -103,18 +169,24 @@ sh:targetClass schema:CreativeWork ;
   sh:deactivated false;
   sh:minCount 1 ;
   sh:maxCount 1;
-  sh:languageIn ( "nl");
   sh:severity sh:Violation ;
-  sh:message "Error name: Name must be exactly one and/or has language tag @nl.  ";
+  sh:message "Error name: Name must be exactly one.  ";
    ];
 
   sh:property [
   sh:path schema:material;
   sh:deactivated false;
   sh:maxCount 1;
+  sh:severity sh:Violation ;
+  sh:message "Error material: at least one material path is required.  ";
+   ];
+
+  sh:property [
+  sh:path schema:material;
+  sh:deactivated false;
   sh:nodeKind sh:IRI ;
   sh:severity sh:Violation ;
-  sh:message "Error material: material's datatype is invalid and/or at least one material path is required.  ";
+  sh:message "Error material: material's datatype is invalid.  ";
    ];
 
   sh:property [
@@ -122,35 +194,64 @@ sh:targetClass schema:CreativeWork ;
   sh:deactivated false;
   sh:minCount 1 ;
   sh:maxCount 1;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-isBasedOn: ArtWork must have at least version. ";
+   ];
+
+  sh:property [
+  sh:path schema:isBasedOn;
+  sh:deactivated false;
   sh:nodeKind sh:IRI ;
   sh:severity sh:Violation ;
-  sh:message "Error ArtWork-isBasedOn: ArtWork must have at least version and/or has invalid datatype . ";
+  sh:message "Error ArtWork-isBasedOn: ArtWork has invalid datatype. ";
    ];
 
   sh:property [
   sh:path schema:description;
   sh:deactivated false;
   sh:maxCount 1;
+  sh:severity sh:Violation ;
+  sh:message "Error description: description must be one description path. ";
+   ];
+
+  sh:property [
+  sh:path schema:description;
+  sh:deactivated false;
   sh:languageIn ("nl");
   sh:severity sh:Violation ;
-  sh:message "Error description: description must have @nl tag and must be one description path. ";
+  sh:message "Error description: description must have @nl tag. ";
    ];
 
   sh:property [
   sh:path schema:image;
   sh:deactivated false;
-  sh:minCount 1 ;
-  sh:maxCount 1;
   sh:nodeKind sh:BlankNode ;
   sh:severity sh:Violation ;
-  sh:message "Error image: datatype is not correct or/and image must have exactly image object.  ";
+  sh:message "Error image: nodeKind is not correct.  ";
    ];
+
+     sh:property [
+  sh:path schema:image;
+  sh:deactivated false;
+  sh:minCount 1 ;
+  sh:maxCount 1;
+  sh:severity sh:Violation ;
+  sh:message "Error image: image must have exactly image object.  ";
+   ];
+
   sh:property [
   sh:path edmfp:technique;
   sh:deactivated false;
-  ##sh:minCount 1 ;
+  sh:maxCount 1;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-technique: technique must have at least one path. ";
+   ];
+
+  sh:property [
+  sh:path edmfp:technique;
+  sh:deactivated false;
   sh:nodeKind sh:IRI ;
   sh:severity sh:Violation ;
-  sh:message "Error ArtWork-technique: technique must have at least one path and/or has invalid datatype . ";
+  sh:message "Error ArtWork-technique: technique has invalid datatype . ";
    ];
  .
