@@ -19,7 +19,6 @@ Find your python path on your system :
 
 python = "C:\Program Files\Python37\python.exe"
 
-`python csv-triple.py`
 `python csv-triple_final.py`
 
 ### 3- Folders after running script:
