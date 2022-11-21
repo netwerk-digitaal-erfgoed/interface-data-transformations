@@ -1,0 +1,7 @@
+<http://vocab.getty.edu/aat/300021474> <https://schema.org/endDate> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://vocab.getty.edu/aat/300021474> <https://schema.org/startDate> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://vocab.getty.edu/aat/300022208> <https://schema.org/name> "Postmodern"@nl .
+<http://vocab.getty.edu/aat/300021474> <https://schema.org/name> "Modernist"@nl .
+<http://vocab.getty.edu/aat/300022208> <https://schema.org/startDate> "1970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://vocab.getty.edu/aat/300022208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/DefinedTerm> .
+<http://vocab.getty.edu/aat/300021474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/DefinedTerm> .

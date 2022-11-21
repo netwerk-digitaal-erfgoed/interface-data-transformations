@@ -1,0 +1,504 @@
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002019> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/7578> ;
+    schema:dateCreated "1968"^^xsd:gYear ;
+    schema:description "Trompe-l'oeil"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002019/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002019> ;
+    schema:name "Visgerei"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1968" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002022> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/33103>,
+        <https://data.rkd.nl/artists/59047>,
+        <https://data.rkd.nl/artists/7990> ;
+    schema:dateCreated "1699"^^xsd:gYear ;
+    schema:description "Bij dit werk hoort een lijst inv. nr. 1524."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002022/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002022> ;
+    schema:name "Schepen bij zonsondergang in stormachtig weer"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1699" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002040> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/16695> ;
+    schema:dateCreated "1926"^^xsd:gYear ;
+    schema:description "Stilleven"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002040/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002040> ;
+    schema:name "Schaal met vruchten"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1926" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002045> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/19654> ;
+    schema:dateCreated "1924"^^xsd:gYear ;
+    schema:description "Daeye, Suzanne"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002045/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002045> ;
+    schema:name "Portret van Suzanna Daeye (dochter van de kunstenaar)"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1924" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002046> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/19654> ;
+    schema:dateCreated "1919"^^xsd:gYear ;
+    schema:description "Daeye, Yvonne"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002046/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002046> ;
+    schema:name "Meisje met rode sjaal"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1919" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002100> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/39049> ;
+    schema:dateCreated "1764"^^xsd:gYear ;
+    schema:description "'Fellow Society of Antoquaries'. Hij was de stichter van het Lock Hospital in Londen en tevens 'governor' van het Foundling Hospital, dat nog bestaat."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002100/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002100> ;
+    schema:name "Portret van Daniel Lock F.S.A. (1753)"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1764" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300056513> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002136> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/45163> ;
+    schema:dateCreated "1655"^^xsd:gYear ;
+    schema:description "De dood van Herodes Agrippa (Handelingen 12: 21-23). Stond eerder ten onrechte bekend als 'Salomo's oordeel'. Is door J.I. Kuznetzow (zie literatuurvermeldingen) beschreven als de dood van Herodes Agrippa."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002136/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002136> ;
+    schema:name "De dood van Herodes Agrippa"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1655" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002154> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/49212> ;
+    schema:dateCreated "1820"^^xsd:gYear ;
+    schema:description "W.H. van Nellesteijn (1788-1864)"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002154/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002154> ;
+    schema:name "Portret van W.H. van Nellesteijn."@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1820" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300056513> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002155> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/49212> ;
+    schema:dateCreated "1820"^^xsd:gYear ;
+    schema:description "Mw. M.C. van Nellesteijn - Von König (1785-1824)"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002155/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002155> ;
+    schema:name "Portret van mevr. M.C. van Nellesteijn - Von König"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1820" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300056513> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002166> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/4345>,
+        <https://data.rkd.nl/artists/51956> ;
+    schema:dateCreated "1800"^^xsd:gYear ;
+    schema:description "Bij dit schilderij hoort een lijst apart opgenomen als inv. nr. 1534."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002166/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002166> ;
+    schema:name "Stilleven met flessen"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1800" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300056513> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002167> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/4345>,
+        <https://data.rkd.nl/artists/51956> ;
+    schema:dateCreated "1806"^^xsd:gYear ;
+    schema:description "Bij dit schilderij hoort een lijst, apart opgenomen als inv. nr. 1534."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002167/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002167> ;
+    schema:name "Stilleven met geplukte kip"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1806" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300056513> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002209> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/65295> ;
+    schema:dateCreated "1923"^^xsd:gYear ;
+    schema:description "Stilleven, op een tafel voor een raam: een schaal met appels, een kan, een glas."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002209/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002209> ;
+    schema:name "Stilleven"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1923" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002215> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/66553> ;
+    schema:dateCreated "1699"^^xsd:gYear ;
+    schema:description "Portret van een monnik, staand ter driekwart diepte, met doodshoofd in zijn linkerhand"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002215/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002215> ;
+    schema:name "Franciscaner monnik"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1699" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002218> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/66719> ;
+    schema:dateCreated "1922"^^xsd:gYear ;
+    schema:description "Zonder dreigende lucht"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002218/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002218> ;
+    schema:name "Gezicht in Rotterdam"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1922" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002270> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/76786> ;
+    schema:dateCreated "1660"^^xsd:gYear ;
+    schema:description "Kopie in klein formaat naar een werk van Jacopo Bassano in de verzameling van aartshertog Leopold Wilhelm te Brussel. Naar Terniers kopieen verschenen in 1660 gravures."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002270/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002270> ;
+    schema:name "Landschap met de barmhartige Samaritaan"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1660" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002277> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/78260> ;
+    schema:dateCreated "1742"^^xsd:gYear ;
+    schema:description "Portret van Egidius Tolling, 43 jaar oud, zijn vrouw Golina Smith, 36 jaar oud en hun zoon Egidius Laurens, 17 jaar oud, in een interieur. Familie uit Deventer."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002277/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002277> ;
+    schema:name "Familie Tolling."@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1742" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002278> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/67915>,
+        <https://data.rkd.nl/artists/78260> ;
+    schema:dateCreated "1750"^^xsd:gYear ;
+    schema:description "Bij dit schilderij hoort een lijst, inv. nr. 1528."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002278/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002278> ;
+    schema:name "Portret van een man"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1750" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300056513> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002284> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/78930> ;
+    schema:dateCreated "1918"^^xsd:gYear ;
+    schema:description "Eugène de Stuers (1879-1940)"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002284/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002284> ;
+    schema:name "Portret Jhr. Eugène de Stuers"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1918" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002321> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/24420>,
+        <https://data.rkd.nl/artists/85180> ;
+    schema:dateCreated "1650"^^xsd:gYear ;
+    schema:description "Bij het werk hoort een lijst inv. nr. 3132"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002321/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002321> ;
+    schema:name "Havengezicht"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1650" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002325> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/86112> ;
+    schema:dateCreated "1923"^^xsd:gYear ;
+    schema:description "Gemberpot met roserode roosjes"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002325/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002325> ;
+    schema:name "Gemberpot"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1923" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002354> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/27138> ;
+    schema:dateCreated "1642"^^xsd:gYear ;
+    schema:description "Portret van een man, zeventig jaar oud, staand ter halve diepte, in zwart kostuum met kanten kraag"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002354/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002354> ;
+    schema:name "Mansportret"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1642" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002355> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/80476> ;
+    schema:dateCreated "1700"^^xsd:gYear ;
+    schema:description "Portret van een jongeman, ter halve diepte, in bruin kostuum"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002355/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002355> ;
+    schema:name "Jongensportret"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1700" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002360> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/39452>,
+        <https://data.rkd.nl/artists/49886>,
+        <https://data.rkd.nl/artists/80476>,
+        <https://data.rkd.nl/artists/83001>,
+        <https://data.rkd.nl/artists/85180> ;
+    schema:dateCreated "1700"^^xsd:gYear ;
+    schema:description "Herfstlandschap met ruiters en badende figuren."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002360/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002360> ;
+    schema:name "Boslandschap met ruiters te paard"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1700" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002361> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/80476> ;
+    schema:dateCreated "1664"^^xsd:gYear ;
+    schema:description "Portret van Frederik de Marselaere, staande ter driekwart diepte, in zwart kostuum en met hoed"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002361/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002361> ;
+    schema:name "Portret van Frederik de Marselaere"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1664" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002364> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/79592>,
+        <https://data.rkd.nl/artists/80476> ;
+    schema:dateCreated "1657"^^xsd:gYear ;
+    schema:description "De drie vrouwen bij het graf"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000002364/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000002364> ;
+    schema:name "De drie Maria's bij het geopende graf van Christus."@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1657" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000003179> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/46668> ;
+    schema:dateCreated "1835"^^xsd:gYear ;
+    schema:description "Portret van Catharina Margaretha Kemper, geb. 27 augustus 1802, overl. 27 april 1873, gehuwd met mr. Christiaan Diemont"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000003179/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000003179> ;
+    schema:name "Portret mevr. Dimont geb. Kemper"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1835" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300056513> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004027> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/84167> ;
+    schema:dateCreated "1923"^^xsd:gYear ;
+    schema:description "persoon"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000004027/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004027> ;
+    schema:name "Portret Frans Wiegers"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1923" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004043> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/77150> ;
+    schema:dateCreated "1900"^^xsd:gYear ;
+    schema:description "vrouwspersoon"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000004043/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004043> ;
+    schema:name "Meisjesportret Péronne Arntzenius"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1900" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004088> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/56665> ;
+    schema:dateCreated "1676"^^xsd:gYear ;
+    schema:description "Ruig landschap met links op de achtergrond een kerktoren. in het midden staan vier figuren vrij dicht op elkaar, in gesprek ?.Midden voor staat links een vrouw en rechts een man, cavelier? Rechts achter is een boerderij te zien."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000004088/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004088> ;
+    schema:name "Landschap, de wandeling"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1676" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004089> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/81475> ;
+    schema:dateCreated "1675"^^xsd:gYear ;
+    schema:description "Interieur van de Oude Kerk te Delft."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000004089/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004089> ;
+    schema:name "Oude kerk te Delft."@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1675" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004090> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/59115> ;
+    schema:dateCreated "1673"^^xsd:gYear ;
+    schema:description "Stilleven met links midden een sinasappel, met daar achter een peer. Op één van de bladeren aan de peer zit een vlinder. Naast deze stukken fruit liggen nog enkele mispels"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000004090/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004090> ;
+    schema:name "Stilleven van vruchten met vlinder"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1673" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004091> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/84577> ;
+    schema:dateCreated "1625"^^xsd:gYear ;
+    schema:description "Kunstgezicht met op de voorgrond mensen die vis verkopen. daar achter enkele schepen. Bij één schip worden netten binnengehaald en vis van boord geladen."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/0000004091/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/0000004091> ;
+    schema:name "Schepen in baai"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1625" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000042> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/2458> ;
+    schema:dateCreated "1980"^^xsd:gYear ;
+    schema:description "In dikke witte verflagen met iets rood is een driehoekige compositie gevormd op zwarte ondergrond."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/9000000042/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000042> ;
+    schema:name "Fahne"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1980" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000175> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/16920> ;
+    schema:dateCreated "1929"^^xsd:gYear ;
+    schema:description "figuren"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/9000000175/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000175> ;
+    schema:name "Dejeuner sur l'herbe"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1929" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000860> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/17076> ;
+    schema:dateCreated "1964"^^xsd:gYear ;
+    schema:description "landschap"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/museum-de-fundatie/9000000860/2000> ;
+            schema:license <https://rightsstatements.org/page/InC/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/museum-de-fundatie/9000000860> ;
+    schema:name "Passif central"@nl ;
+    schema:publisher <https://www.museumdefundatie.nl/> ;
+    schema:temporal "1964" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+

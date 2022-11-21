@@ -1,0 +1,17 @@
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://vocab.getty.edu/aat/300021147> a schema:DefinedTerm ;
+    schema:endDate 1750 ;
+    schema:name "Baroque"@nl ;
+    schema:startDate 1600 .
+
+<http://vocab.getty.edu/aat/300021474> a schema:DefinedTerm ;
+    schema:endDate 1970 ;
+    schema:name "Modernist"@nl ;
+    schema:startDate 1890 .
+
+<http://vocab.getty.edu/aat/300022208> a schema:DefinedTerm ;
+    schema:name "Postmodern"@nl ;
+    schema:startDate 1970 .
+

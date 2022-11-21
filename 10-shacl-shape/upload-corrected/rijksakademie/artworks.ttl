@@ -1,0 +1,1540 @@
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0731> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/35054> ;
+    schema:dateCreated "1927"^^xsd:gYear ;
+    schema:description "Portret van een zittende, mogelijk in slaap gevallen man met snor."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0731.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0731> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0731> ;
+    schema:name "Slapende man"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1927" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0753> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/56546> ;
+    schema:dateCreated "1929"^^xsd:gYear ;
+    schema:description "Staand vrouwelijk naakt met opgestoken rood haar, op de rug gezien met het lichaam naar naar links gedraaid."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0753.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0753> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0753> ;
+    schema:name "Vrouwelijk naakt"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1929" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0775> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/56695> ;
+    schema:dateCreated "1929"^^xsd:gYear ;
+    schema:description "Ontwerp wijnkalender met een decoratief glas en een tros druiven in rood en blauwgroen. Tekst: 'Wijnkalender 1930. Vereen. van Nederl. Wijnhandelaars. Aangeboden door de Ver. v. Ned. Wijnhandelaars.'"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0775.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0775> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0775> ;
+    schema:name "Wijnkalender"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1929" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0876> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/127551> ;
+    schema:dateCreated "1881"^^xsd:gYear ;
+    schema:description "David speelt harp voor Saul, die op een bank zit in een ruimte met een rode vloer en links een zuil. Op de achtergrond staat een slaaf met een stok."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0876%20R.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0876> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0876> ;
+    schema:name "David speelt op zijn harp voor Koning Saul (I Sam. 16:23)"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1886" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021503> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0888> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/90806> ;
+    schema:dateCreated "1884"^^xsd:gYear ;
+    schema:description "Rechts vier vrouwen met hoofddoeken en een mand met stoffen. Links een vrouw en naast haar een man met baard in een lang gewaad. Links een wenend figuur bij een bed met een dode of zieke. Aquarel in kleur: rood, blauw, goen, bruin. Is dit 'De dood van Maria'? Haar vriendinnen verdelen haar kleding terwijl ze Jozef het slechte nieuws vertellen. verso: schets van jongen met hoge hoed en pijp."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0888%20R.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0888> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0888> ;
+    schema:name "Bijbels tafereel / verso: studie van een man met pijp"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1887" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021503> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0917> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/89220> ;
+    schema:dateCreated "1880"^^xsd:gYear ;
+    schema:description "Schoolkinderen in een straatje in Rome, op de achtergrond staat een tempel"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0917.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0917> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0917> ;
+    schema:name "Romeinse schoolkinderen"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1884" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021503> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0918> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/89220> ;
+    schema:dateCreated "1878"^^xsd:gYear ;
+    schema:description "Jonge vrouw neemt geitje mee naar huis naar de blinde oude man Profeet Tobias."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0918.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0918> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0918> ;
+    schema:name "Profeet Tobias"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1884" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021503> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0920> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/58027> ;
+    schema:dateCreated "1886"^^xsd:gYear ;
+    schema:description "Spartaan met bebloede toga. Omringd en veroordeeld door oudere mannen."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0920.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0920> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0920> ;
+    schema:name "Jonge Spartaan met de vos"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1887" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021503> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0924> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/56719> ;
+    schema:dateCreated "1893"^^xsd:gYear ;
+    schema:description "Ovidius en soldaten met helm, schild en lans aan land. Rechts komt een vrouw met kind aanlopen en links staat een oude man met een stok. Beiden dragen alleen een doek op de heupen, het kind is naakt. Op de achtergrond ligt in het water een bootje met enkele personen erin."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0924.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0924> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0924> ;
+    schema:name "De verbanning van Ovidius"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1893" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0927> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/52685> ;
+    schema:dateCreated "1892"^^xsd:gYear ;
+    schema:description "Mogelijk is dit de verbeelding van Mozes die de herders verjoeg."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0927.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0927> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0927> ;
+    schema:name "Herders in een landschap"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1894" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0928> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/48974> ;
+    schema:dateCreated "1888"^^xsd:gYear ;
+    schema:description "Blonde vrouw in een blauwe lange jurk zit blootsvoets op een balkon, in een luisterende houding met de hand aan een oor. Aan de muur achter haar zijn telefoonkabels bevestigd. Verbeelding onderwerp: Telegrafie of telefonie voor fresco in voorhal van post- of beursgebouw."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0928.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0928> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0928> ;
+    schema:name "Allegorie van de telegrafie"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1892" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021503> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0929> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/88859> ;
+    schema:dateCreated "1885"^^xsd:gYear ;
+    schema:description "De jongeling Zephyr staat met een cape om en een bloem in de hand bij de oude Boreas, die naakt en met de handen gebonden op de grond ligt, naar links. Afbeelding is in kleur; op de achtergrond is een dierenriem in een circel."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0929b.a.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0929> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0929> ;
+    schema:name "Zephyr verjaagt Boreas"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1894" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021503> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0930> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/88859> ;
+    schema:dateCreated "1875"^^xsd:gYear ;
+    schema:description "Schets boven een pilaar met decoratieve lijst. Zephyr staat met een bloementak in de hand boven Boreas, die naakt op de grond ligt. Afbeelding in kleur met rechts een schetsje van een arm."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0930%20R.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0930> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0930> ;
+    schema:name "Zephyr verjaagt Boreas"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1885" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021503> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0932> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/45596> ;
+    schema:dateCreated "1880"^^xsd:gYear ;
+    schema:description "Zes mannen in een bos, waarvan een gewond is. Rechts ligt een bloedend zwijn."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0932%20R.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0932> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0932> ;
+    schema:name "Meleager en het dode zwijn, met de dood van Atalatanta"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1885" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021503> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0933> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/224445> ;
+    schema:dateCreated "1883"^^xsd:gYear ;
+    schema:description "Twee naakte jongens met schapen. Romulus en Remus, hoeden kudde runderen, maar zij beramen ommuring (stichting) vd stad Rome."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0933.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0933> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0933> ;
+    schema:name "Romulus en Remus"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1888" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021503> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0934> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/24940> ;
+    schema:dateCreated "1889"^^xsd:gYear ;
+    schema:description "In een dorp met omheining prediken drie monniken met een kruis voor een groepje mensen. Bij de monniken staat een os, en links komen een aantal mannen in middeleeuwse kleding en met houwelen op de schouder door een poortje aanlopen. Achterzijde: schets van twee monniken. Verbeelding onderwerp: Peter van Amiens: predict met twee andere geestelijken met kruisbeeld in rechterhand, binnen omheining boerenhoeve in Noord Frankrijk, hij heeft het woord gericht tot groep vrouwen, de mannen komen door de poort van veldarbeid terug."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0934R.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0934> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0934> ;
+    schema:name "Peter van Amiens"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1893" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021503> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0936> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/24940> ;
+    schema:dateCreated "1889"^^xsd:gYear ;
+    schema:description "Mannen in middeleeuwse kleding en een houweel op de schouder, lopen door een houten poort een gehuchtje binnen. Links kijken een kind en een vrouw met een kruik in de hand toe. Verbeelding onderwerp: Peter van Amiens: predict met twee andere geestelijken met kruisbeeld in rechterhand, binnen omheining boerenhoeve in Noord Frankrijk, hij heeft het woord gericht tot groep vrouwen, de mannen komen door de poort van veldarbeid terug."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0936.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0936> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0936> ;
+    schema:name "Peter van Amiens"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1893" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021503> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0937> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/24940> ;
+    schema:dateCreated "1880"^^xsd:gYear ;
+    schema:description "Drie monniken prediken voor een groep mensen. Bij hen staat een ezel. Verso: schets prediker. Verbeelding onderwerp: Peter van Amiens: predict met twee andere geestelijken met kruisbeeld in rechterhand, binnen omheining boerenhoeve in Noord Frankrijk, hij heeft het woord gericht tot groep vrouwen, de mannen komen door de poort van veldarbeid terug."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0937.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0937> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0937> ;
+    schema:name "Peter van Amiens"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1893" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021503> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0938> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/24940> ;
+    schema:dateCreated "1889"^^xsd:gYear ;
+    schema:description "Figuurstudie van mannen, vrouwen en kinderen in middeleeuwse kleding. Ze staan in vier groepen. Verbeelding onderwerp: Peter van Amiens: predict met twee andere geestelijken met kruisbeeld in rechterhand, binnen omheining boerenhoeve in Noord Frankrijk, hij heeft het woord gericht tot groep vrouwen, de mannen komen door de poort van veldarbeid terug."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0938%20R.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0938> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0938> ;
+    schema:name "Peter van Amiens"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1893" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021503> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0939> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/24940> ;
+    schema:dateCreated "1889"^^xsd:gYear ;
+    schema:description "Oude man, vrouw en kind in een interieur. vermoedelijk een bijbelse voorstelling."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0939.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0939> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0939> ;
+    schema:name "Interieur met figuren"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1893" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021503> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0956> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/423762> ;
+    schema:dateCreated "1930"^^xsd:gYear ;
+    schema:description "Rechts loopt een jongeman met knots weg; links ligt een ander neergeslagen voor een brandend offerblok."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0956.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0956> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0956> ;
+    schema:name "Kaïn en Abel"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1930" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0974A> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/40418> ;
+    schema:dateCreated "1924"^^xsd:gYear ;
+    schema:description "Schetsontwerp voor oorkonde in kleur. Tekst omringd door miniatuurvoorstellingen over Indië: figuren aan het werk, twee boten onderweg. Geheel in een decoratieve omlijsting gezet. Tekst: Aan de Nederlandsche Handelmaatschappij. Wordt in dankbare herrinnering der velen belangrijke diensten in een tijdperk van honderd jaren aan Handel en Industrie bewezen, op dezen Feestdag 29 Maart 1924 zes door Prof. Dr. A.J. Derkinderen geschilderde glasramen, ter plaatsing in de bestuurskamer der Maatschappij aangeboden door: ..."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0974%20A.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0974A> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0974A> ;
+    schema:name "Ontwerp Oorkonde Nederl. Handelmaatsch."@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1924" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0974B> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/40418> ;
+    schema:dateCreated "1924"^^xsd:gYear ;
+    schema:description "Schetsontwerp oorkonde in kleur. Bovenaan negen miniatuurtjes met figuren aan het werk in Indië en een boot. Onder de tekst een tekening van figuur met buffel en kar. Het geheel heeft een decoratieve omlijsting met rechts onder drie aapjes."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0974B.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0974B> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0974B> ;
+    schema:name "Ontwerp Oorkonde Nederl. Handelmaatsch."@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1924" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0974C> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/40418> ;
+    schema:dateCreated "1924"^^xsd:gYear ;
+    schema:description "Schetsontwerp oorkonde in kleur. Een tekst wordt gedragen door vijf pilaren in Amsterdamse Schoolstijl; waaronder drie miniaturen samengevoegd tot een decoratief geheel. Miniaturen tonen figuren op het land aan het werk in Indië en twee buffels bij een waterput. Rechts en links boven twee decoratieve indische miniaturen."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0974%20C.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0974C> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0974C> ;
+    schema:name "Ontwerp Oorkonde Nederl. Handelmaatsch."@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1924" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/0974D> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/40418> ;
+    schema:dateCreated "1924"^^xsd:gYear ;
+    schema:description "Schetsontwerp oorkonde Nederlandsche Handelmaatschappij. Zeven opgeplakte middeleeuws aandoende miniaturen in rood en blauw, met werkende figuren. Tekst: (A)an de (N)ederlandsche (H)andelsmaa... wordt... 6 door A.J. Derkinderen ..."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/0974D.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/0974D> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/0974D> ;
+    schema:name "Ontwerp Oorkonde Nederl. Handelmaatsch."@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1924" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/1081> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/19049> ;
+    schema:dateCreated "1895"^^xsd:gYear ;
+    schema:description "Friese klok in een interieur, tussen twee ramen met blauw kozijnen en naast een bidprentje, waarop de aanbidding van Maria. Links staan delfts-blauwe bordjes."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/1081.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/1081> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/1081> ;
+    schema:name "Friese klok"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1895" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/1091> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/88433> ;
+    schema:dateCreated "1895"^^xsd:gYear ;
+    schema:description "Boerin bij een waterput met links een schuur en boomgaard. De horizon heeft een roze gloed."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/1091.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/1091> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/1091> ;
+    schema:name "Boerin bij een waterput"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1895" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/1101> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/367987> ;
+    schema:dateCreated "1895"^^xsd:gYear ;
+    schema:description "Boerderij tussen de bomen, met paard en varkens in de wei."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/1101.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/1101> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/1101> ;
+    schema:name "Boerderij"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1895" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/1108> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/45392> ;
+    schema:dateCreated "1895"^^xsd:gYear ;
+    schema:description "Portret van een slapende vrouw, profiel naar rechts."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/1108.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/1108> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/1108> ;
+    schema:name "Slapende vrouw"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1895" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/1125> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/120997> ;
+    schema:dateCreated "1895"^^xsd:gYear ;
+    schema:description "Studieblad met gevogelte: duiven, kalkoenen en hanen. Links boven een schets van een hond."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/1125.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/1125> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/1125> ;
+    schema:name "Studieblad met gevogelte"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1895" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/1130> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/338508> ;
+    schema:dateCreated "1892"^^xsd:gYear ;
+    schema:description "Aasgieren op rotsen aan zee."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/1130.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/1130> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/1130> ;
+    schema:name "Aasgieren"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1892" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/1135> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/366188> ;
+    schema:dateCreated "1895"^^xsd:gYear ;
+    schema:description "Treurwilgje aan het water bij een brug."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/1135.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/1135> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/1135> ;
+    schema:name "Treurwilg bij brug"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1895" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/1136> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/127551> ;
+    schema:dateCreated "1895"^^xsd:gYear ;
+    schema:description "Portret boerin met klederdrachten aan en een kapje op, en face en tot schouderhoogte weergegeven."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/1136.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/1136> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/1136> ;
+    schema:name "Portret van boerin"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1895" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/1137> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/89334> ;
+    schema:dateCreated "1895"^^xsd:gYear ;
+    schema:description "Witte narcis in een getekende omlijsting."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/1137.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/1137> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/1137> ;
+    schema:name "Witte narcis"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1895" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/1158> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/367782> ;
+    schema:dateCreated "1895"^^xsd:gYear ;
+    schema:description "Landschap met een boerderij en hooischelf."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/1158.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/1158> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/1158> ;
+    schema:name "Boerderij met hooischelf"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1895" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/1194> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/41744> ;
+    schema:dateCreated "1871"^^xsd:gYear ;
+    schema:description "Kerkje aan het water, met vogels boven het meer en bomen op de achtergrond."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/1194.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/1194> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/1194> ;
+    schema:name "Kerkje aan het water"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1895" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021503> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/3079> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/24940> ;
+    schema:dateCreated "1908"^^xsd:gYear ;
+    schema:description "Studie ornament voor bankbiljet in ruitverdeling, kwadratuur (rood), met in een blauwe cirkel: 25."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/3079.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/3079> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/3079> ;
+    schema:name "Ornament-studie voor bankbiljet"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1915" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/3178> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/1197> ;
+    schema:dateCreated "1912"^^xsd:gYear ;
+    schema:description "Jonge vrouw met opgestoken haar en in een lange blauwe jurk, slapend op een leunstoel met haar hoofd leunend op de armen."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/3178.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/3178> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/3178> ;
+    schema:name "Slapende vrouw"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1912" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/3179> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/1197> ;
+    schema:dateCreated "1911"^^xsd:gYear ;
+    schema:description "Portret van een dame met een zwart lint in het haar, profiel naar links."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/3179.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/3179> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/3179> ;
+    schema:name "Damesportret"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1911" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/3451> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/13852> ;
+    schema:dateCreated "1916"^^xsd:gYear ;
+    schema:description "Portret van de in vergadering verenigde commissie van toezicht, bestaande uit vijf heren, vermoedelijk waren dit: mr. G.M. den Tex, voorzitter der commissie, M.P. Voûte, mr. H.K. Westendorp, mr. F. Kranenburg en E. Heldring. De vergadering vindt plaats in de Rijksakademie met tegen de achterwand schilderijen van de Prix de Rome en een gipsen beeld."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/3451%20A.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/3451> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/3451> ;
+    schema:name "Portret Commissie van Toezicht"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1916" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/3627> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/2020>,
+        <https://data.rkd.nl/artists/9547> ;
+    schema:dateCreated "1926"^^xsd:gYear ;
+    schema:description "Studie voor de uitgave 'Een vruchtenmandje' door Lizzy Ansingh (tekst) en Nelly Bodenheim (illustraties)."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/3627%20R.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/3627> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/3627> ;
+    schema:name "Een vruchtenmandje - omslag"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1927" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/3627A> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/2020>,
+        <https://data.rkd.nl/artists/9547> ;
+    schema:dateCreated "1926"^^xsd:gYear ;
+    schema:description "Studie voor de uitgave 'Een vruchtenmandje' door Lizzy Ansingh (tekst) en Nelly Bodenheim (illustraties)."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/3627%20A.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/3627A> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/3627A> ;
+    schema:name "Een vruchtenmandje - originele omslag"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1927" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/3627B> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/2020>,
+        <https://data.rkd.nl/artists/9547> ;
+    schema:dateCreated "1926"^^xsd:gYear ;
+    schema:description "Studie voor de uitgave 'Een vruchtenmandje' door Lizzy Ansingh (tekst) en Nelly Bodenheim (illustraties)."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/3627%20B.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/3627B> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/3627B> ;
+    schema:name "Een vruchtenmandje - vrouw"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1927" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/3627C> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/2020>,
+        <https://data.rkd.nl/artists/9547> ;
+    schema:dateCreated "1926"^^xsd:gYear ;
+    schema:description "Studie voor de uitgave 'Een vruchtenmandje' door Lizzy Ansingh (tekst) en Nelly Bodenheim (illustraties)."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/3627%20C.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/3627C> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/3627C> ;
+    schema:name "Een vruchtenmandje - vrouw"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1927" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/3627D> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/2020>,
+        <https://data.rkd.nl/artists/9547> ;
+    schema:dateCreated "1926"^^xsd:gYear ;
+    schema:description "Studie voor de uitgave 'Een vruchtenmandje' door Lizzy Ansingh (tekst) en Nelly Bodenheim (illustraties)."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/3627%20D%20R.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/3627D> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/3627D> ;
+    schema:name "Een vruchtenmandje - Citroenen"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1927" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/3627E> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/2020>,
+        <https://data.rkd.nl/artists/9547> ;
+    schema:dateCreated "1926"^^xsd:gYear ;
+    schema:description "Studie voor de uitgave 'Een vruchtenmandje' door Lizzy Ansingh (tekst) en Nelly Bodenheim (illustraties). Verso tekst over exemplaren en bindwijze, en een studie van een vrouw."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/3627%20E%20R.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/3627E> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/3627E> ;
+    schema:name "Een vruchtenmandje - Vruchten zuchten"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1927" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/3627F> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/2020>,
+        <https://data.rkd.nl/artists/9547> ;
+    schema:dateCreated "1926"^^xsd:gYear ;
+    schema:description "Studie voor de uitgave 'Een vruchtenmandje' door Lizzy Ansingh (tekst) en Nelly Bodenheim (illustraties). Verso een studie van een vrouw."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/3627%20F%20R.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/3627F> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/3627F> ;
+    schema:name "Een vruchtenmandje - Spaanse peper"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1927" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/3627G> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/2020>,
+        <https://data.rkd.nl/artists/9547> ;
+    schema:dateCreated "1926"^^xsd:gYear ;
+    schema:description "Studie voor de uitgave 'Een vruchtenmandje' door Lizzy Ansingh (tekst) en Nelly Bodenheim (illustraties). Verso aantekeningen."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/3627%20G%20R.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/3627G> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/3627G> ;
+    schema:name "Een vruchtenmandje - Sierpompoen"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1927" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/3627H> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/2020>,
+        <https://data.rkd.nl/artists/9547> ;
+    schema:dateCreated "1926"^^xsd:gYear ;
+    schema:description "Studie voor de uitgave 'Een vruchtenmandje' door Lizzy Ansingh (tekst) en Nelly Bodenheim (illustraties)."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/3627%20H.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/3627H> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/3627H> ;
+    schema:name "Een vruchtenmandje - Kers"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1927" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/3627I> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/2020>,
+        <https://data.rkd.nl/artists/9547> ;
+    schema:dateCreated "1926"^^xsd:gYear ;
+    schema:description "Studie voor de uitgave 'Een vruchtenmandje' door Lizzy Ansingh (tekst) en Nelly Bodenheim (illustraties)."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/3627%20I%20R.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/3627I> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/3627I> ;
+    schema:name "Een vruchtenmandje - Kers"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1927" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/3627J> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/2020>,
+        <https://data.rkd.nl/artists/9547> ;
+    schema:dateCreated "1926"^^xsd:gYear ;
+    schema:description "Studie voor de uitgave 'Een vruchtenmandje' door Lizzy Ansingh (tekst) en Nelly Bodenheim (illustraties)."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/3627%20J.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/3627J> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/3627J> ;
+    schema:name "Een vruchtenmandje - Prei"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1927" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/3627K> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/2020>,
+        <https://data.rkd.nl/artists/9547> ;
+    schema:dateCreated "1926"^^xsd:gYear ;
+    schema:description "Studie voor de uitgave 'Een vruchtenmandje' door Lizzy Ansingh (tekst) en Nelly Bodenheim (illustraties). Verso studies van vrouwen."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/3627%20K%20R.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/3627K> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/3627K> ;
+    schema:name "Een vruchtenmandje - Prei"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1927" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/3627L> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/2020>,
+        <https://data.rkd.nl/artists/9547> ;
+    schema:dateCreated "1926"^^xsd:gYear ;
+    schema:description "Studie voor de uitgave 'Een vruchtenmandje' door Lizzy Ansingh (tekst) en Nelly Bodenheim (illustraties). Verso studie voor 'april'."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/3627%20L%20R.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/3627L> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/3627L> ;
+    schema:name "Een vruchtenmandje - Dans"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1927" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/3627M> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/2020>,
+        <https://data.rkd.nl/artists/9547> ;
+    schema:dateCreated "1926"^^xsd:gYear ;
+    schema:description "Studie voor de uitgave 'Een vruchtenmandje' door Lizzy Ansingh (tekst) en Nelly Bodenheim (illustraties)."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/3627%20M.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/3627M> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/3627M> ;
+    schema:name "Een vruchtenmandje - salade"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1927" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/3627N> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/2020>,
+        <https://data.rkd.nl/artists/9547> ;
+    schema:dateCreated "1926"^^xsd:gYear ;
+    schema:description "Studie voor de uitgave 'Een vruchtenmandje' door Lizzy Ansingh (tekst) en Nelly Bodenheim (illustraties). Verso studie."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/3627%20N%20R.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/3627N> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/3627N> ;
+    schema:name "Een vruchtenmandje - citroen"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1927" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/3627O> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/2020>,
+        <https://data.rkd.nl/artists/9547> ;
+    schema:dateCreated "1926"^^xsd:gYear ;
+    schema:description "Studie voor de uitgave 'Een vruchtenmandje' door Lizzy Ansingh (tekst) en Nelly Bodenheim (illustraties)."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/3627%20O.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/3627O> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/3627O> ;
+    schema:name "Een vruchtenmandje - kokosnoot"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1927" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/4098> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/3> ;
+    schema:dateCreated "1750"^^xsd:gYear ;
+    schema:description "Drie naakte putti liggen in de wolken; zij maken een vogel tam aan een draad. De vierde linksonder heeft de vogelkooi vast. RESTEN VAN SIGNATUUR L.O. - nog niet geidentificeerd!!!!"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/4098.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/4098> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/4098> ;
+    schema:name "Allegorie van de lente (naar Dirk van der AA?)"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1800" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300056513> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/4101> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/341120>,
+        <https://data.rkd.nl/artists/63882> ;
+    schema:dateCreated "1771"^^xsd:gYear ;
+    schema:description "Vier mannen en een vrouw drinkend aan tafel in een interieur met huisraad, een bedstee in de achterswand en rechts een open haard. De man in het midden schenkt met een kruik bekers in. Rechts geeft een jongetje een klein meisje te drinken, een poes kijkt toe en links loopt een wit hondje. Op de voorgrond liggen drie speelkaarten op de grond. Kopie naar Van Ostade."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/4101.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/4101> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/4101> ;
+    schema:name "Het ontbijt, naar Van Ostade"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1771" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300056513> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/5196> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/8492> ;
+    schema:dateCreated "1841"^^xsd:gYear ;
+    schema:description "Zuil met acanthusbladeren."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/5196.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/5196> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/5196> ;
+    schema:name "Zuil met acanthusbladeren"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1841" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300056513> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/6007A> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/75229> ;
+    schema:dateCreated "1960"^^xsd:gYear ;
+    schema:description "Kast met fruitschaal."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/6007%20A.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/6007A> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/6007A> ;
+    schema:name "Stilleven"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1980" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/6007B> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/75229> ;
+    schema:dateCreated "1940"^^xsd:gYear ;
+    schema:description "Kast met fruitschaal."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/6007%20B.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/6007B> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/6007B> ;
+    schema:name "Stilleven"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "2000" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/6007C> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/75229> ;
+    schema:dateCreated "1940"^^xsd:gYear ;
+    schema:description "Kast met fruitschaal."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/6007%20C.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/6007C> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/6007C> ;
+    schema:name "Stilleven"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "2000" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/6225> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/13852> ;
+    schema:dateCreated "1915"^^xsd:gYear ;
+    schema:description "25-jarig jubileum prof. Jan Six - voorstudie"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/6225.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/6225> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/6225> ;
+    schema:name "25-jarig jubileum prof. Jan Six - voorstudie"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1915" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/6682> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/77095> ;
+    schema:dateCreated "1967"^^xsd:gYear ;
+    schema:description "Dek van een boot."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/6682.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/6682> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/6682> ;
+    schema:name "Prinses Margriet Holland Amerika Lijn"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1967" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/6683> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/77095> ;
+    schema:dateCreated "1967"^^xsd:gYear ;
+    schema:description "Dek van een boot."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/6683.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/6683> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/6683> ;
+    schema:name "Prinses Margriet Holland Amerika Lijn"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1967" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/7025> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/13852> ;
+    schema:dateCreated "1916"^^xsd:gYear ;
+    schema:description "Aquarel ter gelegenheid van het 25 jarig jubileum van professor van der Waay. Afgebeeld is een rij mensen die hulde brengen aan de professor die in de deuropening staat. Onder de mensen in de rij, bevinden zich leerlingen, oud-leerlingen, hoogleraren en de commissie van toezicht en personificaties van bekende kunstenaars zoals Michelangelo en Rembrandt. Drie personen dragen een map met daarop de tekst \"Aan Prof. N. van der Waay - Zijn verknochte leerlingen en oud leerlingen\". Om de afbeelding is een decoratieve rand geschilderd met bovenaan het woord \"Schilderkunst\". Onderaan staat v.l.n.r. \"1891 - Ontleedkunde - Hulde, hulde aan professor van de Waay! - Kleurenleer - 1916\""@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/7025.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/7025> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/7025> ;
+    schema:name "25-jarig jubileum prof. van der Waay, aquarelontwerp voor een litho"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1916" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/8041> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/49754> ;
+    schema:dateCreated "1933"^^xsd:gYear ;
+    schema:description "Vrouw met lang blond haar, gekleed in een witte jurk, staat voor een poort. Ze blaast op een hoorn die zij met haar rechterhand vasthoudt. In haar linkerhand heeft zij het hoofd van een man met baard. Tekst m.b.: Tekst van heer Halewijn."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/8041.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/8041> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/8041> ;
+    schema:name "Tekst van Heer Halewijn"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1933" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/8086> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/49754> ;
+    schema:dateCreated "1933"^^xsd:gYear ;
+    schema:description "Man met baard (Petrus) staat met zijn voeten in zee. Met zijn linkerhand heeft hij de kop van een grote vis vast. Links liggen twee bootjes en vliegen enkele vogels."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/8086.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/8086> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/8086> ;
+    schema:name "Petrus vindt de stater in de mond van de vis"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1933" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9114> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/32054> ;
+    schema:dateCreated "1925"^^xsd:gYear ;
+    schema:description "Perspectiefstudie van een gebouw met koepel."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9114.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9114> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9114> ;
+    schema:name "Perspectief van een gebouw"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1925" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9115> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/32054> ;
+    schema:dateCreated "1925"^^xsd:gYear ;
+    schema:description "Perspectiefstudie van een kerkje met schaduwen."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9115.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9115> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9115> ;
+    schema:name "Perspectief met schaduwen"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1925" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9139> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/77305> ;
+    schema:dateCreated "1952"^^xsd:gYear ;
+    schema:description "Ontwerp met zandloper, kaart, spin en verrekijker, op de achtergrond een schip, in omlijsting. Tekst m.b.: \"Van oude voyagiën\"."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9139.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9139> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9139> ;
+    schema:name "Van oude voyagien"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1952" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9144> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/72909> ;
+    schema:dateCreated "1928"^^xsd:gYear ;
+    schema:description "Spiertekening van een torso, en face."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9144.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9144> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9144> ;
+    schema:name "Spierstudie"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1928" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9152> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/68679> ;
+    schema:dateCreated "1928"^^xsd:gYear ;
+    schema:description "Spierstudie van een torso, op de rug gezien, met aantekeningen. Rechts onder een kleine schets met inkt."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9152.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9152> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9152> ;
+    schema:name "Spierstudie"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1928" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9153> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/68679> ;
+    schema:dateCreated "1928"^^xsd:gYear ;
+    schema:description "Perspectiefstudie van een huis en brug."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9153.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9153> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9153> ;
+    schema:name "Perspectiefstudie"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1928" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9154> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/68679> ;
+    schema:dateCreated "1928"^^xsd:gYear ;
+    schema:description "Stefanus, staande tegen een muur, wordt gestenigd door een menigte buiten de stadsmuur. Een figuur staat op een verhoging."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9154.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9154> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9154> ;
+    schema:name "Steniging van Stefanus"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1928" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9157> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/68679> ;
+    schema:dateCreated "1928"^^xsd:gYear ;
+    schema:description "Liggende vrouw trekt aan het tuniek van Jozef, die naar buiten wil lopen."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9157.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9157> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9157> ;
+    schema:name "Jozef en de vrouw van Potifar"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1928" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9262> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/12666> ;
+    schema:dateCreated "1933"^^xsd:gYear ;
+    schema:description "Perspectieftekening van een afgerond kruis en schaduw."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9262.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9262> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9262> ;
+    schema:name "Perspectiefstudie"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1933" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9263> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/79063> ;
+    schema:dateCreated "1926"^^xsd:gYear ;
+    schema:description "Perspectieftekening: monument met obelisk en bank. Rechts boven staat: Schaal L.a. 20. Zon//Tafreel L 45° met grond."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9263.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9263> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9263> ;
+    schema:name "Perspectiefstudie"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1926" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9550> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/68679> ;
+    schema:dateCreated "1928"^^xsd:gYear ;
+    schema:description "Staand mannelijk naakt"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9550.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9550> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9550> ;
+    schema:name "Mannelijk naakt"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1928" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9551> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/72909> ;
+    schema:dateCreated "1928"^^xsd:gYear ;
+    schema:description "Staand mannelijk naakt"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9551.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9551> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9551> ;
+    schema:name "Mannelijk naakt"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1928" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9560> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/13000> ;
+    schema:dateCreated "1932"^^xsd:gYear ;
+    schema:description "Ontwerp voor klok en twee standbeelden"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9560.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9560> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9560> ;
+    schema:name "\"Daar is een tijd steenen weg te werpen en daar is een tijd om steenen te vergaderen \""@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1932" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9599> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/285> ;
+    schema:dateCreated "1979"^^xsd:gYear ;
+    schema:description "Ontwerp met diagonale strepen in verschillende richtingen, kleuren en diktes. Ondertekening met potlood."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9599%201.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9599> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9599> ;
+    schema:name "Ontwerp wandversiering (1:10) personeelskantine St"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1979" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9605> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/285> ;
+    schema:dateCreated "1979"^^xsd:gYear ;
+    schema:description "Ontwerp schets voor de decoratie van een muurvlak, lijnen en vlakken, op dubbelgevouwen stuk papier. Ingekleurd met blauwe en bruine verf. Ondertekening in potlood. Aan de binnen zijde potloodtekening muurvlak."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9605.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9605> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9605> ;
+    schema:name "Ontwerp wandversiering (1:10) personeelskantine St"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1979" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9608> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/285> ;
+    schema:dateCreated "1979"^^xsd:gYear ;
+    schema:description "Twaalf ontwerpschetsen voor de decoratie van een muurvlak op een dubbelgevouwen stuk papier, lijnen en vlakken. Lijnen en vlakken zijn ingekleurd, ondertekening in potlood. Zes tekeningen voorop, zes binnenin."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9608%20R.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9608> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9608> ;
+    schema:name "Ontwerp wandversiering (1:10) personeelskantine St"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1979" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9609> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/285> ;
+    schema:dateCreated "1979"^^xsd:gYear ;
+    schema:description "Zes ontwerpschetsen voor de decoratie van een muurvlak op een dubbelgevouwen stuk papier, lijnen en vlakken. Lijnen en vlakken zijn ingekleurd, ondertekening in potlood."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9609.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9609> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9609> ;
+    schema:name "Ontwerp wandversiering (1:10) personeelskantine St"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1979" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9610> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/285> ;
+    schema:dateCreated "1979"^^xsd:gYear ;
+    schema:description "Zes ontwerpschetsen voor de decoratie van een muurvlak op een dubbelgevouwen stuk papier, lijnen en vlakken. Lijnen en vlakken zijn ingekleurd, ondertekening in potlood."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9610.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9610> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9610> ;
+    schema:name "Ontwerp wandversiering (1:10) personeelskantine St"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1979" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9612> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/285> ;
+    schema:dateCreated "1979"^^xsd:gYear ;
+    schema:description "Zes ontwerpschetsen voor de decoratie van een muurvlak op een dubbelgevouwen stuk papier, lijnen en vlakken. Lijnen en vlakken zijn ingekleurd, ondertekening in potlood."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9612.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9612> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9612> ;
+    schema:name "Ontwerp wandversiering (1:10) personeelskantine St"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1979" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9618> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/73352> ;
+    schema:dateCreated "1979"^^xsd:gYear ;
+    schema:description "verticale kleurvlakken en zwarte dwarsstrepen"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9618.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9618> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9618> ;
+    schema:name "Ontwerp wandversiering personeelskantine Stedelijk Museum"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1979" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/9619> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300404216> ;
+    schema:creator <https://data.rkd.nl/artists/73352> ;
+    schema:dateCreated "1979"^^xsd:gYear ;
+    schema:description "Beige vlakken, grijs en zwart-wit gestreepte verticale banden"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/9619.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/9619> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/9619> ;
+    schema:name "Ontwerp wandversiering personeelskantine Stedelijk Museum"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1979" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/S006> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/70569> ;
+    schema:dateCreated "1977"^^xsd:gYear ;
+    schema:description "Een vrouw met kort haar en in een dun roze jurkje, zit aan een hoek van een gele tafel. Ze steunt met haar ellebogen op het tafelblad. In haar rechterhand houdt zij een glas vast en met haar linkerhand steunt ze het hoofd. De achtergrond is geheel zwart."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/S0006.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/S006> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/S006> ;
+    schema:name "Vrouw aan tafel"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1977" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300022208> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/S016> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/50794> ;
+    schema:dateCreated "1885"^^xsd:gYear ;
+    schema:description "Kopie naar Andrea del Sarto in het Uffizi. Geschilderd door Van Looy tijdens zijn verblijf in Rome nadat hij de Prix de Rome had gewonnen in 1884."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/S016.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/S016> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/S016> ;
+    schema:name "Portret van Baccio Bandinelli, naar Andrea del Sarto"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1885" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021503> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/S058> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/41177> ;
+    schema:dateCreated "1847"^^xsd:gYear ;
+    schema:description "Schilderij met groep van drie figuren, omringd door water en achter hen een rode doek. Links op de voorgrond drijft een boomstam."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/S058.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/S058> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/S058> ;
+    schema:name "De Zondvloed - schets voor De Groote Prijs"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1847" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300056513> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/S059> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/27915> ;
+    schema:dateCreated "1910"^^xsd:gYear ;
+    schema:description "Twee geplukte kippen liggend op een tafel. Links op de voorgrond ligt gereedschap. Op de achtergrond staat een pan."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/S059.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/S059> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/S059> ;
+    schema:name "Geplukte kip"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1962" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/S064> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/31221> ;
+    schema:dateCreated "1929"^^xsd:gYear ;
+    schema:description "Gezicht op een dorp met een kerktoren, waarop een haan staat, met een blauwe lucht erachter. Het werk is geschilderd in bruingetinte kleuren en opgezet in vlakken."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/S064.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/S064> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/S064> ;
+    schema:name "Sloterdijk"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1929" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021474> .
+
+<http://data.collectienederland.nl/resource/document/rijksakademie/S155> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618> ;
+    schema:creator <https://data.rkd.nl/artists/82342> ;
+    schema:dateCreated "1883"^^xsd:gYear ;
+    schema:description "Portret van een vrouw, en face."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://rabk.adlibhosting.com/wwwopacx/wwwopac.ashx?command=getcontent&server=images&value=/kerncollectie/S155.jpg> ;
+            schema:encodingFormat "image/jpg"^^xsd:string ;
+            schema:license <http://rightsstatements.org/page/InC/1.0/?language=nl> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/rijksakademie/S155> ;
+    schema:mainEntityOfPage <http://data.collectienederland.nl/resource/aggregation/rijksakademie/S155> ;
+    schema:name "Portret van een vrouw"@nl ;
+    schema:publisher <https://www.rijksakademie.nl/> ;
+    schema:temporal "1927" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021503> .
+

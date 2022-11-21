@@ -1,0 +1,1894 @@
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/104> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/39445> ;
+    schema:dateCreated "1637"^^xsd:gYear ;
+    schema:description "Dit portret van stadhouder Frederik Hendrik en Amalia van Solms is geschilderd door hun hofschilder Gerrit van Honthorst. Het is een echt heersersportret: het paar is in vol ornaat afgebeeld, levensgroot en ten voeten uit. De aanleiding was dan ook Frederik Hendriks bevrijding van Breda in 1637. Van Honthorst maakte het portret voor de Grote Zaal van Huis ter Nieuburg, het stadhouderlijk buiten bij Rijswijk. Maar dat schilderij ging verloren. Het portret dat nu in de Galerij hangt, is een kopie die Van Honthorst maakte voor Constantijn Huygens, de secretaris van de stadhouder. Het hing oorspronkelijk in Huygens’ huis aan het Plein, tegenover het Mauritshuis."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0104/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/104> ;
+    schema:name "Dubbelportret van Frederik Hendrik (1584- 1647) en Amalia van Solms-Braunfels (1602- 1675)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1637 - 1638 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/11> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/6727> ;
+    schema:dateCreated "1648"^^xsd:gYear ;
+    schema:description "Toen oppergod Zeus nog een baby was, dreigde zijn vader hem op te eten. Daarom bracht zijn moeder hem onder bij een koningsdochter. Hier ligt de kleine veilig te slapen op haar schoot. Een grijnzende faun draagt juist een kuip met melk aan. Berchem schilderde vooral kleine landschappen. Mogelijk wilde hij met dit grote, mythologische schilderij laten zien dat hij geschikt was als schilder voor de Oranjezaal van Paleis Huis ten Bosch in Den Haag. Tevergeefs, de prestigieuze opdracht ging naar anderen."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0011_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/11> ;
+    schema:name "De opvoeding van Zeus"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1648" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/111> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/56042> ;
+    schema:dateCreated "1670"^^xsd:gYear ;
+    schema:description "De bloemstillevenschilder Mignon was afkomstig uit Frankfurt en woonde in Utrecht. Zijn uitbundige bloemstillevens lijken veel op die van zijn leermeester Jan Davidsz de Heem, maar zijn wat harder van vorm en kleur. Het schilderij hoort bij een ander bloemstilleven in de collectie van het Mauritshuis. Beide boeketten komen uit bezit van de familie van Oranje-Nassau en hingen in de 18de eeuw in slot Oranienstein in het Duitse Dietz."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0111_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/111> ;
+    schema:name "Bloemen in een metalen vaas"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1670" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/112> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/56042> ;
+    schema:dateCreated "1670"^^xsd:gYear ;
+    schema:description "Mignon was gespecialiseerd in dit soort weelderige bloemstillevens. Rechts op de plint schilderde hij een oranjeappel – een duidelijke verwijzing naar de familie van Oranje-Nassau. Net als een ander bloemstilleven van Mignon komt het schilderij uit het bezit van de Oranjes en hing het in de 18de eeuw in slot Oranienstein in het Duitse Dietz."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0112_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/112> ;
+    schema:name "Bloemen in een glazen vaas"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1670" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/113> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/56078> ;
+    schema:dateCreated "1663"^^xsd:gYear ;
+    schema:description "Wolfert van de Brederode was ongeveer 14 jaar oud toen de Haagse hofschilder Mijtens hem portretteerde. Hij stamde uit een oud adellijk geslacht en was een neefje van de stadhouder. Wolfert draagt een Romeins soldatenkostuum. Dat is een verwijzing naar zijn militaire functie; zo jong als hij was, had hij al de leiding over een compagnie van de cavalerie. De zogeheten trofeeënlijst hoort bij het schilderij en is versierd met allerlei oorlogstuig, zoals een kanon, strijdtrommels, een trompet en helmen."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0113_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/113> ;
+    schema:name "Portret van Wolfert van Brederode (1649-1679)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1663" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/114> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/56078> ;
+    schema:dateCreated "1665"^^xsd:gYear ;
+    schema:description "Dit is prinses Maria van Oranje met links van haar haar neefje Hendrik en rechts een tweede jongen. <i>Zijn</i> naam weten we niet. Hij was een van de zwarte bedienden aan het hof en waarschijnlijk als klein jongetje door de WIC naar de Republiek verscheept – als cadeau voor de prinses. Maria was de zevende en jongste dochter van stadhouder Frederik Hendrik en Amalia van Solms. Mijtens portretteerde haar kort voor ze trouwde. Het huwelijk werd gevierd in Kleef, bij Maria’s lievelingsoom Johan Maurits. "@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0114_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/114> ;
+    schema:name "Portret van Maria van Oranje (1642-1688), met Hendrik van Nassau-Zuylestein (overleden in 1673) en een bediende"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1665" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/117> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/57803> ;
+    schema:dateCreated "1564"^^xsd:gYear ;
+    schema:description "Met zijn hand elegant in de zij kijkt Steven van Herwijck ons aan. Met zijn andere hand wijst hij naar wat gouden sieraden op tafel; Van Herwijck was penningsnijder, medaillonmaker en goudsmid. Hij was afkomstig uit Utrecht, maar werkte later in Antwerpen. Het portret is geschilderd door Anthonis Mor, die ook in Utrecht en Antwerpen woonde. Mor schilderde levensechte portretten, waarop hij zijn opdrachtgevers vaak in driekwart afbeeldde."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0117_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/117> ;
+    schema:name "Portret van Steven van Herwijck (c.1530-1565/67)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1564" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021140> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/118> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/57653> ;
+    schema:dateCreated "1634"^^xsd:gYear ;
+    schema:description "Van de Utrechtse schilder Paulus Moreelse zijn vier zelfportretten bekend. Dit exemplaar maakte hij toen hij in de zestig was. Hij draagt een donkere tabbaard en een uitbundig geplooide kraag, kleding die in de jaren dertig al uit de mode was. Moreelse houdt een leeg tekenvel vast, als symbool voor de kunstenaar die vanuit het niets een kunstwerk maakt. Het blad zegt tegelijkertijd iets over het belang dat Moreelse hechtte aan goed tekenonderwijs als basis van een deugdelijke schildersopleiding."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0118_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/118> ;
+    schema:name "Zelfportret"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1634 - 1635 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/119> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/65765> ;
+    schema:dateCreated "1617"^^xsd:gYear ;
+    schema:description "Een kraag van fijn kant en een parelsnoer om de hals. Kostbare sieraden met edelstenen en een jurk vol goudborduursel. Dit is Catharina Belgica van Nassau, de derde dochter van Willem van Oranje en diens derde echtgenote Charlotte de Bourbon. Catharina Belgica was 39 toen ze werd geportretteerd door de Haagse schilder Jan van Ravesteyn. Het schilderij maakte deel uit van de stadhouderlijke verzameling van stadhouder Frederik Hendrik, Catharina’s halfbroer."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0119_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/119> ;
+    schema:name "Portret van Catharina Belgica (1578-1648)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1617" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/12> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/6727> ;
+    schema:dateCreated "1659"^^xsd:gYear ;
+    schema:description "Berchem toont hier de volle actie van een jachtpartij. Een jager richt zijn loop op het wilde zwijn dat vecht voor zijn leven. Langs de bosrand wordt een ander zwijn opgejaagd, terwijl op de voorgrond een dode ree ligt. Links liggen de honden uit te hijgen. Deze jachtscène bevond zich in de kleine maar uitgelezen verzameling van Govert van Slingelandt. Toen die in 1768 overleed, kocht prins Willem V de hele collectie op. Hij was toen 20 jaar oud. Dit soort deftige landschappen zullen de prins aangesproken hebben – de jachtpartijen op Paleis het Loo waren hem met de paplepel ingegoten. Dit was zijn eigen wereld."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0012/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/12> ;
+    schema:name "Wilde zwijnenjacht"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1659" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/120> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/65765> ;
+    schema:dateCreated "1618"^^xsd:gYear ;
+    schema:description "Dit schilderij is afkomstig uit de familie van Johan Maurits, degene voor wie het Mauritshuis werd gebouwd. Op het portret staat te lezen wie de dame is: Ernestina, femme de conte Jan de Nassau – vrouw van graaf Jan van Nassau. Deze Jan was een halfbroer van Johan Maurits van Nassau-Siegen en was – tot ontzetting van de rest van de protestantse familie – openlijk katholiek. Jan van Ravesteyn schilderde Ernestina in vol ornaat, met in haar haar een kostbaar sieraad van parels en oranjebloesem."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0120_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/120> ;
+    schema:name "Portret van Ernestine Yolande (1594-1663), prinses van Ligne"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1618" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/128> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/61082> ;
+    schema:dateCreated "1662"^^xsd:gYear ;
+    schema:description "In een rommelige herberg zitten drie mannen rond een tafeltje. Een van hen buigt zich naar voren om zijn pijp aan te steken, terwijl de man tegenover hem zijn glas heft en de derde zijn viool stemt. De Haarlemmer Van Ostade was gespecialiseerd in scènes met dorpelingen en boeren, die hij weergaf in een vrij losse stijl. Dit soort boertige schilderijen waren in trek bij de keurige stedelingen, die zich vermaakten om het onhandige gedrag van die plompe types."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0128_master/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/128> ;
+    schema:name "Boeren in een herberg"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1662" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/129> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/61082> ;
+    schema:dateCreated "1673"^^xsd:gYear ;
+    schema:description "Bij een herberg op het platteland heerst vrolijkheid: een rondreizende vioolspeler komt aan de deur om een lied te spelen. Hij wordt begeleid op de draailier door het jongetje met de rode jas. Jong en oud vermaakt zich met de muziek. De Haarlemse schilder Adriaen van Ostade schilderde heel wat vrolijke gezelschappen van boeren en buitenlui. Hij was daarmee een voorbeeld voor Jan Steen, misschien was hij zelfs diens leermeester."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0129_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/129> ;
+    schema:name "Vioolspeler"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1673" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/137> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/64519> ;
+    schema:dateCreated "1648"^^xsd:gYear ;
+    schema:description "Het is een stralende zomerdag in deze voorstelling van Paulus Potter. Mensen spelen in het water, terwijl het vee toekijkt en verkoeling zoekt in de schaduw en het water. Potter leefde zich uit in de weerspiegelingen in dat water. Het schilderij dankt er dan ook zijn naam aan. Hoewel Potter de dieren natuurgetrouw en gedetailleerd weergaf, kloppen hun verhoudingen niet helemaal. Het grazende schaap bijvoorbeeld, is te groot als je het vergelijkt met de drinkende koe. Dit komt waarschijnlijk doordat Potter de dieren afzonderlijk schetste. Die schetsen voegde hij samen zonder de onderlinge verhoudingen helemaal goed af te stemmen."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0137_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/137> ;
+    schema:name "'Het spiegelende koetje'"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1648" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/138> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/64519> ;
+    schema:dateCreated "1652"^^xsd:gYear ;
+    schema:description "In een weide staan wat runderen in het late middaglicht. Rechts, in de schaduw bij de knotwilg, liggen wat varkens tevreden in de modder. Potter werd vooral beroemd door <i>De stier</i>, het uitzonderlijk grote schilderij dat zich ook in de collectie van het Mauritshuis bevindt. Dit is een voorbeeld van wat hij gewoonlijk maakte: veestukken op een veel kleiner formaat – heel geschikt om in een burgerhuis aan de muur te hangen."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0138_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/138> ;
+    schema:name "Vee in de weide"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1652" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/14> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/6727> ;
+    schema:dateCreated "1670"^^xsd:gYear ;
+    schema:description "In de bergen wordt een konvooi met paarden, rijtuigen en gewapende begeleiders aangevallen door een bende rovers. Er wordt geschoten en er vallen slachtoffers – het is een onstuimige warreling van figuren en paarden. De steile, grillige rotsen maken de voorstelling extra dramatisch. De Haarlemse schilder Berchem maakte dit schilderij naar een voorbeeld van Pieter van Laer."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0014_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/14> ;
+    schema:name "Aanval op een konvooi"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1670" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/143> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/65765> ;
+    schema:dateCreated "1612"^^xsd:gYear ;
+    schema:description "Aan het begin van de 17de eeuw was Jan van Ravesteyn een van de belangrijkste portretschilders in Den Haag. Hij schilderde een serie van 25 officiersportretten met steeds dezelfde opzet: de mannen zijn vanaf de heupen weergegeven en dragen een harnas. Hun helmen zijn versierd met oranje pluimen, een verwijzing naar de opperbevelhebber van het leger: prins Maurits van Oranje. De serie portretten is afkomstig uit een van de Haagse paleizen van de Oranjes."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0143_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/143> ;
+    schema:name "Portret van een officier"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1612" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/145> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/66219> ;
+    schema:dateCreated "1631"^^xsd:gYear ;
+    schema:description "Jozef en Maria zijn in de tempel om de pasgeboren Jezus op te dragen aan God. Daar wordt het kind door Simeon herkend als de langverwachte Messias. De oude man neemt hem in zijn armen en heft een loflied aan. Het goddelijke licht dat hem overspoelt, lijkt uit het kind zelf te komen. Rembrandt was 25 jaar en woonde nog in Leiden, toen hij deze voorstelling schilderde. In hetzelfde jaar verhuisde hij naar Amsterdam, waar hij veel groter ging werken en voor het eerst portretten maakte."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0145_repro_1/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/145> ;
+    schema:name "Het loflied van Simeon"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1631" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/147> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/66219> ;
+    schema:dateCreated "1636"^^xsd:gYear ;
+    schema:description "Suzanna wil juist een bad nemen als twee oude mannen uit de bosjes opduiken. Ze kijkt geschrokken op – de mannen rechts achter haar zijn nauwelijks te zien in het donker. De twee proberen Suzanna tot seks te dwingen, door te dreigen lasterpraat te zullen verspreiden. Rembrandt gaf Suzanna in het volle licht weer, waardoor ze in al haar naaktheid nog kwetsbaarder lijkt. Hij schilderde geen geïdealiseerde vrouw, maar een van vlees en bloed. De afdruk van haar uitgetrokken kousen staat nog in haar kuiten."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0147_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/147> ;
+    schema:name "Suzanna"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1636" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/148> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/66219> ;
+    schema:dateCreated "1629"^^xsd:gYear ;
+    schema:description "Lange tijd werd dit schilderij beschouwd als een zelfportret van de jonge Rembrandt. Maar na uitgebreid onderzoek bleek dat het een heel goede kopie is van een zelfportret van Rembrandt, gemaakt door een van zijn leerlingen. Het origineel – dat Rembrandt wél maakte – bevindt zich in Neurenberg. Dit paneel is dus niet door Rembrandt geschilderd, maar stelt wel de 23-jarige schilder voor."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0148_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/148> ;
+    schema:name "Portret van Rembrandt (1606-1669) met ringkraag"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1629" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/149> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/66219> ;
+    schema:dateCreated "1635"^^xsd:gYear ;
+    schema:description "Een man draait zijn hoofd naar rechts en kijkt ons over zijn schouder aan. Hij is opvallend uitgedost met een baret met veren en een mantel met goudborduursel. Het licht valt helder op zijn gezicht en laat het metaal van zijn ringkraag mooi glanzen. Het schilderij is geen portret maar een tronie, een karakterkop. In dit geval van een soldaat, die op zijn 'antyks' gekleed gaat. Rembrandt signeerde het schilderij niet met RHL (Rembrandt Harmenszoon Leydensis), zoals hij lang gedaan had, maar alleen met zijn voornaam."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0149_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/149> ;
+    schema:name "Tronie van een man met gevederde baret"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1635 - 1640 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/151> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/69063> ;
+    schema:dateCreated "1700"^^xsd:gYear ;
+    schema:description "Dit boeket heeft zijn beste tijd gehad: de bloemen hangen slap en beginnen te verkleuren. Uit het midden is een verwelkte Slaapbol weggeknipt. De lege plek die daardoor ontstaat, geeft het boeket diepte. Rachel Ruysch was gespecialiseerd in dit soort overdadige bloemstillevens. Haar liefde voor bloemen en planten had ze van haar vader, de beroemde Amsterdamse botanicus Frederik Ruysch. Rachel had een internationale schilderscarrière en werkte tot op zeer hoge leeftijd door."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0151_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/151> ;
+    schema:name "Vaas met bloemen"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1700" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/155> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/68835> ;
+    schema:dateCreated "1670"^^xsd:gYear ;
+    schema:description "In dit schilderij legde Van Ruisdael de essentie van het Hollandse landschap vast. Vanaf een hoog duin kijken we over het vlakke land in de richting van Haarlem, de stad in de verte. Daarboven strekt zich een onmetelijke lucht uit waarin stapelwolken voorbijglijden. Van Ruisdael liet de zon door de wolken schijnen, waardoor licht en schaduw elkaar afwisselen. Via de zonnige plekken leidt hij onze blik de diepte in, van de velden waar linnen ligt te bleken, naar de Haarlemse Bavokerk in de verte."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0155_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/155> ;
+    schema:name "Gezicht op Haarlem met bleekvelden"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1670 - 1675 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/16> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/9120> ;
+    schema:dateCreated "1626"^^xsd:gYear ;
+    schema:description "In opdracht van stadhouder Frederik Hendrik en zijn vrouw Amalia van Solms schilderde Abraham Bloemaert een serie schilderijen met klassieke onderwerpen. Dit grote, helder gekleurde doek maakte hij voor hun buiten in Honselaarsdijk. Te zien is hoe in het Griekse Delphi Theagenes een hardloopwedstrijd wint. Chariclea reikt hem de erepalm uit, waarop Theagenes haar een handkus geeft. Spontaan ontbrandt bij beiden het liefdesvuur. Het verhaal is een verwijzing naar de liefde tussen Frederik Hendrik en Amalia."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/016_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/16> ;
+    schema:name "Theagenes ontvangt de erepalm van Chariclea"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1626" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/160> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/70145> ;
+    schema:dateCreated "1690"^^xsd:gYear ;
+    schema:description "De betekenis van deze voorstelling van de fijnschilder Schalcken was voor 17de-eeuwers meteen duidelijk. Het gaat om de les die de jonge, modieuze vrouw krijgt, terwijl ze bijna het vogeltje uit zijn kistje laat ontsnappen; de vogel staat symbool voor haar maagdelijkheid. De oude vrouw naast haar steekt vermanend haar vinger op en waarschuwt voor de gevaren van de liefde. Maar haar les is nutteloos – de jonge maagd heeft er geen oren naar."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0160_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/160> ;
+    schema:name "De nutteloze zedenles"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1690" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/161> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/70145> ;
+    schema:dateCreated "1690"^^xsd:gYear ;
+    schema:description "Dit paneel hoort bij ‘De nutteloze zedenles’ van Godfried Schalken. Het laat zien wat de gevolgen zijn wanneer je onbezonnen met je maagdelijkheid omspringt. Een jonge vrouw staat te snikken, terwijl de dokter – een piskijker – haar urine bestudeert. Daarin ziet hij een zuigeling zwemmen, het bewijs dat ze zwanger is. De man links is boos, maar de jongen rechts lacht om de pijnlijke situatie. Hij maakt een obsceen gebaar, terwijl hij de toeschouwer aankijkt."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0161_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/161> ;
+    schema:name "Het onderzoek van de dokter"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1690" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/166> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/74809> ;
+    schema:dateCreated "1660"^^xsd:gYear ;
+    schema:description "Steen maakte iets bijzonders van dit kinderportret. Hij plaatste het meisje in een hoenderhof, terwijl ze een lammetje melk te drinken geeft. Ze wordt omringd door een bonte verzameling vogels. Twee bonkige knechten kijken geamuseerd toe – door hun aanwezigheid lijkt het meisje nog liever en aandoenlijker. Het kind is Jacoba van Wassenaer. Op de achtergrond staat het kasteel waar ze woonde: Kasteel Lokhorst of Oud-Teijlingen. Toen Steen het portret schilderde, woonde hij daar vlakbij in Warmond."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0166_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/166> ;
+    schema:name "Portret van Jacoba Maria van Wassenaer (1654-1683), bekend als 'De hoenderhof'"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1660" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/167> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/74809> ;
+    schema:dateCreated "1660"^^xsd:gYear ;
+    schema:description "Een van Jan Steens lievelingsonderwerpen was het doktersbezoek of het zieke meisje. Het is een humoristisch onderwerp waar Steen goed mee uit de voeten kon. Een kwijnende jonge vrouw wordt onderzocht door een arts. Hij wordt in de maling genomen, want het meisje veinst te lijden aan een op drift geraakte baarmoeder. Artsen namen deze ziekte indertijd heel serieus en kenden maar één remedie: de zieke moest naar bed met haar geliefde. En daar is het dit meisje om te doen."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0167_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/167> ;
+    schema:name "Het zieke meisje"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1660" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/168> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/74809> ;
+    schema:dateCreated "1665"^^xsd:gYear ;
+    schema:description "Diep in de kussens ligt een meisje ziek in bed. De dokter, die een bezoek aflegt, laat zich intussen een glaasje inschenken door de dienstmeid. Waarschijnlijk lijdt het meisje aan een op drift geraakte baarmoeder, een ziekte die vooral jonge maagden trof. De aandoening werd destijds door medici heel serieus genomen, maar Steen ging het vooral om de komische kanten ervan. De hondjes op de trap laten zien wat de remedie is: zo’n meisje moest snel aan de man."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0168_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/168> ;
+    schema:name "Het doktersbezoek"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1665 - 1668 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/17> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/9120> ;
+    schema:dateCreated "1638"^^xsd:gYear ;
+    schema:description "Op Bloemaerts schilderij van het bruiloftsmaal van Peleus en Thetis is het bruidspaar zelf nergens te bekennen. Het eigenlijke onderwerp is het moment dat de godin van de tweedracht, Eris, een gouden appel op tafel gooit. Voor de mooiste godin. Oppergod Jupiter durft er zijn vingers niet aan te branden en geeft de herder Paris opdracht om de appel aan Juno, Minerva of Venus te geven. Paris kiest voor Venus – haar blanke rug is dan ook prachtig. Maar zijn oordeel leidt tot een dramatische afloop van het feest. En tot de Trojaanse Oorlog. Prins Willem V kocht dit schilderij op een veiling toen hij 23 jaar was. Het was een van de laatste stukken die hijaanschafte voor zijn collectie. Maar hij haalde er wel een blijvende vermaning aan bestuurders mee in huis: kijk uit voor beslissingen zoals die van Paris, want daar komt enkel ellende van."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0017/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/17> ;
+    schema:name "Het godenmaal bij de bruiloft van Peleus en Thetis"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1638" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/170> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/74809> ;
+    schema:dateCreated "1665"^^xsd:gYear ;
+    schema:description "Het gordijn is opgetild, zodat we vrij zicht hebben op een gelagkamer, waar jong en oud zich vermaken met eten, drinken, spelen en flirten. Maar het ging Jan Steen niet alleen om de vrolijke gezelligheid. Zijn boodschap zit verstopt in een klein detail bij het raam. Daar ligt op de donkere zoldering een jongetje bellen te blazen, met naast zich een doodshoofd. Het leven is prachtig, maar spat uiteindelijk als een zeepbel uit elkaar."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0170_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/170> ;
+    schema:name "Het leven van de mens"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1665" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/176> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/10682> ;
+    schema:dateCreated "1653"^^xsd:gYear ;
+    schema:description "Ter Borch werd beroemd met intieme voorstellingen van mensen die opgaan in hun bezigheid, vaak onbewust van onze aanwezigheid. Bijzonder is zijn talent om verschillende materialen weer te geven, zoals het glanzende satijn van de rok van het meisje. We zien hier een soldaat die een brief heeft gekregen van een bode. Het is niet moeilijk te bedenken dat de brief een oproep is om naar het front te gaan, weg van het meisje dat verliefd tegen hem aanleunt."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0176_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/176> ;
+    schema:name "De boodschapper, bekend als 'De onwelkome boodschap'"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1653" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/177> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/10682> ;
+    schema:dateCreated "1668"^^xsd:gYear ;
+    schema:description "Een voornaam man van de regentenklasse: zo portretteert Ter Borch zichzelf hier. Zijn kleding is uitbundig met opvallende schoenen met strikken, een kanten befje en lange pruik. De schilder zat in het stadsbestuur van Deventer en lijkt zijn maatschappelijk succes te willen tonen met dit ten voeten uit geschilderde portret. Zo’n portret was ongebruikelijk voor burgers, maar Ter Borch maakte het zijn handelsmerk. Ter Borch schilderde ook zijn vrouw Geertruyd Mathijssen. Hun portretten hingen waarschijnlijk in familiekring als pendanten naast elkaar als herinnering aan het echtpaar. Later werden ze verkocht en is het portret van Geertruyd verdwenen – hopelijk vinden we Geertruyd ooit weer terug."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0177_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/177> ;
+    schema:name "Zelfportret"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1668" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/19> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/10080> ;
+    schema:dateCreated "1669"^^xsd:gYear ;
+    schema:description "Dit is Engel de Ruyter, de 20-jarige zoon van admiraal Michiel de Ruyter. Net als zijn vader liet hij zich portretteren door Ferdinand Bol. Die liet Engel zien als een heerser, ondanks diens jonge leeftijd. De schepen op de achtergrond zijn geschilderd door Van de Velde de Jonge, een specialist in zeegezichten. De vergulde lijst van het schilderij is origineel. Hij is rijk gedecoreerd met attributen die verwijzen naar de marine."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0019_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/19> ;
+    schema:name "Portret van Engel de Ruyter (1649-1683)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1669" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/196> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/78723> ;
+    schema:dateCreated "1671"^^xsd:gYear ;
+    schema:description "Een leger trekt ten strijde in een zonovergoten landschap. De klassieke ruïnes doen denken aan het Forum in Rome, maar waarschijnlijk is Van der Ulft zelf nooit in Italië geweest en baseerde hij zich op prenten. De vrij onbekende Van der Ulft heeft voornamelijk architectuurstukken geschilderd, niet alleen met Italiaanse maar ook met Hollandse gebouwen."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0196_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/196> ;
+    schema:name "Optrekkend leger te midden van Romeinse ruïnes"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1671" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/198> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/79763> ;
+    schema:dateCreated "1665"^^xsd:gYear ;
+    schema:description "Op een zomerse dag heeft zich een groep mensen verzameld bij een simpele tent. Op het strand rijden een wagen en een rijtuig, er liggen schepen in de branding. De horizon ligt extreem laag, waardoor het lijkt of we zelf ook op het strand zitten. Zo is er bovendien veel ruimte voor de imposante wolkenlucht en de zachtgele gloed van het zonlicht. Adriaen van de Velde was een meester in de weergave van dit soort atmosferische effecten."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0198_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/198> ;
+    schema:name "Strandgezicht"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1665" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/2> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/565> ;
+    schema:dateCreated "1663"^^xsd:gYear ;
+    schema:description "De bloemstillevens van Van Aelst zijn anders dan die van zijn voorgangers. Hij schilderde geen symmetrische boeketten, maar schikte zijn bloemen langs een diagonale lijn. Bovendien koos hij niet voor een egale belichting, maar voor sterke licht-donkercontrasten. Dat maakt zijn boeketten spannend en dynamisch. Dit uitbundige bloemstuk was bedoeld om mee te pronken. De bloemen staan in een kostbare zilveren vaas, ernaast ligt een verguld horloge. Van Aelst, die in Italië was geweest, signeerde met zijn Italiaanse naam."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0002_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/2> ;
+    schema:name "Bloemstilleven met horloge"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1663" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/20> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/11239> ;
+    schema:dateCreated "1645"^^xsd:gYear ;
+    schema:description "In dit idyllische heuvellandschap valt vooral het licht op. Het is het warme, gouden licht van een laagstaande zon, dat alles doordrenkt. Enkele reizigers trekken over een bergpad en houden halt voor een sanitaire stop. Tussen de bomen door is het rimpelloze water van een meer te zien. Jan Both trok als twintiger naar het zuiden en woonde enkele jaren in Italië. Daar vond hij de inspiratie voor dit soort zonovergoten heuvellandschappen. Terug in zijn geboortestad Utrecht, schilderde hij er tientallen."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/020_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/20> ;
+    schema:name "Italiaans landschap"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1645" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/200> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/79794> ;
+    schema:dateCreated "1658"^^xsd:gYear ;
+    schema:description "Willem van de Velde was, in navolging van zijn vader, gespecialiseerd in schilderijen met schepen. Hier geeft hij een impressie van een vrijwel windstille dag op het water. Rechts hijst de bemanning van een driemaster het voorzeil, terwijl een passagier met een roeiboot naar de wal wordt gebracht. De activiteiten worden gadegeslagen vanaf het jacht op de voorgrond rechts. De achterzijde van het schip – de spiegel – is rijk gedecoreerd, onder andere met een rode Hollandse leeuw en het wapen van Amsterdam."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0200_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/200> ;
+    schema:name "Schepen op de rede"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1658" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/201> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/79794> ;
+    schema:dateCreated "1658"^^xsd:gYear ;
+    schema:description "Willem van de Velde de Jonge schilderde vaak zeegezichten met een lage horizon, windstil weer en grote stapelwolken, die afsteken tegen de blauwe lucht. De slaphangende zeilen zorgen voor een sfeervol spel van licht en schaduw. Centraal ligt hier een rijk gedecoreerd jacht met de Hollandse vlag. Daaromheen zijn vrachtschepen voor anker gegaan en varen enkele roeiboten, waarmee opvarenden van en naar de wal worden vervoerd."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0201_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/201> ;
+    schema:name "Schepen op de rede"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1658" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/204> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/81636> ;
+    schema:dateCreated "1660"^^xsd:gYear ;
+    schema:description "Een jager en zijn hond zitten aan de voet van een boom. Nonchalant houdt de man een dode patrijs en een jachtgeweer in zijn handen. Dit lijkt misschien een onschuldig tafereeltje, maar voor 17de-eeuwers had het een erotische lading: jagen was een synoniem voor de minnejacht, vogelen voor de liefde bedrijven. De jager – in fantasiekleding – is een zelfportret van de Leidse fijnschilder Arie de Vois. Zijn schilderijen onderscheiden zich van het werk van de andere Leidse fijnschilders door hun fluwelige uitstraling."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0204_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/204> ;
+    schema:name "Zelfportret als jager"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1660" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/21> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/11239> ;
+    schema:dateCreated "1645"^^xsd:gYear ;
+    schema:description "Een warm, goudkleurig licht valt over dit Italiaans aandoende landschap. Twee groepjes reizigers passeren elkaar op een smal pad – links is een derde groepje in aantocht. In de vallei baadt een brug in het zonlicht. De bomen op de voorgrond en de koelere kleuren in de verte zorgen voor een mooie diepte. Jan Both woonde als jonge man een aantal jaren in Italië, samen met zijn broer Andries. Hij werd er gegrepen door het Italiaanse landschap. En door het gouden licht. Na terugkomst in Nederland bleef Both dit soort Italiaanse landschappen schilderen. Hij wordt dan ook gerekend tot de Italianisanten."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0021_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/21> ;
+    schema:name "Italiaans landschap"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1645" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/218> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/85690> ;
+    schema:dateCreated "1650"^^xsd:gYear ;
+    schema:description "Een vorstelijke verzameling stelde in de 18de eeuw weinig voor als er niet enkele schilderijen van Philips Wouwerman in zaten. Het belang van een verzameling hing maar ten dele af van de Rembrandts of Vermeers. Toen de beroemde schilder en kunstcriticus Sir Joshua Reynolds de Galerij van Willem V had bezocht, begon hij zijn verslag dus met een opsomming van de Wouwermannen. En de prins zat goed – hij had er wel negen. Maar waarom Wouwerman? Omdat hij zich had gespecialiseerd in weidse landschappen met jachtpartijen, landelijke idylles en paarden, vooral veel paarden. En juist die paarden waren bijzonder geliefd bij 18de-eeuwse vorsten."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0218/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/218> ;
+    schema:name "De hooiwagen"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1650" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/219> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/85690> ;
+    schema:dateCreated "1655"^^xsd:gYear ;
+    schema:description "Wouwerman was dé paardenschilder van de 17de eeuw en schilderde vooral jachtscènes en landschappen met ruiters. Deze veldslag is zijn grootste schilderij. De paarden, ruiters en het voetvolk vormen een bijna onontwarbare kluwen. Alleen de schimmel met de ruiter in het rode jasje springt in het oog. In de 18de eeuw waren Wouwermans schilderijen zeer gewild bij de Europese elite. Stadhouder prins Willem V van Oranje had er maar liefst negen – ze behoren nu tot de collectie van het Mauritshuis."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0219_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/219> ;
+    schema:name "Veldslag"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1655 - 1660 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/223> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/85740> ;
+    schema:dateCreated "1601"^^xsd:gYear ;
+    schema:description "Dit minutieus geschilderde werkje is een typisch voorbeeld van de maniëristische stijl die omstreeks 1600 in de mode was. Kenmerkend zijn de naakte lichamen in ingewikkelde, sierlijke poses. Joachim Wtewael schilderde het op glad koper, een ondergrond waarop hij heel gedetailleerd kon schilderen. Voorgesteld is het overspel van Venus en Mars. Venus’ echtgenoot Vulcanus – u ziet hem links op de rug – heeft het paar op heterdaad betrapt en onthult het bedrog aan de toegestroomde goden."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0223_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/223> ;
+    schema:name "Mars en Venus betrapt door Vulcanus"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1601" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/225> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/44197> ;
+    schema:dateCreated "1579"^^xsd:gYear ;
+    schema:description "Willem van Oranje was ongeveer 46 jaar oud toen de Antwerpse portretschilder Adriaen Thomasz Key dit portret van hem maakte. Het is een van de mooiste portretten van de Vader des Vaderlands. Het portret is lang in restauratie geweest. Het paneel was beschadigd door een forse barst in het hout. Gelukkig was het gezicht goed bewaard gebleven, maar de schouder van de prins moest worden gereconstrueerd. Als voorbeeld voor die reconstructie dienden andere versies van Keys portret."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0225_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/225> ;
+    schema:name "Portret van Willem I (1533-1584), prins van Oranje"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1579" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021140> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/233> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/4015> ;
+    schema:dateCreated "1620"^^xsd:gYear ;
+    schema:description "Op het medaillon in het midden is Cybele te zien, de godin van aarde en natuur. Rond het medaillon hangt een slinger van bloemen, groenten en fruit – een eerbetoon aan de godin en een lofzang op overvloed en vruchtbaarheid. Voor dit schilderij werkte Brueghel samen met Van Balen, die het medaillon voor zijn rekening nam. Brueghel schilderde zelf de uitbundige guirlande, de figuren rondom en de talloze dieren. Hij schilderde zo fijn, dat hij de Fluwelen Brueghel werd genoemd."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0233_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/233> ;
+    schema:name "Krans van vruchten rond een voorstelling met Cybele die geschenken ontvangt van personificaties van de vier jaargetijden"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1620 - 1622 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/239> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/25230> ;
+    schema:dateCreated "1627"^^xsd:gYear ;
+    schema:description "In 1627 liet de Antwerpse lakenkoopman Peeter Stevens zich portretteren door Anthony van Dyck. Toen Stevens een jaar later trouwde, gaf hij Van Dyck de opdracht om ook zijn vrouw Anna te schilderen. Anna kwam links, zodat Steevens niet met zijn rug naar haar toe zou staan. Maar eigenlijk schreven de regels van het huwelijksportret voor dat de man links en de vrouw rechts hing. Van Dyck was na Rubens dé Vlaamse portrettist van zijn tijd. Hij was geliefd omdat hij zijn opdrachtgevers net iets mooier en eleganter maakte dan ze werkelijk waren."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0239_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/239> ;
+    schema:name "Portret van Peeter Stevens (c.1590-1668)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1627" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/240> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/25230> ;
+    schema:dateCreated "1628"^^xsd:gYear ;
+    schema:description "In 1627 liet de Antwerpse lakenkoopman Peeter Stevens zich portretteren door Anthony van Dyck. Toen Stevens een jaar later trouwde, gaf hij Van Dyck de opdracht om ook dit portret van Anna te maken. Anna hangt links, zodat ze niet met haar rug naar Peeter staat. Maar eigenlijk schreven de regels van het huwelijksportret voor dat de man links en de vrouw rechts hing. Van Dyck was na Rubens dé Vlaamse portrettist van zijn tijd. Hij was geliefd omdat hij zijn opdrachtgevers net iets mooier en eleganter maakte dan ze werkelijk waren."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0240_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/240> ;
+    schema:name "Portret van Anna Wake (1605-voor 1669)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1628" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/241> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/35816> ;
+    schema:dateCreated "1640"^^xsd:gYear ;
+    schema:description "Huygens was een belangrijke figuur in politieke en culturele kringen en bevriend met Johan Maurits. Maar hij was ook vader van vijf kinderen en liet zich met hen portretteren. Huygens’ vrouw Suzanna ontbreekt – zij overleed kort na de geboorte van de kleine Susanna. De jongen rechtsboven is Christiaan, die later wereldberoemd werd als natuurkundige. Hanneman maakte vaak portretten van de Oranjes en hun kring. Dit portret van Huygens en zijn kinderen maakte hij voor diens woonhuis aan het Plein, naast het Mauritshuis. "@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0241_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/241> ;
+    schema:name "Portret van Constantijn Huygens (1596-1687) en zijn vijf kinderen"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1640" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/242> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/25230> ;
+    schema:dateCreated "1634"^^xsd:gYear ;
+    schema:description "Deze elegante man is Quijntin Simons, een historieschilder uit Brussel. Met zijn modieuze mantel over zijn schouders, zijn halflange haar en zijn zwierige snor en sik, straalt Simons de aristocratische elegantie uit die kenmerkend is voor de portretten van Anthonie van Dyck. Van Dyck verbleef jarenlang in Italië waar hij faam verwierf met virtuoze staatsieportretten van voorname edelen. In 1632 werd hij hofschilder van de Engelse koning Charles I, maar af en toe reisde hij naar het vasteland om opdrachten uit te voeren, zoals dit portret."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0242_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/242> ;
+    schema:name "Portret van Quintijn Symons (1592 - na 1646)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1634 - 1635 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/245> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/30623> ;
+    schema:dateCreated "1750"^^xsd:gYear ;
+    schema:description "Vijf putti zijn in de weer met druiven, wijn, appels en peren. Het zijn de attributen van de herfst, de periode waarin de oogst binnen wordt gehaald en de druiven worden geperst. Dit bovendeurstuk van de Antwerpse schilder Geeraerts ziet er uit alsof het een marmerreliëf is. Het is geschilderd met heel veel tinten grijs en heet daarom een grisaille. In Nederland worden dit soort marmerimitaties ook wel Witjes genoemd, naar de schilder Jacob de Wit, die zich hierin specialiseerde."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0245/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/245> ;
+    schema:name "Allegorie op de herfst"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1750" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300056513> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/25> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/19498> ;
+    schema:dateCreated "1650"^^xsd:gYear ;
+    schema:description "Hoog op zijn paard zit Pieter de Roovere, heer van Hardinxveld. Hij wijst met zijn zweep op de zalm die de visser hem toont. Op de achtergrond zijn mannen bezig met de zalmvisserij, de belangrijkste bron van inkomsten in Hardinxveld. De lucht is donker, maar aan de horizon is nog net een reep gouden zonlicht te zien. Cuyp, die in het nabijgelegen Dordrecht werkte, koos hier voor een opvallend laag standpunt, waardoor De Roovere hoog boven ons uitsteekt. Dat versterkt zijn imposante voorkomen."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/025_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/25> ;
+    schema:name "Ruiterportret van Pieter de Roovere (1602- 1652)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1650" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/250> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/68737> ;
+    schema:dateCreated "1620"^^xsd:gYear ;
+    schema:description "Dit is een van de twee portretten van Rubens die in de Galerij hangen. Lang is gedacht dat deze liefdevol kijkende vrouw Isabella Brant was, Rubens eerste echtgenote, en dat het andere portret zijn tweede vrouw was, Hélène Fourment. Rubens schilderde vooral de mensen uit zijn directe omgeving, maar of deze twee portretten ook werkelijk zijn eigen vrouwen zijn, is onbekend."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0250/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/250> ;
+    schema:name "Portret van een jonge vrouw"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1620 - 1630 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/252> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/68737> ;
+    schema:dateCreated "1615"^^xsd:gYear ;
+    schema:description "De zwart met witte pij van deze man maakt duidelijk dat hij een Dominicaner monnik is. Het is Michael Ophovius, prior van het Sint-Paulusklooster in Antwerpen. Rubens schilderde de prior met een uitgestoken hand en geopende mond, waardoor het lijkt of de prior druk aan het debatteren of preken is. Ophovius had sterke Spaanse sympathieën die hem duur kwamen te staan: bijna twee jaar lang zat hij vast in de Gevangenpoort, hier in Den Haag. Rubens was dé Vlaamse schilder van de 17de eeuw. Met zijn flamboyante, barokke stijl beïnvloedde hij een hele generatie kunstenaars na hem."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0252_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/252> ;
+    schema:name "Portret van Michael Ophovius (1570-1637)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1615 - 1617 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/253> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/68737> ;
+    schema:dateCreated "1615"^^xsd:gYear ;
+    schema:description "Dit schilderij is van twee beroemde Vlaamse meesters: Rubens en Brueghel. Ze maakten meer van dit soort schilderijen, die bedoeld waren als spektakelstukken waarin het beste van beiden samen kwam. Brueghel was verantwoordelijk voor de compositie, maar Rubens begon met schilderen. Heel schetsmatig en met dunne verf schilderde hij Adam en Eva, de boom, het paard en de slang. Daarna nam Brueghel de planten en dieren voor zijn rekening, die hij met encyclopedische precisie in dekkende verf schilderde."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0253/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/253> ;
+    schema:name "Het aardse paradijs met de zondeval van Adam en Eva"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1615" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/256> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/71799>,
+        <https://data.rkd.nl/artists/84595> ;
+    schema:dateCreated "1645"^^xsd:gYear ;
+    schema:description "De Antwerpse schilder Daniël Seghers werkte vaak samen met andere kunstenaars. In dit geval liet hij Thomas Willeboirts Bosschaert het Mariabeeldje schilderen en deed hij de stenen omlijsting en de bloemen zelf. Seghers was niet alleen bloemenschilder maar ook Jezuïet. Dit grote schilderij was een geschenk van zijn orde aan de protestante stadhouder Frederik Hendrik, prins van Oranje en diens vrouw Amalia van Solms – vandaar de oranjebloesem en oranjeappeltjes. Als beloning ontving Seghers een gouden rozenkrans en twee gouden crucifixen. Het schilderij kreeg een bestemming als schoorsteenstuk in Huis ten Bosch."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0256/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/256> ;
+    schema:name "Bloemencartouche met Mariabeeld"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1645" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/257> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/71799> ;
+    schema:dateCreated "1660"^^xsd:gYear ;
+    schema:description "Seghers, een Vlaams specialist in het schilderen van bloemen, combineerde zijn bloemen vaak met een stenen beeldje. Hier is koning-stadhouder Willem III te zien, de stadhouder van Holland die ook koning van Engeland was. De takjes oranjebloesem en de oranje lelies verwijzen naar zijn familienaam: van Oranje. Het portretje is overigens pas na de dood van Seghers toegevoegd, door een onbekende schilder. Waarschijnlijk was het schilderij een geschenk van Seghers aan Constantijn Huygens, de secretaris van de stadhouder. Het heeft tot halverwege de 19de eeuw in zijn huis gehangen, vlak bij het Mauritshuis."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0257_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/257> ;
+    schema:name "Bloemencartouche rond een beeld van koning-stadhouder Willem III (1650-1702)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1660" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/258> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/73723> ;
+    schema:dateCreated "1615"^^xsd:gYear ;
+    schema:description "Een jager komt binnen met een haas. Hij heeft de rest van zijn oogst al op tafel uitgestald. De Vlaming Frans Snijders was gespecialiseerd in het schilderen van dieren, ook in dode dus. Kenmerkend voor Snijders is het speelse katje dat zijn zinnen heeft gezet op de bungelende kop van de kalkoen. De stillevens in de verzameling van prins Willem V zijn van het uitbundige soort. Hier geen bescheiden ontbijtjes of vermanende memento mori´s, maar overdadige bloemstukken, pronkstillevens en jachtstillevens. Die passen namelijk het best in een vorstelijke verzameling als die van de prins. Willem V verwierf de Snijders, toen hij de collectie Van Slingelandt kocht."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0258/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/258> ;
+    schema:name "Stilleven met een jager"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1615" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/264> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/83963> ;
+    schema:dateCreated "1460"^^xsd:gYear ;
+    schema:description "De Vlaming Van der Weyden schilderde met olieverf, waarmee hij heel gedetailleerd kon werken. Op dit altaarstuk is te zien hoe Maria bij haar dode zoon neerknielt en hem beweent. Zijn volgelingen kijken ontsteld toe en laten hun tranen de vrije loop. De heftige emoties waren bedoeld om medelijden op te wekken bij de gelovigen. In het gezelschap valt de knielende bisschop met zijn ceremoniële gewaad behoorlijk uit de toon. Hij is de man die dit altaarstuk bestelde."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0264_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/264> ;
+    schema:name "De bewening van Christus"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1460 - 1464 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021140> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/266> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/112913> ;
+    schema:dateCreated "1630"^^xsd:gYear ;
+    schema:description "Deze zaal hangt vol schilderijen die stuk voor stuk bestaande Vlaamse, Duitse en Italiaanse kunstwerken zijn. Ook de beelden zijn bekende klassiekers. Deze kunstkamer is geschilderd door Willem van Haecht. Het is een onderwerp dat vooral in Antwerpen geliefd was. Linksvoor schilderde Van Haecht een verhaal uit de klassieke oudheid. Daar is te zien hoe Apelles het portret van Campaspe schildert, de minnares van Alexander de Grote. Die vindt het resultaat zó mooi, dat hij genoegen neemt met het portret en de minnares aan Apelles schenkt. Alexander verkiest de kunst boven de natuur."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0266_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/266> ;
+    schema:name "Apelles schildert Campaspe"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1630" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/283> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/68496> ;
+    schema:dateCreated "1595"^^xsd:gYear ;
+    schema:description "Jan Brueghel de Oude verbleef enige jaren in Rome en werkte daar regelmatig samen met de Duitse kunstenaar Hans Rottenhammer. In dit landschap rusten Jozef en Maria uit tijdens hun vlucht naar Egypte – Maria geeft de kleine Jezus de borst. Het schilderij werd begonnen door Rottenhammer, die de engelen en de heilige familie schilderde. Brueghel nam het vervolgens van hem over en voegde het boslandschap, de bloemen en de ezel toe."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0283_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/283> ;
+    schema:name "De rust op de vlucht naar Egypte"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1595" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021140> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/284> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/68496> ;
+    schema:dateCreated "1604"^^xsd:gYear ;
+    schema:description "De goden in de hemel zijn in rep en roer. Phaëthon maakt een ritje met de zonnewagen van Apollo, maar de paarden slaan op hol en voeren de wagen rakelings langs de aarde. Daardoor wordt het op aarde veel te heet – rivieren drogen op, planten verschroeien, mensen raken oververhit. Moeder Aarde, in een oranje en groene jurk, smeekt oppergod Zeus om genade. Die werpt zijn bliksemschicht naar Phaëthon om hem te laten stoppen. De Duitser Hans Rottenhammer schilderde de voorstelling op koper, een spiegelgladde ondergrond die zich goed leent voor fijne details en heldere kleuren."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0284_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/284> ;
+    schema:name "De val van Phaëthon"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1604" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/285> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/68496> ;
+    schema:dateCreated "1597"^^xsd:gYear ;
+    schema:description "Na zijn dood zou Christus zijn afgedaald naar de onderwereld om Adam en Eva en alle rechtvaardigen te bevrijden en ze mee te nemen naar de hemel. Die afdaling is hier weergegeven door Brueghel de Oude en Rottenhammer, die vaker samenwerkten. Het schilderijtje was in bezit van de Oranjes en maakte deel uit van de schilderijengalerij van stadhouder Willem V. Daarna kwam het terecht in het Mauritshuis."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0285_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/285> ;
+    schema:name "Christus in het voorgeborchte"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1597" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021140> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/292> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/80560> ;
+    schema:dateCreated "1740"^^xsd:gYear ;
+    schema:description "De meeste van de 200 werken in de collectie van Willem V waren Hollands of Vlaams, maar een klein deel is Italiaans, Duits of Frans. Van die Franse schilderijen zijn de twee van Vernet ongetwijfeld de mooiste. Vernet was lange tijd in Italië geweest en specialiseerde zich daar in Italiaans aandoende, gefantaseerde landschappen en zeegezichten. Hij was een meester in het weergeven van de nietigheid van de mens, naast de overrompelende grootsheid van de natuur. Beide schilderijen zijn afkomstig uit de verzameling van kardinaal Gonzaga uit Rome. Na diens overlijden werden de twee Vernets in Amsterdam geveild, waar ze voor prins Willem V werden aangekocht."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0292_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/292> ;
+    schema:name "Een Italiaanse haven bij stormachtig weer"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1740 - 1750 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/293> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/80560> ;
+    schema:dateCreated "1740"^^xsd:gYear ;
+    schema:description "De meeste van de 200 werken in de collectie van Willem V waren Hollands of Vlaams, maar een klein deel is Italiaans, Duits of Frans. Van die Franse schilderijen zijn de twee van Vernet ongetwijfeld de mooiste. Vernet was lange tijd in Italië geweest en specialiseerde zich daar in Italiaans aandoende, gefantaseerde landschappen en zeegezichten. Hij was een meester in het weergeven van de nietigheid van de mens, naast de overrompelende grootsheid van de natuur. Beide schilderijen zijn afkomstig uit de verzameling van kardinaal Gonzaga uit Rome. Na diens overlijden werden de twee Vernets in Amsterdam geveild, waar ze voor prins Willem V werden aangekocht."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0293_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/293> ;
+    schema:name "De watervallen bij Tivoli met de villa van Maecenas"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1740 - 1750 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/316> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/28888> ;
+    schema:dateCreated "1680"^^xsd:gYear ;
+    schema:description "Een voorstelling van Adam en Eva in het Paradijs moet perfect zijn. Natuur, dieren en mensen dienen afgebeeld te worden zoals God het bedoeld had. De Italiaan Franceschini maakte er een perfecte voorstelling van, haast een beetje té perfect. Het schilderij is daardoor on-Hollands. Maar er is meer on-Hollands: zulke grote religieuze schilderijen kwamen in het protestante Nederland eigenlijk niet voor. Daarvoor moest je in het katholieke deel van Europa zijn. Willem V kocht het schilderij in 1765 op een veiling van de verzameling van de overleden koning Augustus III van Polen. Het schilderij zal indruk hebben gemaakt in Den Haag – in de 17de-eeuwse collectie van de prins viel het op als groots voorbeeld van de klassieke Italiaanse schilderkunst."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0316/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/316> ;
+    schema:name "Adam en Eva"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1680" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/334> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/47958> ;
+    schema:dateCreated "1660"^^xsd:gYear ;
+    schema:description "De Italiaanse, barokke schilderijen van Langetti en Zanchi passen goed bij elkaar. Niet alleen vanwege het formaat, de schilderstijl en het grote contrast tussen licht en donker, maar ook vanwege de voorstellingen. Op beide staan mythologische mannen centraal die een eeuwige straf moeten ondergaan. De ene is Titius bij wie de lever door een gier wordt uitgepikt. Keer op keer opnieuw. De ander is Sisyphus, die de opdracht kreeg een steen naar de top van een berg te dragen. Maar steeds als hij bijna boven is, rolt de steen weer naar beneden. Keer op keer opnieuw. Beide schilderijen waren ooit van de hertogen van Mantua en werden in 1831 door Willem I gekocht voor in het Mauritshuis."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0334/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/334> ;
+    schema:name "Titius"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1660 - 1665 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/335> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/86099> ;
+    schema:dateCreated "1660"^^xsd:gYear ;
+    schema:description "De Italiaanse, barokke schilderijen van Langetti en Zanchi passen goed bij elkaar. Niet alleen vanwege het formaat, de schilderstijl en het grote contrast tussen licht en donker, maar ook vanwege de voorstellingen. Op beide staan mythologische mannen centraal die een eeuwige straf moeten ondergaan. De ene is Titius bij wie de lever door een gier wordt uitgepikt. Keer op keer opnieuw. De ander is Sisyphus, die de opdracht kreeg een steen naar de top van een berg te dragen. Maar steeds als hij bijna boven is, rolt de steen weer naar beneden. Keer op keer opnieuw. Beide schilderijen waren ooit van de hertogen van Mantua en werden in 1831 door Willem I gekocht voor in het Mauritshuis."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0335/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/335> ;
+    schema:name "Sisyphus"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1660 - 1665 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/392> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/17452> ;
+    schema:dateCreated "1636"^^xsd:gYear ;
+    schema:description "Voorstellingen van elegante, feestende jongelui – ‘gezelschapjes’ – waren aan het begin van de 17de eeuw erg populair. De Amsterdammer Pieter Codde is een van de schilders, die zich specialiseerden in dit genre. In dit gezelschapje wordt gegeten, gedronken en muziek gemaakt. In het midden van de kamer danst een vrouw in een modieuze zwarte jurk met een man, die zich heeft uitgedost met een Venetiaans masker en een mal pakje. Ook zijn twee kompanen links zijn gemaskerd."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0392/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/392> ;
+    schema:name "Vrolijk gezelschap met gemaskerde dansers"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1636" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/395> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/56541> ;
+    schema:dateCreated "1624"^^xsd:gYear ;
+    schema:description "Bacchus is de god van de vruchtbaarheid en de liederlijkheid. Hij zit bloot op een groot wijnfust dat wordt voortgetrokken door twee grommende panters. De optocht is vrolijk en lawaaiig – er wordt goed gedronken door Bacchus’ gevolg. Maar de wijn valt niet bij iedereen goed: rechts staat een sater te spugen. Achter hem staan een geharnaste ridder en een oude, jichtige man. Zo waarschuwt de schilder voor de nadelige effecten van overmatig drankgebruik: oorlog en ziekte liggen op de loer. De historiestukken van de Amsterdamse schilder Nicolaes Moeyaert zijn vaak heel toneelmatig opgebouwd. Het is haast alsof je naar een toneelstuk kijkt."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0395_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/395> ;
+    schema:name "De triomf van Bacchus"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1624" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/406> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/80476> ;
+    schema:dateCreated "1653"^^xsd:gYear ;
+    schema:description "Vermeer is vooral bekend om zijn kleine schilderijen van verstilde interieurs met enkele figuren. Maar aan het begin van zijn loopbaan schilderde hij enkele grotere voorstellingen uit de Bijbel en de mythologie, waaronder dit schilderij. De godin Diana zit uit te rusten, samen met haar nimfen. Ze is de godin van de jacht en de nacht, vandaar de jachthond aan haar voeten en het maantje op haar voorhoofd. Typisch voor Vermeer is de dromerige sfeer van de voorstelling."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0406_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/406> ;
+    schema:name "Diana en haar nimfen"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1653 - 1654 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/425> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/65765> ;
+    schema:dateCreated "1612"^^xsd:gYear ;
+    schema:description "Aan het begin van de 17de eeuw was Jan van Ravesteyn een van de belangrijkste portretschilders in Den Haag. Hij schilderde een serie van 25 officiersportretten met steeds dezelfde opzet: de mannen zijn vanaf de heupen weergegeven en dragen een harnas. Hun helmen zijn versierd met oranje pluimen, een verwijzing naar de opperbevelhebber van het leger: prins Maurits van Oranje. De serie portretten is afkomstig uit een van de Haagse paleizen van de Oranjes."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0425_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/425> ;
+    schema:name "Portret van een officier"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1612" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/429> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/35816> ;
+    schema:dateCreated "1664"^^xsd:gYear ;
+    schema:description "De Engelse prinses Maria Stuart was getrouwd met de Hollandse stadhouder Willem II en overleed toen ze nog maar 29 jaar oud was. Een paar jaar later schilderde Hanneman dit postume portret. Maria is klaar voor een gekostumeerd bal en draagt een witte jurk, een tulband met struisveren en een Braziliaanse verenmantel. Haar bediende maakt nog een parelsnoer vast, maar Maria lijkt hem niet op te merken. De zwarte jongen is gereduceerd tot een ‘exotisch’ accessoire – Hanneman onderstreept zo Maria’s witte huid en verhevenheid."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0429_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/429> ;
+    schema:name "Postuum portret van Maria I Stuart (1631- 1660) met een bediende"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1664" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/430> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/39445> ;
+    schema:dateCreated "1647"^^xsd:gYear ;
+    schema:description "Gerrit van Honthorst was hofschilder van stadhouder Frederik Hendrik en maakte veel portretten van de prins en zijn vrouw Amalia van Solms. Hij had een groot atelier waarin deze composities werden gekopieerd – dit schilderij is zo’n kopie. Frederik Hendrik was een achterneef van Johan Maurits. Hij verzamelde kunst, onder meer van Rembrandt. Maar hier is hij als legeraanvoerder te zien."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0430_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/430> ;
+    schema:name "Portret van Frederik Hendrik (1584-1647)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1647" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/437> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/12196> ;
+    schema:dateCreated "1651"^^xsd:gYear ;
+    schema:description "Dit grote schilderij komt uit de Oranjezaal van Paleis Huis ten Bosch, hier in Den Haag. Het maakte onderdeel uit van de decoraties die zijn gewijd aan de overleden stadhouder Frederik Hendrik. De Bray schilderde imitatiebeeldhouwwerk met putti die een cartouche vasthouden met daarop de naam en geboortedatum van de prins. Het schilderij hing boven een schoorsteen, maar moest rond 1805 plaats maken voor een deur. Zeventig jaar later werd het op de zolder van het Mauritshuis teruggevonden."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0437_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/437> ;
+    schema:name "Putti dragen een cartouche met de geboortedatum van stadhouder Frederik Hendrik"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1651" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/45> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/33074> ;
+    schema:dateCreated "1612"^^xsd:gYear ;
+    schema:description "Op een zandpad staan wat wandelaars te praten in de zon. Het pad splitst zich en voert rechts het donkere eikenbos in en links naar wat huizen. Door het silhouet van de afgebroken boom en het licht in de verte creëerde Govaerts veel diepte in het landschap. De Antwerpse schilder Abraham Govaerts was gespecialiseerd landschappen en was waarschijnlijk een leerling van Jan Brueghel de Oude."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/045_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/45> ;
+    schema:name "Boslandschap met jagers en waarzegster"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1612" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/461> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/3053> ;
+    schema:dateCreated "1751"^^xsd:gYear ;
+    schema:description "Stadhouder prins Willem IV van Oranje overleed op 40-jarige leeftijd. Kort daarop werd dit portret geschilderd door Aved, een Franse schilder die enige tijd in Den Haag woonde. Aved gaf de prins de uitstraling van een heerser, met een trotse houding en een glanzend borstkuras aan. Bij wijze van commandostaf gaf hij hem een roeispaan. De schepen op de achtergrond maken het beeld compleet: de stadhouder als heerser over de zeeën. Willem IV kocht in 1749 'De stier' van Paulus Potter. Daarmee legde hij een basis voor de indrukwekkende schilderijenverzameling van zijn zoon en opvolger Willem V."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0461_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/461> ;
+    schema:name "Postuum portret van Willem IV (1711-1751)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1751" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300056513> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/462> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/86376> ;
+    schema:dateCreated "1768"^^xsd:gYear ;
+    schema:description "De grondlegger van de collectie van het Mauritshuis is prins Willem V van Oranje. Op zijn 18de werd hij stadhouder van Holland, een jaar later trouwde hij met de 16-jarige Wilhelmina van Pruisen. Kort na hun huwelijk schilderde de Deense schilder Ziesenis enkele portretten van het jonge paar. Willem V bezat een grote verzameling Hollandse en Vlaamse meesters uit de 17de eeuw. Maar hij verzamelde ook oudheden, munten, stenen, fossielen, boeken en zelfs dieren. Zijn collectie vormde later de basis voor verschillende musea, o.a. het Mauritshuis."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0462/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/462> ;
+    schema:name "Portret van stadhouder Willem V (1748-1806)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1768 - 1769 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300056513> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/463> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/86376> ;
+    schema:dateCreated "1768"^^xsd:gYear ;
+    schema:description "Deze lezende vrouw is de piepjonge Wilhelmina van Pruisen. Ze was amper 16 jaar oud toen ze werd uitgehuwelijkt aan prins Willem V, de stadhouder van Holland. Kort na hun huwelijk liet het paar zich enkele malen portretteren door de Deense schilder Ziesenis. De bruid was het nichtje van de Pruisische koning Frederik de Grote. Ze bleek een stuk daadkrachtiger dan haar man."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0463/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/463> ;
+    schema:name "Portret van prinses Frederika Sophia Wilhelmina (1751-1820)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1768 - 1769 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300056513> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/473> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/85180> ;
+    schema:dateCreated "1668"^^xsd:gYear ;
+    schema:description "De Witte schilderde verschillende sfeervolle kerkinterieurs, die helemaal fantasie zijn. Hier laat hij een gotische kerk zien, met hoge, smalle spitsbogen. Het licht valt op enkele figuren op de voorgrond. De rest van de kerk is gehuld in duisternis."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0473_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/473> ;
+    schema:name "Interieur van een gefantaseerde katholieke kerk"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1668" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/49> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/36842> ;
+    schema:dateCreated "1650"^^xsd:gYear ;
+    schema:description "De Utrechter De Heem geldt als een van de belangrijkste stillevenschilders van de 17de eeuw. Hij vestigde zich in Antwerpen en specialiseerde zich in uitbundige boeketten met bloemen, fruit en korenaren. De Heem was de eerste, die decoratieve bloemenslingers schilderde. Aan blauwe linten hangt een slinger van druiventrossen, appels, abrikozen en perziken. Tussen de vruchten zijn bloemen gestoken, zoals anjers en oranjebloesem. Maar ook sneeuwklokjes en kastanjes – bloemen en vruchten uit heel verschillende seizoenen. Deze guirlande is duidelijk gefantaseerd."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0049_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/49> ;
+    schema:name "Guirlande van vruchten met enkele bloemen"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1650 - 1660 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/5> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/3490> ;
+    schema:dateCreated "1668"^^xsd:gYear ;
+    schema:description "Na zijn terugkeer uit Brazilië werd Johan Maurits benoemd tot stadhouder van Kleef. Daar schilderde De Baen dit portret, met op de achtergrond de tuin die Johan Maurits er had laten aanleggen. Het portret straalt macht uit: zó wilde Johan Maurits herinnerd worden. Die reputatie dankte hij vooral aan zijn rol als gouverneur van Nederlands-Brazilië – ook al ontsloeg de WIC hem vanwege financiële kwesties. Door het eenzijdige beeld bleef Johan Maurits’ rol in de slavenhandel lange tijd onderbelicht."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0005_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/5> ;
+    schema:name "Portret van Johan Maurits (1604-1679), graaf van Nassau-Siegen, stichter van het Mauritshuis"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1668 - 1670 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/54> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/37307> ;
+    schema:dateCreated "1654"^^xsd:gYear ;
+    schema:description "Paulus Potter, de schilder van de beroemde stier, werd slechts 28 jaar oud. Kort na zijn overlijden schilderde Van der Helst dit eerbetoon. Met zijn statige zwarte mantel, zijn modieus over zijn schouders golvende haar en zijn zelfbewuste blik is hij een indrukwekkende verschijning. Van der Helst was rond 1650 de meest gevraagde portretschilder van Amsterdam. Zijn portretten kenmerken zich door een gladde schilderstijl, heldere kleuren en een egale belichting – heel anders dan die van zijn stadsgenoot Rembrandt."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0054_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/54> ;
+    schema:name "Portret van Paulus Potter (1625-1654)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1654" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/542> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/81117> ;
+    schema:dateCreated "1629"^^xsd:gYear ;
+    schema:description "In een dorp wordt kermis gehouden. Er wordt gegeten, gedronken, gedanst en gezoend. Links is te zien hoe een man moet overgeven – het nare bijeffect van zoveel mateloosheid. David Vinckboons verhuisde aan het eind van de 16de eeuw van Vlaanderen naar Amsterdam. Daar introduceerde hij het thema van de boerenkermis – een nieuwigheid in Holland. Verzamelaars uit de keurige burgerij vonden Vinckboons’ boeren en hun lage lusten vooral vermakelijk."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0542_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/542> ;
+    schema:name "Boerenkermis"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1629" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/548> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/7990> ;
+    schema:dateCreated "1663"^^xsd:gYear ;
+    schema:description "Met snelle bewegingen schilderde Van Beijeren dit opvallende bloemstilleven. Kijk alleen al naar de weerspiegeling van het raam op de vaas – die zette hij met maar een paar penseelstreken neer. Ondanks de vlotte stijl zijn alle bloemen te herkennen, zoals tulpen, rozen en anjers. Maar die bloeien niet op hetzelfde moment. Dit boeket heeft dus nooit zo bestaan. Van Beijerens losse schilderstijl was niet zo populair voor bloemstillevens. Zijn tijdgenoten hadden een voorkeur voor glad geschilderde boeketten en betaalden daar ook meer voor. Misschien was dat een reden voor Van Beijerens beperkte financiële succes, want zijn naam duikt regelmatig op in archieven als schuldenaar."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0548_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/548> ;
+    schema:name "Bloemstilleven met een horloge"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1663 - 1665 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/558> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/81451> ;
+    schema:dateCreated "1643"^^xsd:gYear ;
+    schema:description "De Vlieger was gespecialiseerd in zeegezichten. Hier heeft hij de compositie heel doordacht opgebouwd: van de donkere voorgrond rechts naar de lichte horizon links. Vissersboten zijn zojuist aangekomen op het strand, een deel van de vangst ligt op het strand. Bovenop het duin staat een deftig paar alles te bekijken. In deze mensen konden kopers zich gemakkelijk verplaatsen; dat verhoogde de aantrekkelijkheid van het schilderij."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0558_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/558> ;
+    schema:name "Strandgezicht"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1643" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/559> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/57803> ;
+    schema:dateCreated "1561"^^xsd:gYear ;
+    schema:description "Anthonis Mor van Dashorst was afkomstig uit Utrecht en specialiseerde zich in portretten. Hij kreeg opdrachten van verschillende leden van het Habsburgse hof en reisde daarvoor door grote delen van Europa. Wie de geportretteerde man is, is onbekend. Hij zal van hoge komaf zijn geweest. De gouden kleding en kettingen bevestigen zijn welstand. Dit schilderij is het oudste in de collectie van het Mauritshuis dat op linnen is geschilderd."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0559_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/559> ;
+    schema:name "Portret van een man"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1561" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021140> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/562> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/12321> ;
+    schema:dateCreated "1660"^^xsd:gYear ;
+    schema:description "Gewone mensen aan hun dagelijkse arbeid, dat was het onderwerp van Brekelenkam. Hij schilderde hier een oude vrouw die een aderlating uitvoert bij een jonge vrouw. Dat doet ze met verwarmde, aardewerken kopjes, vandaar dat ze een ‘kopster’ wordt genoemd. Aderlaten zou helpen miskramen te voorkomen – de jonge vrouw is dus misschien zwanger."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0562_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/562> ;
+    schema:name "Een oude vrouw die een aderlating uitvoert bij een jonge vrouw, bekend als 'De kopster'"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1660" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/57> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/39958> ;
+    schema:dateCreated "1651"^^xsd:gYear ;
+    schema:description "Dit schilderij van de Nieuwe Kerk in Delft is een perspectivisch huzarenstukje. We staan in de kooromgang, achter het praalgraf van Willem van Oranje. Het blikveld is heel breed: links is het schip van de kerk te zien, rechts de ronding van de kooromgang. Om dit weer te kunnen geven, gebruikte Houckgeest een ingewikkelde perspectiefconstructie, het zogeheten overhoeksperspectief. Blijkbaar had hij er nog moeite mee, want rechts zijn de zwart-witte tegels iets vervormd."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0057/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/57> ;
+    schema:name "Kooromgang van de Nieuwe Kerk in Delft, met de graftombe van Willem de Zwijger"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1651" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/572> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/56664> ;
+    schema:dateCreated "1637"^^xsd:gYear ;
+    schema:description "Met veel humor verbeeldde Jan Miense Molenaer de vijf zintuigen. Het gezicht stelde hij voor als twee mensen die bij een schamel lichtje in een kan proberen te kijken. Het gehoor schilderde hij als lallende drinkebroers en de reuk als een stinkende poepbroek. De smaak gaf Molenaer weer met bierkan en pijp en het gevoel als een flink pak rammel. Molenaer schilderde vooral portretten en genrevoorstellingen waarin zijn chique kopers zich konden herkennen. Voor de vijf zintuigen koos hij juist voor het ongepolijste gedrag van het boerenvolk. Stedelijke verzamelaars zullen daar veel lol om hebben gehad."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0572_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/572> ;
+    schema:name "De vijf zintuigen: Het gevoel"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1637" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/58> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/39958> ;
+    schema:dateCreated "1651"^^xsd:gYear ;
+    schema:description "In de Nieuwe Kerk in Delft nemen wat bezoekers een kijkje bij het grafmonument van Willem van Oranje, de Vader des Vaderlands. Ons zicht op het monument wordt belemmerd door de grote witte zuil met 17de-eeuwse graffiti. Houckgeest was een belangrijk vernieuwer van het Hollandse kerkinterieur. Hij was de eerste die de ruimtes niet meer in de lengte- of dwarsrichting weergaf, maar voor een diagonale blikrichting koos. Dat geeft een toevalliger, natuurlijker effect."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0058_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/58> ;
+    schema:name "De graftombe van Willem de Zwijger in de Nieuwe Kerk in Delft"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1651" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/585> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/10080> ;
+    schema:dateCreated "1667"^^xsd:gYear ;
+    schema:description "Michiel de Ruyter, Admiraal ter Zee, won glorieus van de Engelsen tijdens de Vierdaagse Zeeslag in 1666. Ter herinnering liet hij zich portretteren door de Amsterdamse portretschilder Bol. Op de achtergrond is een zeegezicht te zien met De Ruyters vlaggenschip. Het portret zit nog in zijn originele, 17de-eeuwse lijst. Het is een vergulde trofeeënlijst met een schitterende verzameling van wapentuig: trommels, vaandels, kanonnen en kruitvaten. Midden boven staat De Ruyters familiewapen."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0585_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/585> ;
+    schema:name "Portret van Michiel de Ruyter (1607-1676)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1667" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/595> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/55174> ;
+    schema:dateCreated "1485"^^xsd:gYear ;
+    schema:description "De Brugse schilder Hans Memling portretteerde deze man heel gedetailleerd. Hij is een opvallende verschijning, met zijn donkere krullen, zijn bontgevoerde wambuis en het litteken op zijn neus. Wie hij is, weten we niet, maar hij zal een telg zijn uit de Franse familie Lespinette: hun familiewapen staat op de achterzijde van het paneel. Memling is een van de belangrijkste Brugse schilders uit de 15de eeuw. Hij was de eerste noorderling die landschappen toevoegde aan portretten en zo enorme diepte wist te creëren."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0595_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/595> ;
+    schema:name "Portret van een man, mogelijk uit de familie Lespinette"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1485 - 1490 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021140> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/596> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/36809> ;
+    schema:dateCreated "1629"^^xsd:gYear ;
+    schema:description "De Haarlemse schilder Heda specialiseerde zich in ‘ontbijtjes’ en ‘banketjes’. Hij werkte met voornamelijk bruine en grijze tinten; die sobere kleuren zorgen voor eenheid in de compositie en smeden de verschillende onderdelen samen: een vis met kappertjes en citroen, een broodje, wat hazelnoten, wijnglazen en een zilveren drinkschaal. Heda besteedde veel aandacht aan de weerkaatsing van het licht op de verschillende objecten – elk materiaal kreeg zijn eigen glans. Daar was hij een meester in."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0596_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/596> ;
+    schema:name "Stilleven met roemer en horloge"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1629" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/598> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/66219> ;
+    schema:dateCreated "1629"^^xsd:gYear ;
+    schema:description "Met pretogen en opgetrokken wenkbrauwen lacht een man zijn scheve tanden bloot. Deze kop is geen portret, maar een karakterstudie of tronie van een lachende man. Rembrandt schilderde hem toen hij in Leiden woonde en nog een heel gelijkmatige stijl had. Opvallend genoeg schilderde hij deze kop met ongelofelijk vlotte penseelstreken – de stijl waar hij later beroemd mee zou worden. Op sommige plaatsen kraste Rembrandt in de natte verf en zien we de ondergrond: een koperplaatje, dat met bladgoud is bekleed."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0598_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/598> ;
+    schema:name "De lachende man"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1629 - 1630 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/605> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/27138> ;
+    schema:dateCreated "1654"^^xsd:gYear ;
+    schema:description "Een distelvink zit, met een ketting aan zijn pootje, op zijn voederbakje. Distelvinken waren populair als huisdier, omdat je ze kon leren zelf met een miniatuuremmertje water uit een bakje putten. Vandaar dat ze puttertjes worden genoemd. Dit is een van de weinige werken van Fabritius, die bekend zijn. Hij schilderde het puttertje met duidelijk zichtbare penseelstreken. De vleugel gaf hij aan met dikke gele verf, waar hij met de achterkant van zijn penseel een kras in zette."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0605_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/605> ;
+    schema:name "Het puttertje"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1654" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/607> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/13036> ;
+    schema:dateCreated "1634"^^xsd:gYear ;
+    schema:description "Adriaen Brouwer zette boeren vaak neer als zuipschuiten en vechtersbazen. Deze slonzige man met zijn rechterhand in zijn halfgeopende wambuis staat er ook niet op zijn best op. Op de achtergrond is vaag een duinlandschap te zien, met links een wandelend paartje. Brouwer bracht de verf heel dun op, met vlotte, trefzekere penseelstreken. Brouwer kwam uit Antwerpen, maar werkte ook enige tijd in Haarlem en Amsterdam. Met zijn kluchtige voorstellingen beïnvloedde hij de Hollandse schilders van het dagelijks leven."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0607_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/607> ;
+    schema:name "Een dikke man"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1634 - 1637 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/61> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/39400> ;
+    schema:dateCreated "1680"^^xsd:gYear ;
+    schema:description "Hondecoeter was gespecialiseerd in dit soort decoratieve schilderijen met allerhande pluimvee. Hier gaat het om een verzameling ganzen en eenden in een landschap bij stormachtig weer. Het schilderij hoort bij het werk met kippen en eenden dat hier ook hangt. Beide komen uit het bezit van de familie van Oranje-Nassau en hingen in de 18de eeuw in slot Oranienstein in het Duitse Diez."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/061_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/61> ;
+    schema:name "Ganzen en eenden"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1680" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/613> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/36842> ;
+    schema:dateCreated "1628"^^xsd:gYear ;
+    schema:description "De Heem is vooral bekend om de kleurrijke, zwierige bloemstillevens, die hij vanaf 1650 schilderde. Maar eerder schilderde hij eenvoudige stillevens in bruine en grijze tonen. Geletterde lezers kenden de titels van de boeken op deze tafel en begrepen dat in deze werken de noodlotsgedachte centraal stond. Daarmee gaf De Heem dit stilleven een diepere laag. Het waarschuwt voor de vergankelijkheid van het leven: stof ben je, tot stof keer je terug – hoe belezen je ook bent."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0613_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/613> ;
+    schema:name "Stilleven met boeken en een viool"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1628" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/615> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/61543> ;
+    schema:dateCreated "1632"^^xsd:gYear ;
+    schema:description "Een groep mannen en vrouwen viert een feestje met muziek, eten en drinken. Ze zijn allemaal modieus gekleed, ook de bediende links, die de bierglazen vult. De elegante man in het midden draait zich om naar de kijker, terwijl hij de rook van zijn pijp uitblaast. De Delftse schilder Anthonie Palamedesz schilderde meer van dit soort galante gezelschappen met musicerende, dansende en etende burgers."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0615_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/615> ;
+    schema:name "Musicerend en dinerend gezelschap"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1632" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/62> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/39400> ;
+    schema:dateCreated "1680"^^xsd:gYear ;
+    schema:description "Hondecoeter was een specialist in het schilderen van gevogelte. Hier schrikken de vogels van een blaffende hond, die links opduikt. Een bonte haan stapt op hoge poten weg, de witte eend beschermt snaterend haar kuikens, een duif vliegt haastig op. Het schilderij hoort bij het werk met ganzen en eenden dat hier ook hangt. Beide komen uit het bezit van de familie van Oranje-Nassau en hingen in de 18de eeuw in slot Oranienstein in het Duitse Diez."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/062_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/62> ;
+    schema:name "Kippen en eenden"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1680" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/621> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/66219> ;
+    schema:dateCreated "1655"^^xsd:gYear ;
+    schema:description "Lang werd getwijfeld of dit schilderij wel een echte Rembrandt is. Daarom is het in de afgelopen jaren uitgebreid onderzocht en gerestaureerd. Nu is het weer terug op zaal en weten we zeker: Saul en David is een Rembrandt. De Bijbelse koning Saul lijdt aan depressies en laat zich troosten door de jonge David die harp voor hem speelt. Bijzonder is het gebaar van Saul: hij droogt zijn tranen aan het gordijn. Maar zo dadelijk ontsteekt hij in woede en zal hij zijn speer naar David gooien."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0621_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/621> ;
+    schema:name "Saul en David"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1655 - 1658 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/656> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/16407> ;
+    schema:dateCreated "1730"^^xsd:gYear ;
+    schema:description "Dit lijkt een 17de-eeuws Hollands stilleven, maar het werd in de 18de eeuw gemaakt door de Parijse schilder Chardin. Hij groepeerde wat alledaagse voorwerpen, zoals een grote koperen pan, wat aardewerk en etenswaar en liet daar een zacht licht op schijnen. Chardin was een groot bewonderaar van Hollandse 17de-eeuwse meesters als Pieter Claesz en Willem Heda, maar schilderde veel vrijer dan zijn voorgangers."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0656_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/656> ;
+    schema:name "Stilleven met koperen ketel, kaas en eieren"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1730 - 1735 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/670> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/80476> ;
+    schema:dateCreated "1665"^^xsd:gYear ;
+    schema:description "<i>Meisje met de parel</i> is het beroemdste schilderij van Vermeer. Het is geen portret, maar een tronie: een fantasiekop. Tronies beelden een bepaald type of karakter uit, in dit geval een meisje in exotische kledij, met een oosterse tulband en een onwaarschijnlijk grote parel in het oor. Vermeer was de meester van het licht. Hier is dat te zien aan het zachte in het meisjesgezicht, de glimlichtjes op haar vochtige lippen. En aan de glanzende parel."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0670_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/670> ;
+    schema:name "Meisje met de parel"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1665" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/671> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/7190> ;
+    schema:dateCreated "1615"^^xsd:gYear ;
+    schema:description "Op een bevroren waterweg zwieren mensen over het ijs, ze sleeën en spelen kolf. Het ijs lijkt zich eindeloos uit te strekken in de verte. Dat gevoel van diepte wordt versterkt door het kale silhouet van de boom op de voorgrond. Christoffel van den Berghe schilderde dit landschapje heel minutieus op een plaatje koper, een spiegelgladde ondergrond, die zich prima leent voor fijne details."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0671_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/671> ;
+    schema:name "Winterlandschap"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1615 - 1620 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/672> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/7190> ;
+    schema:dateCreated "1615"^^xsd:gYear ;
+    schema:description "Dit schilderijtje hoort bij een winterlandschapje, dat ook door Christoffel van den Berghe is geschilderd. Hier staat de zomer centraal: de bomen staan in het blad, de eendjes zwemmen in het water en mensen maken een boottochtje. In de 16de en 17de eeuw lagen dit soort landschappen goed in de markt. Ze laten de alledaagse wereld zien boordevol menselijke activiteit, een wereld die potentiële kopers gemakkelijk konden herkennen."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0672_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/672> ;
+    schema:name "Zomerlandschap"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1615 - 1620 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/673> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/79769> ;
+    schema:dateCreated "1624"^^xsd:gYear ;
+    schema:description "Esaias van de Velde schilderde een eenvoudig winterlandschap: een huis aan een bevroren vaart met enkele mensen op het ijs. Een man bindt zijn schaatsen onder, een ander duwt een slee voort, terwijl twee jongens kolf spelen – een spel dat lijkt op het huidige ijshockey. Van de Velde koos voor een laag standpunt en schilderde geen weids panorama. Daardoor lijkt het of we zelf aan de oever van de vaart staan."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0673_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/673> ;
+    schema:name "Winterlandschap met boerderij"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1624" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/676> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/28322> ;
+    schema:dateCreated "1640"^^xsd:gYear ;
+    schema:description "Een meisje van een jaar of drie poseert naast een kinderstoel. Ze is mooi aangekleed en draagt gouden sieraden. Haar ouders waren duidelijk in goeden doen – ze konden hun dochter zelfs laten portretteren door Govert Flinck, een van Rembrandts beste leerlingen. Op de kinderstoel ligt wat snoep, gemaakt van suiker uit Brazilië. Het verbindt de luxe wereld van het meisje met de harde werkelijkheid van de mensen op de suikerrietplantages. Een werkelijkheid die vaak onzichtbaar was in de Republiek en de Hollandse schilderkunst."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0676_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/676> ;
+    schema:name "Meisje bij een kinderstoel"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1640" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/685> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/66219> ;
+    schema:dateCreated "1661"^^xsd:gYear ;
+    schema:description "In de Hollandse 17de eeuw werden Afrikanen vooral afgebeeld als bijfiguren: bijvoorbeeld als tot slaafgemaakten of figuranten in een Bijbelse scène. Maar Rembrandt maakte ze hier het hoofdonderwerp – waarschijnlijk waren dit vrije mannen die in Amsterdam woonden. Rembrandt schilderde de mannen in heel dunne lagen verf. Hun gezichten werkte hij gedetailleerd uit, net als de witte omslagdoek, maar veel andere delen duidde hij schetsmatig aan. Hierdoor lijkt het een onvoltooide studie, maar de schilder signeerde het: Rembrandt f 1661, door Rembrandt gemaakt in 1661."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0685_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/685> ;
+    schema:name "Twee Afrikaanse mannen"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1661" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/705> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/57652> ;
+    schema:dateCreated "1630"^^xsd:gYear ;
+    schema:description "Johannes Moreelse was een Utrechtse schilder, die enkele jaren in Rome werkte en daar beïnvloed raakte door de schilderijen van Caravaggio. In diens stijl schilderde hij voorstellingen met ongeïdealiseerde halffiguren en grote licht-donkercontrasten. De grijnzende man op dit schilderij stelt Democritus voor, de lachende filosoof. Hij maakt zich vrolijk om de ijdelheid van ons mensen en de vergankelijkheid van de wereld. Democritus vormt een paar met Heraclitus, de wenende filosoof. Moreelse maakte verschillende versies van beide filosofen."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0705_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/705> ;
+    schema:name "Democritus, de lachende filosoof"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1630" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/707> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/66219> ;
+    schema:dateCreated "1630"^^xsd:gYear ;
+    schema:description "Volgens de Griekse mythologie moest prinses Andromeda geofferd worden om haar land te bevrijden van een allesverslindend zeemonster. Toen ze aan een rots was geketend en haar lot afwachtte, werd ze gered door de Griekse held Perseus. Rembrandt schilderde niet het hele verhaal, maar beeldde alleen de doodsbange Andromeda af. Dat is typerend; hij maakte de emotie het hoofdmotief van de voorstelling. Het realisme waarmee Rembrandt het naakte lichaam weergaf, staat ver af van het klassieke schoonheidsideaal."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0707_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/707> ;
+    schema:name "Andromeda"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1630" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/717> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/51906> ;
+    schema:dateCreated "1682"^^xsd:gYear ;
+    schema:description "Toen Cornelis ten Hove en Catharina Dierquens trouwden, lieten ze zich portretteren door Nicolaes Maes. Catharina hangt rechts. Maes beeldde Cornelis af met een elegante houding en in een parkachtig landschap. En besteedde veel aandacht aan de prachtige blauwe mantel. Maes was een van de meest gewilde portretschilders in de 17de eeuw. Zijn vroege portretten waren traditioneel, maar vanaf 1670 werden ze zwieriger en kleurrijker. Maes’ modieuze portretten vielen in de smaak bij de 17de-eeuwse elite."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0717_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/717> ;
+    schema:name "Portret van Cornelis ten Hove (1658-1694)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1682" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/718> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/51906> ;
+    schema:dateCreated "1682"^^xsd:gYear ;
+    schema:description "Deze twee portretten horen bij elkaar. Dit is Catharina Dierquens, de bruid en ongeveer achttien jaar oud. Links hangt de bruidegom van 24, Cornelis ten Hove. Catharina draagt een jurk met veel draperieën en opvallende kleuren: rood en bruingeel. Die kleur rood is kenmerkend voor Nicolaes Maes en komt in veel van zijn schilderijen voor. Maes schilderde zijn opdrachtgevers in gefantaseerde, namaak-antieke kleding. Maar hun kapsels zijn volgens de allerlaatste mode. Dit is hoe de elite zich graag afgebeeld zag."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0718_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/718> ;
+    schema:name "Portret van Catharina Dierquens (1664-1715)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1682" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/729> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/56068> ;
+    schema:dateCreated "1758"^^xsd:gYear ;
+    schema:description "Cornelis Ploos van Amstel was een Amsterdamse kunstverzamelaar. Vooral zijn tekeningencollectie was beroemd: hij had er zo’n 7.000. Ploos van Amstel liet zich portretteren ter gelegenheid van zijn huwelijk met Elisabeth, de dochter van de schilder Cornelis Troost. Haar portret hangt hier ook. Van der Mijn, die in Amsterdam werkte, kwam uit een Londense kunstenaarsfamilie. De tekening die hij Ploos van Amstel in de hand gaf, is gemaakt door zijn broer Frans van der Mijn."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0729_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/729> ;
+    schema:name "Portret van Cornelis Ploos van Amstel (1726-1798)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1758" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300056513> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/730> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/56068> ;
+    schema:dateCreated "1758"^^xsd:gYear ;
+    schema:description "Elisabeth Troost was de dochter van de schilder Cornelis Troost. Ze trouwde op haar 28ste met Cornelis Ploos van Amstel die ze al jaren kende als verzamelaar van het werk van haar vader. Het bruidspaar liet zich portretteren door Van der Mijn. Die gaf Elisabeth weer in een huiselijke setting bij de theetafel. Het Chinees porselein, de satijnen stoffen en het hermelijn benadrukken haar verfijnde smaak en hoge positie in de Amsterdamse burgerij."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0730_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/730> ;
+    schema:name "Portret van Elisabeth Troost (1730-1790)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1758" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300056513> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/731> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/85099> ;
+    schema:dateCreated "1743"^^xsd:gYear ;
+    schema:description "Deze plafondschildering is afkomstig uit een huis in Leiden (Rapenburg 48) en hangt hier sinds 1912. Op het ovale middenstuk is Apollo te zien, de klassieke god van de kunsten. Hij wordt omringd door zijn negen muzen die voor de verschillende kunstdisciplines staan. De vier grisailles rondom stellen het treurdicht, het blijspel, de herderszang en het heldendicht voor. De Amsterdamse Jacob de Wit was in de 18de eeuw dé kunstenaar die dit soort illusionistische hoogstandjes kon maken."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0731/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/731> ;
+    schema:name "Apollo omringd door de negen muzen"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1743" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/732> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/85099> ;
+    schema:dateCreated "1743"^^xsd:gYear ;
+    schema:description "Deze plafondschildering is afkomstig uit een huis in Leiden (Rapenburg 48) en hangt hier sinds 1912. Op het ovale middenstuk is Apollo te zien, de klassieke god van de kunsten. Hij wordt omringd door zijn negen muzen die voor de verschillende kunstdisciplines staan. De vier grisailles rondom stellen het treurdicht, het blijspel, de herderszang en het heldendicht voor. De Amsterdamse Jacob de Wit was in de 18de eeuw dé kunstenaar die dit soort illusionistische hoogstandjes kon maken."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0732/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/732> ;
+    schema:name "De herderszang"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1743" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/733> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/85099> ;
+    schema:dateCreated "1743"^^xsd:gYear ;
+    schema:description "Deze plafondschildering is afkomstig uit een huis in Leiden (Rapenburg 48) en hangt hier sinds 1912. Op het ovale middenstuk is Apollo te zien, de klassieke god van de kunsten. Hij wordt omringd door zijn negen muzen die voor de verschillende kunstdisciplines staan. De vier grisailles rondom stellen het treurdicht, het blijspel, de herderszang en het heldendicht voor. De Amsterdamse Jacob de Wit was in de 18de eeuw dé kunstenaar die dit soort illusionistische hoogstandjes kon maken."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0733/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/733> ;
+    schema:name "Het heldendicht"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1743" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/734> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/85099> ;
+    schema:dateCreated "1743"^^xsd:gYear ;
+    schema:description "Deze plafondschildering is afkomstig uit een huis in Leiden (Rapenburg 48) en hangt hier sinds 1912. Op het ovale middenstuk is Apollo te zien, de klassieke god van de kunsten. Hij wordt omringd door zijn negen muzen die voor de verschillende kunstdisciplines staan. De vier grisailles rondom stellen het treurdicht, het blijspel, de herderszang en het heldendicht voor. De Amsterdamse Jacob de Wit was in de 18de eeuw dé kunstenaar die dit soort illusionistische hoogstandjes kon maken."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0734/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/734> ;
+    schema:name "Het blijspel"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1743" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/77> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/44226> ;
+    schema:dateCreated "1631"^^xsd:gYear ;
+    schema:description "In een donkere kamer zit een man in een prachtig zwart pak. Op tafel ligt een zwaar oosters tapijt en staat een lezenaar met boeken. De man kijkt ons aan, terwijl hij wat zit te bladeren. Daardoor lijkt het of wij hem storen in zijn studie en heeft het portret iets toevalligs. Thomas de Keyser was gespecialiseerd in dit soort kleine portretten, waarop de geportretteerde ten voeten uit is afgebeeld. Zijn portretten waren populair bij de Amsterdamse elite, totdat Rembrandt zich in Amsterdam vestigde en de toonaangevende portrettist werd."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0077_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/77> ;
+    schema:name "Portret van een geleerde"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1631" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/82> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/47470> ;
+    schema:dateCreated "1680"^^xsd:gYear ;
+    schema:description "Dit schilderij van De Lairesse is een goed voorbeeld van de schilderstijl die eind 17de eeuw in Holland in de mode kwam. Deze classicistische stijl werd gekenmerkt door lichte kleuren, gladde penseelstreken en een egale belichting. Het onderwerp is een verhaal uit de klassieke oudheid. De Griekse held Achilles heeft zich verkleed als vrouw en hoopt zo te voorkomen dat hij naar het front moet. Hier is het moment afgebeeld, dat hij impulsief een zwaard pakt en zichzelf verraadt."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0082_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/82> ;
+    schema:name "Achilles wordt ontdekt tussen de dochters van Lycomedes"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1680" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/90> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/51906> ;
+    schema:dateCreated "1665"^^xsd:gYear ;
+    schema:description "Dit is Jacob Trip, 84 jaar oud. Hij is de stamvader van een van de belangrijkste handelsfamilies van Holland. Extreem rijk geworden in de internationale wapenhandel, straalt de oude Trip veel macht uit – ondanks zijn hoge leeftijd. Trip woonde in Dordrecht waar hij Nicolaes Maes opdracht gaf voor dit portret. Maes was een Dordtenaar, maar woonde enige jaren in Amsterdam, waar hij in de leer ging bij Rembrandt. Ook Rembrandt portretteerde de oude Trip en diens vrouw Marghareta de Geer."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0090_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/90> ;
+    schema:name "Portret van Jacob Trip (c.1576-1661)"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1665" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/92> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/80476> ;
+    schema:dateCreated "1660"^^xsd:gYear ;
+    schema:description "Dit is het beroemdste stadsgezicht uit de Hollandse 17de eeuw. Het spel tussen licht en schaduw, de indrukwekkende wolkenlucht en de subtiele weerspiegelingen op het water maken dit schilderij tot een absoluut meesterwerk. We zien Delft vanuit het zuiden. Het is vrijwel windstil, de stad ademt rust uit. Vermeer bracht die rust ook in zijn compositie door drie horizontale banen te maken: water, stad en lucht. En door de bebouwing wat minder rommelig te schilderen dan zij in werkelijkheid was."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0092_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/92> ;
+    schema:name "Gezicht op Delft"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1660 - 1661 " ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/93> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/55549> ;
+    schema:dateCreated "1661"^^xsd:gYear ;
+    schema:description "Een jager in een prachtige, rode jas zit achter een open venster. Hij heft zijn glas en kijkt ons schalks aan. Voor hem liggen de attributen van zijn werk: een jachthoorn en een dode duif. Voor tijdgenoten was waarschijnlijk meteen duidelijk dat het hier om jagen (de minnejacht) en vogelen (de liefde bedrijven) ging. Metsu werd geboren in Leiden. Hij leerde er heel fijn en precies te schilderen, zoals de Leidse fijnschilder Gerrit Dou. Hier is dat goed te zien in de glanzende schenkkan op de vensterbank."@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0093_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/93> ;
+    schema:name "De jager"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1661" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+
+<http://data.collectienederland.nl/resource/document/mauritshuis/94> a schema:VisualArtwork ;
+    schema:artform <http://vocab.getty.edu/aat/300033618>,
+        <http://vocab.getty.edu/aat/300177435> ;
+    schema:creator <https://data.rkd.nl/artists/55549> ;
+    schema:dateCreated "1664"^^xsd:gYear ;
+    schema:description "Dit schilderij vormt een hoogtepunt in het oeuvre van Metsu, een meester in het weergeven van stoffen en materialen. We zien een jonge vrouw die een lied schrijft, terwijl een man over haar schouder meekijkt en een andere vrouw op haar luit speelt. Dat instrument zou kunnen verwijzen naar harmonie in een gelukkig huwelijk. Als tegenwicht daarvoor hangt boven de haard een schilderij met een schip in een woeste zee – een zinspeling op de wisselvalligheid van de liefde?"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://media.delving.org/thumbnail/dcn/mauritshuis/0094_repro/1000> ;
+            schema:license <https://creativecommons.org/publicdomain/mark/1.0/> ] ;
+    schema:isBasedOn <http://data.collectienederland.nl/resource/document/mauritshuis/94> ;
+    schema:name "Een jonge vrouw die muziek schrijft"@nl ;
+    schema:publisher <https://www.mauritshuis.nl/> ;
+    schema:temporal "1664" ;
+    schema:temporalCoverage <http://vocab.getty.edu/aat/300021147> .
+

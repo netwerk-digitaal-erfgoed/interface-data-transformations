@@ -1,0 +1,6 @@
+@prefix schema: <https://schema.org/> .
+
+<https://www.mauritshuis.nl/> a schema:Organization ;
+    schema:mainEntityOfPage <https://www.mauritshuis.nl/> ;
+    schema:name "mauritshuis"@nl .
+
