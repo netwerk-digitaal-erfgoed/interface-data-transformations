@@ -7,12 +7,11 @@ PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX dcterms: <http://purl.org/dc/terms/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-
 PREFIX edmfp: <http://www.europeanafashion.eu/edmfp/>
 
 
 #<https://zaansmuseum.nl>
-
+#<https://www.dordrechtsmuseum.nl/>
 ## this is for mode and fasion
 ## the orignail dataset remained untauched (Enrich-heritage-object-original)
 
@@ -24,7 +23,7 @@ CONSTRUCT {
 		schema:name ?title;
 		schema:description ?discribeNL ;
 		schema:material ?material;
-		schema:publisher <https://zaansmuseum.nl> ;
+		schema:publisher <https://www.dordrechtsmuseum.nl/> ;
 #		schema:creator ?creator;
 		edmfp:technique ?technique ;
 		schema:dateCreated ?yearCreated;

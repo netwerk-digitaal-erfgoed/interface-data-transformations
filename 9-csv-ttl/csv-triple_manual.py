@@ -41,7 +41,7 @@ def parse_csv(_entities, cleanCSV = "./clean-csv/" ,result = "./enrich-step1/" )
         
         g = Graph()
         EDM = Namespace("http://www.europeana.eu/schemas/edm/")
-        EDMFP = Namespace("http://www.europeanafashion.eu/edmfp/technique/")
+        EDMFP = Namespace("http://www.europeanafashion.eu/edmfp/")
         ORE = Namespace("http://www.openarchives.org/ore/terms/")
         DCTERMS = Namespace("http://purl.org/dc/terms/")
         DC = Namespace("http://purl.org/dc/elements/1.1/")

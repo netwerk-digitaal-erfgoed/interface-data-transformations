@@ -7,32 +7,30 @@ PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX dcterms: <http://purl.org/dc/terms/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX edmfp: <http://www.europeanafashion.eu/edmfp/>
 
 
-#<https://www.catharijneconvent.nl/> ###not match
-#<https://www.stedelijkmuseumschiedam.nl/> ###not match
-#<https://www.museumdefundatie.nl/>
-#<https://www.rijksakademie.nl/>
+#<https://zaansmuseum.nl>
+#<https://www.dordrechtsmuseum.nl/>
+## this is for mode and fasion
+## the orignail dataset remained untauched (Enrich-heritage-object-original)
 
 CONSTRUCT {
 
   ?heritageObject
-
-        rdf:type schema:VisualArtwork ;
-		schema:artform ?artform;
-		schema:name ?titleNL ;
+        rdf:type schema:CreativeWork ;
+		schema:additionalType ?additionalType ;
+		schema:name ?title;
 		schema:description ?discribeNL ;
-		schema:publisher <https://www.rijksakademie.nl/> ;
+		schema:material ?material;
+		schema:publisher <https://zaansmuseum.nl> ;
 		schema:creator ?creator;
-  		schema:temporal ?created ;
+		edmfp:technique ?technique ;
 		schema:dateCreated ?yearCreated;
-		schema:mainEntityOfPage ?isShownAt;
 		schema:isBasedOn ?heritageObject ;
-		schema:temporalCoverage ?temporalCoverage ;
     	schema:image ?image.
-
   ?image rdf:type schema:ImageObject ;
-  		schema:contentUrl ?isShownBy2;
+  		schema:contentUrl ?isShownBy;
   	    schema:encodingFormat ?img ;
 		schema:license ?rights.
 }
@@ -40,25 +38,23 @@ CONSTRUCT {
 WHERE {
 
     ?heritageObject a edm:ProvidedCHO ;
-		dcterms:artform ?artform;
 		dc:title ?title ;
-		dc:description ?discription ;
-		dcterms:creators ?creator ;
-		dc:date ?created ;
-		dcterms:dateCreated ?yearCreated ;
-		edm:temporalCoverage ?temporalCoverage ;
+		dc:additionalType ?additionalType ;
 		edm:image ?image.
+
 		bind(strlang(str(?title), "nl") as ?titleNL)
-
-		BIND(STRLANG(str(?discription), "nl") as ?discribeNL)
-
+	OPTIONAL {?heritageObject dc:description ?discription}
+    BIND(STRLANG(str(?discription), "nl") as ?discribeNL)
 		FILTER(LANG(?discribeNL) = "nl")
+
+	OPTIONAL {?heritageObject dcterms:created ?yearCreated }
+	OPTIONAL {?heritageObject dcterms:medium_URI ?material }
+	OPTIONAL {?heritageObject edmfp:technique_URI ?technique }
+	OPTIONAL {?heritageObject dcterms:creators ?creator }
+
 	?aggregation a ore:Aggregation ;
 		edm:aggregatedCHO ?heritageObject ;
 		edm:isShownBy ?isShownBy ;
 		edm:rights ?rights .
-		BIND(URI(?isShownBy) as ?isShownBy2)
-		OPTIONAL { ?aggregation edm:isShownAt ?isShownAt }
 		OPTIONAL { ?aggregation dcterms:format ?img }
 }
-
