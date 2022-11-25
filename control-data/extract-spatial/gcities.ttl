@@ -1,0 +1,2850 @@
+@prefix gn: <https://sws.geonames.org/> .
+
+gn:11102422 gn:city "Hunnerberg" .
+
+gn:11776989 gn:city "Son en Breugel" .
+
+gn:11951321 gn:city "Marsdijk" .
+
+gn:12207018 gn:city "Op Buuren" .
+
+gn:12207019 gn:city "Zandweg-Oostwaard" .
+
+gn:12495525 gn:city "Dapperbuurt" .
+
+gn:2743477 gn:city "Zwolle" .
+
+gn:2743493 gn:city "Zwijndrecht" .
+
+gn:2743588 gn:city "Zwaanshoek" .
+
+gn:2743590 gn:city "De Westereen" .
+
+gn:2743593 gn:city "Zwaagdijk-Oost" .
+
+gn:2743608 gn:city "Zutphen" .
+
+gn:2743619 gn:city "Zundert" .
+
+gn:2743624 gn:city "Zuilichem" .
+
+gn:2743640 gn:city "Zuidwijk" .
+
+gn:2743658 gn:city "Zuid-Scharwoude" .
+
+gn:2743680 gn:city "Zuidlaren" .
+
+gn:2743694 gn:city "Zuidhorn" .
+
+gn:2743774 gn:city "Zuiderburen" .
+
+gn:2743800 gn:city "Zuidbroek" .
+
+gn:2743807 gn:city "Zuid-Beijerland" .
+
+gn:2743816 gn:city "Zoutkamp" .
+
+gn:2743822 gn:city "Zoutelande" .
+
+gn:2743834 gn:city "Zonnemaat" .
+
+gn:2743844 gn:city "Zonderwijk" .
+
+gn:2743853 gn:city "Zoeterwoude-Dorp" .
+
+gn:2743856 gn:city "Zoetermeer" .
+
+gn:2743861 gn:city "Zoelen" .
+
+gn:2743877 gn:city "Zijtaart" .
+
+gn:2743913 gn:city "Zierikzee" .
+
+gn:2743923 gn:city "Zevenhuizen" .
+
+gn:2743937 gn:city "Zevenhoven" .
+
+gn:2743944 gn:city "Zevenbergschen Hoek" .
+
+gn:2743949 gn:city "Zevenaar" .
+
+gn:2743952 gn:city "Zetten" .
+
+gn:2743956 gn:city "Zesgehuchten" .
+
+gn:2743963 gn:city "Zelhem" .
+
+gn:2743977 gn:city "Zeist" .
+
+gn:2743978 gn:city "Zeilberg" .
+
+gn:2743990 gn:city "Zegveld" .
+
+gn:2743992 gn:city "Zegge" .
+
+gn:2743997 gn:city "Zeewolde" .
+
+gn:2744006 gn:city "Zeelst" .
+
+gn:2744014 gn:city "Zeeland" .
+
+gn:2744031 gn:city "Zeddam" .
+
+gn:2744042 gn:city "Zandvoort" .
+
+gn:2744093 gn:city "Zandberg" .
+
+gn:2744102 gn:city "Zaltbommel" .
+
+gn:2744114 gn:city "Zaanstad" .
+
+gn:2744116 gn:city "Zaandijk" .
+
+gn:2744118 gn:city "Zaandam" .
+
+gn:2744122 gn:city "Zaamslag" .
+
+gn:2744129 gn:city "Yerseke" .
+
+gn:2744145 gn:city "Wouw" .
+
+gn:2744153 gn:city "Woudsend" .
+
+gn:2744156 gn:city "Woudrichem" .
+
+gn:2744163 gn:city "Woudenberg" .
+
+gn:2744167 gn:city "Woubrugge" .
+
+gn:2744179 gn:city "Workum" .
+
+gn:2744183 gn:city "Wooldrik" .
+
+gn:2744186 gn:city "Woolde" .
+
+gn:2744191 gn:city "Wommels" .
+
+gn:2744194 gn:city "Wolvega" .
+
+gn:2744199 gn:city "Wolphaartsdijk" .
+
+gn:2744210 gn:city "Wolfsbos" .
+
+gn:2744219 gn:city "Wolfheze" .
+
+gn:2744227 gn:city "Wolder" .
+
+gn:2744248 gn:city "Woerden" .
+
+gn:2744250 gn:city "Woenselse Heide" .
+
+gn:2744257 gn:city "Woensdrecht" .
+
+gn:2744303 gn:city "Witmarsum" .
+
+gn:2744317 gn:city "Wissenkerke" .
+
+gn:2744324 gn:city "Wisch" .
+
+gn:2744327 gn:city "Wirdum" .
+
+gn:2744332 gn:city "Winterswijk" .
+
+gn:2744337 gn:city "Winsum" .
+
+gn:2744344 gn:city "Winschoten" .
+
+gn:2744354 gn:city "Winkel" .
+
+gn:2744376 gn:city "Wilnis" .
+
+gn:2744424 gn:city "Wilhelminadorp" .
+
+gn:2744431 gn:city "Wildervank" .
+
+gn:2744459 gn:city "Wijnjewoude" .
+
+gn:2744471 gn:city "Wijnandsrade" .
+
+gn:2744477 gn:city "Wijlre" .
+
+gn:2744483 gn:city "Wijk bij Duurstede" .
+
+gn:2744484 gn:city "Wijk aan Zee" .
+
+gn:2744489 gn:city "Wijhe" .
+
+gn:2744498 gn:city "Wijdenes" .
+
+gn:2744514 gn:city "Wijchen" .
+
+gn:2744516 gn:city "Wijbosch" .
+
+gn:2744532 gn:city "Wieringerwerf" .
+
+gn:2744534 gn:city "Wieringerwaard" .
+
+gn:2744549 gn:city "Wierden" .
+
+gn:2744603 gn:city "Westwoud" .
+
+gn:2744608 gn:city "West-Terschelling" .
+
+gn:2744611 gn:city "West-Souburg" .
+
+gn:2744631 gn:city "Westmaas" .
+
+gn:2744632 gn:city "Westlaren" .
+
+gn:2744642 gn:city "Westkapelle" .
+
+gn:2744663 gn:city "Westerzicht" .
+
+gn:2744675 gn:city "Westervoort" .
+
+gn:2744715 gn:city "Westerlee" .
+
+gn:2744731 gn:city "Westerhoven" .
+
+gn:2744741 gn:city "Westerhaar-Vriezenveensewijk" .
+
+gn:2744769 gn:city "Westerbork" .
+
+gn:2744777 gn:city "Westeneng" .
+
+gn:2744786 gn:city "Westeinde" .
+
+gn:2744800 gn:city "Westdorpe" .
+
+gn:2744815 gn:city "Wessem" .
+
+gn:2744824 gn:city "Wernhout" .
+
+gn:2744825 gn:city "Werkhoven" .
+
+gn:2744827 gn:city "Werkendam" .
+
+gn:2744839 gn:city "Wemeldinge" .
+
+gn:2744859 gn:city "Wellerlooi" .
+
+gn:2744865 gn:city "Well" .
+
+gn:2744869 gn:city "Welberg" .
+
+gn:2744871 gn:city "Wekerom" .
+
+gn:2744875 gn:city "Weiteveen" .
+
+gn:2744885 gn:city "Weijpoort" .
+
+gn:2744904 gn:city "Weesp" .
+
+gn:2744911 gn:city "Weert" .
+
+gn:2744919 gn:city "Weerestein" .
+
+gn:2744950 gn:city "Waubach" .
+
+gn:2744982 gn:city "Waterakkers" .
+
+gn:2744991 gn:city "Wassenaar" .
+
+gn:2744994 gn:city "Waspik" .
+
+gn:2745003 gn:city "Warnsveld" .
+
+gn:2745012 gn:city "Warmond" .
+
+gn:2745018 gn:city "Warga" .
+
+gn:2745024 gn:city "Warffum" .
+
+gn:2745037 gn:city "Wapenveld" .
+
+gn:2745043 gn:city "Wanssum" .
+
+gn:2745046 gn:city "Wanroij" .
+
+gn:2745088 gn:city "Wageningen" .
+
+gn:2745090 gn:city "Wagenborgen" .
+
+gn:2745091 gn:city "Wagenberg" .
+
+gn:2745096 gn:city "Waddinxveen" .
+
+gn:2745105 gn:city "Waarland" .
+
+gn:2745113 gn:city "Waarder" .
+
+gn:2745116 gn:city "Waardenburg" .
+
+gn:2745118 gn:city "Waarde" .
+
+gn:2745123 gn:city "Waalwijk" .
+
+gn:2745127 gn:city "Waalre" .
+
+gn:2745143 gn:city "Vuren" .
+
+gn:2745154 gn:city "Vught" .
+
+gn:2745169 gn:city "Vroomshoop" .
+
+gn:2745182 gn:city "Vriezenveen" .
+
+gn:2745189 gn:city "Vries" .
+
+gn:2745190 gn:city "Vrieheide" .
+
+gn:2745193 gn:city "Vreewijk" .
+
+gn:2745195 gn:city "Vreeswijk" .
+
+gn:2745207 gn:city "Vredenburg" .
+
+gn:2745252 gn:city "Vorstenbosch" .
+
+gn:2745258 gn:city "Vorden" .
+
+gn:2745271 gn:city "Voorthuizen" .
+
+gn:2745297 gn:city "Voorst" .
+
+gn:2745301 gn:city "Voorschoten" .
+
+gn:2745311 gn:city "Voorhout" .
+
+gn:2745321 gn:city "Voorburg" .
+
+gn:2745333 gn:city "Vollenhove" .
+
+gn:2745338 gn:city "Volkel" .
+
+gn:2745340 gn:city "Volendam" .
+
+gn:2745343 gn:city "Voldijn" .
+
+gn:2745351 gn:city "Vogelwijk" .
+
+gn:2745360 gn:city "Vogelenzang" .
+
+gn:2745369 gn:city "Voerendaal" .
+
+gn:2745373 gn:city "Vlokhoven" .
+
+gn:2745382 gn:city "Vlodrop" .
+
+gn:2745392 gn:city "Vlissingen" .
+
+gn:2745399 gn:city "Vlietwijk" .
+
+gn:2745414 gn:city "Vlierden" .
+
+gn:2745428 gn:city "Vliedberg" .
+
+gn:2745431 gn:city "Vleuten" .
+
+gn:2745449 gn:city "Vledder" .
+
+gn:2745461 gn:city "Vlagtwedde" .
+
+gn:2745467 gn:city "Vlaardingen" .
+
+gn:2745493 gn:city "Vinkeveen" .
+
+gn:2745522 gn:city "Vijlen" .
+
+gn:2745528 gn:city "Vijfhuizen" .
+
+gn:2745547 gn:city "Vierpolders" .
+
+gn:2745580 gn:city "Vianen" .
+
+gn:2745634 gn:city "Venray" .
+
+gn:2745641 gn:city "Venlo" .
+
+gn:2745646 gn:city "Venhorst" .
+
+gn:2745655 gn:city "Ven" .
+
+gn:2745667 gn:city "Veltum" .
+
+gn:2745673 gn:city "Velsen-Zuid" .
+
+gn:2745677 gn:city "Velp" .
+
+gn:2745702 gn:city "Veldhuizen" .
+
+gn:2745706 gn:city "Veldhoven" .
+
+gn:2745726 gn:city "Veghel" .
+
+gn:2745743 gn:city "Feanwâlden" .
+
+gn:2745753 gn:city "Veenoord" .
+
+gn:2745774 gn:city "Veenendaal" .
+
+gn:2745783 gn:city "Veendam" .
+
+gn:2745784 gn:city "Veen" .
+
+gn:2745800 gn:city "Varsseveld" .
+
+gn:2745842 gn:city "Valthermond" .
+
+gn:2745846 gn:city "Valthe" .
+
+gn:2745860 gn:city "Valkenswaard" .
+
+gn:2745872 gn:city "Valkenburg" .
+
+gn:2745874 gn:city "Valkenburg" .
+
+gn:2745877 gn:city "Valendries" .
+
+gn:2745885 gn:city "Valburg" .
+
+gn:2745892 gn:city "Vaassen" .
+
+gn:2745896 gn:city "Vaartbroek" .
+
+gn:2745906 gn:city "Vaals" .
+
+gn:2745912 gn:city "Utrecht" .
+
+gn:2745918 gn:city "Usquert" .
+
+gn:2745926 gn:city "Urmond" .
+
+gn:2745932 gn:city "Urk" .
+
+gn:2745936 gn:city "Ureterp" .
+
+gn:2745940 gn:city "Ulvenhout" .
+
+gn:2745944 gn:city "Ulrum" .
+
+gn:2745953 gn:city "Ulft" .
+
+gn:2745955 gn:city "Ulestraten" .
+
+gn:2745968 gn:city "Uithuizermeeden" .
+
+gn:2745970 gn:city "Uithuizen" .
+
+gn:2745973 gn:city "Uithoorn" .
+
+gn:2745978 gn:city "Uitgeest" .
+
+gn:2745997 gn:city "Ugchelen" .
+
+gn:2746000 gn:city "Uffelte" .
+
+gn:2746003 gn:city "Udenhout" .
+
+gn:2746005 gn:city "Uden" .
+
+gn:2746009 gn:city "Uddel" .
+
+gn:2746014 gn:city "Ubachsberg" .
+
+gn:2746023 gn:city "Tzummarum" .
+
+gn:2746031 gn:city "'t Zand" .
+
+gn:2746038 gn:city "Tynaarlo" .
+
+gn:2746048 gn:city "Twisk" .
+
+gn:2746051 gn:city "Twijzelerheide" .
+
+gn:2746052 gn:city "Twijzel" .
+
+gn:2746060 gn:city "Twello" .
+
+gn:2746062 gn:city "Twekkelerveld" .
+
+gn:2746075 gn:city "Tweede Exloërmond" .
+
+gn:2746120 gn:city "Tuk" .
+
+gn:2746125 gn:city "Tuindorp" .
+
+gn:2746131 gn:city "Tuikwerd" .
+
+gn:2746133 gn:city "Tubbergen" .
+
+gn:2746162 gn:city "Tricht" .
+
+gn:2746215 gn:city "Tongelre" .
+
+gn:2746228 gn:city "Tolkamer" .
+
+gn:2746282 gn:city "Tivoli" .
+
+gn:2746286 gn:city "Tinga" .
+
+gn:2746301 gn:city "Tilburg" .
+
+gn:2746304 gn:city "Tijnje" .
+
+gn:2746311 gn:city "Tytsjerk" .
+
+gn:2746314 gn:city "Tienray" .
+
+gn:2746331 gn:city "Tiel" .
+
+gn:2746342 gn:city "Thorn" .
+
+gn:2746351 gn:city "Tholen" .
+
+gn:2746354 gn:city "'t Hofke" .
+
+gn:2746367 gn:city "Theereheide" .
+
+gn:2746389 gn:city "Teteringen" .
+
+gn:2746395 gn:city "Terwolde" .
+
+gn:2746400 gn:city "Terwinselen" .
+
+gn:2746407 gn:city "Terschuur" .
+
+gn:2746420 gn:city "Terneuzen" .
+
+gn:2746424 gn:city "Ternaard" .
+
+gn:2746456 gn:city "Terheijden" .
+
+gn:2746464 gn:city "Terbregge" .
+
+gn:2746468 gn:city "Terborg" .
+
+gn:2746475 gn:city "Ter Apel" .
+
+gn:2746491 gn:city "Ten Boer" .
+
+gn:2746504 gn:city "Tegelen" .
+
+gn:2746558 gn:city "Surhuisterveen" .
+
+gn:2746600 gn:city "Strijp" .
+
+gn:2746609 gn:city "Strijen" .
+
+gn:2746631 gn:city "Stramproy" .
+
+gn:2746661 gn:city "Stompetoren" .
+
+gn:2746665 gn:city "Stolwijk" .
+
+gn:2746705 gn:city "Stiens" .
+
+gn:2746735 gn:city "Stepekolk" .
+
+gn:2746747 gn:city "Stein" .
+
+gn:2746748 gn:city "Stein" .
+
+gn:2746751 gn:city "Steyl" .
+
+gn:2746753 gn:city "Stegeslag" .
+
+gn:2746761 gn:city "Steenwijkerwold" .
+
+gn:2746766 gn:city "Steenwijk" .
+
+gn:2746773 gn:city "Steensel" .
+
+gn:2746794 gn:city "Steenderen" .
+
+gn:2746804 gn:city "Steenbergen" .
+
+gn:2746823 gn:city "Stavenisse" .
+
+gn:2746826 gn:city "Statenkwartier" .
+
+gn:2746839 gn:city "Staphorst" .
+
+gn:2746845 gn:city "Standdaarbuiten" .
+
+gn:2746846 gn:city "Stampersgat" .
+
+gn:2746860 gn:city "Stadskanaal" .
+
+gn:2746862 gn:city "Stadsfenne" .
+
+gn:2746870 gn:city "Stadbroek" .
+
+gn:2746886 gn:city "Sprundel" .
+
+gn:2746905 gn:city "Spoorwijk" .
+
+gn:2746932 gn:city "Spijkenisse" .
+
+gn:2746935 gn:city "Spijk" .
+
+gn:2746943 gn:city "Spierdijk" .
+
+gn:2746956 gn:city "Spekholzerheide" .
+
+gn:2746964 gn:city "Spaubeek" .
+
+gn:2746975 gn:city "Spangen" .
+
+gn:2746981 gn:city "Spakenburg" .
+
+gn:2747010 gn:city "Son" .
+
+gn:2747019 gn:city "Someren-Eind" .
+
+gn:2747021 gn:city "Someren" .
+
+gn:2747032 gn:city "Soestdijk" .
+
+gn:2747034 gn:city "Soest" .
+
+gn:2747037 gn:city "Soerendonk" .
+
+gn:2747063 gn:city "Sneek" .
+
+gn:2747109 gn:city "Sluiskil" .
+
+gn:2747117 gn:city "Sluis" .
+
+gn:2747136 gn:city "Slootdorp" .
+
+gn:2747143 gn:city "Slochteren" .
+
+gn:2747151 gn:city "Slikkerveer" .
+
+gn:2747169 gn:city "Sliedrecht" .
+
+gn:2747178 gn:city "Sleeuwijk" .
+
+gn:2747182 gn:city "Sleen" .
+
+gn:2747203 gn:city "Sittard" .
+
+gn:2747210 gn:city "Sint Willebrord" .
+
+gn:2747221 gn:city "Sint Philipsland" .
+
+gn:2747225 gn:city "Sint Pancras" .
+
+gn:2747227 gn:city "Sint-Oedenrode" .
+
+gn:2747229 gn:city "Sint Odiliënberg" .
+
+gn:2747231 gn:city "Sint Nicolaasga" .
+
+gn:2747234 gn:city "Sint-Michielsgestel" .
+
+gn:2747248 gn:city "Sint Laurens" .
+
+gn:2747256 gn:city "Sint Joost" .
+
+gn:2747257 gn:city "Sintjohannesga" .
+
+gn:2747262 gn:city "Sint Jansklooster" .
+
+gn:2747270 gn:city "Sint Jacobiparochie" .
+
+gn:2747290 gn:city "Sint Anthonis" .
+
+gn:2747297 gn:city "Sint Annaparochie" .
+
+gn:2747312 gn:city "Simpelveld" .
+
+gn:2747322 gn:city "Silvolde" .
+
+gn:2747343 gn:city "Siddeburen" .
+
+gn:2747348 gn:city "Sibbe" .
+
+gn:2747351 gn:city "'s-Hertogenbosch" .
+
+gn:2747357 gn:city "'s-Heerenberg" .
+
+gn:2747364 gn:city "'s-Gravenzande" .
+
+gn:2747371 gn:city "'s Gravenmoer" .
+
+gn:2747373 gn:city "The Hague" .
+
+gn:2747380 gn:city "Sexbierum" .
+
+gn:2747382 gn:city "Sevenum" .
+
+gn:2747386 gn:city "Serooskerke" .
+
+gn:2747392 gn:city "Selwerd" .
+
+gn:2747400 gn:city "Sellingen" .
+
+gn:2747425 gn:city "Schutsboom" .
+
+gn:2747499 gn:city "Schoonrewoerd" .
+
+gn:2747501 gn:city "Schoonoord" .
+
+gn:2747506 gn:city "Schoonhoven" .
+
+gn:2747515 gn:city "Schoonebeek" .
+
+gn:2747517 gn:city "Schoondijke" .
+
+gn:2747540 gn:city "Schipluiden" .
+
+gn:2747550 gn:city "Schinveld" .
+
+gn:2747553 gn:city "Schinnen" .
+
+gn:2747561 gn:city "Schimmert" .
+
+gn:2747570 gn:city "Schildwolde" .
+
+gn:2747579 gn:city "Schilberg" .
+
+gn:2747584 gn:city "Schijndel" .
+
+gn:2747591 gn:city "Schiermonnikoog" .
+
+gn:2747596 gn:city "Schiedam" .
+
+gn:2747597 gn:city "Schiebroek" .
+
+gn:2747599 gn:city "Scheveningen" .
+
+gn:2747607 gn:city "Scherpenzeel" .
+
+gn:2747610 gn:city "Scherpenisse" .
+
+gn:2747617 gn:city "Schermerhorn" .
+
+gn:2747636 gn:city "Schelluinen" .
+
+gn:2747661 gn:city "Scheemda" .
+
+gn:2747671 gn:city "Scharnegoutum" .
+
+gn:2747673 gn:city "Scharn" .
+
+gn:2747680 gn:city "Scharendijke" .
+
+gn:2747704 gn:city "Schalkhaar" .
+
+gn:2747713 gn:city "Schaijk" .
+
+gn:2747715 gn:city "Schagerbrug" .
+
+gn:2747720 gn:city "Schagen" .
+
+gn:2747749 gn:city "Sas van Gent" .
+
+gn:2747751 gn:city "Sassenheim" .
+
+gn:2747758 gn:city "Sappemeer" .
+
+gn:2747792 gn:city "Ruurlo" .
+
+gn:2747828 gn:city "Ruinerwold" .
+
+gn:2747835 gn:city "Ruinen" .
+
+gn:2747852 gn:city "Rugge" .
+
+gn:2747858 gn:city "Rucphen" .
+
+gn:2747865 gn:city "Rozendaal" .
+
+gn:2747870 gn:city "Rozenburg" .
+
+gn:2747886 gn:city "Rottevalle" .
+
+gn:2747891 gn:city "Rotterdam" .
+
+gn:2747900 gn:city "Rothem" .
+
+gn:2747907 gn:city "Rossum" .
+
+gn:2747908 gn:city "Rossum" .
+
+gn:2747924 gn:city "Roosteren" .
+
+gn:2747930 gn:city "Roosendaal" .
+
+gn:2747979 gn:city "Rolde" .
+
+gn:2748000 gn:city "Roermond" .
+
+gn:2748006 gn:city "Roelofarendsveen" .
+
+gn:2748026 gn:city "Roden" .
+
+gn:2748029 gn:city "Rockanje" .
+
+gn:2748076 gn:city "Rijswijk" .
+
+gn:2748078 gn:city "Rijswijk" .
+
+gn:2748085 gn:city "Rijsoord" .
+
+gn:2748091 gn:city "Rijsbergen" .
+
+gn:2748094 gn:city "Rijpwetering" .
+
+gn:2748104 gn:city "Rijnsburg" .
+
+gn:2748106 gn:city "Rijnsaterwoude" .
+
+gn:2748130 gn:city "Rijen" .
+
+gn:2748150 gn:city "Riethoven" .
+
+gn:2748172 gn:city "Ridderkerk" .
+
+gn:2748178 gn:city "Rhoon" .
+
+gn:2748185 gn:city "Rhenen" .
+
+gn:2748201 gn:city "Rheden" .
+
+gn:2748208 gn:city "Reuver" .
+
+gn:2748217 gn:city "Reusel" .
+
+gn:2748228 gn:city "Renswoude" .
+
+gn:2748236 gn:city "Renkum" .
+
+gn:2748240 gn:city "Renesse" .
+
+gn:2748280 gn:city "Reeuwijk" .
+
+gn:2748286 gn:city "Reek" .
+
+gn:2748308 gn:city "Ravenstein" .
+
+gn:2748361 gn:city "Raamsdonksveer" .
+
+gn:2748363 gn:city "Raamsdonk" .
+
+gn:2748367 gn:city "Raam" .
+
+gn:2748371 gn:city "Raalte" .
+
+gn:2748377 gn:city "Quirijnstok" .
+
+gn:2748392 gn:city "Putten" .
+
+gn:2748397 gn:city "Putte" .
+
+gn:2748403 gn:city "Puth" .
+
+gn:2748413 gn:city "Purmerend" .
+
+gn:2748421 gn:city "Puiflijk" .
+
+gn:2748448 gn:city "Prinsenbeek" .
+
+gn:2748457 gn:city "Princenhage" .
+
+gn:2748474 gn:city "Pottenberg" .
+
+gn:2748481 gn:city "Posterholt" .
+
+gn:2748498 gn:city "Poortvliet" .
+
+gn:2748533 gn:city "Poeldijk" .
+
+gn:2748591 gn:city "Pijnacker" .
+
+gn:2748608 gn:city "Piershil" .
+
+gn:2748611 gn:city "Pierik" .
+
+gn:2748631 gn:city "Petten" .
+
+gn:2748647 gn:city "Pernis" .
+
+gn:2748657 gn:city "Pendrecht" .
+
+gn:2748673 gn:city "Peize" .
+
+gn:2748675 gn:city "Peij" .
+
+gn:2748686 gn:city "Peelo" .
+
+gn:2748700 gn:city "Pathmos" .
+
+gn:2748702 gn:city "Paterswolde" .
+
+gn:2748710 gn:city "Passart" .
+
+gn:2748725 gn:city "Papenveer" .
+
+gn:2748729 gn:city "Papendrecht" .
+
+gn:2748737 gn:city "Panningen" .
+
+gn:2748740 gn:city "Pannerden" .
+
+gn:2748760 gn:city "Palenstein" .
+
+gn:2748813 gn:city "Overveen" .
+
+gn:2748826 gn:city "Overschie" .
+
+gn:2748833 gn:city "Overloon" .
+
+gn:2748839 gn:city "Overhoven" .
+
+gn:2748864 gn:city "Overberg" .
+
+gn:2748868 gn:city "Overasselt" .
+
+gn:2748891 gn:city "Oud-Vossemeer" .
+
+gn:2748926 gn:city "Oud-Loosdrecht" .
+
+gn:2748943 gn:city "Oudkarspel" .
+
+gn:2748956 gn:city "Oud Gastel" .
+
+gn:2748968 gn:city "Oude Wetering" .
+
+gn:2748979 gn:city "Oudewater" .
+
+gn:2749007 gn:city "Oudeschoot" .
+
+gn:2749009 gn:city "Oudeschild" .
+
+gn:2749016 gn:city "Ouderkerk aan den IJssel" .
+
+gn:2749017 gn:city "Ouderkerk aan de Amstel" .
+
+gn:2749034 gn:city "Oude Pekela" .
+
+gn:2749061 gn:city "Oudemirdum" .
+
+gn:2749120 gn:city "Oudehaske" .
+
+gn:2749136 gn:city "Oudega" .
+
+gn:2749164 gn:city "Ouddorp" .
+
+gn:2749170 gn:city "Oud-Caberg" .
+
+gn:2749182 gn:city "Oud-Beijerland" .
+
+gn:2749197 gn:city "Ottersum" .
+
+gn:2749203 gn:city "Otterlo" .
+
+gn:2749205 gn:city "Othene" .
+
+gn:2749223 gn:city "Ossendrecht" .
+
+gn:2749234 gn:city "Oss" .
+
+gn:2749235 gn:city "Ospel" .
+
+gn:2749248 gn:city "Orthen" .
+
+gn:2749250 gn:city "Orden" .
+
+gn:2749251 gn:city "Oranjewoud" .
+
+gn:2749281 gn:city "Opperdoes" .
+
+gn:2749284 gn:city "Oppenhuizen" .
+
+gn:2749286 gn:city "Opmeer" .
+
+gn:2749290 gn:city "Opijnen" .
+
+gn:2749293 gn:city "Ophoven" .
+
+gn:2749296 gn:city "Opheusden" .
+
+gn:2749298 gn:city "Ophemert" .
+
+gn:2749304 gn:city "Opeinde" .
+
+gn:2749315 gn:city "Ooyerhoek" .
+
+gn:2749317 gn:city "Ootmarsum" .
+
+gn:2749330 gn:city "Oostvoorne" .
+
+gn:2749334 gn:city "Oost-Vlieland" .
+
+gn:2749344 gn:city "Oostrum" .
+
+gn:2749362 gn:city "Oostkapelle" .
+
+gn:2749366 gn:city "Oosthuizen" .
+
+gn:2749383 gn:city "Oosterzij" .
+
+gn:2749391 gn:city "Oosterwolde" .
+
+gn:2749423 gn:city "Oosterpark" .
+
+gn:2749430 gn:city "Eastermar" .
+
+gn:2749431 gn:city "Oostermeenthe" .
+
+gn:2749440 gn:city "Oosterland" .
+
+gn:2749449 gn:city "Oosterhout" .
+
+gn:2749450 gn:city "Oosterhout" .
+
+gn:2749451 gn:city "Oosterhoogebrug" .
+
+gn:2749453 gn:city "Oosterholt" .
+
+gn:2749461 gn:city "Oosterhesselen" .
+
+gn:2749496 gn:city "Oosterblokker" .
+
+gn:2749503 gn:city "Oosterbeek" .
+
+gn:2749506 gn:city "Oostendorp" .
+
+gn:2749513 gn:city "Oostelbeers" .
+
+gn:2749525 gn:city "Oosteinde" .
+
+gn:2749528 gn:city "Oosteind" .
+
+gn:2749533 gn:city "Oostdorp" .
+
+gn:2749541 gn:city "Oostburg" .
+
+gn:2749567 gn:city "Ooy" .
+
+gn:2749569 gn:city "Ooij" .
+
+gn:2749573 gn:city "Oog in Al" .
+
+gn:2749577 gn:city "Onstwedde" .
+
+gn:2749599 gn:city "Onderdijk" .
+
+gn:2749604 gn:city "Ommoord" .
+
+gn:2749613 gn:city "Ommen" .
+
+gn:2749615 gn:city "Ommelanderwijk" .
+
+gn:2749626 gn:city "Olst" .
+
+gn:2749644 gn:city "Oldenzaal" .
+
+gn:2749653 gn:city "Oldemarkt" .
+
+gn:2749660 gn:city "Oldehove" .
+
+gn:2749668 gn:city "Oldebroek" .
+
+gn:2749669 gn:city "Aldeboarn" .
+
+gn:2749671 gn:city "Oldeberkoop" .
+
+gn:2749680 gn:city "Oisterwijk" .
+
+gn:2749683 gn:city "Oirschot" .
+
+gn:2749685 gn:city "Oirsbeek" .
+
+gn:2749687 gn:city "Oirlo" .
+
+gn:2749696 gn:city "Offenbeek" .
+
+gn:2749703 gn:city "Oerle" .
+
+gn:2749708 gn:city "Oentsjerk" .
+
+gn:2749723 gn:city "Oegstgeest" .
+
+gn:2749734 gn:city "Odoorn" .
+
+gn:2749735 gn:city "Odiliapeel" .
+
+gn:2749736 gn:city "Odijk" .
+
+gn:2749741 gn:city "Ochten" .
+
+gn:2749742 gn:city "Obergum" .
+
+gn:2749745 gn:city "Obdam" .
+
+gn:2749748 gn:city "Obbicht" .
+
+gn:2749753 gn:city "Nuth" .
+
+gn:2749756 gn:city "Nunspeet" .
+
+gn:2749765 gn:city "Numansdorp" .
+
+gn:2749780 gn:city "Nuenen" .
+
+gn:2749796 gn:city "Norg" .
+
+gn:2749807 gn:city "Noordwolde" .
+
+gn:2749811 gn:city "Noordwijkerhout" .
+
+gn:2749812 gn:city "Noordwijk-Binnen" .
+
+gn:2749835 gn:city "Noord-Scharwoude" .
+
+gn:2749875 gn:city "Noordhorn" .
+
+gn:2749881 gn:city "Noord-Hofland" .
+
+gn:2749883 gn:city "Noordhoek" .
+
+gn:2749892 gn:city "Noordgeest" .
+
+gn:2749967 gn:city "Noordeloos" .
+
+gn:2749976 gn:city "Noordeinde" .
+
+gn:2749989 gn:city "Noordbroek" .
+
+gn:2749992 gn:city "Noardburgum" .
+
+gn:2749996 gn:city "Noordbarge" .
+
+gn:2750031 gn:city "Nistelrode" .
+
+gn:2750035 gn:city "Nispen" .
+
+gn:2750047 gn:city "Nijrees" .
+
+gn:2750048 gn:city "Nijnsel" .
+
+gn:2750053 gn:city "Nijmegen" .
+
+gn:2750061 gn:city "Nijkerkerveen" .
+
+gn:2750065 gn:city "Nijkerk" .
+
+gn:2750086 gn:city "Nijenheim" .
+
+gn:2750117 gn:city "Nieuw-Vossemeer" .
+
+gn:2750123 gn:city "Nieuwveen" .
+
+gn:2750140 gn:city "Nieuw-Roden" .
+
+gn:2750146 gn:city "Nieuwpoort" .
+
+gn:2750150 gn:city "Nieuwoord" .
+
+gn:2750154 gn:city "Nieuwolda" .
+
+gn:2750155 gn:city "Nieuw-Namen" .
+
+gn:2750157 gn:city "Nieuw-Lotbroek" .
+
+gn:2750158 gn:city "Nieuw-Loosdrecht" .
+
+gn:2750163 gn:city "Nieuw-Lekkerland" .
+
+gn:2750176 gn:city "Nieuwland" .
+
+gn:2750177 gn:city "Nieuw- en Sint Joosland" .
+
+gn:2750180 gn:city "Nieuwkuijk" .
+
+gn:2750187 gn:city "Nieuwkoop" .
+
+gn:2750264 gn:city "Nieuwerkerk" .
+
+gn:2750272 gn:city "Nieuwe Pekela" .
+
+gn:2750278 gn:city "Nieuwe-Niedorp" .
+
+gn:2750280 gn:city "Nieuwenhoorn" .
+
+gn:2750285 gn:city "Nieuwendijk" .
+
+gn:2750310 gn:city "Nieuwehorne" .
+
+gn:2750325 gn:city "Nieuwegein" .
+
+gn:2750355 gn:city "Nieuwdorp" .
+
+gn:2750357 gn:city "Nieuw-Dordrecht" .
+
+gn:2750362 gn:city "Nieuw-Buinen" .
+
+gn:2750371 gn:city "Nieuw-Beijerland" .
+
+gn:2750390 gn:city "Niekerk" .
+
+gn:2750417 gn:city "Nes" .
+
+gn:2750420 gn:city "Nes" .
+
+gn:2750442 gn:city "Neerkant" .
+
+gn:2750452 gn:city "Neerbeek" .
+
+gn:2750453 gn:city "Andel" .
+
+gn:2750460 gn:city "Neede" .
+
+gn:2750463 gn:city "Nederwoud" .
+
+gn:2750467 gn:city "Nederweert" .
+
+gn:2750479 gn:city "Nederhemert-Noord" .
+
+gn:2750480 gn:city "Nederhemert" .
+
+gn:2750484 gn:city "Neder-Hardinxveld" .
+
+gn:2750515 gn:city "Naastenbest" .
+
+gn:2750521 gn:city "Naarden" .
+
+gn:2750523 gn:city "Naaldwijk" .
+
+gn:2750539 gn:city "Munstergeleen" .
+
+gn:2750567 gn:city "Muiderberg" .
+
+gn:2750569 gn:city "Muiden" .
+
+gn:2750621 gn:city "Mook" .
+
+gn:2750624 gn:city "Montfort" .
+
+gn:2750626 gn:city "Montfoort" .
+
+gn:2750630 gn:city "Monster" .
+
+gn:2750641 gn:city "Monnickendam" .
+
+gn:2750694 gn:city "Molenhoek" .
+
+gn:2750751 gn:city "Moesel" .
+
+gn:2750769 gn:city "Moerdijk" .
+
+gn:2750790 gn:city "Minnertsga" .
+
+gn:2750795 gn:city "Milsbeek" .
+
+gn:2750803 gn:city "Milheeze" .
+
+gn:2750810 gn:city "Mijnsheerenland" .
+
+gn:2750815 gn:city "Mijdrecht" .
+
+gn:2750821 gn:city "Mierlo" .
+
+gn:2750829 gn:city "Midwoud" .
+
+gn:2750832 gn:city "Midwolda" .
+
+gn:2750850 gn:city "Middenmeer" .
+
+gn:2750861 gn:city "Middenbeemster" .
+
+gn:2750868 gn:city "Middelstum" .
+
+gn:2750869 gn:city "Middelsluis" .
+
+gn:2750870 gn:city "Middelrode" .
+
+gn:2750884 gn:city "Middelharnis" .
+
+gn:2750896 gn:city "Middelburg" .
+
+gn:2750903 gn:city "Middelbeers" .
+
+gn:2750921 gn:city "Meteren" .
+
+gn:2750932 gn:city "Merum" .
+
+gn:2750933 gn:city "Merselo" .
+
+gn:2750938 gn:city "Merkelbeek" .
+
+gn:2750939 gn:city "Merenwijk" .
+
+gn:2750947 gn:city "Meppel" .
+
+gn:2750965 gn:city "Menaam" .
+
+gn:2750969 gn:city "Melle" .
+
+gn:2750974 gn:city "Meliskerke" .
+
+gn:2750978 gn:city "Melick" .
+
+gn:2750979 gn:city "Melderslo" .
+
+gn:2750982 gn:city "Mekkelholt" .
+
+gn:2750995 gn:city "Meijel" .
+
+gn:2751002 gn:city "Megen" .
+
+gn:2751005 gn:city "Meezenbroek" .
+
+gn:2751030 gn:city "Meerveldhoven" .
+
+gn:2751037 gn:city "Meerssen" .
+
+gn:2751042 gn:city "Meerlo" .
+
+gn:2751068 gn:city "Meeden" .
+
+gn:2751073 gn:city "Medemblik" .
+
+gn:2751077 gn:city "Mechelen" .
+
+gn:2751085 gn:city "Maurik" .
+
+gn:2751111 gn:city "Marum" .
+
+gn:2751122 gn:city "Marsum" .
+
+gn:2751129 gn:city "Marrum" .
+
+gn:2751161 gn:city "Markelo" .
+
+gn:2751180 gn:city "Mariarade" .
+
+gn:2751189 gn:city "Mariahout" .
+
+gn:2751199 gn:city "Margraten" .
+
+gn:2751212 gn:city "Mantgum" .
+
+gn:2751227 gn:city "Malta" .
+
+gn:2751243 gn:city "Malburgen West" .
+
+gn:2751247 gn:city "Malberg" .
+
+gn:2751254 gn:city "Makkum" .
+
+gn:2751264 gn:city "Magele" .
+
+gn:2751272 gn:city "Made" .
+
+gn:2751283 gn:city "Maastricht" .
+
+gn:2751285 gn:city "Maassluis" .
+
+gn:2751288 gn:city "Maasland" .
+
+gn:2751289 gn:city "Maaskantje" .
+
+gn:2751296 gn:city "Maasdijk" .
+
+gn:2751301 gn:city "Maasbree" .
+
+gn:2751303 gn:city "Maasbracht" .
+
+gn:2751310 gn:city "Maartensdijk" .
+
+gn:2751316 gn:city "Maarssen" .
+
+gn:2751320 gn:city "Maarn" .
+
+gn:2751325 gn:city "Maarheeze" .
+
+gn:2751346 gn:city "Luyksgestel" .
+
+gn:2751379 gn:city "Lutjebroek" .
+
+gn:2751385 gn:city "Lunteren" .
+
+gn:2751415 gn:city "Loven" .
+
+gn:2751422 gn:city "Lottum" .
+
+gn:2751424 gn:city "Losser" .
+
+gn:2751429 gn:city "Loppersum" .
+
+gn:2751436 gn:city "Lopik" .
+
+gn:2751449 gn:city "Loosbroek" .
+
+gn:2751456 gn:city "Loon op Zand" .
+
+gn:2751497 gn:city "Lombardijen" .
+
+gn:2751524 gn:city "Loenen" .
+
+gn:2751537 gn:city "Lochem" .
+
+gn:2751538 gn:city "Lobith" .
+
+gn:2751543 gn:city "Lith" .
+
+gn:2751544 gn:city "Lisserbroek" .
+
+gn:2751547 gn:city "Lisse" .
+
+gn:2751561 gn:city "Linschoten" .
+
+gn:2751566 gn:city "Linne" .
+
+gn:2751582 gn:city "Lindenholt" .
+
+gn:2751583 gn:city "Lindenheuvel" .
+
+gn:2751592 gn:city "Limmen" .
+
+gn:2751593 gn:city "Limmel" .
+
+gn:2751599 gn:city "Limbricht" .
+
+gn:2751615 gn:city "Lievendaal" .
+
+gn:2751621 gn:city "Liesveld" .
+
+gn:2751623 gn:city "Liessel" .
+
+gn:2751627 gn:city "Lieshout" .
+
+gn:2751634 gn:city "Lierop" .
+
+gn:2751641 gn:city "Lienden" .
+
+gn:2751645 gn:city "Liempde" .
+
+gn:2751651 gn:city "Lichtenvoorde" .
+
+gn:2751653 gn:city "Lichtenberg" .
+
+gn:2751682 gn:city "Leuth" .
+
+gn:2751687 gn:city "Leusden" .
+
+gn:2751695 gn:city "Leunen" .
+
+gn:2751700 gn:city "Leuken" .
+
+gn:2751709 gn:city "Lepelstraat" .
+
+gn:2751714 gn:city "Lent" .
+
+gn:2751729 gn:city "Lemmer" .
+
+gn:2751738 gn:city "Lelystad" .
+
+gn:2751750 gn:city "Leimuiden" .
+
+gn:2751771 gn:city "Leiderdorp" .
+
+gn:2751773 gn:city "Leiden" .
+
+gn:2751789 gn:city "Leeuwen" .
+
+gn:2751792 gn:city "Leeuwarden" .
+
+gn:2751793 gn:city "Leesten" .
+
+gn:2751795 gn:city "Leest" .
+
+gn:2751801 gn:city "Leersum" .
+
+gn:2751808 gn:city "Leerdam" .
+
+gn:2751813 gn:city "Leens" .
+
+gn:2751821 gn:city "Leende" .
+
+gn:2751834 gn:city "Leek" .
+
+gn:2751858 gn:city "Lauradorp" .
+
+gn:2751874 gn:city "Laren" .
+
+gn:2751875 gn:city "Laren" .
+
+gn:2751888 gn:city "Langweer" .
+
+gn:2751927 gn:city "Langenoord" .
+
+gn:2751932 gn:city "Langenboom" .
+
+gn:2751955 gn:city "Langeheit" .
+
+gn:2751980 gn:city "Landsmeer" .
+
+gn:2751998 gn:city "Lammerenburg" .
+
+gn:2752028 gn:city "Lage Mierde" .
+
+gn:2752130 gn:city "Kwintsheul" .
+
+gn:2752151 gn:city "Kunrade" .
+
+gn:2752178 gn:city "Kudelstaart" .
+
+gn:2752192 gn:city "Kruisland" .
+
+gn:2752202 gn:city "Kruisberg" .
+
+gn:2752218 gn:city "Krooswijk" .
+
+gn:2752264 gn:city "Krimpen aan den IJssel" .
+
+gn:2752317 gn:city "Krakeel" .
+
+gn:2752367 gn:city "Koudum" .
+
+gn:2752374 gn:city "Koudekerke" .
+
+gn:2752389 gn:city "Korvel" .
+
+gn:2752409 gn:city "Kortenhoef" .
+
+gn:2752420 gn:city "Korrewegwijk" .
+
+gn:2752441 gn:city "Kootwijkerbroek" .
+
+gn:2752444 gn:city "Kootstertille" .
+
+gn:2752484 gn:city "Koningslust" .
+
+gn:2752492 gn:city "Koningsbosch" .
+
+gn:2752520 gn:city "Kollumerzwaag" .
+
+gn:2752524 gn:city "Kollum" .
+
+gn:2752547 gn:city "Koewacht" .
+
+gn:2752568 gn:city "Koekange" .
+
+gn:2752600 gn:city "Klundert" .
+
+gn:2752638 gn:city "Kloetinge" .
+
+gn:2752646 gn:city "Klimmen" .
+
+gn:2752660 gn:city "Klein-Zundert" .
+
+gn:2752772 gn:city "Klein Driene" .
+
+gn:2752798 gn:city "Klazienaveen" .
+
+gn:2752806 gn:city "Klarenbeek" .
+
+gn:2752814 gn:city "Klaaswaal" .
+
+gn:2752842 gn:city "Kijkduin" .
+
+gn:2752899 gn:city "Kesteren" .
+
+gn:2752906 gn:city "Kessel" .
+
+gn:2752910 gn:city "Kerschoten" .
+
+gn:2752923 gn:city "Kerkrade" .
+
+gn:2752937 gn:city "Kerkelanden" .
+
+gn:2752942 gn:city "Kerkehout" .
+
+gn:2752947 gn:city "Kerkdriel" .
+
+gn:2752950 gn:city "Marken" .
+
+gn:2752954 gn:city "Kerensheide" .
+
+gn:2752956 gn:city "Kerckebosch" .
+
+gn:2752986 gn:city "Keijenborg" .
+
+gn:2752993 gn:city "Keent" .
+
+gn:2752998 gn:city "Kedichem" .
+
+gn:2753010 gn:city "Katwijk aan Zee" .
+
+gn:2753011 gn:city "Katwijk aan den Rijn" .
+
+gn:2753045 gn:city "Katendrecht" .
+
+gn:2753097 gn:city "Kamperland" .
+
+gn:2753106 gn:city "Kampen" .
+
+gn:2753123 gn:city "Kalsdonk" .
+
+gn:2753144 gn:city "Kakert" .
+
+gn:2753148 gn:city "Kadoelen" .
+
+gn:2753167 gn:city "Kaalheide" .
+
+gn:2753197 gn:city "Joure" .
+
+gn:2753282 gn:city "Jagershoef" .
+
+gn:2753307 gn:city "Jirnsum" .
+
+gn:2753316 gn:city "Ingen" .
+
+gn:2753334 gn:city "Ilpendam" .
+
+gn:2753348 gn:city "IJzendijke" .
+
+gn:2753353 gn:city "Ysselsteyn" .
+
+gn:2753355 gn:city "IJsselstein" .
+
+gn:2753376 gn:city "IJmuiden" .
+
+gn:2753379 gn:city "IJlst" .
+
+gn:2753401 gn:city "Husken" .
+
+gn:2753423 gn:city "Hummelo" .
+
+gn:2753439 gn:city "Hulst" .
+
+gn:2753452 gn:city "Hulsberg" .
+
+gn:2753468 gn:city "Huizen" .
+
+gn:2753470 gn:city "Huizum" .
+
+gn:2753521 gn:city "Huijbergen" .
+
+gn:2753548 gn:city "Houthem" .
+
+gn:2753557 gn:city "Houten" .
+
+gn:2753593 gn:city "Horssen" .
+
+gn:2753615 gn:city "Hopel" .
+
+gn:2753638 gn:city "Hoorn" .
+
+gn:2753663 gn:city "Hoogwoud" .
+
+gn:2753666 gn:city "Hoogvliet" .
+
+gn:2753681 gn:city "Hoogmade" .
+
+gn:2753686 gn:city "Hoogland" .
+
+gn:2753700 gn:city "Hooge Zwaluwe" .
+
+gn:2753706 gn:city "Hoogezand" .
+
+gn:2753719 gn:city "Hoogeveen" .
+
+gn:2753725 gn:city "Hoogerheide" .
+
+gn:2753736 gn:city "Hooge Mierde" .
+
+gn:2753741 gn:city "Hoogeloon" .
+
+gn:2753789 gn:city "Hoogblokland" .
+
+gn:2753801 gn:city "Hoofddorp" .
+
+gn:2753806 gn:city "Honselersdijk" .
+
+gn:2753841 gn:city "Holz" .
+
+gn:2753852 gn:city "Holwerd" .
+
+gn:2753856 gn:city "Holtum" .
+
+gn:2753887 gn:city "Hollum" .
+
+gn:2753908 gn:city "Hollandsche Rading" .
+
+gn:2753939 gn:city "Hoge Mors" .
+
+gn:2753955 gn:city "Hoge Vucht" .
+
+gn:2753969 gn:city "Hofgeest" .
+
+gn:2753980 gn:city "Hoeven" .
+
+gn:2753982 gn:city "Hoeven" .
+
+gn:2753996 gn:city "Hoensbroek" .
+
+gn:2754007 gn:city "Hoek van Holland" .
+
+gn:2754050 gn:city "Hippolytushoef" .
+
+gn:2754061 gn:city "Hilversumse Meent" .
+
+gn:2754064 gn:city "Hilversum" .
+
+gn:2754066 gn:city "Hilvarenbeek" .
+
+gn:2754073 gn:city "Hillegom" .
+
+gn:2754111 gn:city "Heythuysen" .
+
+gn:2754132 gn:city "Heusdenhout" .
+
+gn:2754135 gn:city "Heusden" .
+
+gn:2754136 gn:city "Heusden" .
+
+gn:2754147 gn:city "Heumen" .
+
+gn:2754156 gn:city "Heugem" .
+
+gn:2754226 gn:city "Het Oostrik" .
+
+gn:2754241 gn:city "Het Loo" .
+
+gn:2754287 gn:city "Heteren" .
+
+gn:2754318 gn:city "Herwijnen" .
+
+gn:2754331 gn:city "Herten" .
+
+gn:2754339 gn:city "Herpen" .
+
+gn:2754352 gn:city "Herkenbosch" .
+
+gn:2754375 gn:city "Hensbroek" .
+
+gn:2754386 gn:city "Hengstdal" .
+
+gn:2754389 gn:city "Hengevelde" .
+
+gn:2754394 gn:city "Hengelo" .
+
+gn:2754395 gn:city "Hengelo" .
+
+gn:2754408 gn:city "Hendrik-Ido-Ambacht" .
+
+gn:2754434 gn:city "Hem" .
+
+gn:2754440 gn:city "Helvoirt" .
+
+gn:2754444 gn:city "Helpman" .
+
+gn:2754447 gn:city "Helmond" .
+
+gn:2754454 gn:city "Hellevoetsluis" .
+
+gn:2754482 gn:city "Helden" .
+
+gn:2754486 gn:city "Heksenberg" .
+
+gn:2754502 gn:city "Heino" .
+
+gn:2754516 gn:city "Heiloo" .
+
+gn:2754519 gn:city "Heiligerlee" .
+
+gn:2754552 gn:city "Heijplaat" .
+
+gn:2754556 gn:city "Heijen" .
+
+gn:2754599 gn:city "Heide" .
+
+gn:2754611 gn:city "Hegelsom" .
+
+gn:2754618 gn:city "Heeze" .
+
+gn:2754629 gn:city "Heeswijk-Dinther" .
+
+gn:2754631 gn:city "Heesterakker" .
+
+gn:2754635 gn:city "Heesch" .
+
+gn:2754643 gn:city "Hees" .
+
+gn:2754652 gn:city "Heerlen" .
+
+gn:2754653 gn:city "Heerle" .
+
+gn:2754656 gn:city "Heerjansdam" .
+
+gn:2754659 gn:city "Heerhugowaard" .
+
+gn:2754662 gn:city "Heerewaarden" .
+
+gn:2754669 gn:city "Heerenveen" .
+
+gn:2754681 gn:city "Heerde" .
+
+gn:2754682 gn:city "Heer" .
+
+gn:2754692 gn:city "Heemstede" .
+
+gn:2754697 gn:city "Heemskerk" .
+
+gn:2754703 gn:city "Heelsum" .
+
+gn:2754706 gn:city "Heel" .
+
+gn:2754712 gn:city "Heeg" .
+
+gn:2754713 gn:city "Heechterp" .
+
+gn:2754719 gn:city "Hedel" .
+
+gn:2754752 gn:city "Havelte" .
+
+gn:2754758 gn:city "Haulerwijk" .
+
+gn:2754764 gn:city "Hattemerbroek" .
+
+gn:2754768 gn:city "Hattem" .
+
+gn:2754773 gn:city "Hatert" .
+
+gn:2754779 gn:city "Hasselt" .
+
+gn:2754804 gn:city "Harskamp" .
+
+gn:2754817 gn:city "Harlingen" .
+
+gn:2754819 gn:city "Harkstede" .
+
+gn:2754821 gn:city "Harkema" .
+
+gn:2754837 gn:city "Harenkarspel" .
+
+gn:2754841 gn:city "Haren" .
+
+gn:2754848 gn:city "Harderwijk" .
+
+gn:2754861 gn:city "Hardenberg" .
+
+gn:2754864 gn:city "Hurdegaryp" .
+
+gn:2754868 gn:city "Haps" .
+
+gn:2754872 gn:city "Hapert" .
+
+gn:2754888 gn:city "Hank" .
+
+gn:2754897 gn:city "Handel" .
+
+gn:2754922 gn:city "Halsteren" .
+
+gn:2754930 gn:city "Hallum" .
+
+gn:2754942 gn:city "Halfweg" .
+
+gn:2754943 gn:city "Halfweg" .
+
+gn:2754962 gn:city "Hagestein" .
+
+gn:2754975 gn:city "Haelen" .
+
+gn:2754978 gn:city "Haastrecht" .
+
+gn:2754986 gn:city "Haarsteeg" .
+
+gn:2755003 gn:city "Haarlem" .
+
+gn:2755006 gn:city "Haarle" .
+
+gn:2755009 gn:city "Haaren" .
+
+gn:2755021 gn:city "Haanrade" .
+
+gn:2755023 gn:city "Haamstede" .
+
+gn:2755026 gn:city "Haalderen" .
+
+gn:2755030 gn:city "Haaksbergen" .
+
+gn:2755039 gn:city "Haaften" .
+
+gn:2755040 gn:city "Guttecoven" .
+
+gn:2755045 gn:city "Gulpen" .
+
+gn:2755052 gn:city "Grou" .
+
+gn:2755123 gn:city "Groot IJsselmonde" .
+
+gn:2755204 gn:city "Grootegast" .
+
+gn:2755239 gn:city "Groot-Ammers" .
+
+gn:2755243 gn:city "Gronsveld" .
+
+gn:2755251 gn:city "Groningen" .
+
+gn:2755267 gn:city "Groessen" .
+
+gn:2755272 gn:city "Groesbeek" .
+
+gn:2755287 gn:city "Groenewoud" .
+
+gn:2755302 gn:city "Groenekan" .
+
+gn:2755315 gn:city "Grijpskerke" .
+
+gn:2755317 gn:city "Grijpskerk" .
+
+gn:2755319 gn:city "Griffioen" .
+
+gn:2755337 gn:city "Grevenbicht" .
+
+gn:2755358 gn:city "Grave" .
+
+gn:2755367 gn:city "Grashoek" .
+
+gn:2755376 gn:city "Grafhorst" .
+
+gn:2755381 gn:city "Gracht" .
+
+gn:2755391 gn:city "Gouwsluis" .
+
+gn:2755399 gn:city "Goutum" .
+
+gn:2755401 gn:city "Goudswaard" .
+
+gn:2755410 gn:city "Gouderak" .
+
+gn:2755420 gn:city "Gouda" .
+
+gn:2755428 gn:city "Gorssel" .
+
+gn:2755429 gn:city "Gorredijk" .
+
+gn:2755434 gn:city "Gorinchem" .
+
+gn:2755449 gn:city "Goor" .
+
+gn:2755464 gn:city "Goirle" .
+
+gn:2755476 gn:city "Goes" .
+
+gn:2755485 gn:city "Goedereede" .
+
+gn:2755495 gn:city "Glimmen" .
+
+gn:2755498 gn:city "Ginneken" .
+
+gn:2755507 gn:city "Gilze" .
+
+gn:2755517 gn:city "Giethoorn" .
+
+gn:2755527 gn:city "Gieten" .
+
+gn:2755531 gn:city "Giessendam" .
+
+gn:2755533 gn:city "Giessenburg" .
+
+gn:2755535 gn:city "Giessen" .
+
+gn:2755536 gn:city "Giesbeek" .
+
+gn:2755542 gn:city "Gytsjerk" .
+
+gn:2755564 gn:city "Gerwen" .
+
+gn:2755581 gn:city "Genoenhuis" .
+
+gn:2755584 gn:city "Gennep" .
+
+gn:2755597 gn:city "Gendt" .
+
+gn:2755599 gn:city "Gendringen" .
+
+gn:2755601 gn:city "Genderen" .
+
+gn:2755603 gn:city "Gemonde" .
+
+gn:2755605 gn:city "Gemert" .
+
+gn:2755616 gn:city "Geleen" .
+
+gn:2755619 gn:city "Geldrop" .
+
+gn:2755630 gn:city "Geldermalsen-West" .
+
+gn:2755633 gn:city "Geldermalsen" .
+
+gn:2755638 gn:city "Geitenkamp" .
+
+gn:2755645 gn:city "Geffen" .
+
+gn:2755669 gn:city "Geertruidenberg" .
+
+gn:2755685 gn:city "Geenhoven" .
+
+gn:2755712 gn:city "Gasselternijveen" .
+
+gn:2755717 gn:city "Gasselte" .
+
+gn:2755729 gn:city "Garyp" .
+
+gn:2755732 gn:city "Garderen" .
+
+gn:2755751 gn:city "Gameren" .
+
+gn:2755774 gn:city "Gageldonk" .
+
+gn:2755840 gn:city "Frankhuis" .
+
+gn:2755845 gn:city "Franeker" .
+
+gn:2755893 gn:city "Flevowijk" .
+
+gn:2755911 gn:city "Fijnaart" .
+
+gn:2755920 gn:city "Ferwert" .
+
+gn:2755925 gn:city "Feijenoord" .
+
+gn:2755929 gn:city "Farmsum" .
+
+gn:2755947 gn:city "Exloo" .
+
+gn:2755976 gn:city "Everdingen" .
+
+gn:2755995 gn:city "Etten" .
+
+gn:2756004 gn:city "Essesteijn" .
+
+gn:2756030 gn:city "Esch" .
+
+gn:2756035 gn:city "Erp" .
+
+gn:2756039 gn:city "Ermelo" .
+
+gn:2756050 gn:city "Epse" .
+
+gn:2756059 gn:city "Epe" .
+
+gn:2756069 gn:city "Enschot" .
+
+gn:2756071 gn:city "Enschede" .
+
+gn:2756072 gn:city "Ens" .
+
+gn:2756077 gn:city "Enkhuizen" .
+
+gn:2756114 gn:city "Emst" .
+
+gn:2756126 gn:city "Emmerschans" .
+
+gn:2756127 gn:city "Emmermeer" .
+
+gn:2756128 gn:city "Emmerhout" .
+
+gn:2756131 gn:city "Emmer-Erfscheidenveen" .
+
+gn:2756133 gn:city "Emmer-Compascuum" .
+
+gn:2756136 gn:city "Emmen" .
+
+gn:2756139 gn:city "Emmeloord" .
+
+gn:2756161 gn:city "Elst" .
+
+gn:2756165 gn:city "Elspeet" .
+
+gn:2756169 gn:city "Elsloo" .
+
+gn:2756172 gn:city "Elshout" .
+
+gn:2756200 gn:city "Ellecom" .
+
+gn:2756229 gn:city "Elden" .
+
+gn:2756232 gn:city "Elburg" .
+
+gn:2756239 gn:city "Ekenrooi" .
+
+gn:2756248 gn:city "Einighausen" .
+
+gn:2756253 gn:city "Eindhoven" .
+
+gn:2756283 gn:city "Eijsden" .
+
+gn:2756295 gn:city "Eibergen" .
+
+gn:2756299 gn:city "Egmond-Binnen" .
+
+gn:2756301 gn:city "Egmond aan Zee" .
+
+gn:2756308 gn:city "Egchel" .
+
+gn:2756316 gn:city "Eexta" .
+
+gn:2756317 gn:city "Eext" .
+
+gn:2756342 gn:city "Eersel" .
+
+gn:2756343 gn:city "Eerschot" .
+
+gn:2756349 gn:city "Eerde" .
+
+gn:2756351 gn:city "Eerbeek" .
+
+gn:2756358 gn:city "Eenrum" .
+
+gn:2756408 gn:city "Eelde" .
+
+gn:2756418 gn:city "Eefde" .
+
+gn:2756426 gn:city "Ederveen" .
+
+gn:2756429 gn:city "Ede" .
+
+gn:2756431 gn:city "Edam" .
+
+gn:2756435 gn:city "Eckart" .
+
+gn:2756438 gn:city "Echtenerbrug" .
+
+gn:2756451 gn:city "Dwingeloo" .
+
+gn:2756483 gn:city "Dussen" .
+
+gn:2756500 gn:city "Duizel" .
+
+gn:2756504 gn:city "Duivendrecht" .
+
+gn:2756507 gn:city "Duiven" .
+
+gn:2756515 gn:city "Duinzigt" .
+
+gn:2756526 gn:city "Duindorp" .
+
+gn:2756539 gn:city "Druten" .
+
+gn:2756544 gn:city "Drumpt" .
+
+gn:2756559 gn:city "Dronten" .
+
+gn:2756561 gn:city "Dronryp" .
+
+gn:2756567 gn:city "Drogeham" .
+
+gn:2756584 gn:city "Driemond" .
+
+gn:2756587 gn:city "Driemanspolder" .
+
+gn:2756591 gn:city "Driel" .
+
+gn:2756592 gn:city "Driehuizen" .
+
+gn:2756614 gn:city "Driebruggen" .
+
+gn:2756619 gn:city "Driebergen-Rijsenburg" .
+
+gn:2756642 gn:city "Drachtstercompagnie" .
+
+gn:2756644 gn:city "Drachten" .
+
+gn:2756657 gn:city "Dorst" .
+
+gn:2756669 gn:city "Dordrecht" .
+
+gn:2756673 gn:city "Doorwerth" .
+
+gn:2756675 gn:city "Doornsteeg" .
+
+gn:2756677 gn:city "Doornspijk" .
+
+gn:2756683 gn:city "Doornenburg" .
+
+gn:2756686 gn:city "Doorn" .
+
+gn:2756688 gn:city "Doonheide" .
+
+gn:2756703 gn:city "Donkerbroek" .
+
+gn:2756706 gn:city "Donk" .
+
+gn:2756723 gn:city "Dongen" .
+
+gn:2756739 gn:city "Dommelen" .
+
+gn:2756746 gn:city "Domburg" .
+
+gn:2756759 gn:city "Dokkum" .
+
+gn:2756767 gn:city "Doetinchem" .
+
+gn:2756771 gn:city "Doesburg" .
+
+gn:2756772 gn:city "Doesburg" .
+
+gn:2756774 gn:city "Doenrade" .
+
+gn:2756787 gn:city "Dirksland" .
+
+gn:2756788 gn:city "Dirkshorn" .
+
+gn:2756800 gn:city "Dinteloord" .
+
+gn:2756855 gn:city "Diever" .
+
+gn:2756859 gn:city "Diessen" .
+
+gn:2756865 gn:city "Dieren" .
+
+gn:2756878 gn:city "Diepenheim" .
+
+gn:2756888 gn:city "Diemen" .
+
+gn:2756936 gn:city "De Wijk" .
+
+gn:2756937 gn:city "De Wijert" .
+
+gn:2756987 gn:city "Deventer" .
+
+gn:2756999 gn:city "Deuteren" .
+
+gn:2757015 gn:city "De Uithof" .
+
+gn:2757089 gn:city "De Rompert" .
+
+gn:2757095 gn:city "De Rijp" .
+
+gn:2757108 gn:city "De Reit" .
+
+gn:2757152 gn:city "De Peulen" .
+
+gn:2757189 gn:city "De Noord" .
+
+gn:2757194 gn:city "Den Oever" .
+
+gn:2757220 gn:city "Den Helder" .
+
+gn:2757224 gn:city "Den Ham" .
+
+gn:2757237 gn:city "Den Dungen" .
+
+gn:2757244 gn:city "Den Burg" .
+
+gn:2757290 gn:city "De Mheen" .
+
+gn:2757295 gn:city "De Meern" .
+
+gn:2757313 gn:city "De Maer" .
+
+gn:2757325 gn:city "De Loo" .
+
+gn:2757336 gn:city "De Lier" .
+
+gn:2757340 gn:city "Delfzijl" .
+
+gn:2757345 gn:city "Delft" .
+
+gn:2757347 gn:city "Delfshaven" .
+
+gn:2757370 gn:city "Delden" .
+
+gn:2757379 gn:city "De Kwakel" .
+
+gn:2757386 gn:city "De Kruiskamp" .
+
+gn:2757417 gn:city "De Koog" .
+
+gn:2757449 gn:city "De Kieviet" .
+
+gn:2757478 gn:city "Deil" .
+
+gn:2757488 gn:city "De Hoven" .
+
+gn:2757575 gn:city "De Heeg" .
+
+gn:2757586 gn:city "De Hagen" .
+
+gn:2757619 gn:city "De Greiden" .
+
+gn:2757623 gn:city "De Goorn" .
+
+gn:2757627 gn:city "De Glip" .
+
+gn:2757651 gn:city "Deest" .
+
+gn:2757683 gn:city "De Drait" .
+
+gn:2757685 gn:city "De Doornakkers" .
+
+gn:2757690 gn:city "De Domp" .
+
+gn:2757777 gn:city "De Blaak" .
+
+gn:2757783 gn:city "De Bilt" .
+
+gn:2757823 gn:city "Dauwendaele" .
+
+gn:2757838 gn:city "Damwâld" .
+
+gn:2757850 gn:city "Dalfsen" .
+
+gn:2757857 gn:city "Dalen" .
+
+gn:2757872 gn:city "Culemborg" .
+
+gn:2757874 gn:city "Cuijk" .
+
+gn:2757890 gn:city "Cranendonck" .
+
+gn:2757899 gn:city "Cothen" .
+
+gn:2757922 gn:city "Commandeurs" .
+
+gn:2757931 gn:city "Colijnsplaat" .
+
+gn:2757937 gn:city "Coevorden" .
+
+gn:2757938 gn:city "Coevering" .
+
+gn:2757942 gn:city "Coendersborg" .
+
+gn:2757969 gn:city "Chaam" .
+
+gn:2757991 gn:city "Castricum" .
+
+gn:2758001 gn:city "Carnisse" .
+
+gn:2758007 gn:city "Capelle-West" .
+
+gn:2758012 gn:city "Capelle aan den IJssel" .
+
+gn:2758027 gn:city "Callantsoog" .
+
+gn:2758064 gn:city "Bussum" .
+
+gn:2758104 gn:city "Bunschoten" .
+
+gn:2758106 gn:city "Bunnik" .
+
+gn:2758111 gn:city "Bunde" .
+
+gn:2758131 gn:city "Buitenpost" .
+
+gn:2758162 gn:city "Budschop" .
+
+gn:2758163 gn:city "Budel-Schoot" .
+
+gn:2758164 gn:city "Budel-Dorplein" .
+
+gn:2758166 gn:city "Budel" .
+
+gn:2758167 gn:city "Buchten" .
+
+gn:2758174 gn:city "Brunssum" .
+
+gn:2758175 gn:city "Brunnepe" .
+
+gn:2758177 gn:city "Brummen" .
+
+gn:2758180 gn:city "Brukske" .
+
+gn:2758186 gn:city "Bruinisse" .
+
+gn:2758207 gn:city "Bruchem" .
+
+gn:2758213 gn:city "Brouwershaven" .
+
+gn:2758239 gn:city "Broeksterwâld" .
+
+gn:2758241 gn:city "Broeksittard" .
+
+gn:2758245 gn:city "Broek op Langedijk" .
+
+gn:2758258 gn:city "Broek in Waterland" .
+
+gn:2758268 gn:city "Broekhoven" .
+
+gn:2758275 gn:city "Broekhem" .
+
+gn:2758311 gn:city "Brinkhorst" .
+
+gn:2758326 gn:city "Brielle" .
+
+gn:2758333 gn:city "Breukelen" .
+
+gn:2758336 gn:city "Breugel" .
+
+gn:2758341 gn:city "Breskens" .
+
+gn:2758360 gn:city "Breezand" .
+
+gn:2758391 gn:city "Bredeweg" .
+
+gn:2758393 gn:city "Bredevoort" .
+
+gn:2758401 gn:city "Breda" .
+
+gn:2758416 gn:city "Brand" .
+
+gn:2758422 gn:city "Brakkenstein" .
+
+gn:2758426 gn:city "Brakel" .
+
+gn:2758429 gn:city "Brachterbeek" .
+
+gn:2758431 gn:city "Brabander" .
+
+gn:2758460 gn:city "Boxtel" .
+
+gn:2758462 gn:city "Boxmeer" .
+
+gn:2758500 gn:city "Boven-Hardinxveld" .
+
+gn:2758540 gn:city "Bosschenhoofd" .
+
+gn:2758547 gn:city "Boskoop" .
+
+gn:2758549 gn:city "Boskamp" .
+
+gn:2758579 gn:city "Bosch en Duin" .
+
+gn:2758587 gn:city "Borssele" .
+
+gn:2758598 gn:city "Borne" .
+
+gn:2758602 gn:city "Born" .
+
+gn:2758611 gn:city "Borgharen" .
+
+gn:2758621 gn:city "Borger" .
+
+gn:2758623 gn:city "Borgele" .
+
+gn:2758626 gn:city "Borculo" .
+
+gn:2758633 gn:city "Boornbergum" .
+
+gn:2758682 gn:city "Bolsward" .
+
+gn:2758686 gn:city "Bolnes" .
+
+gn:2758759 gn:city "Boekel" .
+
+gn:2758765 gn:city "Bodegraven" .
+
+gn:2758770 gn:city "Bocholtz" .
+
+gn:2758777 gn:city "Blokzijl" .
+
+gn:2758795 gn:city "Bloemhof" .
+
+gn:2758803 gn:city "Bloemendaal" .
+
+gn:2758804 gn:city "Bloemendaal" .
+
+gn:2758809 gn:city "Blitterswijck" .
+
+gn:2758815 gn:city "Blijham" .
+
+gn:2758825 gn:city "Bleskensgraaf" .
+
+gn:2758838 gn:city "Bleiswijk" .
+
+gn:2758839 gn:city "Bleijerheide" .
+
+gn:2758868 gn:city "Blaricum" .
+
+gn:2758878 gn:city "Bladel" .
+
+gn:2758880 gn:city "Blaarthem" .
+
+gn:2758884 gn:city "Bitswijk" .
+
+gn:2758895 gn:city "Burdaard" .
+
+gn:2758908 gn:city "Binnenhof" .
+
+gn:2758930 gn:city "Bilgaard" .
+
+gn:2758941 gn:city "Bijvanck" .
+
+gn:2758971 gn:city "Biesland" .
+
+gn:2758974 gn:city "Biesdonk" .
+
+gn:2758992 gn:city "Biddinghuizen" .
+
+gn:2758998 gn:city "Beverwijk" .
+
+gn:2759006 gn:city "Beusichem" .
+
+gn:2759016 gn:city "Beuningen" .
+
+gn:2759040 gn:city "Best" .
+
+gn:2759043 gn:city "Besoijen" .
+
+gn:2759057 gn:city "Berltsum" .
+
+gn:2759059 gn:city "Berlicum" .
+
+gn:2759064 gn:city "Berkum" .
+
+gn:2759070 gn:city "Berkhout" .
+
+gn:2759078 gn:city "Berkenwoude" .
+
+gn:2759097 gn:city "Beringe" .
+
+gn:2759103 gn:city "Burgum" .
+
+gn:2759105 gn:city "Bergstoep" .
+
+gn:2759113 gn:city "Bergschenhoek" .
+
+gn:2759126 gn:city "Berghem" .
+
+gn:2759129 gn:city "Bergharen" .
+
+gn:2759132 gn:city "Bergeijk" .
+
+gn:2759145 gn:city "Bergen op Zoom" .
+
+gn:2759147 gn:city "Berg en Dal" .
+
+gn:2759148 gn:city "Berg en Bos" .
+
+gn:2759154 gn:city "Bergen" .
+
+gn:2759163 gn:city "Berg" .
+
+gn:2759164 gn:city "Berg" .
+
+gn:2759178 gn:city "Benthuizen" .
+
+gn:2759197 gn:city "Bennekom" .
+
+gn:2759199 gn:city "Bennebroek" .
+
+gn:2759231 gn:city "Bemmel" .
+
+gn:2759240 gn:city "Beltrum" .
+
+gn:2759247 gn:city "Bellingwolde" .
+
+gn:2759254 gn:city "Belfort" .
+
+gn:2759259 gn:city "Belcrum" .
+
+gn:2759271 gn:city "Beilen" .
+
+gn:2759275 gn:city "Beetsterzwaag" .
+
+gn:2759286 gn:city "Beesel" .
+
+gn:2759288 gn:city "Beesd" .
+
+gn:2759302 gn:city "Beersdal" .
+
+gn:2759309 gn:city "Beers" .
+
+gn:2759342 gn:city "Beekbergen" .
+
+gn:2759344 gn:city "Beek gem Montferland" .
+
+gn:2759349 gn:city "Beek" .
+
+gn:2759350 gn:city "Beek" .
+
+gn:2759353 gn:city "Beegden" .
+
+gn:2759356 gn:city "Bedum" .
+
+gn:2759373 gn:city "Bavel" .
+
+gn:2759407 gn:city "Barneveld" .
+
+gn:2759415 gn:city "Barger-Oosterveld" .
+
+gn:2759419 gn:city "Bargeres" .
+
+gn:2759426 gn:city "Barendrecht" .
+
+gn:2759441 gn:city "Banholt" .
+
+gn:2759444 gn:city "Bangert" .
+
+gn:2759467 gn:city "Ballast" .
+
+gn:2759472 gn:city "Balk" .
+
+gn:2759486 gn:city "Bakkeveen" .
+
+gn:2759496 gn:city "Bakhuizen" .
+
+gn:2759505 gn:city "Bakenberg" .
+
+gn:2759511 gn:city "Bakel" .
+
+gn:2759520 gn:city "Baflo" .
+
+gn:2759529 gn:city "Babberich" .
+
+gn:2759544 gn:city "Baarn" .
+
+gn:2759549 gn:city "Baarlo" .
+
+gn:2759554 gn:city "Baarle-Nassau" .
+
+gn:2759563 gn:city "Baardwijk" .
+
+gn:2759572 gn:city "Baambrugge" .
+
+gn:2759575 gn:city "Baalder" .
+
+gn:2759594 gn:city "Axel" .
+
+gn:2759601 gn:city "Avenhorn" .
+
+gn:2759610 gn:city "Austerlitz" .
+
+gn:2759611 gn:city "Augustinusga" .
+
+gn:2759621 gn:city "Asten" .
+
+gn:2759631 gn:city "Assendelft" .
+
+gn:2759633 gn:city "Assen" .
+
+gn:2759661 gn:city "Arnhem" .
+
+gn:2759664 gn:city "Arnemuiden" .
+
+gn:2759673 gn:city "Arkel" .
+
+gn:2759684 gn:city "Arcen" .
+
+gn:2759687 gn:city "Appingedam" .
+
+gn:2759698 gn:city "Appelscha" .
+
+gn:2759706 gn:city "Apeldoorn" .
+
+gn:2759729 gn:city "Annen" .
+
+gn:2759748 gn:city "Anklaar" .
+
+gn:2759749 gn:city "Ankeveense Rade" .
+
+gn:2759764 gn:city "Angerlo" .
+
+gn:2759765 gn:city "Angeren" .
+
+gn:2759766 gn:city "Angelslo" .
+
+gn:2759781 gn:city "Andelst" .
+
+gn:2759794 gn:city "Amsterdam" .
+
+gn:2759796 gn:city "Amstenrade" .
+
+gn:2759798 gn:city "Amstelveen" .
+
+gn:2759813 gn:city "Ammerzoden" .
+
+gn:2759815 gn:city "Ammerstol" .
+
+gn:2759821 gn:city "Amersfoort" .
+
+gn:2759828 gn:city "Amerongen" .
+
+gn:2759831 gn:city "America" .
+
+gn:2759849 gn:city "Ameide" .
+
+gn:2759850 gn:city "Amby" .
+
+gn:2759853 gn:city "Alverna" .
+
+gn:2759875 gn:city "Alphen aan den Rijn" .
+
+gn:2759877 gn:city "Alphen" .
+
+gn:2759878 gn:city "Almkerk" .
+
+gn:2759879 gn:city "Almere Stad" .
+
+gn:2759887 gn:city "Almelo" .
+
+gn:2759899 gn:city "Alkmaar" .
+
+gn:2759915 gn:city "Alblasserdam" .
+
+gn:2759922 gn:city "Akkrum" .
+
+gn:2759929 gn:city "Akert" .
+
+gn:2759945 gn:city "Afferden" .
+
+gn:2759961 gn:city "Aduard" .
+
+gn:2759971 gn:city "Adegeest" .
+
+gn:2760063 gn:city "Abdissenbosch" .
+
+gn:2760064 gn:city "Abcoven" .
+
+gn:2760067 gn:city "Abcoude" .
+
+gn:2760078 gn:city "Abbekerk" .
+
+gn:2760096 gn:city "Aardenburg" .
+
+gn:2760123 gn:city "Aalten" .
+
+gn:2760129 gn:city "Aalst" .
+
+gn:2760131 gn:city "Aalst" .
+
+gn:2760134 gn:city "Aalsmeer" .
+
+gn:2760142 gn:city "Aalden" .
+
+gn:2760144 gn:city "Aalburg" .
+
+gn:2760147 gn:city "Aagtekerke" .
+
+gn:6324403 gn:city "Camminghaburen" .
+
+gn:6544881 gn:city "Amsterdam-Zuidoost" .
+
+gn:6544882 gn:city "Zuid-Berghuizen" .
+
+gn:6619678 gn:city "Chevremont" .
+
+gn:6621454 gn:city "Welgelegen" .
+
+gn:6621507 gn:city "Matenveld" .
+
+gn:6621508 gn:city "Matenhoeve" .
+
+gn:6621509 gn:city "Matendonk" .
+
+gn:6621510 gn:city "Matenhorst" .
+
+gn:6621511 gn:city "Matendreef" .
+
+gn:6621512 gn:city "Matengaarde" .
+
+gn:6621515 gn:city "Rivierenkwartier" .
+
+gn:6621516 gn:city "Staatsliedenkwartier" .
+
+gn:6621517 gn:city "Brummelhof" .
+
+gn:6621518 gn:city "Vogelkwartier" .
+
+gn:6621519 gn:city "Componistenkwartier" .
+
+gn:6621520 gn:city "Woudhuis" .
+
+gn:6621522 gn:city "Sluisoord" .
+
+gn:6621523 gn:city "Sprenkelaar" .
+
+gn:6621525 gn:city "De Haven" .
+
+gn:6621526 gn:city "Binnenstad" .
+
+gn:6621527 gn:city "Sprengenweg-Noord" .
+
+gn:6621528 gn:city "Sprengenbos" .
+
+gn:6621529 gn:city "Spainkbos" .
+
+gn:6621532 gn:city "De Heeze" .
+
+gn:6621533 gn:city "Westenenk" .
+
+gn:6621534 gn:city "Winkewijert" .
+
+gn:6621535 gn:city "De Bouwhof" .
+
+gn:6640198 gn:city "Speelheide" .
+
+gn:6640199 gn:city "Salderes" .
+
+gn:6692371 gn:city "Jubbega" .
+
+gn:6695503 gn:city "Meerhoven" .
+
+gn:6695505 gn:city "Grasrijk" .
+
+gn:6697850 gn:city "Hoek" .
+
+gn:6697854 gn:city "De Knipe" .
+
+gn:6698635 gn:city "Lunetten" .
+
+gn:6698718 gn:city "Aarle-Rixtel" .
+
+gn:6929953 gn:city "Kelpen-Oler" .
+
+gn:6929980 gn:city "Muschberg en Geestenberg" .
+
+gn:6929984 gn:city "Villapark" .
+
+gn:6929985 gn:city "Lakerlopen" .
+
+gn:6929992 gn:city "Berkel en Rodenrijs" .
+
+gn:6930031 gn:city "Reitdiep" .
+
+gn:6941548 gn:city "Ypenburg" .
+
+gn:6946241 gn:city "Aldlân-Oost" .
+
+gn:6948945 gn:city "Oranjewijk" .
+
+gn:6948946 gn:city "Vondelwijk" .
+
+gn:6948947 gn:city "Groenswaard" .
+
+gn:6950811 gn:city "Randenbroek" .
+
+gn:7115205 gn:city "Corlaer" .
+
+gn:7284469 gn:city "Kapelle" .
+
+gn:7870365 gn:city "Hoogkamp" .
+
+gn:7870372 gn:city "Gulden Bodem" .
+
+gn:7870373 gn:city "Sterrenberg" .
+
+gn:7870374 gn:city "Burgemeesterswijk" .
+
+gn:7873874 gn:city "Kop van Zuid" .
+
+gn:8379268 gn:city "'s-Gravenland" .
+
+gn:8449928 gn:city "Spechtenkamp" .
+
+gn:8692975 gn:city "Besterd" .
+
+gn:9036084 gn:city "Wisselaar" .
+
+gn:9036086 gn:city "Waterdonken" .
+
