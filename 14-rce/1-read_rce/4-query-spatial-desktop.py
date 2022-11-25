@@ -49,7 +49,7 @@ def query_spatial(_entities, _path):
         result = []
         for r in res:
             result.append([str(_) for _ in r])
-        columns = result[0]
+        columns = [ "URI", "Name"]
         res_df = pd.DataFrame(data=result, columns=columns)
         res_df.to_csv('spatial_in_obj.csv')
 
