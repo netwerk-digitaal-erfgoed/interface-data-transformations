@@ -1,0 +1,60 @@
+PREFIX ore: <http://www.openarchives.org/ore/terms/>
+PREFIX edm: <http://www.europeana.eu/schemas/edm/>
+PREFIX schema: <https://schema.org/>
+PREFIX cd: <http://citydata.wu.ac.at/ns#>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX edmfp: <http://www.europeanafashion.eu/edmfp/>
+
+
+#<https://zaansmuseum.nl>
+#<https://www.dordrechtsmuseum.nl/>
+## this is for mode and fasion
+## the orignail dataset remained untauched (Enrich-heritage-object-original)
+
+CONSTRUCT {
+
+  ?heritageObject
+        rdf:type schema:CreativeWork ;
+		schema:additionalType ?additionalType ;
+		schema:name ?title;
+		schema:description ?discribeNL ;
+		schema:material ?material;
+		schema:publisher <https://zaansmuseum.nl> ;
+		schema:creator ?creator;
+		edmfp:technique ?technique ;
+		schema:dateCreated ?yearCreated;
+		schema:isBasedOn ?heritageObject ;
+    	schema:image ?image.
+  ?image rdf:type schema:ImageObject ;
+  		schema:contentUrl ?isShownBy;
+  	    schema:encodingFormat ?img ;
+		schema:license ?rights.
+}
+
+WHERE {
+
+    ?heritageObject a edm:ProvidedCHO ;
+		dc:title ?title ;
+		dc:additionalType ?additionalType ;
+		edm:image ?image.
+
+		bind(strlang(str(?title), "nl") as ?titleNL)
+	OPTIONAL {?heritageObject dc:description ?discription}
+    BIND(STRLANG(str(?discription), "nl") as ?discribeNL)
+		FILTER(LANG(?discribeNL) = "nl")
+
+	OPTIONAL {?heritageObject dcterms:created ?yearCreated }
+	OPTIONAL {?heritageObject dcterms:medium_URI ?material }
+	OPTIONAL {?heritageObject edmfp:technique_URI ?technique }
+	OPTIONAL {?heritageObject dcterms:creators ?creator }
+
+	?aggregation a ore:Aggregation ;
+		edm:aggregatedCHO ?heritageObject ;
+		edm:isShownBy ?isShownBy ;
+		edm:rights ?rights .
+		OPTIONAL { ?aggregation dcterms:format ?img }
+}

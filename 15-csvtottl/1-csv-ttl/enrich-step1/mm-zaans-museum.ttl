@@ -1,0 +1,2517 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix edmfp: <http://www.europeanafashion.eu/edmfp/> .
+@prefix ore: <http://www.openarchives.org/ore/terms/> .
+
+<localID/europeana-fashion/Aggregation_ZM-17179> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZM-17179> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZM-17179.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZM-17363> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZM-17363> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZM-17363.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZM-17430> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZM-17430> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZM-17430.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZM-17517> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZM-17517> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-11769.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZM-17532> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZM-17532> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZM-17532.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02248> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02248> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02248.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02249> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02249> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02249.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02251> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02251> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02251.JPG> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02270> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02270> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02270.JPG> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02278> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02278> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02278.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02284> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02284> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02284.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02310> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02310> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02310.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02317> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02317> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02317.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02323> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02323> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02323.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02335> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02335> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02335.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02342> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02342> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02342.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02360> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02360> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02360.JPG> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02366> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02366> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02366.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02368> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02368> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02368.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02370> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02370> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02370.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02371> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02371> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02371.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02375> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02375> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02375.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02376> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02376> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02376.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02392> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02392> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02392.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02396> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02396> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02396a.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02409> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02409> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02409.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02410> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02410> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02410.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02412> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02412> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02412.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02413> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02413> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02413.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02441> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02441> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02441.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02465> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02465> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02465.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02466> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02466> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02466.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02469> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02469> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02469.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02497> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02497> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02497.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02509> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02509> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02509.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02564> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02564> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02564.JPG> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02579> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02579> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02579.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02580> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02580> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02580.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02582> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02582> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02582.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02583> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02583> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02583.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02584> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02584> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02584.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02585> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02585> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02585.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02586> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02586> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02586.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02588> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02588> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02588.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02589> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02589> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02589.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02591> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02591> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02591.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02592> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02592> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02592.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02593> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02593> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02593.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02594> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02594> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02594.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02595> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02595> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02595.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02596> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02596> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02596.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02597> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02597> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02597.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02599> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02599> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02599.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02600> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02600> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02600.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02601> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02601> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02601.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02609> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02609> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02609.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02722> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02722> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-02722.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-02790> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-02790> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-02790.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-03000> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-03000> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-03000.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-03094> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-03094> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-03094.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-04093.01> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-04093.01> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-04093.01.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-04097> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-04097> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-04097.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-04611> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-04611> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-04611.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-04864> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-04864> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-04864.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-04865> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-04865> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-04865.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-04866> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-04866> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-04866.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-04867> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-04867> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-04867.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05042> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05042> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05042.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05048> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05048> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05048.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05321> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05321> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05321b.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05344> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05344> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05344.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05375> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05375> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05375.JPG> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05473.01> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05473.01> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05473.01.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05473.02> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05473.02> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05473.02.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05474> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05474> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05474.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05475> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05475> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05475.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05476> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05476> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05476.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05497> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05497> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05497a.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05586> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05586> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05586.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05771> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05771> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05771.JPG> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05772> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05772> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05772.JPG> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05796> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05796> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05796.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05797> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05797> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05797.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05798> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05798> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05798.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05799> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05799> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05799.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05821> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05821> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05821.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05822> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05822> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05822.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05826> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05826> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05826.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05829> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05829> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05829.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05830> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05830> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05830.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05831> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05831> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05831.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05832> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05832> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-05832.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05916> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05916> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05916.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-05917> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-05917> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-05917.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-06024.01> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06024.01> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-06024.01.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-06132> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06132> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-06132.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-06136> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06136> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-06136.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-06147> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06147> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-06147.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-06149> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06149> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-06149.JPG> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-06154> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06154> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-06154.JPG> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-06158> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06158> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-06158.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-06159> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06159> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-06159.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-06165> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06165> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-06165.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-06166> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06166> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-06166.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-06168> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06168> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-06168.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-06228> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06228> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-06228.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-06338> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06338> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-06338c.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-06379> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06379> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-06379.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-06554> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06554> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-06554.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-06617> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-06617> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-06617.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-08002> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-08002> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-08002.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-08475> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-08475> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-08475.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-08520> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-08520> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-08520.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-08561> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-08561> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=zov-08561.JPG> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-08747> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-08747> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-08747.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-11941> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-11941> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-11941.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-11953> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-11953> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-11953a.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<localID/europeana-fashion/Aggregation_ZOV-11955> a ore:Aggregation ;
+    edm:aggregatedCHO <https://modemuze.nl/localID/europeana-fashion/ZOV-11955> ;
+    edm:dataProvider "Zaans Museum"@nl ;
+    edm:isShownAt <https://zaansweb.adlibhosting.com/search/simple> ;
+    edm:isShownBy <https://zaansmuseum.adlibhosting.com/webapi/wwwopac.ashx?command=getcontent&server=images&value=ZOV-11955.jpg> ;
+    edm:provider <http://www.europeanafashion.eu/> ;
+    edm:providers "Europeana Fashion" ;
+    edm:rights <http://creativecommons.org/publicdomain/zero/1.0/> .
+
+<https://modemuze.nl/localID/europeana-fashion/ZM-17179> a edm:ProvidedCHO ;
+    dc:description "Doopdeken met doorstik- en borduurwerk. De doopdeken is gemaakt van een naturelkleurige (Chinese) zijden damast. Het heeft een dunne vullaag en een lichtroze kunstzijden voering die in de twintigste eeuw is aangebracht. De deken is doorgestikt met stiksteken in een (in elkaar grijpende) krullenpatroon. Waar vier cirkels elkaar raken, wordt een bladmotief van vier bladeren gevormd, hierin is een nerf geborduurd. Er zijn bloemmotieven geborduurd met crèmekleurig garen met een kettingsteek, de bloemhartjes (?) worden gevormd van een cirkel in knoopsgaten-of festonsteek. De rand wordt van het middendeel gescheiden door rechte lijnen in kettingsteek. De rand heeft een ander patroon, kleinere bloemachtige krullen. Aan de buitenzijde een schulpmotief. De stof van boven- en onderkant is tegen elkaar ingeslagen en vastgezoomd, zoals gebruikelijk in Nederland. De lichtroze kunstzijden voering is in de twintigste eeuw aangebracht. Bij deze deken hoorde een mutsje met hetzelfde patroon. Mogelijk hoorde er een ook een bedjasje bij."@nl ;
+    dc:identifier "ZM-17179" ;
+    dc:title "Doopdeken met doorstik- en borduurwerk"@nl ;
+    dc:type <http://vocab.getty.edu/aat/300238962> ;
+    dcterms:created "1675/1699"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "handnaaiwerk",
+        "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZM-17363> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description """Tweekleurige hemdrok of jasje voor jongen / man van wollen damast, licht gerend model, dubbele sluiting met knopen aan de voorkant. Grijsblauw aan de buitenkant, crèmekleurige (lijf) en bruine (mouwen) voering. Dubbele sluiting middenvoor, kan zowel links als rechts gesloten worden. De mouw wordt gesloten met twee knopen en twee knoopsgaten in een mouwsplit. Aan de mouwsplitten en polsopening is een zogenaamde slijtkoord genaaid. De hals is doorgepit. Het materiaal is kamgaren, wol geweven in damastpatroon (in satijnbinding) gekalanderd. Deze stof wordt ook spiegeldamast genoemd, vanwege de glans en/of het spiegelbeeldig patroon. De voering van het lijf is van geruwde wol in effenbinding. De voering van de mouwen is van wol in keperbinding. De knopen zijn van zilver en koper/brons. Het hemdrok is geweven, handnaaiwerk (stiksteek, knoopsgatensteek doorpitten) koord op naaien.
+
+Het patroon: twee ranken met bloemen die samenkomen in 1 centrale zeer grote bloem en daarna weer samenkomen in een iets kleinere bloem."""@nl ;
+    dc:identifier "ZM-17363" ;
+    dc:title "Hemdrok of jasje"@nl ;
+    dcterms:created "1750/1825"@nl ;
+    dcterms:martial "wol" ;
+    dcterms:medium "http://thesaurus.europeanafashion.eu/thesaurus/10351" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300243430> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:technique_URI <http://vocab.getty.edu/aat/300053642> ;
+    edmfp:techniques "geweven",
+        "wol" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZM-17430> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Paars, gebloemd jak, een zogenaamde schootjak voor een meisje (meisjesjak). Het lijfje is middenvoor V-vormig ingerimpeld aan de onderkant. Aan de bovenkant is de stof ingerimpeld in de schouder. De mouw is strak aan de bovenkant met extra ruimte vanaf de elleboog, weer smal toelopend naar de pols. Het bovenlijf en de armen zijn gevoerd met linnen, de schoot niet. De naden zijn gepaspoileerd (versierd met tussen gestikte koordjes). Het jak sluit middenvoor aan de hals met een haak en een trensje. Ter hoogte van de boezem 16 cm geen sluiting, vervolgens zes haken en trensjes tot aan de taille. Het mouwsplit sluit met behulp van drie haken en trensjes. De schoot is achter over een breedte van 37 cm ingerimpeld, middenvoor glad. De weefbreedte van de stof is 64 cm. Katoendruk. Patroon van verticale, zwartwitte bladnerven in combinatie met roze/rode, witte bloemen met paarse en taupe blaadjes,afgewisseld met verticale bloem-en bladranken op paars witte ondergrond."@nl ;
+    dc:identifier "ZM-17430" ;
+    dc:title "Paars gebloemde schootjak voor een meisje"@nl ;
+    dcterms:created "1840/1850"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:technique_URI <http://vocab.getty.edu/aat/300053642> ;
+    edmfp:techniques "geweven",
+        "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZM-17517> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    dc:description """Groene rok of wagd van wollen damast. Een uit negen banen stof bestaande wollen damasten rok in satijnbinding (achtschachts damast), ook wel spiegeldamast genoemd. De stof is gekalanderd. De ruimte in de taille is in een groot aantal, elkaar overlappende, diepe plooien verwerkt die vanuit de zijkant naar middenachter geplooid zijn. Het buikstuk  middenvoor is glad. Het split en de onderkant van de rok is afgewerkt met een (vierdraads) kloskoordje tegen het slijten. Het split is gevoerd met een brede wollen keperband.
+
+De rok is vermaakt, opnieuw geplooid. Het split heeft oorspronkelijk aan de zijkant van de rok gezeten. De tailleband is niet origineel, maar een latere toevoeging (vervanging)."""@nl ;
+    dc:identifier "ZM-17517" ;
+    dc:title "Groene rok of wagd van wollen damast"@nl ;
+    dcterms:created "1725/1775"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZM-17532> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description """Roze Empire jak voor een meisje met zeer diepe halsuitsnijding, verhoogde taille en zeer lange, over de hand vallende mouwen. Glad aan de voorkant en middenachter met twee stolpplooien. De stof van het jak is een gekalanderde Europese katoendruk. De ondergrond is felroze en over het vlak zijn als het ware exotische toefjes bloemen met blad ‘gestrooid’ omgeven door lichtbruine rondjes met een zwarte arcering. De voering is gemaakt van een roze wollen grein die eveneens gekalanderd is. Het jak sluit middenvoor met behulp van vier haken en ogen. Door de halszoom is een roze koordje geregen dat aangetrokken kan worden. Ter hoogte van de pols is een split gemaakt die niet helemaal doorloopt tot onderaan de mouw. Dit sluit met behulp van twee haken en twee trensjes.
+
+De roze stof is zeldzaam. Alleen in een Zaanse privécollectie is nóg een soortgelijk empire jak, maar dan voor een vrouw, bekend. Verder zijn er tot nu toe alleen nog een paar antieke patchworkdekens bekend waar de stof spaarzaam in voorkomt."""@nl ;
+    dc:identifier "ZM-17532" ;
+    dc:title "Roze jak voor een meisje"@nl ;
+    dcterms:created "1790/1820"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:technique_URI <http://vocab.getty.edu/aat/300053642> ;
+    edmfp:techniques "geweven",
+        "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02248> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    dc:description "Lichtblauwe gewatteerde, doorgestikte (quilten) zijden rok met bladrankenpatroon. De voering is van écru linnen. Wijd model op moderne machiniaal gestikte band. Split van achteren. Waarschijnlijk modern maaksel van 19e eeuwse stof."@nl ;
+    dc:identifier "ZOV-02248" ;
+    dc:title "Lichtblauwe doorgestikte zijden rok"@nl ;
+    dcterms:created "1775/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02249> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    dc:description "Roze zijde rok of wagd met rankenpatroon en boeketjes in rood, geel, groen, blauw, roze, wit en paars. Voering fraise kleurig. Zeer wijd model met smalle, gladde voorbaan; verder in plooien aan de tailleband gezet. Split ter weerszijden."@nl ;
+    dc:identifier "ZOV-02249" ;
+    dc:title "Roze zijde rok of wagd met rankenpatroon"@nl ;
+    dcterms:created "1750/1799"@nl ;
+    dcterms:martial "linnen" ;
+    dcterms:medium "http://thesaurus.europeanafashion.eu/thesaurus/10355" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300014069> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "linnen" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02251> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    dc:description "Blauw-groene, zeer lichte changeant zijde rok, ongevoerd. Zeer wijd model met voornaad en twee splitten. De achterbaan naar het midden toe geplooid. Buikstuk is glad.Taille en split afgewerkt met blauw band. Splitten links en rechtsvoor sluiting met haak en twee ogen."@nl ;
+    dc:identifier "ZOV-02251" ;
+    dc:title "Rok van blauw changeant-zijde"@nl ;
+    dcterms:martial "zijde" ;
+    dcterms:medium "http://thesaurus.europeanafashion.eu/thesaurus/10352" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300243428> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "zijde" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02270> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    dc:description "Groene spiegeldamasten japon rok of wagd met regelmatig ruitvormig patroon in wit. Het model is zeer wijd. Aan de voorkant enkele plooien. Achterzijde is geheel geplooid in taille. Gespleten aan weerszijden. Onderrand met een koordje afgezet. Oprijg bovenin."@nl ;
+    dc:identifier "ZOV-02270" ;
+    dc:title "Groene spiegeldamasten japon rok of wagd"@nl ;
+    dcterms:created "1900/1924"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02278> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    dc:description "Japonrok of wagd van katoen. Op wit fond fijn zwart rankenmotief waartussen architectuurornamentjes, wit gevoerd. Zeer wijd model, in plooien aangezet onder de met een zwart motiefje doorwerkte taileband. Voering loopt niet tot boven aan toe en is jonger dan rok. Achter platte plooien voor gerimpeld. Split rechts voor sluit met haak en oog. Van onder afgezet met bruin wit koordje. Bij split in verbleekt rood garen gemerkt V ? en geschreven H of V van Vleuten. Boven voering oprijg en nieuw ingezet stuk."@nl ;
+    dc:identifier "ZOV-02278" ;
+    dc:title "Japonrok of wagd van katoen"@nl ;
+    dcterms:martial "linnen" ;
+    dcterms:medium "http://thesaurus.europeanafashion.eu/thesaurus/10355" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300014069> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "linnen" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02284> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    dc:description "Roodwitte rok of wagd van sits en linnen. Groot, rood bloemmotief op wit fond. Wit linnen gevoerd. Zeer wijd model met plooien gezet aan de met een rood motiefje doorwerkte tailleband. Split van achteren. Linksvoor licht gerimpeld. Afgewerkt met koordje."@nl ;
+    dc:identifier "ZOV-02284" ;
+    dc:title "Roodwitte rok of wagd van sits en linnen"@nl ;
+    dcterms:created "1800"@nl ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02310> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10434> ;
+    dc:description "Witte sitsen wagd of rok met fijn dicht rankpatroon in blauw, zwart en wit. Model met één naad. De onderkant afgewerkt met een blauw koord. Voering witte katoen."@nl ;
+    dc:identifier "ZOV-02310" ;
+    dc:title "Sitsen wagd of rok"@nl ;
+    dcterms:created "1800/1824"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "handnaaiwerk",
+        "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02317> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10434> ;
+    dc:description "Panier gemaakt van twee ovalen hoepels van walvisbalein ingenaaid in een korte rok. De rok is gemaakt van verticaal gestreept wollen grein (gekalanderde stof). Ondergoed voor een vrouw in de 18e eeuw, bedoeld om de bovenrok wijd te doen uitstaan. De rok bestaat uit 6 panden; de voor-en achterkant zijn identiek. De hoepels zijn eerst omgewerkt met stof en pas daarna in de rok ingenaaid. Sluiting links en rechts in de taille met behulp van haken en ogen."@nl ;
+    dc:identifier "ZOV-02317" ;
+    dc:title "Ovalen panier of hoepelrok"@nl ;
+    dcterms:created "1750/1800"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02323> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Katoenen kassekien of jak. Bruin met zwart bedrukt patroon van een bladmotief met vier witte nopjes omgeven door fijn rankmotief. Voering van lichtbruin met witte ruit. Driekwart model, voorpanden uit één stuk en rug met een middennaad, sterk getailleerd. Lange mouwen met sluitbandje, die vallen over de handen. Lage halsuitsnijding, voorsluiting met haken en ogen. Hoge taille."@nl ;
+    dc:identifier "ZOV-02323" ;
+    dc:title "Katoenen kassekien of jak"@nl ;
+    dcterms:created "1795/1805"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02335> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Sitsen kassekien of jak met een wit fond met bloem en ruiten in blauw en zwart. Voering blauw van blauw katoen met een gebloemd strooimotief. Driekwart lang model, voorpanden uit een stuk en een rug met middennaad. Halve mouw en sluiting voor met een rijgkoord, binnenband en 14 haken en ogen. Hoge rechte halsuitsnijding. Onder gemerkt: 345  B.H. van Vleuten Wormerveer."@nl ;
+    dc:identifier "ZOV-02335" ;
+    dc:title "Sitsen kassekien of jak"@nl ;
+    dcterms:created "1785/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "handnaaiwerk",
+        "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02342> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Sits kassekien of jak. Lila wit gestreept met bloem-, roos-, en stipopdruk. Diepe rechte hals . Voorpanden uit één stuk, rug met middennaad. De plooi middenachter is verwijderd. Schootje onder de twee rugnaden sterk geplooid. Mouw tot de elleboog met slip, puntvorm. Sluiting voorzijde, binnenband en haken en ogen (18). Aan binnenzijde strook papier gespeld waarop geschreven 'Trijntje'."@nl ;
+    dc:identifier "ZOV-02342" ;
+    dc:title "Sits kassekien of jak"@nl ;
+    dcterms:created "1875/1899"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "handnaaiwerk",
+        "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02360> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    dc:description "Rode handbeschilderde sitsen kassekien of jak met bloemmotief. De voering is gemaakt van grein, een gekalanderde, wollen stof. Voorpanden uit één stuk, rug met middennaad, diepe plooien in de naden. Driekwart halflange mouwen uitlopend in een punt. Voorsluiting met vetergaatjes en veter (15 gaatjes). Diepe rechte hals voor, ondiepe rechte hals achter. Uitlopend voorpanden. De gaatjessluiting is niet origineel, maar later aangebracht. Mogelijk voor een verkleedpartij of toneelopvoering."@nl ;
+    dc:identifier "ZOV-02360" ;
+    dc:title "Rode sitsen kassekien of jak met bloemmotief"@nl ;
+    dcterms:created "1775/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02366> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Blauwe zijden kassekien of jak, met klein geometrisch patroon en rozen in wit en donkerblauw. De voering is gemaakt van lichtblauwe sits. Driekwart model met de voorpanden uit één stuk. Rug met middennaad. In de taille diepe plooien op de zijnaden. Korte mouw met los elleboogstuk gegarneerd met gefronst ruche. Voorsluiting met zeven haken enogen. Binnenbanden (gedeeltelijk vernieuwd) en schuifbandje in de hals."@nl ;
+    dc:identifier "ZOV-02366" ;
+    dc:title "Blauwe zijden kassekien of jak"@nl ;
+    dcterms:created "1800/1824"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02368> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Wit en blauw gestreept zijden kassekien of jak, met streepjespatroon op het blauw en rozenknopjes in het roze, groen en lila op het wit. De voering is van lightgroen gekalanderd linnen. Driekwart model, sterk getailleerd op de zijnaden en een oprijg in de taille. Halflangemouw met een los elleboogstukje, versierd met geplooid rand van dezelfde stof. Voorsluiting met acht haken en ogen, een binnenband en een schuifbandje in de hals. Diep en recht decolleté, de halslijn aan de achterkant heeft een flauwe V-vorm."@nl ;
+    dc:identifier "ZOV-02368" ;
+    dc:title "Wit en blauw gestreept zijden kassekien of jak"@nl ;
+    dcterms:created "1750/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02370> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Roze zijden kassekien of jak, met wit rankenpatroon en boeketjes in rood, geel, groen, roze en paars. De voering is gemaakt van fraisekleurig linnen, gekalanderd. Driekwart model met voorpanden uit één stuk. Rug met middennaad. Plooien op de rugnaden in de taille. Halflange mouw met los elleboogstukje, gegarneerd met gefronste ruche. Voorsluiting van 19 haken en ogen en binnenbanden. Diepe rechte hals."@nl ;
+    dc:identifier "ZOV-02370" ;
+    dc:title "Roze zijden kassekien of jak"@nl ;
+    dcterms:created "1785/1800"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02371> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    dc:description "Kassekien of jak van roze damastzijde met een gestrooid rankpatroon, met daartussen boeketten in groen, rood, blauw, geel en paars. Fraisekleurig linnen voering. Driekwart lang model met voorpanden uit één stuk. Op de rug een middennaad en diepe plooien op de zijnaden in de taille. Halflange mouw met losse elleboogstukken, versierd met gefronste ruches. Voorsluiting met acht haken en ogen, een binnenband en een schuifkoordje in de hals. Diepe, rechte halslijn, met aan de achtezijde een flauwe V-vorm."@nl ;
+    dc:identifier "ZOV-02371" ;
+    dc:title "Kassekien of jak van roze damastzijde"@nl ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02375> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Jak of kassekien van lichtblauwe zijde met een slingerpatroon van roze  en gevederde golflijnen met daartussen bloemen in wit en donkerbruin. De voering is gemaakt van blauw, gekalanderd linnen. Driekwart lang model met voorpanden uit één stuk, rug met een middennaad en diepe plooien op de taille en de rug. Halflange mouwen, uitlopend in een punt. Voorsluiting met twaalf haken en ogen en binnenband. Diepe rechte halslijn, achter en voor."@nl ;
+    dc:identifier "ZOV-02375" ;
+    dc:title "Jak of kassekien van lichtblauwe zijde met een slingerpatroon"@nl ;
+    dcterms:created "1785/1800"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02376> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Roze zijden kassekien of jak, gevoerd met fraisekleurig, gestreept linnen. Driekwart lang model met voorpanden uit één stuk, met figuurnaden. Rug met middennaad, op taillehoogte op de naden geplooid. Korte mouwen met losse elleboogstukken langs de rande versierd met een gefronste ruche. Voorsluiting van 16 haken en ogen en een binnenband. Een diepe, rechte hals."@nl ;
+    dc:identifier "ZOV-02376" ;
+    dc:title "Roze zijden kassekien of jak"@nl ;
+    dcterms:created "1800/1824"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "handnaaiwerk",
+        "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02392> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    dc:description "Wit katoenen jak of japonlijfje met streeppatroon en zigzag nopjes-ornament. Zeer kort model, met een vierkante halslijn en een pas voor en achter die in een punt uitlopen. Lange mouwen, aan de kop gegarneerd met een strook van neteldoek. Sluiting op de rug met haakjes en trensjes."@nl ;
+    dc:identifier "ZOV-02392" ;
+    dc:title "Wit katoenen jak of japonlijfje"@nl ;
+    dcterms:created "1820"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02396> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    dc:description "Zwarte zijden kassekien of jak met pagodemouwen. Rugplooi en randen afgezet met een zwarte bies van glimmende zijde, de hals met een ruche van dezelfde stof. Sluiting alleen van boven met haken en ogen. Dubbele rij van 3 knopen, gegarneerd met koord en git."@nl ;
+    dc:identifier "ZOV-02396" ;
+    dc:title "Zwarte zijden kassekien of jak met pagodemouwen"@nl ;
+    dcterms:created "1860/1870"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02409> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10072> ;
+    dc:description "Damasten herenkamerjas of japonse rok. Aan de ene zijde damast met smalle blauwe en grijze strepen, met gebrocheerde slinger- en bloempatronen. Aan de andere zijde een ruitpatroon in lila, blauw, geel en groen. Kan aan beide zijden worden gedragen, dubbele knopen, knoopsgaten en zakopeningen. Smal recht boordje. Lange omgeslagen mouw."@nl ;
+    dc:identifier "ZOV-02409" ;
+    dc:title "Damasten herenkamerjas of japonse rok"@nl ;
+    dcterms:created "1800"@nl ;
+    dcterms:martial "damast" ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "damast",
+        "handnaaiwerk" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02410> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10046> ;
+    dc:description "Japonse rok oftewel heren kamerjas van damast. Rode en blauwe damast met groot bloempatroon aan de ene zijde, aan de andere linnen met lila, roze en gele strepen. Kan aan beide kanten worden gedragen. Dubbele zakopening en knopen. Sluitlussen slechts aan één kant en van latere datum. Smalle kraag zonder revers. Herstellingen aan de voorzijde. Omgeslagen mouwen. Onder wijd door ingezette geren."@nl ;
+    dc:identifier "ZOV-02410" ;
+    dc:title "Japonse rok oftewel heren kamerjas van damast"@nl ;
+    dcterms:created "1800"@nl ;
+    dcterms:martial "damast" ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "damast",
+        "handnaaiwerk" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02412> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Blauw zijden herenvest of kamisool met lichtblauw bladmotief. Voering van donkerblauwe zijde. Driekwart lang model met voorpanden die aan de onderkant schuin zijn weggesneden en naar achteren toe uitlopen in een punt. Op de rug een middennaad, met een split onderaan. De mouwen hebben een split die wordt gesloten met twee knopen. Gesloten aan de voorzijde door middel van tien knopen, met halfblinde knoopsgaten. Ronde hals zonder kraag of revers. Twee V-vormig uitgesneden zakken met klep."@nl ;
+    dc:identifier "ZOV-02412" ;
+    dc:title "Blauw zijden herenvest of kamisool met lichtblauw bladmotief"@nl ;
+    dcterms:created "1700/1800"@nl ;
+    dcterms:martial "zijde" ;
+    dcterms:medium "http://thesaurus.europeanafashion.eu/thesaurus/10352" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300243428> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "zijde" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02413> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    dc:description "Lakense jas met linnen voering van effen roze laken. Voering rose sits. Voorpanden rond weglopend, zeer smal, jas kan niet gesloten worden. Idem stoffen knopen en loze knoopsgaten. Zeer lange rug, met lage achterwaarts lopende schoudernaad. Onderkant split, rugpanden van onderen los aan de zijpanden geknoopt. Brede zakkleppen met knoop bij insnijding. Onder kleppen lipsluiting. Vrij korte mouw met vastgenaaid beleg, sluiting met twee knopen. Omgeslagen kraag van achteren in een punt uitlopend."@nl ;
+    dc:identifier "ZOV-02413" ;
+    dc:title "Lakense jas met linnen voering"@nl ;
+    dcterms:created "1800"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02441> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10029> ;
+    dc:description "Witte zijden damast hemdrok of kamisool, met bloempatroon. Lang en recht model, voorpanden met aangeknipte punt en een klein splitje. Ronde hals zonder kraag. Rond geknipte mouw met een open oksel en een splitsluiting met knopen. Sluiting met 29 knopen aan de voorzijde. De onderste knoop is verschillende van vorm, maar gelijk aan die van de mouwen. Voering van witte wol."@nl ;
+    dc:identifier "ZOV-02441" ;
+    dc:title "Witte zijden damast hemdrok of kamisool"@nl ;
+    dcterms:created "1750/1775"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "handnaaiwerk",
+        "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02465> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Groene zijden jak of kassekien. Groen gestreepte zijde met doorlopend wit slingerrankpatroon, gevoerd met groen linnen. Driekwart model, sterk getailleerd op de zijnaden. Mouw met los elleboogstukje. Sluiting middenvoor met haken en ogen en linnen banden. Koordje door het rechte diepe decolleté. De halslijn aan de achterzijde heeft een diepe V-vorm."@nl ;
+    dc:identifier "ZOV-02465" ;
+    dc:title "Groene zijden jak of kassekien"@nl ;
+    dcterms:created "1775/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "handnaaiwerk",
+        "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02466> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Kassekien of jak. Lichtgrijze zijde met rood geslingerd patroon waarover grijs met rode bloemranken. Voering wollen grein, grijs (gekalanderd). Voorpanden uit één stuk, rug met middennaad, in taille op rug- en zijnaden in plooien vallend. Korte mouw, gegarneerd met witte kant (verdwenen). Voorsluiting met haken en ogen een blauw koord. Resten van band of oprijg waardoor lijfje puntvorm kreeg. Diep, afgerond decolleté, afgeronde V-vorm achter."@nl ;
+    dc:identifier "ZOV-02466" ;
+    dc:title "Lichtgrijze zijden kassekien of jak"@nl ;
+    dcterms:created "1750/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "handnaaiwerk",
+        "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02469> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    dc:description "Zijde prunuskleurige kassekien met groen bloemmotief. Gebrocheerde slingermotief en boeketten in groen, lichtblauw, geel, roodbruin en wit. Gevoerd met geel gekalanderd linnen. Driekwart lang model, voorpanden uit twee lengtes, rug met middennaad. Taille en zijnaden geplooid. Voorsluiting met haken en ogen. Halflange mouwen met los elleboogstukje, gegarneerd met bruin gefronst lint. Diep recht decoleté, achter rechthoekig."@nl ;
+    dc:identifier "ZOV-02469" ;
+    dc:title "Zijde prunuskleurige kassekien met groen bloemmotief"@nl ;
+    dcterms:created "1785/1799"@nl ;
+    dcterms:martial "zijde" ;
+    dcterms:medium "http://thesaurus.europeanafashion.eu/thesaurus/10352" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300243428> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "zijde" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02497> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10086> ;
+    dc:description """Korset of keurslijf van groene damast. De voering is van geruwde linnen. Opgevuld met walvisbalein. Het korset is gemaakt van negen doorstikte pandjes afgewerkt met crème band. Van voren puntig uitlopend, van achteren en opzij in elf smalle pandjes. Arm uitsnijdingen met smal schoudertje dat aan de voorzijde met een bandje is bevestigd. Voorsluiting met veter.
+
+Piccadillekens geven ruimte voor de heupen."""@nl ;
+    dc:identifier "ZOV-02497" ;
+    dc:title "Groen damasten korset of keurslijf"@nl ;
+    dcterms:created "1700/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02509> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10079> ;
+    dc:description "Katoenen chemisette of dameshemd. Kort model met een voor- en achternaad. Borduurwerk met grote bloemenranken. in de bloemkelken pointe tiré van verschillende patronen. De halsopening is gegarneerd met een strook kloskant. De chemisette sluit met twee banden en twee lusjes."@nl ;
+    dc:identifier "ZOV-02509" ;
+    dc:title "Chemisette of dameshemd"@nl ;
+    dcterms:created "1775/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "handnaaiwerk",
+        "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02564> a edm:ProvidedCHO ;
+    dc:description "Katoenen batiste doopjurk. Witte batist met verticale strepen van fils-tires-werk. Wit borduursel van dit materiaal. Model: kort lijfje, lange rok, van voren gespleten. Rijgband in de taille, split vn achteren. Lange mouwen. Versiering: langs de hals en mouwen kraagje en manchtjes van dezelfde stof, dito stroken op voor- en rugpand doorlopend over de schouder. Gerend naar de taille. Borduursel lans randen rok, taille, kraagje, manchetjes, strook en op voorpand. Op de rok een doorlopend rankmotief en gestrooide blaadjes, verder zigzag randen waarin bladmotief, op het lijfje dito motieven in blokpatroon."@nl ;
+    dc:identifier "ZOV-02564" ;
+    dc:title "Katoenen batiste doopjurk"@nl ;
+    dc:type <http://vocab.getty.edu/aat/300238962> ;
+    dcterms:created "1800/1824"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02579> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Witte satijnen babyjasje gevoerd met flanel en katoen. Aan de achterkant is het jasje open en wordt gesloten met tien bandjes. Het jasje is uit één lap gemaakt (geen zijnaden), de ingezette mouwtjes zijn in vorm geknipt en hebben wel een zijnaad. Een ronde hals en middenvoor aan de onderkant loopt het jasje wat rond. De voeringstof is tegen de zijde ingeslagen en vastgenaaid – met uitzondering van de hals, die met een bandje van dezelfde satijnen stof is afgezet. Versiering: Zaans stikwerk over het gehele jasje. Het symmetrische bloemranken patroon is op maat gemaakt voor dit jasje. De ondergrond is onbewerkt gelaten."@nl ;
+    dc:identifier "ZOV-02579" ;
+    dc:title "Satijnen babyjasje met Zaans stikwerk"@nl ;
+    dcterms:created "1750/1799"@nl ;
+    dcterms:martial "satijn" ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "satijn" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02580> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10987> ;
+    dc:description "Wijde ronde hals, sluiting mid.voor d.m.v. 3 groene linten. Patroon: Rode bloemen, groene ranken op lichte ondergrond. Mouwen versierd met 3 groene ruches."@nl ;
+    dc:identifier "ZOV-02580" ;
+    dc:title "Babyjak"@nl ;
+    dcterms:created "1700/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02582> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Katoenen jak voor een baby. Witte sits met een blauw gestrooid bloempatroon, de voering is van wit linnen. Gemaakt uit één stuk, met van voren een puntvormig opstiksel. V-hals met een split met vier groene knopen en knoopsgaten, met groene bies. Rond geknipte mouwen met een omslag, met groen afgebiesd en versierd met groene trensjes. Sluiting midden achter met groen en wit band met haakjes aan lijfje vastgezet. Een paar mitaines of polsmoffen, puntig model met een aangezet duimpje, groen gebiesd."@nl ;
+    dc:identifier "ZOV-02582" ;
+    dc:title "Katoenen jak voor een baby en een paar polsmoffen"@nl ;
+    dcterms:created "1700/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02583> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Blauw/roze changeantzijde jak voor een baby, met wit linnen voering. Gemaakt uit één stuk, van voren en achteren in een punt uitlopend, met puntvormige opstiksels. Recht geknipte mouwen met aangezet elleboogstukje, afgebiesd met roze lint. Vierkante halsopening. Sluiting midden achter met roze banden met een ingeweven bloem."@nl ;
+    dc:identifier "ZOV-02583" ;
+    dc:title "Blauw/roze changeantzijde jak voor een baby"@nl ;
+    dcterms:created "1800/1825"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02584> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Lichtblauwe moiré-zijden jak voor een baby met een voering van witte katoen. Versierd met roze linten. Lijfje uit één stuk, loopt midden voor en -achter uit in een kleinen punt. Rechtgeknipte mouwen in een punt model, afgewerkt met een strook. V-hals uitlopend in knopen en knoopsgaten middenvoor. Sluiting middenachter met zes zijden linten."@nl ;
+    dc:identifier "ZOV-02584" ;
+    dc:title "Lichtblauwe zijden jak voor een baby"@nl ;
+    dcterms:created "1775/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02585> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Jak voor een baby van linnen damast. De witte damast heeft een patroon van bloemen en een bloemkorf. De voering is van witte katoen. Versierd met roze soutache langs de hals, mouwen en op de voorkant in een dubbele zigzag. Gemaakt uit één stuk, voor en achter uitlopend in een punt. Een rijgsluiting middenvoor met roze nestelgaatjes en veter. Sluiting middenachter met acht roze linten, vastgezet aan het lijfje met haken en een trensje. Recht geknipte mouwen met en strook lang de manchet."@nl ;
+    dc:identifier "ZOV-02585" ;
+    dc:title "Jak voor een baby van linnen damast"@nl ;
+    dcterms:created "1800/1850"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02586> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Jak voor een baby van wit katoen, bedrukt met een bloempatroon en stippen in rood en paars. Versierd met boordsel in rood lint. Uit één stuk gemaakt, voor en achter enigszins uitlopend in een punt. V-hals met split met vier knoopsgaten en stoffen knoopjes. Lange, rondgeknipte mouwen met brede omslag. Sluiting middenachter met  acht rode lintjes."@nl ;
+    dc:identifier "ZOV-02586" ;
+    dc:title "Jak voor een baby van wit en rood katoen"@nl ;
+    dcterms:created "1775/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02588> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10079> ;
+    dc:description "Zijden damasten, geel lijfje met recht uitgesneden wijde hals, elleboog-lange mouwen en rijgsluiting achter. Geel zijden voering, met ingeweven bloemranken. Mouwtjes afgezet met geel kloskant"@nl ;
+    dc:identifier "ZOV-02588" ;
+    dc:title "Baby lijfje of borstrok"@nl ;
+    dcterms:created "1700/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02589> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Jak van roze damastzijde met een groot bloempatroon voor een baby. De voering is van roze linnen. Het lijfje bestaat uit een voorpand en twee smalle rugpanden. De mouwen hebben een aangeknipt elleboogstukje, afgezet met een roze koordje. Recht uitgesneden hals, afgezet met roze band. Rijgsluiting achter, ook afgezet met roze band."@nl ;
+    dc:identifier "ZOV-02589" ;
+    dc:title "Jak van roze damastzijde voor een baby"@nl ;
+    dcterms:created "1775/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02591> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Jak voor een baby van gestreepte zijde, wit, lichtgroen en paars. De voering is gemaakt van wit linnen. Uit één stuk gemaakt, van onderen recht, rechte halsopening. De mouwen zijn recht geknipt met een schuin lopende onderrand. Sluiting middenachter met nestelgaatjes en groene, zijden veter, groen omboord en langs hals en sluiting groen kloskoordje."@nl ;
+    dc:identifier "ZOV-02591" ;
+    dc:title "Jak voor een baby van gestreepte zijde"@nl ;
+    dcterms:created "1800/1825"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02592> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Jak van een baby van wit linnen damast met bloempatroon. Linnendamasten meisjesjak met een voering van witte katoen. Gemaakt uit twee stukken, het lijfje loopt voor en achter uit in een punt, aan de voorzijde dichtgeregen met een roze band. Ovale halslijn. Halflange mouwen met een 'varkensoor' en kloskanten engageantes. Sluiting midden achter met zes wit/rode strikbandjes die met haakje en nestel aan lijfje zitten. Langs hals en middenvoor is ter versiering een roze band opgenaaid."@nl ;
+    dc:identifier "ZOV-02592" ;
+    dc:title "Jak van een baby van wit linnen damast"@nl ;
+    dcterms:created "1700/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02593> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Jak voor een baby van roze ripszijde. Meisjesjak van ripszijde met een linnen voering. Het lijfje is gemaakt uit één stuk, met alleen schoudernaden. Een recht uitgesneden halsopening en een achtersluiting met wit zijden linten. De halflange mouwen hebben een aangezet kransje of elleboogstukje, versierd met wit band. Langs de mouwranden, over het voorpand in twee banen en langs de hals versierd met lichtblauw band."@nl ;
+    dc:identifier "ZOV-02593" ;
+    dc:title "Jak voor een baby van roze ripszijde"@nl ;
+    dcterms:created "1700/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02594> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Moirézijden jak voor een baby. Jongensjak van moirézijde en linnen voering en belegstukken van roze zijde. Het jak bestaat uit drie stukken, het voorpand is in een punt geknipt. De V-hals heeft een split, gegarneerd met drie rode knopen en knoopsgaten. Rond geknipte mouwen, sluitend met drie rode knopen en knoopsgaten. Sluiting aan de achterzijde met zes roze linten."@nl ;
+    dc:identifier "ZOV-02594" ;
+    dc:title "Moirézijden jak voor een baby"@nl ;
+    dcterms:created "1775/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02595> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Lichtblauw zijden jakvoor een baby. Jak van zijde, met een wit linnen voering. Uit één stuk, middenvoor en middenachter lopen uit in een punt. V-hals met een split. Rondgeknipte mouwen mouw met split en een aangezette manchet. Sluiting middenachter met zes roze lintjes."@nl ;
+    dc:identifier "ZOV-02595" ;
+    dc:title "Lichtblauw zijden jakvoor een baby"@nl ;
+    dcterms:created "1800"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02596> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Jak voor een baby van witte sits met een rankpatroon in rood, lila, lichtblauw en lichtgeel, gevoerd met wit linnen. Gemaakt uit één stuk, van voren en achteren uitlopend in een punt. Korte mouwen met een aangezet elleboogstuk. Sluiting middenachter met acht wit en rode linten die met haakjes aan trensjes op het jak zijn bevestigd."@nl ;
+    dc:identifier "ZOV-02596" ;
+    dc:title "Jak voor een baby van witte sits met een rankpatroon"@nl ;
+    dcterms:created "1800/1825"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02597> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Jak voor een baby van lichtgrijze katoen met een zwart en wit patroon in een gespikkeld blokpatroon. Sitsen meisjesjak met een voering van wit katoen. Gemaakt uit één stuk, van voren en achteren uitlopend in één punt en een ronde halsopening. Halflange rondgeknipte mouwen met split en gefronst randje opgenaaid. Opgenaaid zwart/wit koordband langs de hals en middenvoor in drie lussen. Sluiting middenachter van tien zwart/wit linten, bevestigd met haakjes aan het lijfje."@nl ;
+    dc:identifier "ZOV-02597" ;
+    dc:title "Jak voor een baby van lichtgrijze katoen met een zwart en wit patroon"@nl ;
+    dcterms:created "1700/1824"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02599> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Jak voor een baby van rode sits met rankpatronen, in blauw, rood, lila, geel en wit. Voering van ecru linnen. Recht en lang model, gemaakt uit één stuk, met aan één kant smalle aangezette reep. Ronde halsopening. Korte, recht geknipte mouwen met een aangezette rand. Langs hals en middenvoor groen koordband. Sluiting met tien linnen strikbandjes achter."@nl ;
+    dc:identifier "ZOV-02599" ;
+    dc:title "Jak voor een baby van rode sits met rankpatronen"@nl ;
+    dcterms:created "1700/1824"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02600> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Jak voor een baby van lichtblauwe zijde met een voering van witte linnen. Recht jak met lange, rechtgeknipte mouwen, een ovale halsopening versierd met roze linten in punten genaaid. Langs mouw roze lint, met strikje. Sluiting middenachter met zes roze linten."@nl ;
+    dc:identifier "ZOV-02600" ;
+    dc:title "Jak voor een baby van lichtblauwe zijde"@nl ;
+    dcterms:created "1800/1824"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02601> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Jak voor een baby van witte damastzijde met een rankpatroon. De voering is gemaakt van witte flanel. Het voor- en achterpand enigszins uitlopend in punt. De ovale halsopening is versierd met cremekleurig lint. Rechtgeknipte, wijde mouwen met omslag. Witte zijden linten en striksluiting achter."@nl ;
+    dc:identifier "ZOV-02601" ;
+    dc:title "Jak voor een baby van witte damastzijde"@nl ;
+    dcterms:created "1700/1899"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02609> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10987> ;
+    dc:description "Wit katoenen babyjak met Zaans stikwerk. Het jak heeft een vierkante hals en mouwen met een punt voor om de ellebogen. Het jak wordt aan de achterkant met zes katoenen keperbanden gesloten. Wit gekeperde katoen gevoerd met linnen. Het jasje is uit één lap gemaakt (geen zijnaden), de ingezette mouwtjes zijn in vorm geknipt met een duidelijke elleboog. Van achteren open en een sluiting van drie stel keperbandjes. Het jasje heeft een vierkante hals. Het patroon van het Zaans stikwerk is op maat gemaakt voor dit jasje en bestaat uit vrij grote bloempatronen, die verwant zijn aan die van Dresdener witwerk. Een doorlopend symmetrisch patroon van een medaillon, twee rozen, hoekvulling en een rand met vlechtbandmotief. Bloemenpatroon op de mouwtjes, waarvan de onderrand niet is bewerkt. De ondergrond van voor- en achterpand is onbewerkt gelaten; de ondergrond van de mouwen is wel met tunneltjes opgevuld. De onderkant van het jasje is afgewerkt met linnenband. De stof van de mouwtjes is tegen elkaar ingeslagen en vastgezoomd."@nl ;
+    dc:identifier "ZOV-02609" ;
+    dc:title "Wit katoenen babyjak met Zaans stikwerk"@nl ;
+    dcterms:created "1775/1799"@nl ;
+    dcterms:martial "katoen" ;
+    dcterms:medium "http://thesaurus.europeanafashion.eu/thesaurus/10354" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300014067> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "borduren",
+        "katoen" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02722> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10245> ;
+    dc:description "Fijn breiwerk van blauwe zijde. patroon: ruiten, waarin afwisselend een kroon 2 vogeltjes, en een rozet. Garnering: Punt gevoerd met witte zijde waaop   bloemenborduursel in rood,bruin,groen,geel,blauw,wit en gouddraad  Langs rand een strook naaldkant met takjespatroon en geschulpte rand. Techniek:Handbreiwerk ( M1 en M2)"@nl ;
+    dc:identifier "ZOV-02722" ;
+    dc:title "Paar gebreide blauw/zijden mitaines"@nl ;
+    dcterms:created "1775/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-02790> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10053> ;
+    dc:description "Paar manchetten of mouwstroken van zephyr. Valenciennes met een cinq trous- of spiegelgrond. Rond model, met fijne plooien aan een linnen bandje. Versierd met een brede strook Binche kloskant in rankenpatroon."@nl ;
+    dc:identifier "ZOV-02790" ;
+    dc:title "Manchetten of mouwstroken"@nl ;
+    dcterms:created "1725/1775"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "handnaaiwerk",
+        "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-03000> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    dc:description "Doorgestikte rok, blauw. Wijd uitlopend model, met glad heupstuk, split middenachter. De rok is geheel doorgestikt in een patroon van ruiten en golvende bladrangen. Afgewerkt met een blauw koordje en gele voering."@nl ;
+    dc:identifier "ZOV-03000" ;
+    dc:title "Doorgestikte rok"@nl ;
+    dcterms:created "1780/1820"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-03094> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10297> ;
+    dc:description "Fragment van een zijde gestikte rok, lap stof. Eén zijde is afgewerkt of doorgestikt, de andere drie zijde zijn niet afgewerkt. Achterzijde wit/creme en de voorzijde is blauw van kleur. Gevoerd met wit linnen, opgevuld met wol. Geheel is met de hand doorgestikt. Aan één zijde ingeknipt voor split."@nl ;
+    dc:identifier "ZOV-03094" ;
+    dc:title "Fragment van een zijde gestikte rok, lap stof"@nl ;
+    dcterms:created "1800/1899"@nl ;
+    dcterms:martial "zijde" ;
+    dcterms:medium "http://thesaurus.europeanafashion.eu/thesaurus/10352" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300243428> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "zijde" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-04093.01> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Blauw en zwart geruit zijden jak of kassekien. Zijde, blauw met wit en zwarte ruiten. Model driekwart lang. Voorpanden uit één stuk, middenachter naad. Wijd schootje. Plooien in taille en zijnaad. Halflange mouw met losse     elleboogstukken afgezet met ruches. Voorsluiting  met negen haken en ogen. Tailleband. Diep rechte halsuitsnijding met bies afgezet. Achter rechthoekige ondiepe halsuitsnmijding. Voering van zwart en grijs geruite gekalanderd linnen."@nl ;
+    dc:identifier "ZOV-04093.01" ;
+    dc:title "Blauw en zwart geruit zijden jak of kassekien"@nl ;
+    dcterms:created "1785/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-04097> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10188> ;
+    dc:description "Luifelhoed met brede rand en achterflap van katoen en buitenzijde bekleed met changeantzijde. Blauw en wit van kleur. Model: Brede rand, hard van voren en hangt van achteren omlaag. Middenstuk afgezet met wit zijden lint, waarvan lange einden links en rechts naar beneden over de rand afhangen. Binnen in de hoed twee linten om hoed via de kin vast te binden."@nl ;
+    dc:identifier "ZOV-04097" ;
+    dc:title "Luifelhoed met brede rand en achterflap"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-04611> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Wit katoenen babyjasje met Zaans Stikwerk. Het babyjasje is aan de achterkant open is en wordt gesloten met drie paar linnen bandjes. Het jasje is uit één lap gemaakt (geen zijnaden), de ingezette mouwtjes zijn recht van model. De hals is aan voor-en achterkant V-vormig. Middenvoor aan de onderkant loopt het jasje wat rond. Het patroon van het Zaans Stikwerk is op maat gemaakt voor dit jasje. Middenvoor is het patroon asymmetrisch en bestaat uit blad- en bloemranken (tulp, anjers en margrieten). De randen van het jasje rondom zijn iets afwijkend van patroon en de ondergrond hiervan is onbewerkt gelaten. De stof van boven- en onderkant is tegen elkaar ingeslagen. Het met potlood opgebrachte patroon is nog goed te zien. Waarschijnlijk is het jasje nooit gewassen."@nl ;
+    dc:identifier "ZOV-04611" ;
+    dc:title "Wit katoenen babyjasje met Zaans Stikwerk"@nl ;
+    dcterms:created "1700/1799"@nl ;
+    dcterms:martial "linnen" ;
+    dcterms:medium "http://thesaurus.europeanafashion.eu/thesaurus/10355" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300014069> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "linnen" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-04864> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    dc:description "Wollen spiegeldamasten rok of wagd, blauw met een ingeweven grijs bloemmotief en granaatappelornament. Platte plooien aan achterzijde, glad buikstuk. Taille afgezet met blauw wollen band. Zoom afgezet met bruin band. Splitten links- en rechtsvoor, sluiten met haak en oog en lusje."@nl ;
+    dc:identifier "ZOV-04864" ;
+    dc:title "Wollen spiegeldamasten rok of wagd"@nl ;
+    dcterms:created "1750/1849"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-04865> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    dc:description "Wollen spiegeldamasten rok of wagd, blauw met een grijs bloem- en granaatappelpatroon. Wijde model, voorzijde ongeplooid en aan de achterzijde plooien van 2 cm diepte. In band merk HB (rood op wit). Taille afgewerkt met grijs/blauw wollen band. Onderzijde gedeeltelijk afgewerkt met dun grijs koordje. Split rechtsvoor sluit met haak. Bovenkant versteld en verlengd."@nl ;
+    dc:identifier "ZOV-04865" ;
+    dc:title "Wollen spiegeldamasten rok of wagd"@nl ;
+    dcterms:created "1750/1849"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-04866> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    dc:description "Wollen spiegeldamasten rok of wagd, groen met in grijs bloemmotieven. Wijd model met aan beide zijde een split. Taille afgezet met groen wollen band, onderzoom met groen koordje. Voorzijde ongeplooid, achterzijde met 5 cm diepe plooien. Resten van oprijg onder. Splitten sluiten met haak en oog of twee lusjes. Gemerkt HB in rood wit."@nl ;
+    dc:identifier "ZOV-04866" ;
+    dc:title "Wollen spiegeldamasten rok of wagd"@nl ;
+    dcterms:created "1750/1849"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-04867> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    dc:description "Wollen spiegeldamasten rok of wagd, blauw  met ingeweven grijs bloem- en granaatappelmotief. Voorzijde licht geplooid. Achterzijde 3 cm diepe plooien. Split aan beide zijden. Bovenzijde afgewerkt met blauw wollen bandje, onderzoom met bruin wollen band. Sluiting splitten haak en oog of lusje."@nl ;
+    dc:identifier "ZOV-04867" ;
+    dc:title "Wollen spiegeldamasten rok of wagd"@nl ;
+    dcterms:created "1750/1849"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05042> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Katoenen kassekien of jak, met bloem en bladmotieven in de kleuren rood, blauw, groen, paars en bruin.  Driekwart model met halflange mouwen, wordt met bandjes aangeregen. Ronde hals met plooitjes. Achterpand vanuit midden geplooid. Sluiting met losse binnen voorpandjes en koordje door hals en taillelijn buitenvoorpanden."@nl ;
+    dc:identifier "ZOV-05042" ;
+    dc:title "Katoenen kassekien of jak"@nl ;
+    dcterms:created "1800/1824"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05048> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Katoenen sitsen jak voor een baby, met een voering van linnen. De sits heeft een wit fond met groot bloemmotief in rood, bruin en blauw. Sluiting middenachter met drie groene zijden bandjes. Mouwtjes versierd met beige zijden geplooide bandjes. Aan de voorzijde zijn bij de hals drie knoopsgaten met groen garen afgezet. De mouwtjes uit zijn uit twee stukken samengevoegd."@nl ;
+    dc:identifier "ZOV-05048" ;
+    dc:title "Jak voor een baby"@nl ;
+    dcterms:created "1700/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05321> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Zijde kassekien. Model driekwart lang met halflange mouw. Grijslblauw ruitmotief met bruine bloemen. Effen lichtblauwe voering, gekalanderd. Voorpanden uit één stuk. Voorsluiting van vijf haakjes en oogjes. Op de rug een diepe hals in V vorm."@nl ;
+    dc:identifier "ZOV-05321" ;
+    dc:title "Zijde kassekien"@nl ;
+    dcterms:created "1750/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05344> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10297> ;
+    dc:description "Katoenen kleed met tamboereerwerk van zijde in sitspatroon, tulpmotief in de kleuren rood, geel, groen, blauw en bruin."@nl ;
+    dc:identifier "ZOV-05344" ;
+    dc:title "Katoenen kleed met tamboereerwerk in sitspatroon"@nl ;
+    dcterms:created "1775/1800"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05375> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10134> ;
+    dc:description "Een goudkleurige tas, ook wel reticule genoemd. Rechthoekig model met een sluiting van écru lint door de bovenzoom. De voering is van naturel linnen. Goudkleurig fond met aan beide zijden borduurwerk met boom, toren en bootjes op water en twee personen. Zijkanten en onderkant afgewerkt met écru-zijden bies. Aan sluitkoord kwastjes van zijde en zilverdraad."@nl ;
+    dc:identifier "ZOV-05375" ;
+    dc:title "Goudkleurige tas, ook wel reticule genoemd"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05473.01> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Jak voor een baby van katoen en linnen. Gestreeptje rode en witte stof, met patroontjes in de banen. Langs hals, mouwen en voor- en achterzijde groen soutache. Sluiting aan de achterzijde met groene knoopjes en groene bandjes. Voering van wit linnen."@nl ;
+    dc:identifier "ZOV-05473.01" ;
+    dc:title "Jak voor een baby van katoen en linnen"@nl ;
+    dcterms:created "1800/1824"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05473.02> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Jak voor een baby van katoen en linnen. Gestreeptje rode en witte stof, met patroontjes in de banen. Langs hals, mouwen en voor- en achterzijde groen soutache. De mouwen hebben een varkensoor. Sluiting aan de achterzijde met groene knoopjes en groene bandjes. Voering van wit linnen."@nl ;
+    dc:identifier "ZOV-05473.02" ;
+    dc:title "Jak voor een baby van katoen en linnen"@nl ;
+    dcterms:created "1800/1824"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05474> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Jak voor een baby van roze zijde met een wit linnen voering. Het lijfje is gemaakt uit één stuk. Aangezette mouwen met een kort splitje. Halsje, mouwen en achterzijde afgewerkt met wit koordje. Sluiting met twee keer 14 nestelgaatjes en een wit koordje."@nl ;
+    dc:identifier "ZOV-05474" ;
+    dc:title "Jak voor een baby van roze zijde"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05475> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Zijden jak voor een baby. Recht model met het lijfje uit één stuk. Aangezette mouwen met splitje. Witte, paarse en citroenkleurige verticale strepen. Langs de hals en mouwen groen koordje. Sluiting aan de achterzijde met nestelgaatjes en groen vetertje. Linnen voering."@nl ;
+    dc:identifier "ZOV-05475" ;
+    dc:title "Zijden jak voor een baby"@nl ;
+    dcterms:created "1775/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05476> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Wit sitsen jak voor een baby, met een rood bloempatroon. Voering van witte linnen stof. Lijfje uit twee delen gemaakt, aan voorkant puntig uitlopend. Rechte mouwen met kant afgezet. Langs hals geel zijden bandje. Sluiting aande achetrzijde met  zes groene zijden bandjes.  Twee losse polsmoffen, afgezet met hetzelfde groene zijden band."@nl ;
+    dc:identifier "ZOV-05476" ;
+    dc:title "Wit sitsen jak voor een baby"@nl ;
+    dcterms:created "1775/1824"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05497> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Sitsen jak voor een baby met polsmoffen. De witte sits is bedrukt met een bloem- en bladpatroon in de kleuren rood, groen en paars. Het lijfje is gemaakt uit één stuk, gevoerd met witte linnen.  De rondgeknipte mouwen en ronde hals zijn afgezet met een groen gefronst zijde lint. Sluiting middenachter met zes groene zijden bandjes en halskoordje.     De polsmoffen hebben een puntmodel, de punt is afgezet met groen band en kant."@nl ;
+    dc:identifier "ZOV-05497" ;
+    dc:title "Sitsen jak voor een baby met polsmoffen"@nl ;
+    dcterms:created "1700/1800"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05586> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10118> ;
+    dc:description "Cremekleurige doorgestikte doopkleed en doopdeken. Gemaakt van twee aan elkaar genaaide stroken zijden satijn, elk circa 43.5 cm breed. De tussenvoering bestaat uit een geweven, geruwde wollen stof, de later aangebrachte achterzijde is van katoen in satijnbinding. De deken is versierd met doorstikwerk, dat door de twee bovenste lagen is uitgevoerd. Het middendeel bestaat uit een ruitvormig patroon dat gevormd wordt door groepjes van vier ronde, krullende vormen. De versiering van de circa 9 cm. brede rand is afwijkend – het is door kettingsteken van het middendeel afgescheiden: Van de rand heeft 8 cm. een rankenpatroon van bloemen en blaadjes. De laatste 1 cm. is parallel aan de zijkant afgezet met een kettingsteek. De stof van boven-en onderkant is tegen elkaar ingeslagen, zoals gebruikelijk in Nederland."@nl ;
+    dc:identifier "ZOV-05586" ;
+    dc:title "Doopdeken of doopkleed"@nl ;
+    dcterms:created "1675/1699"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:technique_URI <http://vocab.getty.edu/aat/300053658> ;
+    edmfp:techniques "genaaid",
+        "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05771> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Kassekien of jak van blauwe zijde met een grijs bloempatroon. Recht model met een nauw aansluitend lijfje, wijde rok, diepe plooien vanuit de zijnaden, diep uitgesneden hals, half lange mouw. Sluiting middenvoor met acht haken en ogen."@nl ;
+    dc:identifier "ZOV-05771" ;
+    dc:title "Kassekien of jak van blauwe zijde met een grijs bloempatroon"@nl ;
+    dcterms:created "1775/1800"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05772> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    dc:description "Wollen spiegeldamasten rok of wagd, groen met witte bloemmotieven. Model wijd uitlopend aan smal groen keperbandje. Achter diepe platte plooien, voor licht gerimpeld. Splitten links en rechts sluiten met haak en oog. In taille vier met wit linnen overtrokken knopen van later datum."@nl ;
+    dc:identifier "ZOV-05772" ;
+    dc:title "Wollen spiegeldamasten rok of wagd"@nl ;
+    dcterms:created "1775/1800"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05796> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Wit/roze linnen babyjak voor een meisje. Voor en achter in een punt uitlopend, een ovale hals, driekwart mouw met vinvormige afwerking. Sluiting middenachter met roze lintjes die met haakje en trensje aan jakje zijn bevestigd, oorspronkelijk waren het er vier. Langs hals en sluiting afwerkign met zijden donkerroze band. Met een patroon van  ingeweven gestyleerde bloemetjes."@nl ;
+    dc:identifier "ZOV-05796" ;
+    dc:title "Wit/roze linnen babyjak"@nl ;
+    dcterms:created "1700/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05797> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Jak voor een baby van rood en wit gestreepte zijde, gevoerd met wit linnen. Recht model met een ovale hals, halflange mouwen die met elleboog meelopen. Sluiting middenachter met acht haakjes en trensjes (twee rijen van acht). De hals, sluiting en mouwen zijn afgezet met geel koord. Haakjes vastgezet met rood garen, trensjes van hetzeflde garen."@nl ;
+    dc:identifier "ZOV-05797" ;
+    dc:title "Jak voor een baby van rood en wit gestreepte zijde"@nl ;
+    dcterms:created "1700/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05798> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Meerkleurige katoenen jak voor een baby. Meisjesjak, met linnen voering. Het jak loopt voor en achter in een punt uit, ovale hals, halflange mouwen met aangenaaid kransje. Sluiting middenachter met lintjes die met haakjes en trensjes aan het jakje zijn bevestigd, drie lintjes van roze/rode zijde. Langs hals zelfde band als sluiting. Kranjes afgezet met gegolfd crémekleurig band. Stofpatroon met fijne bloemrankjes in donkerpaarse omlijning, met rood, blauw en paars ingekleurd."@nl ;
+    dc:identifier "ZOV-05798" ;
+    dc:title "Meerkleurige katoenen jak voor een baby"@nl ;
+    dcterms:created "1700/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05799> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Wit met rood geruite katoenen jak voor een baby. Voor uitlopend in afgeronde punt. Achterpanden onder rond weggesneden. Ronde hals en lange mouwen met puntvormige omslag. Sluiting achter met haak en trensje."@nl ;
+    dc:identifier "ZOV-05799" ;
+    dc:title "Wit met rood geruite katoenen jak voor een baby"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05821> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Kassekien of jak van blauw gebloemde zijde. Voering blauw/grijs gestreept linnen. Driekwart lang model met halflange mouwen. Voorpanden uit één stuk. Rug met middennaad. Mouwen zonder elleboogstukjes. Voorsluiting met tien haken en ogen, een halsbandje en taillebandjes."@nl ;
+    dc:identifier "ZOV-05821" ;
+    dc:title "Kassekien of jak van blauw gebloemde zijde"@nl ;
+    dcterms:created "1785/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05822> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Geruite kassekien of jak van zijde, met een roze fond met daarop vertikale groene en blauwe strepen. Nauwsluitend lijfje en een wijde rok, driekwart lang model. De voorpanden zijn uit één stuk en op de rug een middennaad. Op taillehoogte in de rug- en zijnaden diepe plooien. Mouwen zijn halflang met aangeknipte kransjes, afgezet met geplooid groen lint. Sluiting middenvoor 15 haken en ogen en een rood met wit taillebandje. Diep en recht decollecté, met aan de achterkant een diepe rechte hals."@nl ;
+    dc:identifier "ZOV-05822" ;
+    dc:title "Beige groen geruite kassekien of jak van zijde"@nl ;
+    dcterms:created "1775/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05826> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Jak voor een baby van gebroceerde zijdedamast. Recht model, wijde ovale hals en halflange mouwen die met elleboog meeloopt, met omslag. Sluiting middenachter met drie rood-wit doorgewerkte bandjes. Hals afgezet met hetzelfde band. Omslag mouwen afgezet met klein galonnetje en drie met blauwe stof overtrokken knopen met kwastje. Wit damasten fond met gebroceerd bloempatroon in roze, groen, donkerroze/rood, creme, blauw, oranje en goud. De bandjes werden opgerold en vastgespeld wanneer het jakje niet gebruikt werd."@nl ;
+    dc:identifier "ZOV-05826" ;
+    dc:title "Jak voor een baby van zijde-damast"@nl ;
+    dcterms:created "1700/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05829> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Jak voor een baby van lichtblauwe zijde met wit gebrocheerd motief. Jongensjak gevoerd met wit linnen. Recht model met wijde ovale hals en lange mouwen met split. Deze sluit met drie met blauw garen overtrokken knoopjes. De overslag van de split is gegolfd. Sluiting middenachter met drie paar blauwe lintjes. Hals en sluiting afgezet met hetzelfde lint."@nl ;
+    dc:identifier "ZOV-05829" ;
+    dc:title "Jak voor een baby van lichtblauwe zijde"@nl ;
+    dcterms:created "1700/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05830> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description "Jak voor een baby van blauw en witte zijde met vertikale strepen. In de witte streep gestyleerde bloemen of guirlande in roze, blauw, groen en paars. Meisjesjak met een wit linnen voering. Voor en achter enigszins in een punt uitlopend. Wijde recht uitgesneden hals. Half lange mouw, afgewerkt met een aangenaaid kransje. Sluiting middenachter met vier roze lintjes. Het jakje is afgezet met hetzelfde lint, bij de kranjes gerimpeld. Langs hals en sluiting en middenvoor lichtgroen band en koordje met kwastjes."@nl ;
+    dc:identifier "ZOV-05830" ;
+    dc:title "Jak voor een baby van blauw en witte zijde"@nl ;
+    dcterms:created "1700/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05831> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description """Jak voor een baby van licht blauwgroene zijde en een witte batisten jak.
+
+.1 Jak van lichte groenblauwe zijde. Recht model met wijde ovale hals, lange mouw en sluiting met middenachter drie paar linten. Hals met hetzelfde witte lint afgezet.
+
+.2 Wit batisten jak. Recht model met een wijde, ovale hals en zeer wijde mouwen. Sluiting middenachter met een wollen touwtje door de hals en een zijden lint door vier stofvouwen. Middenvoor, langs de hals en de mouwen zit kloskant als versiering. Het hele jasje is bedekt met een geborduurd stooimotief van witte bloemen."""@nl ;
+    dc:identifier "ZOV-05831" ;
+    dc:title "Jak voor een baby van licht blauwgroene zijde en een witte batisten jak"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05832> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10436> ;
+    dc:description """Jak voor een baby van blauw katoen en een jak van witte tule.
+
+.1 Blauw jak, recht model met wijde ovale hals en een lange mouw. Sluiting middenachter met koordje door de hals.
+
+.2 Jak van witte tule. Lang en recht model met een wijde ovale hals, een lange mouw en een sluiting middenachter met een koordje de hals en door de zoom. Ook een koordje door de mouw. Voorzijde en mouwen geheel doorgestopt met een patroon van bloemranken."""@nl ;
+    dc:identifier "ZOV-05832" ;
+    dc:title "Jak voor een baby van blauw katoen en een jak van witte tule"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05916> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Lila katoenen kassekien of jak met fijn bloem- en rankmotief.  Driekwart lang, voorpanden uit één stuk, rugnaad met  twee naden. Wijd geplooid achterschoot, lange over de handen vallende mouwen met sluitbandjes. Hoge taille. Voorsluiting met zes haken en ogen. Lage hals met koordje. De voering: lijfje roodbruin ruitje, ondergedeelte effen lichtbruine linnen stof."@nl ;
+    dc:identifier "ZOV-05916" ;
+    dc:title "Lila katoenen kassekien of jak"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-05917> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Katoenen kassekien, ondergrond van wit met fijn paars bladmotief, met daartussen een bloempatroon op wit fond. Driekwart lang model, halflange mouw, sluiting met zes haken en ogen. Voering: beige/bruin motief. Lage rechte hals met koordje in zoom, achter V-vorm."@nl ;
+    dc:identifier "ZOV-05917" ;
+    dc:title "Katoenen kassekien"@nl ;
+    dcterms:created "1775/1824"@nl ;
+    dcterms:martial "sits" ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "handnaaiwerk",
+        "sits" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06024.01> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Jak of japonjak van witte katoen. Stofpatroon wit fond met ingeweven verticale streep en bedrukt met lila en groene patronen. Recht lijfje met geplooid achterschootje. Ovale hals aan de voorkant. Lange mouwen, boven gesmokt, middenin zeer wijd en smalle pols. Op het lijfje middenvoor een opgestikte verticale band waaronder de stof aan de bovenkant geplooid is. Schoudernaad verstevigd met de band waar de onderstof ook geplooid is. Sluiting lijfje middenvoor met binnenpandjes en op de schouder en onder de oksel met buitenvoorpandjes sluiting met haak en trensjes en later drukknopen tussen gezet. Onderdeel van een tweedelig damesjapon."@nl ;
+    dc:identifier "ZOV-06024.01" ;
+    dc:title "Jak of japonjak"@nl ;
+    dcterms:martial "keperkatoen" ;
+    dcterms:medium "http://thesaurus.europeanafashion.eu/thesaurus/10354" ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "keperkatoen" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06132> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    dc:description "Rok of wagd van blauwe zijdendamast. Wijd model met dicht opeen liggende platte plooien. Vooraan minder geplooid. Split rechtsvoor met zak. Sluiting met haak en oog. Bovenzijde afgewerkt met blauw keperband. Onderzijde en split afgewerkt met blauw koordje. Het geheel is gevoerd met geel linnen."@nl ;
+    dc:identifier "ZOV-06132" ;
+    dc:title "Rok of wagd van blauwe zijdendamast"@nl ;
+    dcterms:created "1700/1799"@nl ;
+    dcterms:martial "zijde" ;
+    dcterms:medium "http://thesaurus.europeanafashion.eu/thesaurus/10352" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300243428> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "zijde" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06136> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10434> ;
+    dc:description "Sitsen rok of wagd. Op een wit fond zijn takken met bladeren enbloemen te zien in de kleuren: rood, blauw, paars of aubergine en zwart. De rok is ongevoerd. Aan de bovenzijde is een haak en oog sluiting, waarbij twee oogjes zijn bevestigd. De bovenzijde is afgezet met een groene bies met daarin geometrische witte figuurtjes."@nl ;
+    dc:identifier "ZOV-06136" ;
+    dc:title "Sitsen rok of wagd"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "handnaaiwerk",
+        "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06147> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    dc:description "Blauw zijden kassekien. Halflang model met voorpanden uit één stuk. Rug met midennaad, nauwsluitend lijfje met diepe rechte hals. Mouw halflang nauwsluitend met los kransje. Rok wijd met diepe plooien op taillehoogte in zijnaden. Sluiting voor met zes haken en ogen. Lijfje later ingenomen. Binnenband ontbreekt, één kransje idem. Kleuren: blauw/wit/grijs geruit, roze/wit/groen boeketjes. De voering is licht grijs/groen gekalanderd."@nl ;
+    dc:identifier "ZOV-06147" ;
+    dc:title "Blauw zijden kassekien"@nl ;
+    dcterms:created "1785/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06149> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    dc:description "Katoenen jak met ovale hals en zeer wijde mouw met manchetten en split welke sluit met twee haakjes en trensjes. Gladde tailleband. Voorpand middenvoor boven tailleband sterk gerimpeld. Achterband onder tailleband in midden sterk geplooid. Sluiting voor met losse binnenvoorpandjes (haak en oog) en buiten voorpand op schouder en oksel met haak en trensje. Achter in taille twee ogen voor bevestiging rok."@nl ;
+    dc:identifier "ZOV-06149" ;
+    dc:title "Jak met ovale hals en wijde mouw"@nl ;
+    dcterms:created "1830/1839"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06154> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    dc:description "Zijde roze/ wit gestreepte meisjes kassekien. Voering geel gekalanderd. Model: halflang met voorpanden uit 1 stuk. Achterpand met middennaad. Nauwsluitend lijfje, wijde rok met plooien op taillehoogte in zijnaden en vastgezette plooi middenachter. Nauwsluitende halflange mouw met vin, varkensmouwtjes. Diepe rechte hals. Plooi in taille voor puntvormig lijfje. Sluiting middenvoor met 15 haken en ogen, binnenband en lusjes."@nl ;
+    dc:identifier "ZOV-06154" ;
+    dc:title "Zijde roze/ wit gestreepte meisjes kassekien"@nl ;
+    dcterms:created "1785/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06158> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    dc:description "Wit blauwe katoenen rok met rankenpatroon. Wijd model met platte plooien, glad buikstuk en split rechts voor (haak/oog) aan met blauw doorwerkte tailleband gezet. Split enonderkant afgewerkt met blauw koordje. Brede zoom. In band smale bandjes als schouderbandjes. Stof wit fond, blauwe ranken."@nl ;
+    dc:identifier "ZOV-06158" ;
+    dc:title "Wit blauwe katoenen rok met rankenpatroon"@nl ;
+    dcterms:martial "katoen" ;
+    dcterms:medium "http://thesaurus.europeanafashion.eu/thesaurus/10354" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300014067> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "katoen" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06159> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    dc:description "Zijde lichtblauwe rok met witte en roze-oranje bloemmotieven. Wijd model, achter iets langer dan voor, met diepte platte plooien en smal glad buikstuk aan band gezet. Split links en rechts voor, die sluiten met haak en oog. Geel gekalanderde voering. Onderkant voering katoen wit met blauwe ranken. Stof patroon buitenkant rok: lichtblauw fond met opliggende bloemmotiefjes in diverse kleuren roze en groen."@nl ;
+    dc:identifier "ZOV-06159" ;
+    dc:title "Zijde lichtblauwe rok met witte en roze-oranje bloemmotieven"@nl ;
+    dcterms:created "1750/1799"@nl ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06165> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10086> ;
+    dc:description "Linnen keurslijf of korset met rode sits. Het linnen lijfje is geheel verstevigd met baleinen, waardoor een cilinervorm ontstaat. Hier en daar afgewerkt met lichtblauw band. Over het lijfje is rode sits met bloempatroon in diverse kleuren gestikt van onder tot iets over de helft. De panden lopen uit in lipjes die over de heupen vallen. Het keurslijf sluit middenachter met veter en nestelgaatjes. De schouderbanden van wit linnen zitten vast aan het voorpand, lopen over de schouder naar achter, door een lus, dan kruislings over de rug, onder de arm door naar voren, waar het nestelgaatje aan het uiteinde van elke band bevestigd wordt aan een schuin geplaatst haakje links en rechts op het voorpand."@nl ;
+    dc:identifier "ZOV-06165" ;
+    dc:title "Linnen keurslijf of korset met rode sits"@nl ;
+    dcterms:created "1700/1800"@nl ;
+    dcterms:martial "linnen" ;
+    dcterms:medium "http://thesaurus.europeanafashion.eu/thesaurus/10355" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300014069> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "linnen" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06166> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10048> ;
+    dc:description "Wit en paars katoenen spencer of jak, wit fond met vertikaal gegolfde lila strepen, strooimotiefjes in rood, groen en donkerpaars. Kort model met brede kraag, lange mouwen die over handen valen met band rond pols. Sluiting middenvoor met losse binnen en buiten voorpanden. Achterpand enigszins tuitvormig, midden onder de tailleband sterk geplooid. Diverse naden opgevuld met koordje (rolnaad). Kraag gedecoreerd met gefronst randje."@nl ;
+    dc:identifier "ZOV-06166" ;
+    dc:title "Wit en paars katoenen spencer of jak"@nl ;
+    dcterms:created "1790/1820"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06168> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    dc:description "Wijd model rok of wagd met florale motieven in blauw, rood, geel en zwart. Platte plooien aan wit/blauw doorwerkt bandje gezet. Buikstuk licht geplooid. Split rechtsvoor met zak, sluiting met haak en oog. Geheel gevoerd linnen. Split en onderkant afgewerkt met koordje. Stof patroon: wit fond met florale motieven in blauw, rood, geel en zwarte contourlijnen, sits. Handgeschilderd, waarschijnlijk India."@nl ;
+    dc:identifier "ZOV-06168" ;
+    dc:title "Wijd model rok of wagd  met florale motieven in blauw, rood, geel en zwart"@nl ;
+    dcterms:created "1700/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "handnaaiwerk",
+        "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06228> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Zijden/wollen kassekien. Model: nauwsluitend lijfje met zeer wijde lange schoot.Elleboog-lange mouwen met losse kransjes. Zeer lage hals. Sluiting haken/ogen 7 stuks. Stof: zilvergrijze ripszijde met ruitmotief. Voering: grijs gekalanderd."@nl ;
+    dc:identifier "ZOV-06228" ;
+    dc:title "Zijden/wollen kassekien"@nl ;
+    dcterms:created "1750/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06338> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10188> ;
+    dc:description "Blauw-roze changeantzijden kaper. De voering is gemaakt van witte moiré zijde. Wit satijnen schouderbanden, blauw satijnen borstbanden. Sluitingen ontbreken. In de rand met rode rijgsteek de naam: \"M.A. van Wessem\"."@nl ;
+    dc:identifier "ZOV-06338" ;
+    dc:title "Blauw-roze changeantzijden kaper"@nl ;
+    dcterms:created "1775/1824"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06379> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    dc:description "Rok of wagd van sits met een wit fond, bruine ranken met blauw en bruine baldmorieven en licht- en donkderroze bloemen, met beige. Langs de onderzijde een rood koordje en langs de split een geel koordje. De taille is met een linnen band afgewerkt. Split achter met een haak en een oog."@nl ;
+    dc:identifier "ZOV-06379" ;
+    dc:title "Rok of wagd van sits"@nl ;
+    dcterms:created "1750/1849"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06554> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10058> ;
+    dc:description "Witte katoenen kraag."@nl ;
+    dc:identifier "ZOV-06554" ;
+    dc:title "Katoenen kraag"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-06617> a edm:ProvidedCHO ;
+    dc:description "Doopdeken in Zaans Stikwerk. Rechthoekig doopkleed. Zowel de motieven als de ondergrond zijn uitgevoerd in stiksteken. De vlakken binnen de motieven zijn onbewerkt. Het patroon bestaat uit zeer gestyleerde bloem en bladmotieven. In het midden een groot granaatappelachtig motief. Over de hele deken grote krullende acanthusachtige bladeren, vergezeld van lipachtige bloemen. Rondom een rand van schulpmotief, van het midden gescheiden door een rechte lijn. De deken is ongevoerd, aan de achterkant zijn de lusjes van de vuldraden te zien. De zeer gestyleerde lipachtige bloemen doen denken aan 17e eeuws crewelwerk."@nl ;
+    dc:identifier "ZOV-06617" ;
+    dc:title "Doopdeken in Zaans Stikwerk"@nl ;
+    dc:type <http://vocab.getty.edu/aat/300238962> ;
+    dcterms:created "1775/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-08002> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10002> ;
+    dc:description "Rode damasten rok of wagd. Wijd model met platte plooien en licht gerimpeld buikstuk aan band gezet. Split rechtsvoor met zak. Sluit met haak en oog. Split en onderkant afgewerkt met rood koordje."@nl ;
+    dc:identifier "ZOV-08002" ;
+    dc:title "Rode damasten rok of wagd"@nl ;
+    dcterms:created "1750/1799"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-08475> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10619> ;
+    dc:description "Half hemd voor vrouw of meisje van wit linnen batist, bedoeld om de halsuitsnijding te bedekken, later chemisette genoemd. Buitengewoon fijn borduurwerk langs de halsrand en middenvoor langs het split in een motief van bloemen en vogeltjes. Daaraan nog afgezet met een smal Oud-Vlaams kloskantje. Het borduurwerk is niet op de stof gemaakt, maar er los aan bevestigd. Het half hemd is aan de binnenzijde rondom afgewerkt met smal linnenband. De haakjes aan de binnenzijde van het voorpand zijn mogelijk een latere toevoeging. Ondersluiting twee lussen aan de achterkant en twee haakjes aan de voorkant. De bijbehorende strikbandjes ontbreken."@nl ;
+    dc:identifier "ZOV-08475" ;
+    dc:title "Chemisette of half hemd voor vrouw of meisje"@nl ;
+    dcterms:created "1700/1749"@nl ;
+    dcterms:martial "linnen" ;
+    dcterms:medium "http://thesaurus.europeanafashion.eu/thesaurus/10355" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300014069> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:technique_URI <http://vocab.getty.edu/aat/300053642> ;
+    edmfp:techniques "geweven",
+        "linnen" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-08520> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10619> ;
+    dc:description "Een witte chemisette, kroplap of half hemd met vierkante halsuitsnijding, van linnen damast met vierkante patroontjes. Afgezet met een kloskant waarin vogeltjes en strooibloemen het motief vormen. Sluiting op de vier hoeken onderaan, met metalen oogjes aan de achterzijde en koordjes aan de voorkant. De bandjes met haakjes eraan ontbreken."@nl ;
+    dc:identifier "ZOV-08520" ;
+    dc:title "Chemisette of half hemd voor vrouw of meisje"@nl ;
+    dcterms:created "1750/1824"@nl ;
+    dcterms:martial "linnen" ;
+    dcterms:medium "http://thesaurus.europeanafashion.eu/thesaurus/10355" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300014069> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:technique_URI <http://vocab.getty.edu/aat/300053642> ;
+    edmfp:techniques "geweven",
+        "linnen" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-08561> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10293> ;
+    dc:description "Sitsen schort."@nl ;
+    dc:identifier "ZOV-08561" ;
+    dc:title "Sitsen schort"@nl ;
+    dcterms:martial "textiel" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300231565> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "textiel" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-08747> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10042> ;
+    dc:description "Een zwart met blauw zijden vrouwenjak of kassekien, met driekwart mouwen, en een lange, wijde schoot. Een diepe, ronde, halsuitsnijding voor en een rechte halslijn achter. Gemaakt van een zijde/wol mengweefsel en gevoerd met donkerblauwe wollen grein. Het jak sluit met behulp van acht haken en ogen. Op de elleboog versiering van gefronste bandjes van dezelfde stof. De schoot krijgt wijdte door een stolpplooi in elk van de (naar achter geplaatste) zijnaden. Aan de binnenkant twee blauw/witte lusjes om het jak op het keurslijf te spelden + twee bandjes om het onder de punt van het keurslijf vast te strikken."@nl ;
+    dc:identifier "ZOV-08747" ;
+    dc:title "Jak of kassekien"@nl ;
+    dcterms:created "1775/1824"@nl ;
+    dcterms:martial "zijde" ;
+    dcterms:medium "http://thesaurus.europeanafashion.eu/thesaurus/10352" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300243428> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:technique_URI <http://vocab.getty.edu/aat/300053642> ;
+    edmfp:techniques "geweven",
+        "zijde" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-11941> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10201> ;
+    dc:description "Meisjesmuts met Zaans stikwerk, bestaande uit drie delen. Linnen, aan de buitenzijde fijner geweven dan aan de binnenzijde. De motieven zijn in stiksteken de ondergrond in rijgsteken, beide met vuldraden, relatief onregelmatige steken. Op elk segment bladranken in een hartvorm en andere gestileerde rococo-achtige ronde vorm, deeks gevuld met een rastepatroon. Het middeldeel is afgezet met geschulpte takvormen. Keelband links van linnenband. De muts is rondom afgezet met een linnenbandje. Ongevoerd, aan de binnenkant zijn geen lusjes te zien van de vuldraden."@nl ;
+    dc:identifier "ZOV-11941" ;
+    dc:title "Meisjesmuts met Zaans stikwerk"@nl ;
+    dcterms:martial "linnen" ;
+    dcterms:medium "http://thesaurus.europeanafashion.eu/thesaurus/10355" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300014069> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "linnen" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-11953> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10201> ;
+    dc:description "Nachtmuts voor vrouwen met Zaans Stikwerk. Katoenen muts, bestaande uit drie delen met aangeknipte keelflappen. Aande achterkant een treksluiting, met twee linnen bandjes aan de onderkant en bij de keel een haak en oog. Het patroon loopt niet door, de muts is gemaakt uit een ander stuk Zaans stikwerk. De motieven zijn gemaakt door middel van stiksteken en de ondergrond is in rijgsteken, de vuldraden van de ondergrond zijn dunner dan die van de motieven. Het patroon bestaat uit fantasiebloemen, anjer-tulp-bladranken en varens. De muts is rondom afgezet met een vrij grof linnen bandje. Aan de binnenkant zijn geen lusjes van de vuldraden te zien."@nl ;
+    dc:identifier "ZOV-11953" ;
+    dc:title "Nachtmuts voor vrouwen met Zaans Stikwerk"@nl ;
+    dcterms:martial "katoen" ;
+    dcterms:medium "http://thesaurus.europeanafashion.eu/thesaurus/10354" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300014067> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "katoen" .
+
+<https://modemuze.nl/localID/europeana-fashion/ZOV-11955> a edm:ProvidedCHO ;
+    dc:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10245> ;
+    dc:description "Twee baby-mitaines of mouwtjes met Zaans stikwerk. Losse mouwtjes uitlopend in een punt die over de hand valt. Dit puntje is gevoerd met een soortgelijk stukje Zaans stikwerk. Aan de onderkant zijn de mitaines rondom afgezet met een licht ingerimpelde kloskant. In deze vorm geknipt (loopt rond aan de binnenkant van het armpje). Er was een opening voor een duim, maar deze is weer dichtgenaaid. De motieven zijn in stiksteek uitgevoerd en de ondergrond is onbewerkt. Beide mitaines zijn identiek van patroon, bestaande uit bloemen en bladeren. De nerf van de stelen loopt door in de blaadjes. De mitaines zijn ongevoerd en de lusjes van de vuldraden zijn zichtbaar. De zijkanten zijn naar binnen geslagen en vastgezoomd. Daarna is de zijnaad genaaid met behulp van de zogenaamde 'Ik en jij'-steek. De bovenkant is naar binnen geslagen en gezoomd. Het kant is deels aangekrield (overhandse steek), deel tussen de (tegen elkaar ingeslagen binnen- en buitenkant) stoflagen vastgezet."@nl ;
+    dc:identifier "ZOV-11955" ;
+    dc:title "Twee baby-mitaines of mouwtjes met Zaans stikwerk"@nl ;
+    dcterms:martial "linnen" ;
+    dcterms:medium "http://thesaurus.europeanafashion.eu/thesaurus/10355" ;
+    dcterms:medium_URI <http://vocab.getty.edu/aat/300014069> ;
+    edm:Agent "Zaans Museum"@nl ;
+    edm:type "IMAGE" ;
+    edmfp:techniques "linnen" .
+
