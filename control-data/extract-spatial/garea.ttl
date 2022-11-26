@@ -1,0 +1,8240 @@
+@prefix gn: <https://sws.geonames.org/> .
+
+gn:1011 gn:area "Amsterdam" .
+
+gn:1012 gn:area "Amsterdam" .
+
+gn:1013 gn:area "Amsterdam" .
+
+gn:1014 gn:area "Amsterdam" .
+
+gn:1015 gn:area "Amsterdam" .
+
+gn:1016 gn:area "Amsterdam" .
+
+gn:1017 gn:area "Amsterdam" .
+
+gn:1018 gn:area "Amsterdam" .
+
+gn:1019 gn:area "Amsterdam" .
+
+gn:1021 gn:area "Amsterdam" .
+
+gn:1022 gn:area "Amsterdam" .
+
+gn:1023 gn:area "Amsterdam" .
+
+gn:1024 gn:area "Amsterdam" .
+
+gn:1025 gn:area "Amsterdam" .
+
+gn:1026 gn:area "Amsterdam" .
+
+gn:1027 gn:area "Amsterdam" .
+
+gn:1028 gn:area "Amsterdam" .
+
+gn:1031 gn:area "Amsterdam" .
+
+gn:1032 gn:area "Amsterdam" .
+
+gn:1033 gn:area "Amsterdam" .
+
+gn:1034 gn:area "Amsterdam" .
+
+gn:1035 gn:area "Amsterdam" .
+
+gn:1036 gn:area "Amsterdam" .
+
+gn:1037 gn:area "Amsterdam" .
+
+gn:1041 gn:area "Amsterdam" .
+
+gn:1042 gn:area "Amsterdam" .
+
+gn:1043 gn:area "Amsterdam" .
+
+gn:1044 gn:area "Amsterdam" .
+
+gn:1045 gn:area "Amsterdam" .
+
+gn:1046 gn:area "Amsterdam" .
+
+gn:1047 gn:area "Amsterdam" .
+
+gn:1051 gn:area "Amsterdam" .
+
+gn:1052 gn:area "Amsterdam" .
+
+gn:1053 gn:area "Amsterdam" .
+
+gn:1054 gn:area "Amsterdam" .
+
+gn:1055 gn:area "Amsterdam" .
+
+gn:1056 gn:area "Amsterdam" .
+
+gn:1057 gn:area "Amsterdam" .
+
+gn:1058 gn:area "Amsterdam" .
+
+gn:1059 gn:area "Amsterdam" .
+
+gn:1060 gn:area "Amsterdam" .
+
+gn:1061 gn:area "Amsterdam" .
+
+gn:1062 gn:area "Amsterdam" .
+
+gn:1063 gn:area "Amsterdam" .
+
+gn:1064 gn:area "Amsterdam" .
+
+gn:1065 gn:area "Amsterdam" .
+
+gn:1066 gn:area "Amsterdam" .
+
+gn:1067 gn:area "Amsterdam" .
+
+gn:1068 gn:area "Amsterdam" .
+
+gn:1069 gn:area "Amsterdam" .
+
+gn:1071 gn:area "Amsterdam" .
+
+gn:1072 gn:area "Amsterdam" .
+
+gn:1073 gn:area "Amsterdam" .
+
+gn:1074 gn:area "Amsterdam" .
+
+gn:1075 gn:area "Amsterdam" .
+
+gn:1076 gn:area "Amsterdam" .
+
+gn:1077 gn:area "Amsterdam" .
+
+gn:1078 gn:area "Amsterdam" .
+
+gn:1079 gn:area "Amsterdam" .
+
+gn:1081 gn:area "Amsterdam" .
+
+gn:1082 gn:area "Amsterdam" .
+
+gn:1083 gn:area "Amsterdam" .
+
+gn:1086 gn:area "Amsterdam" .
+
+gn:1087 gn:area "Amsterdam" .
+
+gn:1091 gn:area "Amsterdam" .
+
+gn:1092 gn:area "Amsterdam" .
+
+gn:1093 gn:area "Amsterdam" .
+
+gn:1094 gn:area "Amsterdam" .
+
+gn:1095 gn:area "Amsterdam" .
+
+gn:1096 gn:area "Amsterdam" .
+
+gn:1097 gn:area "Amsterdam" .
+
+gn:1098 gn:area "Amsterdam" .
+
+gn:1101 gn:area "Amsterdam" .
+
+gn:1102 gn:area "Amsterdam" .
+
+gn:1103 gn:area "Amsterdam" .
+
+gn:1104 gn:area "Amsterdam" .
+
+gn:1105 gn:area "Amsterdam" .
+
+gn:1106 gn:area "Amsterdam" .
+
+gn:1107 gn:area "Amsterdam" .
+
+gn:1108 gn:area "Amsterdam" .
+
+gn:1109 gn:area "Amsterdam" .
+
+gn:1111 gn:area "Diemen" .
+
+gn:1112 gn:area "Diemen" .
+
+gn:1113 gn:area "Diemen" .
+
+gn:1114 gn:area "Amsterdam-Duivendrecht" .
+
+gn:1115 gn:area "Duivendrecht" .
+
+gn:1117 gn:area "Schiphol" .
+
+gn:1118 gn:area "Schiphol" .
+
+gn:1119 gn:area "Schiphol-Rijk" .
+
+gn:1121 gn:area "Landsmeer" .
+
+gn:1127 gn:area "Den Ilp" .
+
+gn:1131 gn:area "Volendam" .
+
+gn:1132 gn:area "Volendam" .
+
+gn:1135 gn:area "Edam" .
+
+gn:1141 gn:area "Monnickendam" .
+
+gn:1145 gn:area "Katwoude" .
+
+gn:1151 gn:area "Broek in Waterland" .
+
+gn:1153 gn:area "Zuiderwoude" .
+
+gn:1154 gn:area "Uitdam" .
+
+gn:1156 gn:area "Marken" .
+
+gn:1161 gn:area "Zwanenburg" .
+
+gn:1165 gn:area "Halfweg" .
+
+gn:1171 gn:area "Badhoevedorp" .
+
+gn:1175 gn:area "Lijnden" .
+
+gn:1181 gn:area "Amstelveen" .
+
+gn:1182 gn:area "Amstelveen" .
+
+gn:1183 gn:area "Amstelveen" .
+
+gn:1184 gn:area "Amstelveen" .
+
+gn:1185 gn:area "Amstelveen" .
+
+gn:1186 gn:area "Amstelveen" .
+
+gn:1187 gn:area "Amstelveen" .
+
+gn:1188 gn:area "Amstelveen" .
+
+gn:1189 gn:area "Amstelveen" .
+
+gn:1191 gn:area "Ouderkerk aan de Amstel" .
+
+gn:1211 gn:area "Hilversum" .
+
+gn:1212 gn:area "Hilversum" .
+
+gn:1213 gn:area "Hilversum" .
+
+gn:1214 gn:area "Hilversum" .
+
+gn:1215 gn:area "Hilversum" .
+
+gn:1216 gn:area "Hilversum" .
+
+gn:1217 gn:area "Hilversum" .
+
+gn:1218 gn:area "Hilversum" .
+
+gn:1221 gn:area "Hilversum" .
+
+gn:1222 gn:area "Hilversum" .
+
+gn:1223 gn:area "Hilversum" .
+
+gn:1231 gn:area "Loosdrecht" .
+
+gn:1241 gn:area "Kortenhoef" .
+
+gn:1243 gn:area "'s-Graveland" .
+
+gn:1244 gn:area "Ankeveen" .
+
+gn:1251 gn:area "Laren" .
+
+gn:1252 gn:area "Laren" .
+
+gn:1261 gn:area "Blaricum" .
+
+gn:1262 gn:area "Blaricum" .
+
+gn:1271 gn:area "Huizen" .
+
+gn:1272 gn:area "Huizen" .
+
+gn:1273 gn:area "Huizen" .
+
+gn:1274 gn:area "Huizen" .
+
+gn:1275 gn:area "Huizen" .
+
+gn:1276 gn:area "Huizen" .
+
+gn:1277 gn:area "Huizen" .
+
+gn:1309 gn:area "Almere" .
+
+gn:1311 gn:area "Almere" .
+
+gn:1312 gn:area "Almere" .
+
+gn:1313 gn:area "Almere" .
+
+gn:1314 gn:area "Almere" .
+
+gn:1315 gn:area "Almere" .
+
+gn:1316 gn:area "Almere" .
+
+gn:1317 gn:area "Almere" .
+
+gn:1318 gn:area "Almere" .
+
+gn:1319 gn:area "Almere" .
+
+gn:1321 gn:area "Almere" .
+
+gn:1322 gn:area "Almere" .
+
+gn:1323 gn:area "Almere" .
+
+gn:1324 gn:area "Almere" .
+
+gn:1325 gn:area "Almere" .
+
+gn:1326 gn:area "Almere" .
+
+gn:1327 gn:area "Almere" .
+
+gn:1328 gn:area "Almere" .
+
+gn:1329 gn:area "Almere" .
+
+gn:1331 gn:area "Almere" .
+
+gn:1332 gn:area "Almere" .
+
+gn:1333 gn:area "Almere" .
+
+gn:1334 gn:area "Almere" .
+
+gn:1335 gn:area "Almere" .
+
+gn:1336 gn:area "Almere" .
+
+gn:1338 gn:area "Almere" .
+
+gn:1339 gn:area "Almere" .
+
+gn:1341 gn:area "Almere" .
+
+gn:1343 gn:area "Almere" .
+
+gn:1349 gn:area "Almere" .
+
+gn:1351 gn:area "Almere" .
+
+gn:1352 gn:area "Almere" .
+
+gn:1353 gn:area "Almere" .
+
+gn:1354 gn:area "Almere" .
+
+gn:1355 gn:area "Almere" .
+
+gn:1356 gn:area "Almere" .
+
+gn:1357 gn:area "Almere" .
+
+gn:1358 gn:area "Almere" .
+
+gn:1359 gn:area "Almere" .
+
+gn:1361 gn:area "Almere" .
+
+gn:1362 gn:area "Almere" .
+
+gn:1363 gn:area "Almere" .
+
+gn:1364 gn:area "Almere" .
+
+gn:1381 gn:area "Weesp" .
+
+gn:1382 gn:area "Weesp" .
+
+gn:1383 gn:area "Weesp" .
+
+gn:1384 gn:area "Weesp" .
+
+gn:1391 gn:area "Abcoude" .
+
+gn:1393 gn:area "Nigtevecht" .
+
+gn:1394 gn:area "Nederhorst den Berg" .
+
+gn:1396 gn:area "Baambrugge" .
+
+gn:1398 gn:area "Muiden" .
+
+gn:1399 gn:area "Muiderberg" .
+
+gn:1401 gn:area "Bussum" .
+
+gn:1402 gn:area "Bussum" .
+
+gn:1403 gn:area "Bussum" .
+
+gn:1404 gn:area "Bussum" .
+
+gn:1405 gn:area "Bussum" .
+
+gn:1406 gn:area "Bussum" .
+
+gn:1411 gn:area "Naarden" .
+
+gn:1412 gn:area "Naarden" .
+
+gn:1421 gn:area "Uithoorn" .
+
+gn:1422 gn:area "Uithoorn" .
+
+gn:1423 gn:area "Uithoorn" .
+
+gn:1424 gn:area "De Kwakel" .
+
+gn:1426 gn:area "de Hoef" .
+
+gn:1427 gn:area "Amstelhoek" .
+
+gn:1428 gn:area "Vrouwenakker" .
+
+gn:1431 gn:area "Aalsmeer" .
+
+gn:1432 gn:area "Aalsmeer" .
+
+gn:1433 gn:area "Kudelstaart" .
+
+gn:1435 gn:area "Rijsenhout" .
+
+gn:1436 gn:area "Aalsmeerderbrug" .
+
+gn:1437 gn:area "Rozenburg" .
+
+gn:1438 gn:area "Oude Meer" .
+
+gn:1441 gn:area "Purmerend" .
+
+gn:1442 gn:area "Purmerend" .
+
+gn:1443 gn:area "Purmerend" .
+
+gn:1444 gn:area "Purmerend" .
+
+gn:1445 gn:area "Purmerend" .
+
+gn:1446 gn:area "Purmerend" .
+
+gn:1447 gn:area "Purmerend" .
+
+gn:1448 gn:area "Purmerend" .
+
+gn:1451 gn:area "Purmerland" .
+
+gn:1452 gn:area "Ilpendam" .
+
+gn:1454 gn:area "Watergang" .
+
+gn:1456 gn:area "Wijdewormer" .
+
+gn:1458 gn:area "Spijkerboor" .
+
+gn:1461 gn:area "Zuidoostbeemster" .
+
+gn:1462 gn:area "Middenbeemster" .
+
+gn:1463 gn:area "Noordbeemster" .
+
+gn:1464 gn:area "Westbeemster" .
+
+gn:1471 gn:area "Kwadijk" .
+
+gn:1472 gn:area "Middelie" .
+
+gn:1473 gn:area "Warder" .
+
+gn:1474 gn:area "Oosthuizen" .
+
+gn:1475 gn:area "Beets" .
+
+gn:1476 gn:area "Schardam" .
+
+gn:1477 gn:area "Hobrede" .
+
+gn:1481 gn:area "Purmer" .
+
+gn:1482 gn:area "Purmer" .
+
+gn:1483 gn:area "De Rijp" .
+
+gn:1484 gn:area "Graft" .
+
+gn:1485 gn:area "Noordeinde" .
+
+gn:1486 gn:area "West-Graftdijk" .
+
+gn:1487 gn:area "Oost-Graftdijk" .
+
+gn:1488 gn:area "Starnmeer" .
+
+gn:1489 gn:area "de Woude" .
+
+gn:1501 gn:area "Zaandam" .
+
+gn:1502 gn:area "Zaandam" .
+
+gn:1503 gn:area "Zaandam" .
+
+gn:1504 gn:area "Zaandam" .
+
+gn:1505 gn:area "Zaandam" .
+
+gn:1506 gn:area "Zaandam" .
+
+gn:1507 gn:area "Zaandam" .
+
+gn:1508 gn:area "Zaandam" .
+
+gn:1509 gn:area "Zaandam" .
+
+gn:1511 gn:area "Oostzaan" .
+
+gn:1521 gn:area "Westknollendam",
+        "Wormerveer" .
+
+gn:1525 gn:area "Westknollendam",
+        "Wormerveer" .
+
+gn:1531 gn:area "Wormer" .
+
+gn:1534 gn:area "Oostknollendam" .
+
+gn:1536 gn:area "Markenbinnen" .
+
+gn:1541 gn:area "Koog aan de Zaan",
+        "Zaandam",
+        "Zaandijk" .
+
+gn:1544 gn:area "Zaandijk" .
+
+gn:1546 gn:area "Jisp" .
+
+gn:1551 gn:area "Westzaan" .
+
+gn:1561 gn:area "Krommenie" .
+
+gn:1562 gn:area "Krommenie" .
+
+gn:1566 gn:area "Assendelft",
+        "Krommenie" .
+
+gn:1567 gn:area "Assendelft" .
+
+gn:1601 gn:area "Enkhuizen" .
+
+gn:1602 gn:area "Enkhuizen" .
+
+gn:1606 gn:area "Venhuizen" .
+
+gn:1607 gn:area "Hem" .
+
+gn:1608 gn:area "Wijdenes" .
+
+gn:1609 gn:area "Oosterleek" .
+
+gn:1611 gn:area "Bovenkarspel" .
+
+gn:1613 gn:area "Grootebroek" .
+
+gn:1614 gn:area "Lutjebroek" .
+
+gn:1616 gn:area "Hoogkarspel" .
+
+gn:1617 gn:area "Westwoud" .
+
+gn:1619 gn:area "Andijk" .
+
+gn:1621 gn:area "Hoorn" .
+
+gn:1622 gn:area "Hoorn" .
+
+gn:1623 gn:area "Hoorn" .
+
+gn:1624 gn:area "Hoorn" .
+
+gn:1625 gn:area "Hoorn" .
+
+gn:1627 gn:area "Hoorn" .
+
+gn:1628 gn:area "Hoorn" .
+
+gn:1631 gn:area "Oudendijk" .
+
+gn:1633 gn:area "Avenhorn" .
+
+gn:1634 gn:area "Scharwoude" .
+
+gn:1636 gn:area "Schermerhorn" .
+
+gn:1641 gn:area "Spierdijk" .
+
+gn:1642 gn:area "Spierdijk" .
+
+gn:1643 gn:area "Spierdijk" .
+
+gn:1645 gn:area "Ursem" .
+
+gn:1646 gn:area "Ursem" .
+
+gn:1647 gn:area "Berkhout" .
+
+gn:1648 gn:area "De Goorn" .
+
+gn:1652 gn:area "Zuidermeer" .
+
+gn:1654 gn:area "Benningbroek" .
+
+gn:1655 gn:area "Sijbekarspel" .
+
+gn:1657 gn:area "Abbekerk" .
+
+gn:1658 gn:area "Lambertschaag" .
+
+gn:1661 gn:area "De Weere" .
+
+gn:1662 gn:area "De Weere" .
+
+gn:1663 gn:area "De Weere" .
+
+gn:1671 gn:area "Medemblik" .
+
+gn:1674 gn:area "Opperdoes" .
+
+gn:1676 gn:area "Twisk" .
+
+gn:1678 gn:area "Oostwoud" .
+
+gn:1679 gn:area "Midwoud" .
+
+gn:1681 gn:area "Zwaagdijk-Oost" .
+
+gn:1682 gn:area "Zwaagdijk-Oost" .
+
+gn:1683 gn:area "Zwaagdijk-Oost" .
+
+gn:1684 gn:area "Zwaagdijk-Oost" .
+
+gn:1685 gn:area "Zwaagdijk-West" .
+
+gn:1686 gn:area "Zwaagdijk-West" .
+
+gn:1687 gn:area "Wognum" .
+
+gn:1688 gn:area "Nibbixwoud" .
+
+gn:1689 gn:area "Zwaag" .
+
+gn:1691 gn:area "Hauwert" .
+
+gn:1692 gn:area "Hauwert" .
+
+gn:1693 gn:area "Wervershoof" .
+
+gn:1695 gn:area "Blokker" .
+
+gn:1696 gn:area "Oosterblokker" .
+
+gn:1697 gn:area "Schellinkhout" .
+
+gn:1701 gn:area "Heerhugowaard" .
+
+gn:1702 gn:area "Heerhugowaard" .
+
+gn:1703 gn:area "Heerhugowaard" .
+
+gn:1704 gn:area "Heerhugowaard" .
+
+gn:1705 gn:area "Heerhugowaard" .
+
+gn:1706 gn:area "Heerhugowaard" .
+
+gn:1711 gn:area "Hensbroek" .
+
+gn:1713 gn:area "Obdam" .
+
+gn:1715 gn:area "Spanbroek" .
+
+gn:1716 gn:area "Opmeer" .
+
+gn:1718 gn:area "Hoogwoud" .
+
+gn:1719 gn:area "Aartswoud" .
+
+gn:1721 gn:area "Broek op Langedijk" .
+
+gn:1722 gn:area "Zuid-Scharwoude" .
+
+gn:1723 gn:area "Noord-Scharwoude" .
+
+gn:1724 gn:area "Oudkarspel" .
+
+gn:1731 gn:area "Winkel" .
+
+gn:1732 gn:area "Lutjewinkel" .
+
+gn:1733 gn:area "Nieuwe Niedorp" .
+
+gn:1734 gn:area "Oude Niedorp" .
+
+gn:1735 gn:area "'t Veld" .
+
+gn:1736 gn:area "Zijdewind" .
+
+gn:1738 gn:area "Waarland" .
+
+gn:1741 gn:area "Schagen" .
+
+gn:1742 gn:area "Schagen" .
+
+gn:1744 gn:area "Sint Maarten" .
+
+gn:1746 gn:area "Dirkshorn" .
+
+gn:1747 gn:area "Tuitjenhorn" .
+
+gn:1749 gn:area "Warmenhuizen" .
+
+gn:1751 gn:area "Schagerbrug" .
+
+gn:1752 gn:area "Sint Maartensbrug" .
+
+gn:1753 gn:area "Sint Maartensvlotbrug" .
+
+gn:1754 gn:area "Burgerbrug" .
+
+gn:1755 gn:area "Petten" .
+
+gn:1756 gn:area "'t Zand" .
+
+gn:1757 gn:area "Oudesluis" .
+
+gn:1759 gn:area "Callantsoog" .
+
+gn:1761 gn:area "Anna Paulowna" .
+
+gn:1764 gn:area "Breezand" .
+
+gn:1766 gn:area "Wieringerwaard" .
+
+gn:1767 gn:area "Kolhorn" .
+
+gn:1768 gn:area "Barsingerhorn" .
+
+gn:1769 gn:area "Haringhuizen" .
+
+gn:1771 gn:area "Wieringerwerf" .
+
+gn:1773 gn:area "Kreileroord" .
+
+gn:1774 gn:area "Slootdorp" .
+
+gn:1775 gn:area "Middenmeer" .
+
+gn:1777 gn:area "Hippolytushoef" .
+
+gn:1778 gn:area "Westerland" .
+
+gn:1779 gn:area "Den Oever",
+        "Hippolytushoef" .
+
+gn:1781 gn:area "Den Helder" .
+
+gn:1782 gn:area "Den Helder" .
+
+gn:1783 gn:area "Den Helder" .
+
+gn:1784 gn:area "Den Helder" .
+
+gn:1785 gn:area "Den Helder" .
+
+gn:1786 gn:area "Den Helder" .
+
+gn:1787 gn:area "Julianadorp" .
+
+gn:1788 gn:area "Julianadorp" .
+
+gn:1789 gn:area "Huisduinen" .
+
+gn:1791 gn:area "Den Burg" .
+
+gn:1792 gn:area "Oudeschild" .
+
+gn:1793 gn:area "De Waal" .
+
+gn:1794 gn:area "Oosterend" .
+
+gn:1795 gn:area "De Cocksdorp" .
+
+gn:1796 gn:area "De Koog" .
+
+gn:1797 gn:area "Den Hoorn" .
+
+gn:1811 gn:area "Alkmaar" .
+
+gn:1812 gn:area "Alkmaar" .
+
+gn:1813 gn:area "Alkmaar" .
+
+gn:1814 gn:area "Alkmaar" .
+
+gn:1815 gn:area "Alkmaar" .
+
+gn:1816 gn:area "Alkmaar" .
+
+gn:1817 gn:area "Alkmaar" .
+
+gn:1821 gn:area "Alkmaar" .
+
+gn:1822 gn:area "Alkmaar" .
+
+gn:1823 gn:area "Alkmaar" .
+
+gn:1824 gn:area "Alkmaar" .
+
+gn:1825 gn:area "Alkmaar" .
+
+gn:1826 gn:area "Alkmaar" .
+
+gn:1827 gn:area "Alkmaar" .
+
+gn:1829 gn:area "Oudorp" .
+
+gn:1831 gn:area "Koedijk" .
+
+gn:1832 gn:area "Koedijk" .
+
+gn:1834 gn:area "Broek op Langedijk",
+        "Sint Pancras" .
+
+gn:1841 gn:area "Stompetoren" .
+
+gn:1842 gn:area "Oterleek" .
+
+gn:1843 gn:area "Grootschermer" .
+
+gn:1844 gn:area "Driehuizen" .
+
+gn:1846 gn:area "Zuidschermer" .
+
+gn:1847 gn:area "Zuidschermer" .
+
+gn:1851 gn:area "Heiloo" .
+
+gn:1852 gn:area "Heiloo" .
+
+gn:1853 gn:area "Heiloo" .
+
+gn:1861 gn:area "Bergen (NH)" .
+
+gn:1862 gn:area "Bergen (NH)" .
+
+gn:1865 gn:area "Bergen aan Zee" .
+
+gn:1871 gn:area "Schoorl" .
+
+gn:1873 gn:area "Groet" .
+
+gn:1901 gn:area "Castricum" .
+
+gn:1902 gn:area "Castricum" .
+
+gn:1906 gn:area "Limmen" .
+
+gn:1911 gn:area "Uitgeest" .
+
+gn:1921 gn:area "Akersloot" .
+
+gn:1931 gn:area "Egmond aan Zee",
+        "Egmond aan den Hoef" .
+
+gn:1934 gn:area "Egmond aan den Hoef",
+        "Egmond-Binnen" .
+
+gn:1935 gn:area "Egmond-Binnen" .
+
+gn:1941 gn:area "Beverwijk" .
+
+gn:1942 gn:area "Beverwijk" .
+
+gn:1943 gn:area "Beverwijk" .
+
+gn:1944 gn:area "Beverwijk" .
+
+gn:1945 gn:area "Beverwijk" .
+
+gn:1946 gn:area "Beverwijk" .
+
+gn:1947 gn:area "Beverwijk" .
+
+gn:1948 gn:area "Beverwijk" .
+
+gn:1949 gn:area "Wijk aan Zee" .
+
+gn:1951 gn:area "Velsen-Noord" .
+
+gn:1961 gn:area "Heemskerk" .
+
+gn:1962 gn:area "Heemskerk" .
+
+gn:1963 gn:area "Heemskerk" .
+
+gn:1964 gn:area "Heemskerk" .
+
+gn:1965 gn:area "Heemskerk" .
+
+gn:1966 gn:area "Heemskerk" .
+
+gn:1967 gn:area "Heemskerk" .
+
+gn:1968 gn:area "Heemskerk" .
+
+gn:1969 gn:area "Heemskerk" .
+
+gn:1971 gn:area "IJmuiden" .
+
+gn:1972 gn:area "IJmuiden" .
+
+gn:1973 gn:area "IJmuiden" .
+
+gn:1974 gn:area "IJmuiden" .
+
+gn:1975 gn:area "IJmuiden" .
+
+gn:1976 gn:area "IJmuiden" .
+
+gn:1981 gn:area "Velsen-Zuid" .
+
+gn:1985 gn:area "Driehuis NH" .
+
+gn:1991 gn:area "Velserbroek" .
+
+gn:1992 gn:area "Velserbroek" .
+
+gn:2011 gn:area "Haarlem" .
+
+gn:2012 gn:area "Haarlem" .
+
+gn:2013 gn:area "Haarlem" .
+
+gn:2014 gn:area "Haarlem" .
+
+gn:2015 gn:area "Haarlem" .
+
+gn:2019 gn:area "Haarlem" .
+
+gn:2021 gn:area "Haarlem" .
+
+gn:2022 gn:area "Haarlem" .
+
+gn:2023 gn:area "Haarlem" .
+
+gn:2024 gn:area "Haarlem" .
+
+gn:2025 gn:area "Haarlem" .
+
+gn:2026 gn:area "Haarlem" .
+
+gn:2031 gn:area "Haarlem" .
+
+gn:2032 gn:area "Haarlem" .
+
+gn:2033 gn:area "Haarlem" .
+
+gn:2034 gn:area "Haarlem" .
+
+gn:2035 gn:area "Haarlem" .
+
+gn:2036 gn:area "Haarlem" .
+
+gn:2037 gn:area "Haarlem" .
+
+gn:2041 gn:area "Zandvoort" .
+
+gn:2042 gn:area "Zandvoort" .
+
+gn:2051 gn:area "Overveen" .
+
+gn:2061 gn:area "Bloemendaal" .
+
+gn:2063 gn:area "Spaarndam gem. Haarlem" .
+
+gn:2064 gn:area "Spaarndam" .
+
+gn:2065 gn:area "Haarlemmerliede",
+        "Vijfhuizen" .
+
+gn:2071 gn:area "Santpoort-Noord" .
+
+gn:2082 gn:area "Santpoort-Zuid" .
+
+gn:2101 gn:area "Heemstede" .
+
+gn:2102 gn:area "Heemstede" .
+
+gn:2103 gn:area "Heemstede" .
+
+gn:2104 gn:area "Heemstede" .
+
+gn:2105 gn:area "Heemstede" .
+
+gn:2106 gn:area "Heemstede" .
+
+gn:2111 gn:area "Aerdenhout" .
+
+gn:2114 gn:area "Heemstede",
+        "Vogelenzang" .
+
+gn:2116 gn:area "Bentveld" .
+
+gn:2121 gn:area "Bennebroek" .
+
+gn:2131 gn:area "Hoofddorp" .
+
+gn:2132 gn:area "Hoofddorp" .
+
+gn:2133 gn:area "Hoofddorp" .
+
+gn:2134 gn:area "Hoofddorp" .
+
+gn:2135 gn:area "Hoofddorp" .
+
+gn:2136 gn:area "Zwaanshoek" .
+
+gn:2141 gn:area "Vijfhuizen" .
+
+gn:2142 gn:area "Cruquius" .
+
+gn:2143 gn:area "Boesingheliede" .
+
+gn:2144 gn:area "Beinsdorp" .
+
+gn:2151 gn:area "Nieuw-Vennep" .
+
+gn:2152 gn:area "Nieuw-Vennep" .
+
+gn:2153 gn:area "Nieuw-Vennep" .
+
+gn:2154 gn:area "Burgerveen" .
+
+gn:2155 gn:area "Leimuiderbrug" .
+
+gn:2156 gn:area "Weteringbrug" .
+
+gn:2157 gn:area "Abbenes" .
+
+gn:2158 gn:area "Buitenkaag" .
+
+gn:2159 gn:area "Kaag" .
+
+gn:2161 gn:area "Lisse" .
+
+gn:2162 gn:area "Lisse" .
+
+gn:2163 gn:area "Lisse" .
+
+gn:2165 gn:area "Lisserbroek" .
+
+gn:2171 gn:area "Sassenheim",
+        "Warmond" .
+
+gn:2172 gn:area "Sassenheim" .
+
+gn:2181 gn:area "Hillegom" .
+
+gn:2182 gn:area "Hillegom" .
+
+gn:2191 gn:area "De Zilk" .
+
+gn:2201 gn:area "Noordwijk" .
+
+gn:2202 gn:area "Noordwijk" .
+
+gn:2203 gn:area "Noordwijk" .
+
+gn:2204 gn:area "Noordwijk" .
+
+gn:2211 gn:area "De Zilk",
+        "Noordwijkerhout" .
+
+gn:2212 gn:area "Noordwijkerhout" .
+
+gn:2215 gn:area "Voorhout" .
+
+gn:2216 gn:area "Voorhout" .
+
+gn:2221 gn:area "Katwijk" .
+
+gn:2222 gn:area "Katwijk" .
+
+gn:2223 gn:area "Katwijk" .
+
+gn:2224 gn:area "Katwijk" .
+
+gn:2225 gn:area "Katwijk" .
+
+gn:2231 gn:area "Rijnsburg" .
+
+gn:2232 gn:area "Rijnsburg" .
+
+gn:2235 gn:area "Valkenburg" .
+
+gn:2241 gn:area "Wassenaar" .
+
+gn:2242 gn:area "Wassenaar" .
+
+gn:2243 gn:area "Wassenaar" .
+
+gn:2244 gn:area "Wassenaar" .
+
+gn:2245 gn:area "Wassenaar" .
+
+gn:2251 gn:area "Voorschoten" .
+
+gn:2252 gn:area "Voorschoten" .
+
+gn:2253 gn:area "Voorschoten" .
+
+gn:2254 gn:area "Voorschoten" .
+
+gn:2261 gn:area "Leidschendam" .
+
+gn:2262 gn:area "Leidschendam" .
+
+gn:2263 gn:area "Leidschendam" .
+
+gn:2264 gn:area "Leidschendam" .
+
+gn:2265 gn:area "Leidschendam" .
+
+gn:2266 gn:area "Leidschendam" .
+
+gn:2267 gn:area "Leidschendam" .
+
+gn:2271 gn:area "Voorburg" .
+
+gn:2272 gn:area "Voorburg" .
+
+gn:2273 gn:area "Voorburg" .
+
+gn:2274 gn:area "Voorburg" .
+
+gn:2275 gn:area "Voorburg" .
+
+gn:2281 gn:area "Rijswijk" .
+
+gn:2282 gn:area "Rijswijk" .
+
+gn:2283 gn:area "Rijswijk" .
+
+gn:2284 gn:area "Rijswijk" .
+
+gn:2285 gn:area "Rijswijk" .
+
+gn:2286 gn:area "Rijswijk" .
+
+gn:2287 gn:area "Rijswijk" .
+
+gn:2288 gn:area "Rijswijk" .
+
+gn:2289 gn:area "Rijswijk" .
+
+gn:2291 gn:area "Wateringen" .
+
+gn:2292 gn:area "Wateringen" .
+
+gn:2295 gn:area "Kwintsheul" .
+
+gn:2311 gn:area "Leiden" .
+
+gn:2312 gn:area "Leiden" .
+
+gn:2313 gn:area "Leiden" .
+
+gn:2314 gn:area "Leiden" .
+
+gn:2315 gn:area "Leiden" .
+
+gn:2316 gn:area "Leiden" .
+
+gn:2317 gn:area "Leiden" .
+
+gn:2318 gn:area "Leiden" .
+
+gn:2321 gn:area "Leiden" .
+
+gn:2322 gn:area "Leiden" .
+
+gn:2323 gn:area "Leiden" .
+
+gn:2324 gn:area "Leiden" .
+
+gn:2331 gn:area "Leiden" .
+
+gn:2332 gn:area "Leiden" .
+
+gn:2333 gn:area "Leiden" .
+
+gn:2334 gn:area "Leiden" .
+
+gn:2341 gn:area "Oegstgeest" .
+
+gn:2342 gn:area "Oegstgeest" .
+
+gn:2343 gn:area "Oegstgeest" .
+
+gn:2351 gn:area "Leiderdorp" .
+
+gn:2352 gn:area "Leiderdorp" .
+
+gn:2353 gn:area "Leiderdorp" .
+
+gn:2355 gn:area "Hoogmade" .
+
+gn:2361 gn:area "Sassenheim",
+        "Warmond" .
+
+gn:2362 gn:area "Warmond" .
+
+gn:2371 gn:area "Roelofarendsveen" .
+
+gn:2374 gn:area "Oud Ade" .
+
+gn:2375 gn:area "Rijpwetering" .
+
+gn:2376 gn:area "Nieuwe Wetering" .
+
+gn:2377 gn:area "Oude Wetering" .
+
+gn:2381 gn:area "Zoeterwoude" .
+
+gn:2382 gn:area "Zoeterwoude" .
+
+gn:2391 gn:area "Hazerswoude-Dorp" .
+
+gn:2394 gn:area "Hazerswoude-Rijndijk" .
+
+gn:2396 gn:area "Koudekerk aan den Rijn" .
+
+gn:2401 gn:area "Alphen aan den Rijn" .
+
+gn:2402 gn:area "Alphen aan den Rijn" .
+
+gn:2403 gn:area "Alphen aan den Rijn" .
+
+gn:2404 gn:area "Alphen aan den Rijn",
+        "Hazerswoude-Dorp" .
+
+gn:2405 gn:area "Alphen aan den Rijn" .
+
+gn:2406 gn:area "Alphen aan den Rijn" .
+
+gn:2407 gn:area "Alphen aan den Rijn" .
+
+gn:2408 gn:area "Alphen aan den Rijn" .
+
+gn:2409 gn:area "Alphen aan den Rijn",
+        "Hazerswoude-Dorp" .
+
+gn:2411 gn:area "Bodegraven" .
+
+gn:2412 gn:area "Bodegraven" .
+
+gn:2415 gn:area "Nieuwerbrug aan den Rijn" .
+
+gn:2421 gn:area "Nieuwkoop" .
+
+gn:2431 gn:area "Noorden" .
+
+gn:2432 gn:area "Noorden" .
+
+gn:2435 gn:area "Zevenhoven" .
+
+gn:2441 gn:area "Nieuwveen" .
+
+gn:2445 gn:area "Aarlanderveen" .
+
+gn:2451 gn:area "De Kwakel",
+        "Leimuiden" .
+
+gn:2461 gn:area "Ter Aar" .
+
+gn:2465 gn:area "Rijnsaterwoude" .
+
+gn:2471 gn:area "Zwammerdam" .
+
+gn:2481 gn:area "Woubrugge" .
+
+gn:2491 gn:area "'s-Gravenhage" .
+
+gn:2492 gn:area "'s-Gravenhage" .
+
+gn:2493 gn:area "'s-Gravenhage" .
+
+gn:2495 gn:area "'s-Gravenhage" .
+
+gn:2496 gn:area "'s-Gravenhage" .
+
+gn:2497 gn:area "'s-Gravenhage" .
+
+gn:2498 gn:area "'s-Gravenhage" .
+
+gn:2511 gn:area "'s-Gravenhage" .
+
+gn:2512 gn:area "'s-Gravenhage" .
+
+gn:2513 gn:area "'s-Gravenhage" .
+
+gn:2514 gn:area "'s-Gravenhage" .
+
+gn:2515 gn:area "'s-Gravenhage" .
+
+gn:2516 gn:area "'s-Gravenhage" .
+
+gn:2517 gn:area "'s-Gravenhage" .
+
+gn:2518 gn:area "'s-Gravenhage" .
+
+gn:2521 gn:area "'s-Gravenhage" .
+
+gn:2522 gn:area "'s-Gravenhage" .
+
+gn:2523 gn:area "'s-Gravenhage" .
+
+gn:2524 gn:area "'s-Gravenhage" .
+
+gn:2525 gn:area "'s-Gravenhage" .
+
+gn:2526 gn:area "'s-Gravenhage" .
+
+gn:2531 gn:area "'s-Gravenhage" .
+
+gn:2532 gn:area "'s-Gravenhage" .
+
+gn:2533 gn:area "'s-Gravenhage" .
+
+gn:2541 gn:area "'s-Gravenhage" .
+
+gn:2542 gn:area "'s-Gravenhage" .
+
+gn:2543 gn:area "'s-Gravenhage" .
+
+gn:2544 gn:area "'s-Gravenhage" .
+
+gn:2545 gn:area "'s-Gravenhage" .
+
+gn:2546 gn:area "'s-Gravenhage" .
+
+gn:2547 gn:area "'s-Gravenhage" .
+
+gn:2548 gn:area "'s-Gravenhage" .
+
+gn:2551 gn:area "'s-Gravenhage" .
+
+gn:2552 gn:area "'s-Gravenhage" .
+
+gn:2553 gn:area "'s-Gravenhage" .
+
+gn:2554 gn:area "'s-Gravenhage" .
+
+gn:2555 gn:area "'s-Gravenhage" .
+
+gn:2561 gn:area "'s-Gravenhage" .
+
+gn:2562 gn:area "'s-Gravenhage" .
+
+gn:2563 gn:area "'s-Gravenhage" .
+
+gn:2564 gn:area "'s-Gravenhage" .
+
+gn:2565 gn:area "'s-Gravenhage" .
+
+gn:2566 gn:area "'s-Gravenhage" .
+
+gn:2571 gn:area "'s-Gravenhage" .
+
+gn:2572 gn:area "'s-Gravenhage" .
+
+gn:2573 gn:area "'s-Gravenhage" .
+
+gn:2574 gn:area "'s-Gravenhage" .
+
+gn:2581 gn:area "'s-Gravenhage" .
+
+gn:2582 gn:area "'s-Gravenhage" .
+
+gn:2583 gn:area "'s-Gravenhage" .
+
+gn:2584 gn:area "'s-Gravenhage" .
+
+gn:2585 gn:area "'s-Gravenhage" .
+
+gn:2586 gn:area "'s-Gravenhage" .
+
+gn:2587 gn:area "'s-Gravenhage" .
+
+gn:2591 gn:area "'s-Gravenhage" .
+
+gn:2592 gn:area "'s-Gravenhage" .
+
+gn:2593 gn:area "'s-Gravenhage" .
+
+gn:2594 gn:area "'s-Gravenhage" .
+
+gn:2595 gn:area "'s-Gravenhage" .
+
+gn:2596 gn:area "'s-Gravenhage" .
+
+gn:2597 gn:area "'s-Gravenhage" .
+
+gn:2611 gn:area "Delft" .
+
+gn:2612 gn:area "Delft" .
+
+gn:2613 gn:area "Delft" .
+
+gn:2614 gn:area "Delft" .
+
+gn:2616 gn:area "Delft" .
+
+gn:2622 gn:area "Delft" .
+
+gn:2623 gn:area "Delft" .
+
+gn:2624 gn:area "Delft" .
+
+gn:2625 gn:area "Delft" .
+
+gn:2626 gn:area "Delft" .
+
+gn:2627 gn:area "Delft" .
+
+gn:2628 gn:area "Delft" .
+
+gn:2629 gn:area "Delft" .
+
+gn:2631 gn:area "Nootdorp" .
+
+gn:2632 gn:area "Nootdorp" .
+
+gn:2635 gn:area "Den Hoorn" .
+
+gn:2636 gn:area "Schipluiden" .
+
+gn:2641 gn:area "Pijnacker" .
+
+gn:2642 gn:area "Pijnacker" .
+
+gn:2643 gn:area "Pijnacker" .
+
+gn:2645 gn:area "Delfgauw" .
+
+gn:2651 gn:area "Berkel en Rodenrijs" .
+
+gn:2652 gn:area "Berkel en Rodenrijs" .
+
+gn:2661 gn:area "Bergschenhoek" .
+
+gn:2662 gn:area "Bergschenhoek" .
+
+gn:2665 gn:area "Bleiswijk" .
+
+gn:2671 gn:area "Naaldwijk" .
+
+gn:2672 gn:area "Naaldwijk" .
+
+gn:2673 gn:area "Naaldwijk" .
+
+gn:2675 gn:area "Honselersdijk" .
+
+gn:2676 gn:area "Maasdijk" .
+
+gn:2678 gn:area "De Lier" .
+
+gn:2681 gn:area "Monster" .
+
+gn:2684 gn:area "Ter Heijde" .
+
+gn:2685 gn:area "Poeldijk" .
+
+gn:2691 gn:area "'s-Gravenzande" .
+
+gn:2692 gn:area "'s-Gravenzande" .
+
+gn:2693 gn:area "'s-Gravenzande" .
+
+gn:2694 gn:area "'s-Gravenzande" .
+
+gn:2711 gn:area "Zoetermeer" .
+
+gn:2712 gn:area "Zoetermeer" .
+
+gn:2713 gn:area "Zoetermeer" .
+
+gn:2715 gn:area "Zoetermeer" .
+
+gn:2716 gn:area "Zoetermeer" .
+
+gn:2717 gn:area "Zoetermeer" .
+
+gn:2718 gn:area "Zoetermeer" .
+
+gn:2719 gn:area "Zoetermeer" .
+
+gn:2721 gn:area "Zoetermeer" .
+
+gn:2722 gn:area "Zoetermeer" .
+
+gn:2723 gn:area "Zoetermeer" .
+
+gn:2724 gn:area "Zoetermeer" .
+
+gn:2725 gn:area "Zoetermeer" .
+
+gn:2726 gn:area "Zoetermeer" .
+
+gn:2727 gn:area "Zoetermeer" .
+
+gn:2728 gn:area "Zoetermeer" .
+
+gn:2729 gn:area "Zoetermeer" .
+
+gn:2731 gn:area "Benthuizen" .
+
+gn:2735 gn:area "Gelderswoude" .
+
+gn:2741 gn:area "Waddinxveen" .
+
+gn:2742 gn:area "Waddinxveen" .
+
+gn:2743 gn:area "Waddinxveen" .
+
+gn:2751 gn:area "Moerkapelle" .
+
+gn:2752 gn:area "Moerkapelle" .
+
+gn:2761 gn:area "Zevenhuizen" .
+
+gn:2771 gn:area "Boskoop" .
+
+gn:2801 gn:area "Gouda" .
+
+gn:2802 gn:area "Gouda" .
+
+gn:2803 gn:area "Gouda" .
+
+gn:2804 gn:area "Gouda" .
+
+gn:2805 gn:area "Gouda" .
+
+gn:2806 gn:area "Gouda" .
+
+gn:2807 gn:area "Gouda" .
+
+gn:2808 gn:area "Gouda" .
+
+gn:2809 gn:area "Gouda" .
+
+gn:2811 gn:area "Reeuwijk" .
+
+gn:2821 gn:area "Stolwijk" .
+
+gn:2825 gn:area "Berkenwoude",
+        "Stolwijk" .
+
+gn:2831 gn:area "Gouderak" .
+
+gn:2841 gn:area "Moordrecht" .
+
+gn:2851 gn:area "Haastrecht" .
+
+gn:2855 gn:area "Vlist" .
+
+gn:2861 gn:area "Bergambacht" .
+
+gn:2865 gn:area "Ammerstol" .
+
+gn:2871 gn:area "Schoonhoven" .
+
+gn:2872 gn:area "Schoonhoven" .
+
+gn:2901 gn:area "Capelle aan den IJssel" .
+
+gn:2902 gn:area "Capelle aan den IJssel" .
+
+gn:2903 gn:area "Capelle aan den IJssel" .
+
+gn:2904 gn:area "Capelle aan den IJssel" .
+
+gn:2905 gn:area "Capelle aan den IJssel" .
+
+gn:2906 gn:area "Capelle aan den IJssel" .
+
+gn:2907 gn:area "Capelle aan den IJssel" .
+
+gn:2908 gn:area "Capelle aan den IJssel" .
+
+gn:2909 gn:area "Capelle aan den IJssel" .
+
+gn:2911 gn:area "Nieuwerkerk aan den IJssel" .
+
+gn:2912 gn:area "Nieuwerkerk aan den IJssel" .
+
+gn:2913 gn:area "Nieuwerkerk aan den IJssel" .
+
+gn:2914 gn:area "Nieuwerkerk aan den IJssel" .
+
+gn:2921 gn:area "Krimpen aan den IJssel" .
+
+gn:2922 gn:area "Krimpen aan den IJssel" .
+
+gn:2923 gn:area "Krimpen aan den IJssel" .
+
+gn:2924 gn:area "Krimpen aan den IJssel" .
+
+gn:2925 gn:area "Krimpen aan den IJssel" .
+
+gn:2926 gn:area "Krimpen aan den IJssel" .
+
+gn:2931 gn:area "Krimpen aan de Lek" .
+
+gn:2935 gn:area "Ouderkerk aan den IJssel" .
+
+gn:2941 gn:area "Krimpen aan de Lek",
+        "Lekkerkerk" .
+
+gn:2951 gn:area "Alblasserdam" .
+
+gn:2952 gn:area "Alblasserdam" .
+
+gn:2953 gn:area "Alblasserdam" .
+
+gn:2954 gn:area "Alblasserdam" .
+
+gn:2957 gn:area "Nieuw-Lekkerland" .
+
+gn:2959 gn:area "Streefkerk" .
+
+gn:2961 gn:area "Kinderdijk" .
+
+gn:2964 gn:area "Groot-Ammers" .
+
+gn:2965 gn:area "Nieuwpoort" .
+
+gn:2967 gn:area "Langerak" .
+
+gn:2968 gn:area "Waal" .
+
+gn:2969 gn:area "Oud-Alblas" .
+
+gn:2971 gn:area "Bleskensgraaf ca" .
+
+gn:2973 gn:area "Molenaarsgraaf" .
+
+gn:2974 gn:area "Brandwijk" .
+
+gn:2975 gn:area "Ottoland" .
+
+gn:2977 gn:area "Goudriaan" .
+
+gn:2981 gn:area "Ridderkerk" .
+
+gn:2982 gn:area "Ridderkerk" .
+
+gn:2983 gn:area "Ridderkerk" .
+
+gn:2984 gn:area "Ridderkerk" .
+
+gn:2985 gn:area "Ridderkerk" .
+
+gn:2986 gn:area "Ridderkerk" .
+
+gn:2987 gn:area "Ridderkerk" .
+
+gn:2988 gn:area "Ridderkerk" .
+
+gn:2989 gn:area "Ridderkerk" .
+
+gn:2991 gn:area "Barendrecht" .
+
+gn:2992 gn:area "Barendrecht" .
+
+gn:2993 gn:area "Barendrecht" .
+
+gn:2994 gn:area "Barendrecht" .
+
+gn:2995 gn:area "Heerjansdam" .
+
+gn:3011 gn:area "Rotterdam" .
+
+gn:3012 gn:area "Rotterdam" .
+
+gn:3013 gn:area "Rotterdam" .
+
+gn:3014 gn:area "Rotterdam" .
+
+gn:3015 gn:area "Rotterdam" .
+
+gn:3016 gn:area "Rotterdam" .
+
+gn:3021 gn:area "Rotterdam" .
+
+gn:3022 gn:area "Rotterdam" .
+
+gn:3023 gn:area "Rotterdam" .
+
+gn:3024 gn:area "Rotterdam" .
+
+gn:3025 gn:area "Rotterdam" .
+
+gn:3026 gn:area "Rotterdam" .
+
+gn:3027 gn:area "Rotterdam" .
+
+gn:3028 gn:area "Rotterdam" .
+
+gn:3029 gn:area "Rotterdam" .
+
+gn:3031 gn:area "Rotterdam" .
+
+gn:3032 gn:area "Rotterdam" .
+
+gn:3033 gn:area "Rotterdam" .
+
+gn:3034 gn:area "Rotterdam" .
+
+gn:3035 gn:area "Rotterdam" .
+
+gn:3036 gn:area "Rotterdam" .
+
+gn:3037 gn:area "Rotterdam" .
+
+gn:3038 gn:area "Rotterdam" .
+
+gn:3039 gn:area "Rotterdam" .
+
+gn:3041 gn:area "Rotterdam" .
+
+gn:3042 gn:area "Rotterdam" .
+
+gn:3043 gn:area "Rotterdam" .
+
+gn:3044 gn:area "Rotterdam" .
+
+gn:3045 gn:area "Rotterdam" .
+
+gn:3046 gn:area "Rotterdam" .
+
+gn:3047 gn:area "Rotterdam" .
+
+gn:3051 gn:area "Rotterdam" .
+
+gn:3052 gn:area "Rotterdam" .
+
+gn:3053 gn:area "Rotterdam" .
+
+gn:3054 gn:area "Rotterdam" .
+
+gn:3055 gn:area "Rotterdam" .
+
+gn:3056 gn:area "Rotterdam" .
+
+gn:3059 gn:area "Rotterdam" .
+
+gn:3061 gn:area "Rotterdam" .
+
+gn:3062 gn:area "Rotterdam" .
+
+gn:3063 gn:area "Rotterdam" .
+
+gn:3064 gn:area "Rotterdam" .
+
+gn:3065 gn:area "Rotterdam" .
+
+gn:3066 gn:area "Rotterdam" .
+
+gn:3067 gn:area "Rotterdam" .
+
+gn:3068 gn:area "Rotterdam" .
+
+gn:3069 gn:area "Rotterdam" .
+
+gn:3071 gn:area "Rotterdam" .
+
+gn:3072 gn:area "Rotterdam" .
+
+gn:3073 gn:area "Rotterdam" .
+
+gn:3074 gn:area "Rotterdam" .
+
+gn:3075 gn:area "Rotterdam" .
+
+gn:3076 gn:area "Rotterdam" .
+
+gn:3077 gn:area "Rotterdam" .
+
+gn:3078 gn:area "Rotterdam" .
+
+gn:3079 gn:area "Rotterdam" .
+
+gn:3081 gn:area "Rotterdam" .
+
+gn:3082 gn:area "Rotterdam" .
+
+gn:3083 gn:area "Rotterdam" .
+
+gn:3084 gn:area "Rotterdam" .
+
+gn:3085 gn:area "Rotterdam" .
+
+gn:3086 gn:area "Rotterdam" .
+
+gn:3087 gn:area "Rotterdam" .
+
+gn:3088 gn:area "Rotterdam" .
+
+gn:3089 gn:area "Rotterdam" .
+
+gn:3111 gn:area "Schiedam" .
+
+gn:3112 gn:area "Schiedam" .
+
+gn:3113 gn:area "Schiedam" .
+
+gn:3114 gn:area "Schiedam" .
+
+gn:3115 gn:area "Schiedam" .
+
+gn:3116 gn:area "Schiedam" .
+
+gn:3117 gn:area "Schiedam" .
+
+gn:3118 gn:area "Schiedam" .
+
+gn:3119 gn:area "Schiedam" .
+
+gn:3121 gn:area "Schiedam" .
+
+gn:3122 gn:area "Schiedam" .
+
+gn:3123 gn:area "Schiedam" .
+
+gn:3124 gn:area "Schiedam" .
+
+gn:3125 gn:area "Schiedam" .
+
+gn:3131 gn:area "Vlaardingen" .
+
+gn:3132 gn:area "Vlaardingen" .
+
+gn:3133 gn:area "Vlaardingen" .
+
+gn:3134 gn:area "Vlaardingen" .
+
+gn:3135 gn:area "Vlaardingen" .
+
+gn:3136 gn:area "Vlaardingen" .
+
+gn:3137 gn:area "Vlaardingen" .
+
+gn:3138 gn:area "Vlaardingen" .
+
+gn:3141 gn:area "Maassluis" .
+
+gn:3142 gn:area "Maassluis" .
+
+gn:3143 gn:area "Maassluis" .
+
+gn:3144 gn:area "Maassluis" .
+
+gn:3145 gn:area "Maassluis" .
+
+gn:3146 gn:area "Maassluis" .
+
+gn:3147 gn:area "Maassluis" .
+
+gn:3151 gn:area "Hoek van Holland" .
+
+gn:3155 gn:area "Maasland" .
+
+gn:3161 gn:area "Rhoon" .
+
+gn:3162 gn:area "Rhoon" .
+
+gn:3165 gn:area "Rotterdam-Albrandswaard" .
+
+gn:3171 gn:area "Poortugaal" .
+
+gn:3172 gn:area "Poortugaal" .
+
+gn:3176 gn:area "Poortugaal" .
+
+gn:3181 gn:area "Rozenburg" .
+
+gn:3191 gn:area "Hoogvliet Rotterdam" .
+
+gn:3192 gn:area "Hoogvliet Rotterdam" .
+
+gn:3193 gn:area "Hoogvliet Rotterdam" .
+
+gn:3194 gn:area "Hoogvliet Rotterdam" .
+
+gn:3195 gn:area "Pernis Rotterdam",
+        "Vondelingenplaat Rotterdam" .
+
+gn:3196 gn:area "Hoogvliet Rotterdam",
+        "Vondelingenplaat Rotterdam" .
+
+gn:3197 gn:area "Botlek Rotterdam" .
+
+gn:3198 gn:area "Europoort Rotterdam" .
+
+gn:3199 gn:area "Maasvlakte Rotterdam" .
+
+gn:3201 gn:area "Spijkenisse" .
+
+gn:3202 gn:area "Spijkenisse" .
+
+gn:3203 gn:area "Spijkenisse" .
+
+gn:3204 gn:area "Spijkenisse" .
+
+gn:3205 gn:area "Hekelingen",
+        "Spijkenisse" .
+
+gn:3206 gn:area "Spijkenisse" .
+
+gn:3207 gn:area "Spijkenisse" .
+
+gn:3208 gn:area "Spijkenisse" .
+
+gn:3209 gn:area "Hekelingen" .
+
+gn:3211 gn:area "Geervliet" .
+
+gn:3212 gn:area "Simonshaven" .
+
+gn:3214 gn:area "Zuidland" .
+
+gn:3216 gn:area "Abbenbroek" .
+
+gn:3218 gn:area "Heenvliet" .
+
+gn:3221 gn:area "Hellevoetsluis" .
+
+gn:3222 gn:area "Hellevoetsluis" .
+
+gn:3223 gn:area "Hellevoetsluis" .
+
+gn:3224 gn:area "Hellevoetsluis" .
+
+gn:3225 gn:area "Hellevoetsluis" .
+
+gn:3227 gn:area "Oudenhoorn" .
+
+gn:3231 gn:area "Brielle",
+        "Vierpolders" .
+
+gn:3232 gn:area "Brielle",
+        "Vierpolders" .
+
+gn:3233 gn:area "Oostvoorne" .
+
+gn:3234 gn:area "Oostvoorne",
+        "Tinte" .
+
+gn:3235 gn:area "Oostvoorne",
+        "Rockanje" .
+
+gn:3237 gn:area "Vierpolders",
+        "Zwartewaal" .
+
+gn:3238 gn:area "Zwartewaal" .
+
+gn:3241 gn:area "Middelharnis" .
+
+gn:3243 gn:area "Stad aan 't Haringvliet" .
+
+gn:3244 gn:area "Nieuwe-Tonge" .
+
+gn:3245 gn:area "Sommelsdijk" .
+
+gn:3247 gn:area "Dirksland",
+        "Herkingen" .
+
+gn:3248 gn:area "Melissant" .
+
+gn:3249 gn:area "Herkingen" .
+
+gn:3251 gn:area "Stellendam" .
+
+gn:3252 gn:area "Goedereede" .
+
+gn:3253 gn:area "Ouddorp" .
+
+gn:3255 gn:area "Oude-Tonge" .
+
+gn:3256 gn:area "Achthuizen" .
+
+gn:3257 gn:area "Ooltgensplaat" .
+
+gn:3258 gn:area "Den Bommel" .
+
+gn:3261 gn:area "Oud-Beijerland" .
+
+gn:3262 gn:area "Oud-Beijerland" .
+
+gn:3263 gn:area "Oud-Beijerland" .
+
+gn:3264 gn:area "Nieuw-Beijerland" .
+
+gn:3265 gn:area "Piershil" .
+
+gn:3267 gn:area "Goudswaard" .
+
+gn:3271 gn:area "Mijnsheerenland" .
+
+gn:3273 gn:area "Westmaas" .
+
+gn:3274 gn:area "Heinenoord" .
+
+gn:3281 gn:area "Numansdorp" .
+
+gn:3284 gn:area "Zuid-Beijerland" .
+
+gn:3286 gn:area "Klaaswaal" .
+
+gn:3291 gn:area "Strijen" .
+
+gn:3292 gn:area "Strijensas" .
+
+gn:3293 gn:area "Mookhoek" .
+
+gn:3295 gn:area "'s-Gravendeel" .
+
+gn:3297 gn:area "Puttershoek" .
+
+gn:3299 gn:area "Maasdam" .
+
+gn:3311 gn:area "Dordrecht" .
+
+gn:3312 gn:area "Dordrecht" .
+
+gn:3313 gn:area "Dordrecht" .
+
+gn:3314 gn:area "Dordrecht" .
+
+gn:3315 gn:area "Dordrecht" .
+
+gn:3316 gn:area "Dordrecht" .
+
+gn:3317 gn:area "Dordrecht" .
+
+gn:3318 gn:area "Dordrecht" .
+
+gn:3319 gn:area "Dordrecht" .
+
+gn:3328 gn:area "Dordrecht" .
+
+gn:3329 gn:area "Dordrecht" .
+
+gn:3331 gn:area "Zwijndrecht" .
+
+gn:3332 gn:area "Zwijndrecht" .
+
+gn:3333 gn:area "Zwijndrecht" .
+
+gn:3334 gn:area "Zwijndrecht" .
+
+gn:3335 gn:area "Zwijndrecht" .
+
+gn:3336 gn:area "Zwijndrecht" .
+
+gn:3341 gn:area "Hendrik-Ido-Ambacht" .
+
+gn:3342 gn:area "Hendrik-Ido-Ambacht" .
+
+gn:3343 gn:area "Hendrik-Ido-Ambacht" .
+
+gn:3344 gn:area "Hendrik-Ido-Ambacht" .
+
+gn:3351 gn:area "Papendrecht" .
+
+gn:3352 gn:area "Papendrecht" .
+
+gn:3353 gn:area "Papendrecht" .
+
+gn:3354 gn:area "Papendrecht" .
+
+gn:3355 gn:area "Papendrecht" .
+
+gn:3356 gn:area "Papendrecht" .
+
+gn:3361 gn:area "Sliedrecht" .
+
+gn:3362 gn:area "Sliedrecht" .
+
+gn:3363 gn:area "Sliedrecht" .
+
+gn:3364 gn:area "Sliedrecht" .
+
+gn:3366 gn:area "Sliedrecht",
+        "Wijngaarden" .
+
+gn:3371 gn:area "Hardinxveld-Giessendam" .
+
+gn:3372 gn:area "Hardinxveld-Giessendam" .
+
+gn:3373 gn:area "Hardinxveld-Giessendam" .
+
+gn:3381 gn:area "Giessenburg" .
+
+gn:3401 gn:area "IJsselstein" .
+
+gn:3402 gn:area "IJsselstein" .
+
+gn:3403 gn:area "IJsselstein" .
+
+gn:3404 gn:area "IJsselstein" .
+
+gn:3405 gn:area "Benschop" .
+
+gn:3411 gn:area "Lopik" .
+
+gn:3412 gn:area "Lopik",
+        "Lopikerkapel" .
+
+gn:3413 gn:area "Jaarsveld",
+        "Lopik" .
+
+gn:3415 gn:area "Polsbroek" .
+
+gn:3417 gn:area "Montfoort" .
+
+gn:3421 gn:area "Oudewater" .
+
+gn:3425 gn:area "Snelrewaard" .
+
+gn:3431 gn:area "Nieuwegein" .
+
+gn:3432 gn:area "Nieuwegein" .
+
+gn:3433 gn:area "Nieuwegein" .
+
+gn:3434 gn:area "Nieuwegein" .
+
+gn:3435 gn:area "Nieuwegein" .
+
+gn:3436 gn:area "Nieuwegein" .
+
+gn:3437 gn:area "Nieuwegein" .
+
+gn:3438 gn:area "Nieuwegein" .
+
+gn:3439 gn:area "Nieuwegein" .
+
+gn:3441 gn:area "Woerden" .
+
+gn:3442 gn:area "Woerden" .
+
+gn:3443 gn:area "Woerden" .
+
+gn:3444 gn:area "Woerden" .
+
+gn:3445 gn:area "Woerden" .
+
+gn:3446 gn:area "Woerden" .
+
+gn:3447 gn:area "Woerden" .
+
+gn:3448 gn:area "Woerden" .
+
+gn:3449 gn:area "Woerden" .
+
+gn:3451 gn:area "Vleuten" .
+
+gn:3452 gn:area "Vleuten" .
+
+gn:3453 gn:area "De Meern" .
+
+gn:3454 gn:area "De Meern",
+        "Utrecht" .
+
+gn:3455 gn:area "Haarzuilens" .
+
+gn:3461 gn:area "Linschoten" .
+
+gn:3464 gn:area "Papekop" .
+
+gn:3465 gn:area "Driebruggen" .
+
+gn:3466 gn:area "Waarder" .
+
+gn:3467 gn:area "Hekendorp" .
+
+gn:3471 gn:area "Kamerik",
+        "Woerden",
+        "Zegveld" .
+
+gn:3474 gn:area "Zegveld" .
+
+gn:3481 gn:area "Harmelen" .
+
+gn:3511 gn:area "Utrecht" .
+
+gn:3512 gn:area "Utrecht" .
+
+gn:3513 gn:area "Utrecht" .
+
+gn:3514 gn:area "Utrecht" .
+
+gn:3515 gn:area "Utrecht" .
+
+gn:3521 gn:area "Utrecht" .
+
+gn:3522 gn:area "Utrecht" .
+
+gn:3523 gn:area "Utrecht" .
+
+gn:3524 gn:area "Utrecht" .
+
+gn:3525 gn:area "Utrecht" .
+
+gn:3526 gn:area "Utrecht" .
+
+gn:3527 gn:area "Utrecht" .
+
+gn:3528 gn:area "Utrecht" .
+
+gn:3531 gn:area "Utrecht" .
+
+gn:3532 gn:area "Utrecht" .
+
+gn:3533 gn:area "Utrecht" .
+
+gn:3534 gn:area "Utrecht" .
+
+gn:3541 gn:area "Utrecht" .
+
+gn:3542 gn:area "Utrecht" .
+
+gn:3543 gn:area "Utrecht" .
+
+gn:3544 gn:area "Utrecht" .
+
+gn:3545 gn:area "Utrecht" .
+
+gn:3546 gn:area "Utrecht" .
+
+gn:3551 gn:area "Utrecht" .
+
+gn:3552 gn:area "Utrecht" .
+
+gn:3553 gn:area "Utrecht" .
+
+gn:3554 gn:area "Utrecht" .
+
+gn:3555 gn:area "Utrecht" .
+
+gn:3561 gn:area "Utrecht" .
+
+gn:3562 gn:area "Utrecht" .
+
+gn:3563 gn:area "Utrecht" .
+
+gn:3564 gn:area "Utrecht" .
+
+gn:3565 gn:area "Utrecht" .
+
+gn:3566 gn:area "Utrecht" .
+
+gn:3571 gn:area "Utrecht" .
+
+gn:3572 gn:area "Utrecht" .
+
+gn:3573 gn:area "Utrecht" .
+
+gn:3581 gn:area "Utrecht" .
+
+gn:3582 gn:area "Utrecht" .
+
+gn:3583 gn:area "Utrecht" .
+
+gn:3584 gn:area "Utrecht" .
+
+gn:3585 gn:area "Utrecht" .
+
+gn:3601 gn:area "Maarssen" .
+
+gn:3602 gn:area "Maarssen" .
+
+gn:3603 gn:area "Maarssen" .
+
+gn:3604 gn:area "Maarssen" .
+
+gn:3605 gn:area "Maarssen" .
+
+gn:3606 gn:area "Maarssen" .
+
+gn:3607 gn:area "Maarssen" .
+
+gn:3608 gn:area "Maarssen" .
+
+gn:3611 gn:area "Oud Zuilen" .
+
+gn:3612 gn:area "Maarssen",
+        "Tienhoven" .
+
+gn:3615 gn:area "Westbroek" .
+
+gn:3621 gn:area "Breukelen" .
+
+gn:3625 gn:area "Breukeleveen" .
+
+gn:3626 gn:area "Nieuwer Ter Aa" .
+
+gn:3628 gn:area "Kockengen" .
+
+gn:3631 gn:area "Nieuwersluis" .
+
+gn:3632 gn:area "Loenen aan de Vecht" .
+
+gn:3633 gn:area "Vreeland" .
+
+gn:3634 gn:area "Loenersloot" .
+
+gn:3641 gn:area "Mijdrecht" .
+
+gn:3642 gn:area "Mijdrecht" .
+
+gn:3643 gn:area "Mijdrecht" .
+
+gn:3645 gn:area "Vinkeveen" .
+
+gn:3646 gn:area "Waverveen" .
+
+gn:3648 gn:area "Wilnis" .
+
+gn:3651 gn:area "Woerdense Verlaat",
+        "Zegveld" .
+
+gn:3652 gn:area "Woerdense Verlaat" .
+
+gn:3653 gn:area "Woerdense Verlaat" .
+
+gn:3701 gn:area "Zeist" .
+
+gn:3702 gn:area "Zeist" .
+
+gn:3703 gn:area "Zeist" .
+
+gn:3704 gn:area "Zeist" .
+
+gn:3705 gn:area "Zeist" .
+
+gn:3706 gn:area "Zeist" .
+
+gn:3707 gn:area "Zeist" .
+
+gn:3708 gn:area "Zeist" .
+
+gn:3709 gn:area "Zeist" .
+
+gn:3711 gn:area "Austerlitz" .
+
+gn:3712 gn:area "Huis ter Heide" .
+
+gn:3721 gn:area "Bilthoven" .
+
+gn:3722 gn:area "Bilthoven" .
+
+gn:3723 gn:area "Bilthoven" .
+
+gn:3731 gn:area "De Bilt" .
+
+gn:3732 gn:area "Bilthoven",
+        "De Bilt" .
+
+gn:3734 gn:area "Den Dolder" .
+
+gn:3735 gn:area "Bosch en Duin" .
+
+gn:3737 gn:area "Groenekan" .
+
+gn:3738 gn:area "Maartensdijk" .
+
+gn:3739 gn:area "Hollandsche Rading" .
+
+gn:3741 gn:area "Baarn" .
+
+gn:3742 gn:area "Baarn" .
+
+gn:3743 gn:area "Baarn" .
+
+gn:3744 gn:area "Baarn" .
+
+gn:3749 gn:area "Lage Vuursche" .
+
+gn:3751 gn:area "Bunschoten-Spakenburg" .
+
+gn:3752 gn:area "Bunschoten-Spakenburg" .
+
+gn:3754 gn:area "Eemdijk" .
+
+gn:3755 gn:area "Eemnes" .
+
+gn:3761 gn:area "Soest" .
+
+gn:3762 gn:area "Soest" .
+
+gn:3763 gn:area "Soest" .
+
+gn:3764 gn:area "Soest" .
+
+gn:3765 gn:area "Soest" .
+
+gn:3766 gn:area "Soest" .
+
+gn:3768 gn:area "Soest" .
+
+gn:3769 gn:area "Soesterberg" .
+
+gn:3771 gn:area "Barneveld" .
+
+gn:3772 gn:area "Barneveld" .
+
+gn:3773 gn:area "Barneveld" .
+
+gn:3774 gn:area "Kootwijkerbroek" .
+
+gn:3775 gn:area "Kootwijk" .
+
+gn:3776 gn:area "Stroe" .
+
+gn:3781 gn:area "Voorthuizen" .
+
+gn:3784 gn:area "Terschuur" .
+
+gn:3785 gn:area "Zwartebroek" .
+
+gn:3791 gn:area "Achterveld" .
+
+gn:3792 gn:area "Achterveld" .
+
+gn:3794 gn:area "De Glind" .
+
+gn:3811 gn:area "Amersfoort" .
+
+gn:3812 gn:area "Amersfoort" .
+
+gn:3813 gn:area "Amersfoort" .
+
+gn:3814 gn:area "Amersfoort" .
+
+gn:3815 gn:area "Amersfoort" .
+
+gn:3816 gn:area "Amersfoort" .
+
+gn:3817 gn:area "Amersfoort" .
+
+gn:3818 gn:area "Amersfoort" .
+
+gn:3819 gn:area "Amersfoort" .
+
+gn:3821 gn:area "Amersfoort" .
+
+gn:3822 gn:area "Amersfoort" .
+
+gn:3823 gn:area "Amersfoort" .
+
+gn:3824 gn:area "Amersfoort" .
+
+gn:3825 gn:area "Amersfoort" .
+
+gn:3826 gn:area "Amersfoort" .
+
+gn:3828 gn:area "Hoogland" .
+
+gn:3829 gn:area "Hooglanderveen" .
+
+gn:3831 gn:area "Leusden" .
+
+gn:3832 gn:area "Leusden" .
+
+gn:3833 gn:area "Leusden" .
+
+gn:3834 gn:area "Leusden" .
+
+gn:3835 gn:area "Stoutenburg" .
+
+gn:3836 gn:area "Stoutenburg Noord" .
+
+gn:3841 gn:area "Harderwijk" .
+
+gn:3842 gn:area "Harderwijk" .
+
+gn:3843 gn:area "Harderwijk" .
+
+gn:3844 gn:area "Harderwijk" .
+
+gn:3845 gn:area "Harderwijk" .
+
+gn:3846 gn:area "Harderwijk" .
+
+gn:3847 gn:area "Harderwijk" .
+
+gn:3848 gn:area "Harderwijk" .
+
+gn:3849 gn:area "Hierden" .
+
+gn:3851 gn:area "Ermelo" .
+
+gn:3852 gn:area "Ermelo" .
+
+gn:3853 gn:area "Ermelo" .
+
+gn:3861 gn:area "Nijkerk" .
+
+gn:3862 gn:area "Nijkerk" .
+
+gn:3863 gn:area "Nijkerk" .
+
+gn:3864 gn:area "Nijkerkerveen" .
+
+gn:3871 gn:area "Hoevelaken" .
+
+gn:3881 gn:area "Putten" .
+
+gn:3882 gn:area "Putten" .
+
+gn:3886 gn:area "Garderen" .
+
+gn:3888 gn:area "Uddel" .
+
+gn:3891 gn:area "Zeewolde" .
+
+gn:3892 gn:area "Zeewolde" .
+
+gn:3893 gn:area "Zeewolde" .
+
+gn:3894 gn:area "Zeewolde" .
+
+gn:3895 gn:area "Zeewolde" .
+
+gn:3896 gn:area "Zeewolde" .
+
+gn:3897 gn:area "Zeewolde" .
+
+gn:3898 gn:area "Zeewolde" .
+
+gn:3899 gn:area "Zeewolde" .
+
+gn:3901 gn:area "Veenendaal" .
+
+gn:3902 gn:area "Veenendaal" .
+
+gn:3903 gn:area "Veenendaal" .
+
+gn:3904 gn:area "Veenendaal" .
+
+gn:3905 gn:area "Veenendaal" .
+
+gn:3906 gn:area "Veenendaal" .
+
+gn:3907 gn:area "Veenendaal" .
+
+gn:3911 gn:area "Rhenen" .
+
+gn:3912 gn:area "Rhenen" .
+
+gn:3921 gn:area "Elst Ut",
+        "Rotterdam" .
+
+gn:3922 gn:area "Elst Ut" .
+
+gn:3925 gn:area "Scherpenzeel" .
+
+gn:3927 gn:area "Renswoude" .
+
+gn:3931 gn:area "Woudenberg" .
+
+gn:3941 gn:area "Doorn" .
+
+gn:3945 gn:area "Cothen" .
+
+gn:3947 gn:area "Langbroek" .
+
+gn:3951 gn:area "Maarn" .
+
+gn:3953 gn:area "Maarsbergen" .
+
+gn:3956 gn:area "Leersum" .
+
+gn:3958 gn:area "Amerongen" .
+
+gn:3959 gn:area "Overberg" .
+
+gn:3961 gn:area "Wijk bij Duurstede" .
+
+gn:3962 gn:area "Wijk bij Duurstede" .
+
+gn:3971 gn:area "Driebergen-Rijsenburg" .
+
+gn:3972 gn:area "Driebergen-Rijsenburg" .
+
+gn:3981 gn:area "Bunnik" .
+
+gn:3984 gn:area "Odijk" .
+
+gn:3985 gn:area "Werkhoven" .
+
+gn:3989 gn:area "Ossenwaard" .
+
+gn:3991 gn:area "Houten" .
+
+gn:3992 gn:area "Houten" .
+
+gn:3993 gn:area "Houten" .
+
+gn:3994 gn:area "Houten" .
+
+gn:3995 gn:area "Houten" .
+
+gn:3997 gn:area "'t Goy" .
+
+gn:3998 gn:area "Schalkwijk" .
+
+gn:3999 gn:area "Tull en 't Waal" .
+
+gn:4001 gn:area "Tiel" .
+
+gn:4002 gn:area "Tiel" .
+
+gn:4003 gn:area "Tiel" .
+
+gn:4004 gn:area "Tiel" .
+
+gn:4005 gn:area "Tiel" .
+
+gn:4006 gn:area "Tiel" .
+
+gn:4007 gn:area "Tiel" .
+
+gn:4011 gn:area "Zoelen" .
+
+gn:4012 gn:area "Kerk-Avezaath" .
+
+gn:4013 gn:area "Kapel Avezaath" .
+
+gn:4014 gn:area "Wadenoijen" .
+
+gn:4016 gn:area "Kapel-Avezaath" .
+
+gn:4017 gn:area "Kerk Avezaath" .
+
+gn:4021 gn:area "Maurik" .
+
+gn:4023 gn:area "Rijswijk (GLD)" .
+
+gn:4024 gn:area "Eck en Wiel" .
+
+gn:4031 gn:area "Ingen" .
+
+gn:4032 gn:area "Ommeren" .
+
+gn:4033 gn:area "Lienden" .
+
+gn:4041 gn:area "Kesteren" .
+
+gn:4043 gn:area "Opheusden" .
+
+gn:4051 gn:area "Ochten" .
+
+gn:4053 gn:area "IJzendoorn" .
+
+gn:4054 gn:area "Echteld" .
+
+gn:4061 gn:area "Ophemert" .
+
+gn:4062 gn:area "Zennewijnen" .
+
+gn:4063 gn:area "Heesselt" .
+
+gn:4064 gn:area "Varik" .
+
+gn:4101 gn:area "Culemborg" .
+
+gn:4102 gn:area "Culemborg" .
+
+gn:4103 gn:area "Culemborg" .
+
+gn:4104 gn:area "Culemborg" .
+
+gn:4105 gn:area "Culemborg" .
+
+gn:4106 gn:area "Culemborg" .
+
+gn:4107 gn:area "Culemborg" .
+
+gn:4111 gn:area "Zoelmond" .
+
+gn:4112 gn:area "Beusichem" .
+
+gn:4115 gn:area "Asch" .
+
+gn:4116 gn:area "Buren" .
+
+gn:4117 gn:area "Erichem" .
+
+gn:4119 gn:area "Ravenswaaij" .
+
+gn:4121 gn:area "Everdingen" .
+
+gn:4122 gn:area "Zijderveld" .
+
+gn:4124 gn:area "Hagestein" .
+
+gn:4125 gn:area "Hoef en Haag" .
+
+gn:4126 gn:area "Hei- en Boeicop" .
+
+gn:4128 gn:area "Lexmond" .
+
+gn:4131 gn:area "Vianen" .
+
+gn:4132 gn:area "Vianen" .
+
+gn:4133 gn:area "Vianen" .
+
+gn:4141 gn:area "Leerdam" .
+
+gn:4142 gn:area "Leerdam" .
+
+gn:4143 gn:area "Leerdam" .
+
+gn:4145 gn:area "Schoonrewoerd" .
+
+gn:4147 gn:area "Asperen" .
+
+gn:4151 gn:area "Acquoy" .
+
+gn:4152 gn:area "Rhenoy" .
+
+gn:4153 gn:area "Beesd" .
+
+gn:4155 gn:area "Gellicum" .
+
+gn:4156 gn:area "Rumpt" .
+
+gn:4157 gn:area "Enspijk" .
+
+gn:4158 gn:area "Deil" .
+
+gn:4161 gn:area "Heukelum" .
+
+gn:4163 gn:area "Oosterwijk" .
+
+gn:4171 gn:area "Herwijnen" .
+
+gn:4174 gn:area "Hellouw" .
+
+gn:4175 gn:area "Haaften" .
+
+gn:4176 gn:area "Tuil" .
+
+gn:4181 gn:area "Neerijnen",
+        "Waardenburg" .
+
+gn:4182 gn:area "Neerijnen" .
+
+gn:4184 gn:area "Opijnen" .
+
+gn:4185 gn:area "Est" .
+
+gn:4191 gn:area "Geldermalsen" .
+
+gn:4194 gn:area "Meteren" .
+
+gn:4196 gn:area "Tricht" .
+
+gn:4197 gn:area "Buurmalsen" .
+
+gn:4201 gn:area "Gorinchem" .
+
+gn:4202 gn:area "Gorinchem" .
+
+gn:4203 gn:area "Gorinchem" .
+
+gn:4204 gn:area "Gorinchem" .
+
+gn:4205 gn:area "Gorinchem" .
+
+gn:4206 gn:area "Gorinchem" .
+
+gn:4207 gn:area "Gorinchem" .
+
+gn:4208 gn:area "Gorinchem" .
+
+gn:4209 gn:area "Schelluinen" .
+
+gn:4211 gn:area "Spijk" .
+
+gn:4212 gn:area "Spijk" .
+
+gn:4213 gn:area "Dalem" .
+
+gn:4214 gn:area "Vuren" .
+
+gn:4221 gn:area "Hoogblokland" .
+
+gn:4223 gn:area "Hoornaar" .
+
+gn:4225 gn:area "Noordeloos" .
+
+gn:4231 gn:area "Meerkerk" .
+
+gn:4233 gn:area "Ameide" .
+
+gn:4235 gn:area "Tienhoven aan de Lek" .
+
+gn:4241 gn:area "Arkel" .
+
+gn:4243 gn:area "Nieuwland" .
+
+gn:4245 gn:area "Leerbroek" .
+
+gn:4247 gn:area "Kedichem" .
+
+gn:4251 gn:area "Werkendam" .
+
+gn:4254 gn:area "Sleeuwijk" .
+
+gn:4255 gn:area "Nieuwendijk" .
+
+gn:4261 gn:area "Wijk en Aalburg" .
+
+gn:4264 gn:area "Veen" .
+
+gn:4265 gn:area "Genderen" .
+
+gn:4266 gn:area "Eethen" .
+
+gn:4267 gn:area "Drongelen" .
+
+gn:4268 gn:area "Meeuwen" .
+
+gn:4269 gn:area "Babyloniënbroek" .
+
+gn:4271 gn:area "Dussen" .
+
+gn:4273 gn:area "Hank" .
+
+gn:4281 gn:area "Andel" .
+
+gn:4283 gn:area "Giessen" .
+
+gn:4284 gn:area "Rijswijk (NB)" .
+
+gn:4285 gn:area "Woudrichem" .
+
+gn:4286 gn:area "Almkerk" .
+
+gn:4287 gn:area "Waardhuizen" .
+
+gn:4288 gn:area "Uitwijk" .
+
+gn:4301 gn:area "Zierikzee" .
+
+gn:4302 gn:area "Zierikzee" .
+
+gn:4303 gn:area "Zierikzee" .
+
+gn:4305 gn:area "Ouwerkerk" .
+
+gn:4306 gn:area "Nieuwerkerk" .
+
+gn:4307 gn:area "Oosterland" .
+
+gn:4308 gn:area "Sirjansland" .
+
+gn:4311 gn:area "Bruinisse" .
+
+gn:4315 gn:area "Dreischor" .
+
+gn:4316 gn:area "Zonnemaire" .
+
+gn:4317 gn:area "Noordgouwe" .
+
+gn:4318 gn:area "Brouwershaven" .
+
+gn:4321 gn:area "Kerkwerve" .
+
+gn:4322 gn:area "Scharendijke" .
+
+gn:4323 gn:area "Ellemeet" .
+
+gn:4325 gn:area "Renesse" .
+
+gn:4326 gn:area "Noordwelle" .
+
+gn:4327 gn:area "Serooskerke" .
+
+gn:4328 gn:area "Burgh-Haamstede" .
+
+gn:4331 gn:area "Middelburg" .
+
+gn:4332 gn:area "Middelburg" .
+
+gn:4333 gn:area "Middelburg" .
+
+gn:4334 gn:area "Middelburg" .
+
+gn:4335 gn:area "Middelburg" .
+
+gn:4336 gn:area "Middelburg" .
+
+gn:4337 gn:area "Middelburg" .
+
+gn:4338 gn:area "Middelburg" .
+
+gn:4339 gn:area "Nieuw- en Sint Joosland" .
+
+gn:4341 gn:area "Arnemuiden" .
+
+gn:4351 gn:area "Veere" .
+
+gn:4352 gn:area "Gapinge" .
+
+gn:4353 gn:area "Serooskerke" .
+
+gn:4354 gn:area "Vrouwenpolder" .
+
+gn:4356 gn:area "Oostkapelle" .
+
+gn:4357 gn:area "Domburg" .
+
+gn:4361 gn:area "Westkapelle" .
+
+gn:4363 gn:area "Aagtekerke" .
+
+gn:4364 gn:area "Grijpskerke" .
+
+gn:4365 gn:area "Meliskerke" .
+
+gn:4371 gn:area "Koudekerke" .
+
+gn:4373 gn:area "Biggekerke" .
+
+gn:4374 gn:area "Zoutelande" .
+
+gn:4381 gn:area "Vlissingen" .
+
+gn:4382 gn:area "Vlissingen" .
+
+gn:4383 gn:area "Vlissingen" .
+
+gn:4384 gn:area "Vlissingen" .
+
+gn:4385 gn:area "Vlissingen" .
+
+gn:4386 gn:area "Vlissingen" .
+
+gn:4387 gn:area "Vlissingen" .
+
+gn:4388 gn:area "Oost-Souburg" .
+
+gn:4389 gn:area "Ritthem" .
+
+gn:4401 gn:area "Yerseke" .
+
+gn:4411 gn:area "Rilland" .
+
+gn:4413 gn:area "Krabbendijke" .
+
+gn:4414 gn:area "Waarde" .
+
+gn:4415 gn:area "Oostdijk" .
+
+gn:4416 gn:area "Kruiningen" .
+
+gn:4417 gn:area "Hansweert" .
+
+gn:4421 gn:area "Kapelle" .
+
+gn:4423 gn:area "Schore" .
+
+gn:4424 gn:area "Wemeldinge" .
+
+gn:4431 gn:area "'s-Gravenpolder" .
+
+gn:4433 gn:area "Hoedekenskerke" .
+
+gn:4434 gn:area "Kwadendamme" .
+
+gn:4435 gn:area "Baarland" .
+
+gn:4436 gn:area "Oudelande" .
+
+gn:4437 gn:area "Ellewoutsdijk" .
+
+gn:4438 gn:area "Driewegen" .
+
+gn:4441 gn:area "Ovezande" .
+
+gn:4443 gn:area "Nisse" .
+
+gn:4444 gn:area "'s-Heer Abtskerke" .
+
+gn:4451 gn:area "Heinkenszand" .
+
+gn:4453 gn:area "'s-Heerenhoek" .
+
+gn:4454 gn:area "Borssele" .
+
+gn:4455 gn:area "Nieuwdorp" .
+
+gn:4456 gn:area "Lewedorp" .
+
+gn:4458 gn:area "'s-Heer Arendskerke",
+        "Wolphaartsdijk" .
+
+gn:4461 gn:area "Goes" .
+
+gn:4462 gn:area "Goes" .
+
+gn:4463 gn:area "Goes" .
+
+gn:4464 gn:area "Goes" .
+
+gn:4465 gn:area "Goes" .
+
+gn:4471 gn:area "'s-Heer Hendrikskinderen",
+        "Wolphaartsdijk" .
+
+gn:4472 gn:area "'s-Heer Hendrikskinderen",
+        "Goes" .
+
+gn:4474 gn:area "Kattendijke",
+        "Kloetinge" .
+
+gn:4475 gn:area "Wilhelminadorp" .
+
+gn:4481 gn:area "Goes",
+        "Kloetinge" .
+
+gn:4482 gn:area "Kloetinge" .
+
+gn:4484 gn:area "Kortgene" .
+
+gn:4485 gn:area "Kats" .
+
+gn:4486 gn:area "Colijnsplaat" .
+
+gn:4491 gn:area "Wissenkerke" .
+
+gn:4493 gn:area "Kamperland" .
+
+gn:4494 gn:area "Geersdijk" .
+
+gn:4501 gn:area "Oostburg" .
+
+gn:4503 gn:area "Groede" .
+
+gn:4504 gn:area "Nieuwvliet" .
+
+gn:4505 gn:area "Zuidzande" .
+
+gn:4506 gn:area "Cadzand" .
+
+gn:4507 gn:area "Schoondijke" .
+
+gn:4508 gn:area "Waterlandkerkje" .
+
+gn:4511 gn:area "Breskens" .
+
+gn:4513 gn:area "Hoofdplaat" .
+
+gn:4515 gn:area "IJzendijke" .
+
+gn:4521 gn:area "Biervliet" .
+
+gn:4522 gn:area "Biervliet" .
+
+gn:4524 gn:area "Sluis" .
+
+gn:4525 gn:area "Retranchement" .
+
+gn:4527 gn:area "Aardenburg" .
+
+gn:4528 gn:area "Sint Kruis" .
+
+gn:4529 gn:area "Eede" .
+
+gn:4531 gn:area "Terneuzen" .
+
+gn:4532 gn:area "Terneuzen" .
+
+gn:4533 gn:area "Terneuzen" .
+
+gn:4535 gn:area "Terneuzen" .
+
+gn:4536 gn:area "Terneuzen" .
+
+gn:4537 gn:area "Terneuzen" .
+
+gn:4538 gn:area "Terneuzen" .
+
+gn:4539 gn:area "Spui" .
+
+gn:4541 gn:area "Sluiskil" .
+
+gn:4542 gn:area "Hoek" .
+
+gn:4543 gn:area "Terneuzen",
+        "Zaamslag" .
+
+gn:4551 gn:area "Sas van Gent" .
+
+gn:4553 gn:area "Philippine" .
+
+gn:4554 gn:area "Westdorpe" .
+
+gn:4561 gn:area "Hulst" .
+
+gn:4562 gn:area "Hulst" .
+
+gn:4564 gn:area "Sint Jansteen" .
+
+gn:4565 gn:area "Kapellebrug" .
+
+gn:4566 gn:area "Heikant" .
+
+gn:4567 gn:area "Clinge" .
+
+gn:4568 gn:area "Nieuw Namen" .
+
+gn:4569 gn:area "Graauw" .
+
+gn:4571 gn:area "Axel",
+        "Zuiddorpe" .
+
+gn:4574 gn:area "Zuiddorpe" .
+
+gn:4575 gn:area "Overslag",
+        "Zuiddorpe" .
+
+gn:4576 gn:area "Koewacht" .
+
+gn:4581 gn:area "Axel",
+        "Vogelwaarde" .
+
+gn:4583 gn:area "Terhole" .
+
+gn:4584 gn:area "Kuitaart" .
+
+gn:4585 gn:area "Hengstdijk" .
+
+gn:4586 gn:area "Lamswaarde" .
+
+gn:4587 gn:area "Kloosterzande" .
+
+gn:4588 gn:area "Walsoorden" .
+
+gn:4589 gn:area "Ossenisse" .
+
+gn:4611 gn:area "Bergen op Zoom" .
+
+gn:4612 gn:area "Bergen op Zoom" .
+
+gn:4613 gn:area "Bergen op Zoom" .
+
+gn:4614 gn:area "Bergen op Zoom" .
+
+gn:4615 gn:area "Bergen op Zoom" .
+
+gn:4616 gn:area "Bergen op Zoom" .
+
+gn:4617 gn:area "Bergen op Zoom" .
+
+gn:4621 gn:area "Bergen op Zoom" .
+
+gn:4622 gn:area "Bergen op Zoom" .
+
+gn:4623 gn:area "Bergen op Zoom" .
+
+gn:4624 gn:area "Bergen op Zoom" .
+
+gn:4625 gn:area "Bergen op Zoom" .
+
+gn:4631 gn:area "Hoogerheide",
+        "Huijbergen" .
+
+gn:4634 gn:area "Woensdrecht" .
+
+gn:4635 gn:area "Huijbergen" .
+
+gn:4641 gn:area "Ossendrecht" .
+
+gn:4645 gn:area "Putte" .
+
+gn:4651 gn:area "Steenbergen" .
+
+gn:4652 gn:area "Steenbergen" .
+
+gn:4655 gn:area "De Heen" .
+
+gn:4661 gn:area "Halsteren" .
+
+gn:4664 gn:area "Lepelstraat" .
+
+gn:4671 gn:area "Dinteloord",
+        "Heijningen" .
+
+gn:4675 gn:area "Sint Philipsland" .
+
+gn:4681 gn:area "Nieuw-Vossemeer" .
+
+gn:4691 gn:area "Tholen" .
+
+gn:4693 gn:area "Poortvliet" .
+
+gn:4694 gn:area "Scherpenisse" .
+
+gn:4695 gn:area "Sint-Maartensdijk" .
+
+gn:4696 gn:area "Stavenisse" .
+
+gn:4697 gn:area "Sint-Annaland" .
+
+gn:4698 gn:area "Oud-Vossemeer" .
+
+gn:4701 gn:area "Roosendaal" .
+
+gn:4702 gn:area "Roosendaal" .
+
+gn:4703 gn:area "Roosendaal" .
+
+gn:4704 gn:area "Roosendaal" .
+
+gn:4705 gn:area "Roosendaal" .
+
+gn:4706 gn:area "Roosendaal" .
+
+gn:4707 gn:area "Roosendaal" .
+
+gn:4708 gn:area "Roosendaal" .
+
+gn:4709 gn:area "Nispen" .
+
+gn:4711 gn:area "St. Willebrord" .
+
+gn:4714 gn:area "Sprundel" .
+
+gn:4715 gn:area "Roosendaal",
+        "Rucphen" .
+
+gn:4721 gn:area "Schijf" .
+
+gn:4722 gn:area "Schijf" .
+
+gn:4724 gn:area "Heerle",
+        "Wouw" .
+
+gn:4725 gn:area "Wouwse Plantage" .
+
+gn:4726 gn:area "Heerle",
+        "Moerstraten" .
+
+gn:4727 gn:area "Heerle",
+        "Moerstraten" .
+
+gn:4731 gn:area "Hoeven",
+        "Oudenbosch" .
+
+gn:4735 gn:area "Zegge" .
+
+gn:4741 gn:area "Hoeven" .
+
+gn:4744 gn:area "Bosschenhoofd" .
+
+gn:4751 gn:area "Oud Gastel" .
+
+gn:4754 gn:area "Stampersgat" .
+
+gn:4756 gn:area "Kruisland" .
+
+gn:4758 gn:area "Standdaarbuiten" .
+
+gn:4759 gn:area "Noordhoek" .
+
+gn:4761 gn:area "Zevenbergen" .
+
+gn:4762 gn:area "Zevenbergen" .
+
+gn:4765 gn:area "Zevenbergschen Hoek" .
+
+gn:4766 gn:area "Zevenbergschen Hoek" .
+
+gn:4771 gn:area "Langeweg" .
+
+gn:4772 gn:area "Langeweg" .
+
+gn:4781 gn:area "Moerdijk" .
+
+gn:4782 gn:area "Moerdijk" .
+
+gn:4791 gn:area "Klundert" .
+
+gn:4793 gn:area "Fijnaart" .
+
+gn:4794 gn:area "Heijningen" .
+
+gn:4796 gn:area "Oudemolen" .
+
+gn:4797 gn:area "Willemstad" .
+
+gn:4811 gn:area "Breda" .
+
+gn:4812 gn:area "Breda" .
+
+gn:4813 gn:area "Breda" .
+
+gn:4814 gn:area "Breda" .
+
+gn:4815 gn:area "Breda" .
+
+gn:4816 gn:area "Breda" .
+
+gn:4817 gn:area "Breda" .
+
+gn:4818 gn:area "Breda" .
+
+gn:4819 gn:area "Breda" .
+
+gn:4822 gn:area "Breda" .
+
+gn:4823 gn:area "Breda" .
+
+gn:4824 gn:area "Breda" .
+
+gn:4825 gn:area "Breda" .
+
+gn:4826 gn:area "Breda" .
+
+gn:4827 gn:area "Breda" .
+
+gn:4834 gn:area "Breda" .
+
+gn:4835 gn:area "Breda" .
+
+gn:4836 gn:area "Breda" .
+
+gn:4837 gn:area "Breda" .
+
+gn:4838 gn:area "Breda" .
+
+gn:4839 gn:area "Breda" .
+
+gn:4841 gn:area "Prinsenbeek" .
+
+gn:4844 gn:area "Terheijden" .
+
+gn:4845 gn:area "Wagenberg" .
+
+gn:4847 gn:area "Teteringen" .
+
+gn:4849 gn:area "Dorst" .
+
+gn:4851 gn:area "Ulvenhout" .
+
+gn:4854 gn:area "Bavel" .
+
+gn:4855 gn:area "Galder" .
+
+gn:4856 gn:area "Strijbeek" .
+
+gn:4858 gn:area "Ulvenhout AC" .
+
+gn:4859 gn:area "Bavel AC" .
+
+gn:4861 gn:area "Chaam" .
+
+gn:4871 gn:area "Etten-Leur" .
+
+gn:4872 gn:area "Etten-Leur" .
+
+gn:4873 gn:area "Etten-Leur" .
+
+gn:4874 gn:area "Etten-Leur" .
+
+gn:4875 gn:area "Etten-Leur" .
+
+gn:4876 gn:area "Etten-Leur" .
+
+gn:4877 gn:area "Etten-Leur" .
+
+gn:4878 gn:area "Etten-Leur" .
+
+gn:4879 gn:area "Etten-Leur" .
+
+gn:4881 gn:area "Zundert" .
+
+gn:4882 gn:area "Klein Zundert" .
+
+gn:4884 gn:area "Wernhout" .
+
+gn:4885 gn:area "Achtmaal" .
+
+gn:4891 gn:area "Rijsbergen" .
+
+gn:4901 gn:area "Oosterhout" .
+
+gn:4902 gn:area "Oosterhout" .
+
+gn:4903 gn:area "Oosterhout" .
+
+gn:4904 gn:area "Oosterhout" .
+
+gn:4905 gn:area "Oosterhout" .
+
+gn:4906 gn:area "Oosterhout" .
+
+gn:4907 gn:area "Oosterhout" .
+
+gn:4908 gn:area "Oosterhout" .
+
+gn:4909 gn:area "Oosteind" .
+
+gn:4911 gn:area "Den Hout" .
+
+gn:4921 gn:area "Made" .
+
+gn:4924 gn:area "Drimmelen" .
+
+gn:4926 gn:area "Lage Zwaluwe" .
+
+gn:4927 gn:area "Hooge Zwaluwe" .
+
+gn:4931 gn:area "Geertruidenberg" .
+
+gn:4941 gn:area "Raamsdonksveer" .
+
+gn:4942 gn:area "Raamsdonksveer" .
+
+gn:4944 gn:area "Raamsdonk" .
+
+gn:5011 gn:area "Tilburg" .
+
+gn:5012 gn:area "Tilburg" .
+
+gn:5013 gn:area "Tilburg" .
+
+gn:5014 gn:area "Tilburg" .
+
+gn:5015 gn:area "Tilburg" .
+
+gn:5017 gn:area "Tilburg" .
+
+gn:5018 gn:area "Tilburg" .
+
+gn:5021 gn:area "Tilburg" .
+
+gn:5022 gn:area "Tilburg" .
+
+gn:5025 gn:area "Tilburg" .
+
+gn:5026 gn:area "Tilburg" .
+
+gn:5028 gn:area "Diessen" .
+
+gn:5032 gn:area "Tilburg" .
+
+gn:5035 gn:area "Tilburg" .
+
+gn:5036 gn:area "Tilburg" .
+
+gn:5037 gn:area "Tilburg" .
+
+gn:5038 gn:area "Tilburg" .
+
+gn:5041 gn:area "Tilburg" .
+
+gn:5042 gn:area "Tilburg" .
+
+gn:5043 gn:area "Tilburg" .
+
+gn:5044 gn:area "Tilburg" .
+
+gn:5045 gn:area "Tilburg" .
+
+gn:5046 gn:area "Tilburg" .
+
+gn:5047 gn:area "Tilburg" .
+
+gn:5048 gn:area "Tilburg" .
+
+gn:5049 gn:area "Tilburg" .
+
+gn:5051 gn:area "Goirle",
+        "Riel" .
+
+gn:5052 gn:area "Goirle" .
+
+gn:5053 gn:area "Goirle" .
+
+gn:5056 gn:area "Berkel-Enschot" .
+
+gn:5057 gn:area "Berkel-Enschot" .
+
+gn:5059 gn:area "Heukelom" .
+
+gn:5061 gn:area "Oisterwijk" .
+
+gn:5062 gn:area "Oisterwijk" .
+
+gn:5063 gn:area "Oisterwijk" .
+
+gn:5066 gn:area "Moergestel" .
+
+gn:5071 gn:area "Udenhout" .
+
+gn:5074 gn:area "Biezenmortel" .
+
+gn:5076 gn:area "Haaren" .
+
+gn:5081 gn:area "Hilvarenbeek" .
+
+gn:5084 gn:area "Biest-Houtakker" .
+
+gn:5085 gn:area "Esbeek" .
+
+gn:5087 gn:area "Diessen" .
+
+gn:5089 gn:area "Haghorst" .
+
+gn:5091 gn:area "Oost West en Middelbeers" .
+
+gn:5094 gn:area "Lage Mierde" .
+
+gn:5095 gn:area "Hooge Mierde" .
+
+gn:5096 gn:area "Hulsel" .
+
+gn:5101 gn:area "Dongen" .
+
+gn:5102 gn:area "Dongen" .
+
+gn:5103 gn:area "Dongen" .
+
+gn:5104 gn:area "Dongen" .
+
+gn:5105 gn:area "Dongen" .
+
+gn:5106 gn:area "Dongen" .
+
+gn:5107 gn:area "Dongen" .
+
+gn:5109 gn:area "'s Gravenmoer" .
+
+gn:5111 gn:area "Baarle-Nassau" .
+
+gn:5113 gn:area "Ulicoten" .
+
+gn:5114 gn:area "Castelre" .
+
+gn:5121 gn:area "Rijen" .
+
+gn:5122 gn:area "Rijen" .
+
+gn:5124 gn:area "Molenschot" .
+
+gn:5125 gn:area "Hulten" .
+
+gn:5126 gn:area "Gilze" .
+
+gn:5131 gn:area "Alphen" .
+
+gn:5133 gn:area "Riel" .
+
+gn:5141 gn:area "Waalwijk" .
+
+gn:5142 gn:area "Waalwijk" .
+
+gn:5143 gn:area "Waalwijk" .
+
+gn:5144 gn:area "Waalwijk" .
+
+gn:5145 gn:area "Waalwijk" .
+
+gn:5146 gn:area "Waalwijk" .
+
+gn:5151 gn:area "Drunen" .
+
+gn:5152 gn:area "Drunen" .
+
+gn:5154 gn:area "Elshout" .
+
+gn:5156 gn:area "Oudheusden" .
+
+gn:5157 gn:area "Doeveren" .
+
+gn:5158 gn:area "Heesbeen" .
+
+gn:5161 gn:area "Sprang-Capelle" .
+
+gn:5165 gn:area "Waspik" .
+
+gn:5171 gn:area "Kaatsheuvel",
+        "Sprang-Capelle" .
+
+gn:5172 gn:area "Kaatsheuvel" .
+
+gn:5175 gn:area "Loon op Zand" .
+
+gn:5176 gn:area "De Moer" .
+
+gn:5211 gn:area "'s-Hertogenbosch" .
+
+gn:5212 gn:area "'s-Hertogenbosch" .
+
+gn:5213 gn:area "'s-Hertogenbosch" .
+
+gn:5215 gn:area "'s-Hertogenbosch" .
+
+gn:5216 gn:area "'s-Hertogenbosch" .
+
+gn:5221 gn:area "'s-Hertogenbosch" .
+
+gn:5222 gn:area "'s-Hertogenbosch" .
+
+gn:5223 gn:area "'s-Hertogenbosch" .
+
+gn:5224 gn:area "'s-Hertogenbosch" .
+
+gn:5231 gn:area "'s-Hertogenbosch" .
+
+gn:5232 gn:area "'s-Hertogenbosch" .
+
+gn:5233 gn:area "'s-Hertogenbosch" .
+
+gn:5234 gn:area "'s-Hertogenbosch" .
+
+gn:5235 gn:area "'s-Hertogenbosch" .
+
+gn:5236 gn:area "'s-Hertogenbosch" .
+
+gn:5237 gn:area "'s-Hertogenbosch" .
+
+gn:5241 gn:area "Rosmalen" .
+
+gn:5242 gn:area "Rosmalen" .
+
+gn:5243 gn:area "Rosmalen" .
+
+gn:5244 gn:area "Rosmalen" .
+
+gn:5245 gn:area "Rosmalen" .
+
+gn:5246 gn:area "Rosmalen" .
+
+gn:5247 gn:area "Rosmalen" .
+
+gn:5248 gn:area "Rosmalen" .
+
+gn:5249 gn:area "Rosmalen" .
+
+gn:5251 gn:area "Vlijmen" .
+
+gn:5252 gn:area "Vlijmen" .
+
+gn:5253 gn:area "Nieuwkuijk" .
+
+gn:5254 gn:area "Haarsteeg" .
+
+gn:5255 gn:area "Herpt" .
+
+gn:5256 gn:area "Heusden" .
+
+gn:5257 gn:area "Hedikhuizen" .
+
+gn:5258 gn:area "Berlicum" .
+
+gn:5261 gn:area "Vught" .
+
+gn:5262 gn:area "Vught" .
+
+gn:5263 gn:area "Vught" .
+
+gn:5264 gn:area "Vught" .
+
+gn:5266 gn:area "Cromvoirt" .
+
+gn:5268 gn:area "Helvoirt" .
+
+gn:5271 gn:area "Den Dungen",
+        "Gemonde",
+        "Sint-Michielsgestel" .
+
+gn:5272 gn:area "Sint-Michielsgestel" .
+
+gn:5275 gn:area "Den Dungen" .
+
+gn:5281 gn:area "Boxtel" .
+
+gn:5282 gn:area "Boxtel" .
+
+gn:5283 gn:area "Boxtel" .
+
+gn:5291 gn:area "Gemonde" .
+
+gn:5292 gn:area "Gemonde" .
+
+gn:5293 gn:area "Gemonde" .
+
+gn:5294 gn:area "Gemonde" .
+
+gn:5296 gn:area "Esch" .
+
+gn:5298 gn:area "Liempde" .
+
+gn:5301 gn:area "Zaltbommel" .
+
+gn:5302 gn:area "Zaltbommel" .
+
+gn:5305 gn:area "Zuilichem" .
+
+gn:5306 gn:area "Brakel" .
+
+gn:5307 gn:area "Poederoijen" .
+
+gn:5308 gn:area "Aalst" .
+
+gn:5311 gn:area "Gameren" .
+
+gn:5313 gn:area "Nieuwaal" .
+
+gn:5314 gn:area "Bruchem" .
+
+gn:5315 gn:area "Kerkwijk" .
+
+gn:5316 gn:area "Delwijnen" .
+
+gn:5317 gn:area "Nederhemert" .
+
+gn:5318 gn:area "Bern" .
+
+gn:5321 gn:area "Hedel" .
+
+gn:5324 gn:area "Ammerzoden" .
+
+gn:5325 gn:area "Well" .
+
+gn:5327 gn:area "Hurwenen" .
+
+gn:5328 gn:area "Rossum" .
+
+gn:5331 gn:area "Kerkdriel" .
+
+gn:5333 gn:area "Hoenzadriel" .
+
+gn:5334 gn:area "Velddriel" .
+
+gn:5335 gn:area "Alem" .
+
+gn:5341 gn:area "Oss" .
+
+gn:5342 gn:area "Oss" .
+
+gn:5343 gn:area "Oss" .
+
+gn:5344 gn:area "Oss" .
+
+gn:5345 gn:area "Oss" .
+
+gn:5346 gn:area "Oss" .
+
+gn:5347 gn:area "Oss" .
+
+gn:5348 gn:area "Oss" .
+
+gn:5349 gn:area "Oss" .
+
+gn:5351 gn:area "Berghem",
+        "Herpen" .
+
+gn:5352 gn:area "Deursen-Dennenburg" .
+
+gn:5353 gn:area "Dieden" .
+
+gn:5354 gn:area "Demen" .
+
+gn:5355 gn:area "Neerlangel" .
+
+gn:5356 gn:area "Neerloon" .
+
+gn:5357 gn:area "Overlangel" .
+
+gn:5358 gn:area "Huisseling" .
+
+gn:5359 gn:area "Keent" .
+
+gn:5361 gn:area "Grave" .
+
+gn:5363 gn:area "Velp" .
+
+gn:5364 gn:area "Escharen" .
+
+gn:5366 gn:area "Megen" .
+
+gn:5367 gn:area "Macharen" .
+
+gn:5368 gn:area "Haren" .
+
+gn:5371 gn:area "Ravenstein" .
+
+gn:5373 gn:area "Herpen" .
+
+gn:5374 gn:area "Schaijk" .
+
+gn:5375 gn:area "Reek" .
+
+gn:5381 gn:area "Vinkel" .
+
+gn:5382 gn:area "Vinkel" .
+
+gn:5383 gn:area "Vinkel" .
+
+gn:5384 gn:area "Heesch" .
+
+gn:5386 gn:area "Geffen",
+        "Oss" .
+
+gn:5388 gn:area "Nistelrode" .
+
+gn:5391 gn:area "Nuland" .
+
+gn:5392 gn:area "Nuland" .
+
+gn:5394 gn:area "Oijen" .
+
+gn:5395 gn:area "Teeffelen" .
+
+gn:5396 gn:area "Lithoijen" .
+
+gn:5397 gn:area "Lith" .
+
+gn:5398 gn:area "Maren-Kessel" .
+
+gn:5401 gn:area "Uden" .
+
+gn:5402 gn:area "Uden" .
+
+gn:5403 gn:area "Uden" .
+
+gn:5404 gn:area "Uden" .
+
+gn:5405 gn:area "Uden" .
+
+gn:5406 gn:area "Uden" .
+
+gn:5408 gn:area "Volkel" .
+
+gn:5409 gn:area "Odiliapeel" .
+
+gn:5411 gn:area "Zeeland" .
+
+gn:5421 gn:area "Gemert" .
+
+gn:5422 gn:area "Gemert" .
+
+gn:5423 gn:area "Handel" .
+
+gn:5424 gn:area "Elsendorp" .
+
+gn:5425 gn:area "De Mortel" .
+
+gn:5427 gn:area "Boekel" .
+
+gn:5428 gn:area "Venhorst" .
+
+gn:5431 gn:area "Cuijk" .
+
+gn:5432 gn:area "Cuijk" .
+
+gn:5433 gn:area "Katwijk NB" .
+
+gn:5434 gn:area "Vianen NB" .
+
+gn:5435 gn:area "Sint Agatha" .
+
+gn:5437 gn:area "Beers NB" .
+
+gn:5438 gn:area "Gassel" .
+
+gn:5439 gn:area "Linden" .
+
+gn:5441 gn:area "Oeffelt" .
+
+gn:5443 gn:area "Haps" .
+
+gn:5445 gn:area "Landhorst" .
+
+gn:5446 gn:area "Wanroij" .
+
+gn:5447 gn:area "Rijkevoort" .
+
+gn:5449 gn:area "Rijkevoort-De Walsert" .
+
+gn:5451 gn:area "Mill" .
+
+gn:5453 gn:area "Langenboom" .
+
+gn:5454 gn:area "Sint Hubert" .
+
+gn:5455 gn:area "Wilbertoord" .
+
+gn:5461 gn:area "Veghel" .
+
+gn:5462 gn:area "Veghel" .
+
+gn:5463 gn:area "Veghel" .
+
+gn:5464 gn:area "Veghel" .
+
+gn:5465 gn:area "Veghel" .
+
+gn:5466 gn:area "Veghel" .
+
+gn:5467 gn:area "Veghel" .
+
+gn:5469 gn:area "Erp" .
+
+gn:5471 gn:area "Loosbroek" .
+
+gn:5472 gn:area "Loosbroek" .
+
+gn:5473 gn:area "Heeswijk-Dinther" .
+
+gn:5476 gn:area "Vorstenbosch" .
+
+gn:5481 gn:area "Schijndel" .
+
+gn:5482 gn:area "Schijndel" .
+
+gn:5491 gn:area "Sint-Oedenrode" .
+
+gn:5492 gn:area "Sint-Oedenrode" .
+
+gn:5501 gn:area "Veldhoven" .
+
+gn:5502 gn:area "Veldhoven" .
+
+gn:5503 gn:area "Veldhoven" .
+
+gn:5504 gn:area "Knegsel",
+        "Veldhoven" .
+
+gn:5505 gn:area "Veldhoven" .
+
+gn:5506 gn:area "Veldhoven" .
+
+gn:5507 gn:area "Veldhoven" .
+
+gn:5508 gn:area "Veldhoven" .
+
+gn:5509 gn:area "Veldhoven" .
+
+gn:5511 gn:area "Knegsel" .
+
+gn:5512 gn:area "Vessem" .
+
+gn:5513 gn:area "Wintelre" .
+
+gn:5521 gn:area "Eersel" .
+
+gn:5524 gn:area "Steensel" .
+
+gn:5525 gn:area "Duizel" .
+
+gn:5527 gn:area "Hapert" .
+
+gn:5528 gn:area "Hoogeloon" .
+
+gn:5529 gn:area "Casteren" .
+
+gn:5531 gn:area "Bladel" .
+
+gn:5534 gn:area "Netersel" .
+
+gn:5541 gn:area "Reusel" .
+
+gn:5551 gn:area "Valkenswaard" .
+
+gn:5552 gn:area "Valkenswaard" .
+
+gn:5553 gn:area "Valkenswaard" .
+
+gn:5554 gn:area "Valkenswaard" .
+
+gn:5555 gn:area "Valkenswaard" .
+
+gn:5556 gn:area "Valkenswaard" .
+
+gn:5561 gn:area "Riethoven" .
+
+gn:5563 gn:area "Westerhoven" .
+
+gn:5571 gn:area "Bergeijk" .
+
+gn:5575 gn:area "Luyksgestel" .
+
+gn:5581 gn:area "Waalre" .
+
+gn:5582 gn:area "Waalre" .
+
+gn:5583 gn:area "Waalre" .
+
+gn:5591 gn:area "Heeze" .
+
+gn:5595 gn:area "Leende" .
+
+gn:5611 gn:area "Eindhoven" .
+
+gn:5612 gn:area "Eindhoven" .
+
+gn:5613 gn:area "Eindhoven" .
+
+gn:5614 gn:area "Eindhoven" .
+
+gn:5615 gn:area "Eindhoven" .
+
+gn:5616 gn:area "Eindhoven" .
+
+gn:5617 gn:area "Eindhoven" .
+
+gn:5621 gn:area "Eindhoven" .
+
+gn:5622 gn:area "Eindhoven" .
+
+gn:5623 gn:area "Eindhoven" .
+
+gn:5624 gn:area "Eindhoven" .
+
+gn:5625 gn:area "Eindhoven" .
+
+gn:5626 gn:area "Eindhoven" .
+
+gn:5627 gn:area "Eindhoven" .
+
+gn:5628 gn:area "Eindhoven" .
+
+gn:5629 gn:area "Eindhoven" .
+
+gn:5631 gn:area "Eindhoven" .
+
+gn:5632 gn:area "Eindhoven" .
+
+gn:5633 gn:area "Eindhoven" .
+
+gn:5641 gn:area "Eindhoven" .
+
+gn:5642 gn:area "Eindhoven" .
+
+gn:5643 gn:area "Eindhoven" .
+
+gn:5644 gn:area "Eindhoven" .
+
+gn:5645 gn:area "Eindhoven" .
+
+gn:5646 gn:area "Eindhoven" .
+
+gn:5647 gn:area "Eindhoven" .
+
+gn:5651 gn:area "Eindhoven" .
+
+gn:5652 gn:area "Eindhoven" .
+
+gn:5653 gn:area "Eindhoven" .
+
+gn:5654 gn:area "Eindhoven" .
+
+gn:5655 gn:area "Eindhoven" .
+
+gn:5656 gn:area "Eindhoven" .
+
+gn:5657 gn:area "Eindhoven" .
+
+gn:5658 gn:area "Eindhoven" .
+
+gn:5661 gn:area "Geldrop" .
+
+gn:5662 gn:area "Geldrop" .
+
+gn:5663 gn:area "Geldrop" .
+
+gn:5664 gn:area "Geldrop" .
+
+gn:5665 gn:area "Geldrop" .
+
+gn:5666 gn:area "Geldrop" .
+
+gn:5667 gn:area "Geldrop" .
+
+gn:5671 gn:area "Nuenen" .
+
+gn:5672 gn:area "Nuenen" .
+
+gn:5673 gn:area "Nuenen" .
+
+gn:5674 gn:area "Mierlo",
+        "Nuenen" .
+
+gn:5681 gn:area "Best" .
+
+gn:5682 gn:area "Best" .
+
+gn:5683 gn:area "Best" .
+
+gn:5684 gn:area "Best" .
+
+gn:5685 gn:area "Best" .
+
+gn:5688 gn:area "Oirschot" .
+
+gn:5689 gn:area "Oirschot" .
+
+gn:5691 gn:area "Son en Breugel" .
+
+gn:5692 gn:area "Son en Breugel" .
+
+gn:5694 gn:area "Son en Breugel" .
+
+gn:5701 gn:area "Helmond" .
+
+gn:5702 gn:area "Helmond" .
+
+gn:5703 gn:area "Helmond" .
+
+gn:5704 gn:area "Helmond" .
+
+gn:5705 gn:area "Helmond" .
+
+gn:5706 gn:area "Helmond" .
+
+gn:5707 gn:area "Helmond" .
+
+gn:5708 gn:area "Helmond" .
+
+gn:5709 gn:area "Helmond" .
+
+gn:5711 gn:area "Someren" .
+
+gn:5712 gn:area "Someren" .
+
+gn:5715 gn:area "Lierop" .
+
+gn:5721 gn:area "Asten" .
+
+gn:5722 gn:area "Asten" .
+
+gn:5724 gn:area "Ommel" .
+
+gn:5725 gn:area "Heusden" .
+
+gn:5731 gn:area "Mierlo" .
+
+gn:5735 gn:area "Aarle-Rixtel" .
+
+gn:5737 gn:area "Lieshout" .
+
+gn:5738 gn:area "Mariahout" .
+
+gn:5741 gn:area "Aarle-Rixtel",
+        "Beek en Donk" .
+
+gn:5751 gn:area "Deurne" .
+
+gn:5752 gn:area "Deurne" .
+
+gn:5753 gn:area "Deurne" .
+
+gn:5754 gn:area "Deurne" .
+
+gn:5756 gn:area "Vlierden" .
+
+gn:5757 gn:area "Liessel" .
+
+gn:5758 gn:area "Neerkant" .
+
+gn:5759 gn:area "Helenaveen" .
+
+gn:5761 gn:area "Bakel" .
+
+gn:5763 gn:area "Milheeze" .
+
+gn:5764 gn:area "De Rips" .
+
+gn:5766 gn:area "Griendtsveen" .
+
+gn:5768 gn:area "Meijel" .
+
+gn:5801 gn:area "Venray" .
+
+gn:5802 gn:area "Venray" .
+
+gn:5803 gn:area "Venray" .
+
+gn:5804 gn:area "Venray" .
+
+gn:5807 gn:area "Oostrum" .
+
+gn:5808 gn:area "Oirlo" .
+
+gn:5809 gn:area "Leunen" .
+
+gn:5811 gn:area "Castenray" .
+
+gn:5812 gn:area "Heide" .
+
+gn:5813 gn:area "Ysselsteyn" .
+
+gn:5814 gn:area "Veulen" .
+
+gn:5815 gn:area "Merselo" .
+
+gn:5816 gn:area "Vredepeel" .
+
+gn:5817 gn:area "Smakt" .
+
+gn:5821 gn:area "Vierlingsbeek" .
+
+gn:5823 gn:area "Maashees" .
+
+gn:5824 gn:area "Holthees" .
+
+gn:5825 gn:area "Overloon" .
+
+gn:5826 gn:area "Groeningen" .
+
+gn:5827 gn:area "Vortum-Mullem" .
+
+gn:5831 gn:area "Boxmeer" .
+
+gn:5835 gn:area "Beugen" .
+
+gn:5836 gn:area "Sambeek" .
+
+gn:5841 gn:area "Oploo" .
+
+gn:5843 gn:area "Westerbeek" .
+
+gn:5844 gn:area "Stevensbeek" .
+
+gn:5845 gn:area "Sint Anthonis" .
+
+gn:5846 gn:area "Ledeacker" .
+
+gn:5851 gn:area "Afferden L" .
+
+gn:5853 gn:area "Siebengewald" .
+
+gn:5854 gn:area "Bergen L" .
+
+gn:5855 gn:area "Well L" .
+
+gn:5856 gn:area "Wellerlooi" .
+
+gn:5861 gn:area "Wanssum" .
+
+gn:5862 gn:area "Geijsteren" .
+
+gn:5863 gn:area "Blitterswijck" .
+
+gn:5864 gn:area "Meerlo" .
+
+gn:5865 gn:area "Tienray" .
+
+gn:5866 gn:area "Swolgen" .
+
+gn:5871 gn:area "Broekhuizenvorst" .
+
+gn:5872 gn:area "Broekhuizen" .
+
+gn:5911 gn:area "Venlo" .
+
+gn:5912 gn:area "Venlo" .
+
+gn:5913 gn:area "Venlo" .
+
+gn:5914 gn:area "Venlo" .
+
+gn:5915 gn:area "Venlo" .
+
+gn:5916 gn:area "Venlo" .
+
+gn:5921 gn:area "Venlo" .
+
+gn:5922 gn:area "Venlo" .
+
+gn:5923 gn:area "Venlo" .
+
+gn:5924 gn:area "Venlo" .
+
+gn:5925 gn:area "Venlo" .
+
+gn:5926 gn:area "Venlo" .
+
+gn:5927 gn:area "Venlo" .
+
+gn:5928 gn:area "Venlo" .
+
+gn:5931 gn:area "Tegelen" .
+
+gn:5932 gn:area "Tegelen" .
+
+gn:5935 gn:area "Steyl" .
+
+gn:5941 gn:area "Velden" .
+
+gn:5943 gn:area "Lomm" .
+
+gn:5944 gn:area "Arcen" .
+
+gn:5951 gn:area "Belfeld" .
+
+gn:5953 gn:area "Reuver" .
+
+gn:5954 gn:area "Beesel" .
+
+gn:5961 gn:area "Horst" .
+
+gn:5962 gn:area "Melderslo" .
+
+gn:5963 gn:area "Hegelsom" .
+
+gn:5964 gn:area "Meterik" .
+
+gn:5966 gn:area "America" .
+
+gn:5971 gn:area "Grubbenvorst" .
+
+gn:5973 gn:area "Lottum" .
+
+gn:5975 gn:area "Sevenum" .
+
+gn:5976 gn:area "Kronenberg" .
+
+gn:5977 gn:area "Evertsoord" .
+
+gn:5981 gn:area "Panningen" .
+
+gn:5984 gn:area "Koningslust" .
+
+gn:5985 gn:area "Grashoek" .
+
+gn:5986 gn:area "Beringe" .
+
+gn:5987 gn:area "Egchel" .
+
+gn:5988 gn:area "Helden" .
+
+gn:5991 gn:area "Baarlo" .
+
+gn:5993 gn:area "Maasbree" .
+
+gn:5995 gn:area "Kessel" .
+
+gn:6001 gn:area "Weert" .
+
+gn:6002 gn:area "Weert" .
+
+gn:6003 gn:area "Weert" .
+
+gn:6004 gn:area "Weert" .
+
+gn:6005 gn:area "Weert" .
+
+gn:6006 gn:area "Weert" .
+
+gn:6011 gn:area "Ell" .
+
+gn:6012 gn:area "Haler" .
+
+gn:6013 gn:area "Hunsel" .
+
+gn:6014 gn:area "Ittervoort" .
+
+gn:6015 gn:area "Neeritter" .
+
+gn:6017 gn:area "Thorn" .
+
+gn:6019 gn:area "Wessem" .
+
+gn:6021 gn:area "Budel" .
+
+gn:6023 gn:area "Budel-Schoot" .
+
+gn:6024 gn:area "Budel-Dorplein" .
+
+gn:6026 gn:area "Maarheeze" .
+
+gn:6027 gn:area "Soerendonk" .
+
+gn:6028 gn:area "Gastel" .
+
+gn:6029 gn:area "Sterksel" .
+
+gn:6031 gn:area "Nederweert" .
+
+gn:6034 gn:area "Nederweert-Eind" .
+
+gn:6035 gn:area "Ospel" .
+
+gn:6037 gn:area "Kelpen-Oler" .
+
+gn:6039 gn:area "Stramproy" .
+
+gn:6041 gn:area "Roermond" .
+
+gn:6042 gn:area "Roermond" .
+
+gn:6043 gn:area "Roermond" .
+
+gn:6044 gn:area "Roermond" .
+
+gn:6045 gn:area "Roermond" .
+
+gn:6049 gn:area "Herten" .
+
+gn:6051 gn:area "Maasbracht" .
+
+gn:6061 gn:area "Posterholt" .
+
+gn:6063 gn:area "Vlodrop" .
+
+gn:6065 gn:area "Montfort" .
+
+gn:6067 gn:area "Linne" .
+
+gn:6071 gn:area "Swalmen" .
+
+gn:6074 gn:area "Melick" .
+
+gn:6075 gn:area "Herkenbosch" .
+
+gn:6077 gn:area "Sint Odiliënberg" .
+
+gn:6081 gn:area "Haelen" .
+
+gn:6082 gn:area "Buggenum" .
+
+gn:6083 gn:area "Nunhem" .
+
+gn:6085 gn:area "Horn" .
+
+gn:6086 gn:area "Neer" .
+
+gn:6088 gn:area "Roggel" .
+
+gn:6089 gn:area "Heibloem" .
+
+gn:6091 gn:area "Leveroy" .
+
+gn:6092 gn:area "Leveroy" .
+
+gn:6093 gn:area "Heythuysen" .
+
+gn:6095 gn:area "Baexem" .
+
+gn:6096 gn:area "Grathem" .
+
+gn:6097 gn:area "Heel" .
+
+gn:6099 gn:area "Beegden" .
+
+gn:6101 gn:area "Echt" .
+
+gn:6102 gn:area "Echt" .
+
+gn:6104 gn:area "Koningsbosch" .
+
+gn:6105 gn:area "Maria Hoop" .
+
+gn:6107 gn:area "Stevensweert" .
+
+gn:6109 gn:area "Ohé en Laak" .
+
+gn:6111 gn:area "Sint Joost" .
+
+gn:6112 gn:area "Sint Joost" .
+
+gn:6114 gn:area "Susteren" .
+
+gn:6116 gn:area "Roosteren" .
+
+gn:6118 gn:area "Nieuwstadt" .
+
+gn:6121 gn:area "Born" .
+
+gn:6122 gn:area "Buchten" .
+
+gn:6123 gn:area "Holtum" .
+
+gn:6124 gn:area "Papenhoven" .
+
+gn:6125 gn:area "Obbicht" .
+
+gn:6127 gn:area "Grevenbicht" .
+
+gn:6129 gn:area "Urmond" .
+
+gn:6131 gn:area "Sittard" .
+
+gn:6132 gn:area "Sittard" .
+
+gn:6133 gn:area "Sittard" .
+
+gn:6134 gn:area "Sittard" .
+
+gn:6135 gn:area "Sittard" .
+
+gn:6136 gn:area "Sittard" .
+
+gn:6137 gn:area "Sittard" .
+
+gn:6141 gn:area "Limbricht" .
+
+gn:6142 gn:area "Einighausen" .
+
+gn:6143 gn:area "Guttecoven" .
+
+gn:6151 gn:area "Munstergeleen" .
+
+gn:6153 gn:area "Windraak" .
+
+gn:6155 gn:area "Puth" .
+
+gn:6161 gn:area "Geleen" .
+
+gn:6162 gn:area "Geleen" .
+
+gn:6163 gn:area "Geleen" .
+
+gn:6164 gn:area "Geleen" .
+
+gn:6165 gn:area "Geleen" .
+
+gn:6166 gn:area "Geleen" .
+
+gn:6167 gn:area "Geleen" .
+
+gn:6171 gn:area "Stein" .
+
+gn:6174 gn:area "Sweikhuizen" .
+
+gn:6176 gn:area "Spaubeek" .
+
+gn:6181 gn:area "Elsloo" .
+
+gn:6191 gn:area "Beek" .
+
+gn:6199 gn:area "Maastricht-Airport" .
+
+gn:6211 gn:area "Maastricht" .
+
+gn:6212 gn:area "Maastricht" .
+
+gn:6213 gn:area "Maastricht" .
+
+gn:6214 gn:area "Maastricht" .
+
+gn:6215 gn:area "Maastricht" .
+
+gn:6216 gn:area "Maastricht" .
+
+gn:6217 gn:area "Maastricht" .
+
+gn:6218 gn:area "Maastricht" .
+
+gn:6219 gn:area "Maastricht" .
+
+gn:6221 gn:area "Maastricht" .
+
+gn:6222 gn:area "Maastricht" .
+
+gn:6223 gn:area "Maastricht" .
+
+gn:6224 gn:area "Maastricht" .
+
+gn:6225 gn:area "Maastricht" .
+
+gn:6226 gn:area "Maastricht" .
+
+gn:6227 gn:area "Maastricht" .
+
+gn:6228 gn:area "Maastricht" .
+
+gn:6229 gn:area "Maastricht" .
+
+gn:6231 gn:area "Meerssen" .
+
+gn:6235 gn:area "Meerssen",
+        "Ulestraten" .
+
+gn:6237 gn:area "Moorveld" .
+
+gn:6241 gn:area "Bunde" .
+
+gn:6243 gn:area "Geulle",
+        "Moorveld" .
+
+gn:6245 gn:area "Eijsden" .
+
+gn:6247 gn:area "Gronsveld" .
+
+gn:6251 gn:area "Eckelrade" .
+
+gn:6252 gn:area "Eckelrade" .
+
+gn:6255 gn:area "Noorbeek" .
+
+gn:6261 gn:area "Mheer" .
+
+gn:6262 gn:area "Banholt" .
+
+gn:6265 gn:area "Sint Geertruid" .
+
+gn:6267 gn:area "Cadier en Keer" .
+
+gn:6268 gn:area "Bemelen" .
+
+gn:6269 gn:area "Margraten" .
+
+gn:6271 gn:area "Gulpen" .
+
+gn:6273 gn:area "Ingber" .
+
+gn:6274 gn:area "Reijmerstok" .
+
+gn:6276 gn:area "Heijenrath" .
+
+gn:6277 gn:area "Slenaken" .
+
+gn:6278 gn:area "Beutenaken" .
+
+gn:6281 gn:area "Mechelen" .
+
+gn:6285 gn:area "Epen" .
+
+gn:6286 gn:area "Wittem" .
+
+gn:6287 gn:area "Eys" .
+
+gn:6289 gn:area "Elkenrade" .
+
+gn:6291 gn:area "Vaals" .
+
+gn:6294 gn:area "Vijlen" .
+
+gn:6295 gn:area "Lemiers" .
+
+gn:6301 gn:area "Valkenburg" .
+
+gn:6305 gn:area "Schin op Geul" .
+
+gn:6307 gn:area "Scheulder" .
+
+gn:6311 gn:area "Ransdaal" .
+
+gn:6312 gn:area "Ransdaal" .
+
+gn:6321 gn:area "Wijlre" .
+
+gn:6325 gn:area "Berg en Terblijt" .
+
+gn:6333 gn:area "Schimmert" .
+
+gn:6336 gn:area "Hulsberg" .
+
+gn:6341 gn:area "Walem" .
+
+gn:6342 gn:area "Walem" .
+
+gn:6343 gn:area "Klimmen" .
+
+gn:6351 gn:area "Bocholtz" .
+
+gn:6353 gn:area "Baneheide" .
+
+gn:6361 gn:area "Nuth" .
+
+gn:6363 gn:area "Wijnandsrade" .
+
+gn:6365 gn:area "Schinnen" .
+
+gn:6367 gn:area "Voerendaal" .
+
+gn:6369 gn:area "Simpelveld" .
+
+gn:6371 gn:area "Landgraaf" .
+
+gn:6372 gn:area "Landgraaf" .
+
+gn:6373 gn:area "Landgraaf" .
+
+gn:6374 gn:area "Landgraaf" .
+
+gn:6411 gn:area "Heerlen" .
+
+gn:6412 gn:area "Heerlen" .
+
+gn:6413 gn:area "Heerlen" .
+
+gn:6414 gn:area "Heerlen" .
+
+gn:6415 gn:area "Heerlen" .
+
+gn:6416 gn:area "Heerlen" .
+
+gn:6417 gn:area "Heerlen" .
+
+gn:6418 gn:area "Heerlen" .
+
+gn:6419 gn:area "Heerlen" .
+
+gn:6421 gn:area "Heerlen" .
+
+gn:6422 gn:area "Heerlen" .
+
+gn:6431 gn:area "Hoensbroek" .
+
+gn:6432 gn:area "Hoensbroek" .
+
+gn:6433 gn:area "Hoensbroek" .
+
+gn:6436 gn:area "Amstenrade" .
+
+gn:6438 gn:area "Oirsbeek" .
+
+gn:6439 gn:area "Doenrade" .
+
+gn:6441 gn:area "Brunssum" .
+
+gn:6442 gn:area "Brunssum" .
+
+gn:6443 gn:area "Brunssum" .
+
+gn:6444 gn:area "Brunssum" .
+
+gn:6445 gn:area "Brunssum" .
+
+gn:6446 gn:area "Brunssum" .
+
+gn:6447 gn:area "Merkelbeek" .
+
+gn:6451 gn:area "Schinveld" .
+
+gn:6454 gn:area "Jabeek" .
+
+gn:6456 gn:area "Bingelrade" .
+
+gn:6461 gn:area "Kerkrade" .
+
+gn:6462 gn:area "Kerkrade" .
+
+gn:6463 gn:area "Kerkrade" .
+
+gn:6464 gn:area "Kerkrade" .
+
+gn:6465 gn:area "Kerkrade" .
+
+gn:6466 gn:area "Kerkrade" .
+
+gn:6467 gn:area "Kerkrade" .
+
+gn:6468 gn:area "Kerkrade" .
+
+gn:6469 gn:area "Kerkrade" .
+
+gn:6471 gn:area "Eygelshoven" .
+
+gn:6511 gn:area "Nijmegen" .
+
+gn:6512 gn:area "Nijmegen" .
+
+gn:6515 gn:area "Lent",
+        "Nijmegen" .
+
+gn:6521 gn:area "Nijmegen" .
+
+gn:6522 gn:area "Nijmegen" .
+
+gn:6523 gn:area "Nijmegen" .
+
+gn:6524 gn:area "Nijmegen" .
+
+gn:6525 gn:area "Nijmegen" .
+
+gn:6531 gn:area "Nijmegen" .
+
+gn:6532 gn:area "Nijmegen" .
+
+gn:6533 gn:area "Nijmegen" .
+
+gn:6534 gn:area "Nijmegen" .
+
+gn:6535 gn:area "Nijmegen" .
+
+gn:6536 gn:area "Nijmegen" .
+
+gn:6537 gn:area "Nijmegen" .
+
+gn:6538 gn:area "Nijmegen" .
+
+gn:6541 gn:area "Nijmegen" .
+
+gn:6542 gn:area "Nijmegen" .
+
+gn:6543 gn:area "Nijmegen" .
+
+gn:6544 gn:area "Nijmegen" .
+
+gn:6545 gn:area "Nijmegen" .
+
+gn:6546 gn:area "Nijmegen" .
+
+gn:6551 gn:area "Weurt" .
+
+gn:6561 gn:area "Groesbeek" .
+
+gn:6562 gn:area "Groesbeek" .
+
+gn:6564 gn:area "Heilig Landstichting" .
+
+gn:6566 gn:area "Millingen aan de Rijn" .
+
+gn:6571 gn:area "Berg en Dal" .
+
+gn:6572 gn:area "Berg en Dal" .
+
+gn:6573 gn:area "Beek" .
+
+gn:6574 gn:area "Nijmegen",
+        "Ubbergen" .
+
+gn:6575 gn:area "Persingen" .
+
+gn:6576 gn:area "Ooij" .
+
+gn:6577 gn:area "Erlecom" .
+
+gn:6578 gn:area "Leuth" .
+
+gn:6579 gn:area "Kekerdom" .
+
+gn:6581 gn:area "Malden" .
+
+gn:6582 gn:area "Heumen" .
+
+gn:6584 gn:area "Molenhoek" .
+
+gn:6585 gn:area "Mook" .
+
+gn:6586 gn:area "Plasmolen" .
+
+gn:6587 gn:area "Middelaar" .
+
+gn:6591 gn:area "Gennep" .
+
+gn:6595 gn:area "Ottersum" .
+
+gn:6596 gn:area "Milsbeek" .
+
+gn:6598 gn:area "Heijen" .
+
+gn:6599 gn:area "Ven-Zelderheide" .
+
+gn:6601 gn:area "Wijchen" .
+
+gn:6602 gn:area "Wijchen" .
+
+gn:6603 gn:area "Wijchen" .
+
+gn:6604 gn:area "Wijchen" .
+
+gn:6605 gn:area "Wijchen" .
+
+gn:6606 gn:area "Niftrik" .
+
+gn:6611 gn:area "Overasselt" .
+
+gn:6612 gn:area "Nederasselt" .
+
+gn:6613 gn:area "Balgoij" .
+
+gn:6615 gn:area "Leur" .
+
+gn:6616 gn:area "Hernen" .
+
+gn:6617 gn:area "Bergharen" .
+
+gn:6621 gn:area "Dreumel" .
+
+gn:6624 gn:area "Heerewaarden" .
+
+gn:6626 gn:area "Alphen" .
+
+gn:6627 gn:area "Maasbommel" .
+
+gn:6628 gn:area "Altforst" .
+
+gn:6629 gn:area "Appeltern" .
+
+gn:6631 gn:area "Horssen" .
+
+gn:6634 gn:area "Batenburg" .
+
+gn:6641 gn:area "Beuningen Gld" .
+
+gn:6642 gn:area "Beuningen Gld" .
+
+gn:6644 gn:area "Ewijk" .
+
+gn:6645 gn:area "Winssen" .
+
+gn:6651 gn:area "Druten" .
+
+gn:6652 gn:area "Druten" .
+
+gn:6653 gn:area "Deest" .
+
+gn:6654 gn:area "Afferden" .
+
+gn:6655 gn:area "Puiflijk" .
+
+gn:6657 gn:area "Boven-Leeuwen" .
+
+gn:6658 gn:area "Beneden-Leeuwen" .
+
+gn:6659 gn:area "Wamel" .
+
+gn:6661 gn:area "Elst" .
+
+gn:6662 gn:area "Elst" .
+
+gn:6663 gn:area "Lent" .
+
+gn:6665 gn:area "Driel" .
+
+gn:6666 gn:area "Heteren" .
+
+gn:6668 gn:area "Randwijk" .
+
+gn:6669 gn:area "Dodewaard" .
+
+gn:6671 gn:area "Zetten" .
+
+gn:6672 gn:area "Hemmen" .
+
+gn:6673 gn:area "Andelst" .
+
+gn:6674 gn:area "Herveld" .
+
+gn:6675 gn:area "Valburg" .
+
+gn:6676 gn:area "Homoet" .
+
+gn:6677 gn:area "Slijk-Ewijk" .
+
+gn:6678 gn:area "Oosterhout" .
+
+gn:6681 gn:area "Bemmel" .
+
+gn:6684 gn:area "Ressen" .
+
+gn:6685 gn:area "Haalderen" .
+
+gn:6686 gn:area "Doornenburg" .
+
+gn:6687 gn:area "Angeren" .
+
+gn:6691 gn:area "Gendt" .
+
+gn:6701 gn:area "Wageningen" .
+
+gn:6702 gn:area "Wageningen" .
+
+gn:6703 gn:area "Wageningen" .
+
+gn:6704 gn:area "Wageningen" .
+
+gn:6705 gn:area "Wageningen" .
+
+gn:6706 gn:area "Wageningen" .
+
+gn:6707 gn:area "Wageningen" .
+
+gn:6708 gn:area "Wageningen" .
+
+gn:6709 gn:area "Wageningen" .
+
+gn:6711 gn:area "Ede" .
+
+gn:6712 gn:area "Ede" .
+
+gn:6713 gn:area "Ede" .
+
+gn:6714 gn:area "Ede" .
+
+gn:6715 gn:area "Ede" .
+
+gn:6716 gn:area "Ede" .
+
+gn:6717 gn:area "Ede" .
+
+gn:6718 gn:area "Ede" .
+
+gn:6721 gn:area "Bennekom" .
+
+gn:6731 gn:area "Otterlo" .
+
+gn:6732 gn:area "Harskamp" .
+
+gn:6733 gn:area "Wekerom" .
+
+gn:6741 gn:area "Lunteren" .
+
+gn:6744 gn:area "Ederveen" .
+
+gn:6745 gn:area "De Klomp",
+        "Ede" .
+
+gn:6811 gn:area "Arnhem" .
+
+gn:6812 gn:area "Arnhem" .
+
+gn:6813 gn:area "Arnhem" .
+
+gn:6814 gn:area "Arnhem" .
+
+gn:6815 gn:area "Arnhem" .
+
+gn:6816 gn:area "Arnhem" .
+
+gn:6821 gn:area "Arnhem" .
+
+gn:6822 gn:area "Arnhem" .
+
+gn:6823 gn:area "Arnhem" .
+
+gn:6824 gn:area "Arnhem" .
+
+gn:6825 gn:area "Arnhem" .
+
+gn:6826 gn:area "Arnhem" .
+
+gn:6827 gn:area "Arnhem" .
+
+gn:6828 gn:area "Arnhem" .
+
+gn:6831 gn:area "Arnhem" .
+
+gn:6832 gn:area "Arnhem" .
+
+gn:6833 gn:area "Arnhem" .
+
+gn:6834 gn:area "Arnhem" .
+
+gn:6835 gn:area "Arnhem" .
+
+gn:6836 gn:area "Arnhem" .
+
+gn:6841 gn:area "Arnhem" .
+
+gn:6842 gn:area "Arnhem" .
+
+gn:6843 gn:area "Arnhem" .
+
+gn:6844 gn:area "Arnhem" .
+
+gn:6845 gn:area "Arnhem" .
+
+gn:6846 gn:area "Arnhem" .
+
+gn:6851 gn:area "Huissen" .
+
+gn:6852 gn:area "Huissen" .
+
+gn:6861 gn:area "Oosterbeek" .
+
+gn:6862 gn:area "Oosterbeek" .
+
+gn:6865 gn:area "Doorwerth" .
+
+gn:6866 gn:area "Heelsum",
+        "Renkum" .
+
+gn:6869 gn:area "Heveadorp" .
+
+gn:6871 gn:area "Renkum" .
+
+gn:6874 gn:area "Wolfheze" .
+
+gn:6877 gn:area "Deelen" .
+
+gn:6881 gn:area "Velp" .
+
+gn:6882 gn:area "Velp" .
+
+gn:6883 gn:area "Velp" .
+
+gn:6891 gn:area "Rozendaal" .
+
+gn:6901 gn:area "Zevenaar" .
+
+gn:6902 gn:area "Zevenaar" .
+
+gn:6903 gn:area "Zevenaar" .
+
+gn:6904 gn:area "Zevenaar" .
+
+gn:6905 gn:area "Zevenaar" .
+
+gn:6909 gn:area "Babberich" .
+
+gn:6911 gn:area "Pannerden" .
+
+gn:6913 gn:area "Aerdt" .
+
+gn:6914 gn:area "Herwen",
+        "Lobith" .
+
+gn:6915 gn:area "Lobith" .
+
+gn:6916 gn:area "Tolkamer" .
+
+gn:6917 gn:area "Spijk" .
+
+gn:6921 gn:area "Duiven" .
+
+gn:6922 gn:area "Duiven" .
+
+gn:6923 gn:area "Groessen" .
+
+gn:6924 gn:area "Loo Gld" .
+
+gn:6931 gn:area "Westervoort" .
+
+gn:6932 gn:area "Duiven",
+        "Westervoort" .
+
+gn:6941 gn:area "Didam" .
+
+gn:6942 gn:area "Didam" .
+
+gn:6951 gn:area "Dieren" .
+
+gn:6952 gn:area "Dieren" .
+
+gn:6953 gn:area "Dieren" .
+
+gn:6955 gn:area "Ellecom" .
+
+gn:6956 gn:area "Spankeren" .
+
+gn:6957 gn:area "Laag-Soeren" .
+
+gn:6961 gn:area "Eerbeek",
+        "Rozendaal" .
+
+gn:6964 gn:area "Hall" .
+
+gn:6971 gn:area "Brummen" .
+
+gn:6974 gn:area "Leuvenheim" .
+
+gn:6975 gn:area "Tonden" .
+
+gn:6981 gn:area "Doesburg" .
+
+gn:6982 gn:area "Doesburg" .
+
+gn:6983 gn:area "Doesburg" .
+
+gn:6984 gn:area "Doesburg" .
+
+gn:6986 gn:area "Angerlo" .
+
+gn:6987 gn:area "Giesbeek" .
+
+gn:6988 gn:area "Lathum" .
+
+gn:6991 gn:area "Rheden" .
+
+gn:6994 gn:area "De Steeg" .
+
+gn:6996 gn:area "Drempt" .
+
+gn:6997 gn:area "Hoog-Keppel" .
+
+gn:6998 gn:area "Laag-Keppel" .
+
+gn:6999 gn:area "Hummelo" .
+
+gn:7001 gn:area "Doetinchem" .
+
+gn:7002 gn:area "Doetinchem" .
+
+gn:7003 gn:area "Doetinchem" .
+
+gn:7004 gn:area "Doetinchem" .
+
+gn:7005 gn:area "Doetinchem" .
+
+gn:7006 gn:area "Doetinchem" .
+
+gn:7007 gn:area "Doetinchem" .
+
+gn:7008 gn:area "Doetinchem" .
+
+gn:7009 gn:area "Doetinchem" .
+
+gn:7011 gn:area "Gaanderen" .
+
+gn:7021 gn:area "Zelhem" .
+
+gn:7025 gn:area "Halle" .
+
+gn:7031 gn:area "Wehl" .
+
+gn:7035 gn:area "Kilder" .
+
+gn:7036 gn:area "Loerbeek" .
+
+gn:7037 gn:area "Beek" .
+
+gn:7038 gn:area "Zeddam" .
+
+gn:7039 gn:area "Stokkum" .
+
+gn:7041 gn:area "'s-Heerenberg" .
+
+gn:7044 gn:area "Lengel" .
+
+gn:7045 gn:area "Azewijn" .
+
+gn:7046 gn:area "Vethuizen" .
+
+gn:7047 gn:area "Braamt" .
+
+gn:7048 gn:area "Wijnbergen" .
+
+gn:7051 gn:area "Varsseveld" .
+
+gn:7054 gn:area "Westendorp" .
+
+gn:7055 gn:area "Heelweg" .
+
+gn:7061 gn:area "Terborg" .
+
+gn:7064 gn:area "Silvolde" .
+
+gn:7065 gn:area "Sinderen" .
+
+gn:7071 gn:area "Ulft" .
+
+gn:7075 gn:area "Etten" .
+
+gn:7076 gn:area "Varsselder" .
+
+gn:7077 gn:area "Netterden" .
+
+gn:7078 gn:area "Megchelen" .
+
+gn:7081 gn:area "Gendringen" .
+
+gn:7083 gn:area "Voorst" .
+
+gn:7084 gn:area "Breedenbroek" .
+
+gn:7091 gn:area "Dinxperlo" .
+
+gn:7095 gn:area "De Heurne" .
+
+gn:7101 gn:area "Winterswijk" .
+
+gn:7102 gn:area "Winterswijk" .
+
+gn:7103 gn:area "Winterswijk" .
+
+gn:7104 gn:area "Winterswijk Meddo" .
+
+gn:7105 gn:area "Winterswijk Huppel" .
+
+gn:7106 gn:area "Winterswijk Ratum" .
+
+gn:7107 gn:area "Winterswijk Kotten" .
+
+gn:7108 gn:area "Winterswijk Woold" .
+
+gn:7109 gn:area "Winterswijk Miste" .
+
+gn:7113 gn:area "Winterswijk Henxel" .
+
+gn:7115 gn:area "Winterswijk Brinkheurne" .
+
+gn:7119 gn:area "Winterswijk Corle" .
+
+gn:7121 gn:area "Aalten" .
+
+gn:7122 gn:area "Aalten" .
+
+gn:7123 gn:area "Aalten" .
+
+gn:7126 gn:area "Bredevoort" .
+
+gn:7131 gn:area "Lichtenvoorde" .
+
+gn:7132 gn:area "Lichtenvoorde" .
+
+gn:7134 gn:area "Vragender" .
+
+gn:7135 gn:area "Harreveld" .
+
+gn:7136 gn:area "Zieuwent" .
+
+gn:7137 gn:area "Lievelde" .
+
+gn:7141 gn:area "Groenlo" .
+
+gn:7142 gn:area "Groenlo" .
+
+gn:7151 gn:area "Eibergen" .
+
+gn:7152 gn:area "Eibergen" .
+
+gn:7156 gn:area "Beltrum" .
+
+gn:7157 gn:area "Rekken" .
+
+gn:7161 gn:area "Neede" .
+
+gn:7165 gn:area "Rietmolen" .
+
+gn:7201 gn:area "Zutphen" .
+
+gn:7202 gn:area "Zutphen" .
+
+gn:7203 gn:area "Zutphen" .
+
+gn:7204 gn:area "Zutphen" .
+
+gn:7205 gn:area "Zutphen" .
+
+gn:7206 gn:area "Zutphen" .
+
+gn:7207 gn:area "Zutphen" .
+
+gn:7211 gn:area "Eefde" .
+
+gn:7213 gn:area "Gorssel" .
+
+gn:7214 gn:area "Epse" .
+
+gn:7215 gn:area "Joppe" .
+
+gn:7216 gn:area "Kring van Dorth" .
+
+gn:7217 gn:area "Harfsen" .
+
+gn:7218 gn:area "Almen" .
+
+gn:7221 gn:area "Steenderen" .
+
+gn:7223 gn:area "Baak" .
+
+gn:7224 gn:area "Rha" .
+
+gn:7225 gn:area "Olburgen" .
+
+gn:7226 gn:area "Bronkhorst" .
+
+gn:7227 gn:area "Toldijk" .
+
+gn:7231 gn:area "Warnsveld",
+        "Zutphen" .
+
+gn:7232 gn:area "Warnsveld" .
+
+gn:7233 gn:area "Vierakker" .
+
+gn:7234 gn:area "Wichmond" .
+
+gn:7241 gn:area "Lochem" .
+
+gn:7242 gn:area "Lochem" .
+
+gn:7244 gn:area "Barchem" .
+
+gn:7245 gn:area "Laren" .
+
+gn:7251 gn:area "Vorden" .
+
+gn:7255 gn:area "Hengelo (Gld)" .
+
+gn:7256 gn:area "Keijenborg" .
+
+gn:7261 gn:area "Ruurlo" .
+
+gn:7263 gn:area "Mariënvelde" .
+
+gn:7271 gn:area "Borculo" .
+
+gn:7273 gn:area "Haarlo" .
+
+gn:7274 gn:area "Geesteren" .
+
+gn:7275 gn:area "Gelselaar" .
+
+gn:7311 gn:area "Apeldoorn" .
+
+gn:7312 gn:area "Apeldoorn" .
+
+gn:7313 gn:area "Apeldoorn" .
+
+gn:7314 gn:area "Apeldoorn" .
+
+gn:7315 gn:area "Apeldoorn" .
+
+gn:7316 gn:area "Apeldoorn" .
+
+gn:7317 gn:area "Apeldoorn" .
+
+gn:7321 gn:area "Apeldoorn" .
+
+gn:7322 gn:area "Apeldoorn" .
+
+gn:7323 gn:area "Apeldoorn" .
+
+gn:7324 gn:area "Apeldoorn" .
+
+gn:7325 gn:area "Apeldoorn" .
+
+gn:7326 gn:area "Apeldoorn" .
+
+gn:7327 gn:area "Apeldoorn" .
+
+gn:7328 gn:area "Apeldoorn" .
+
+gn:7329 gn:area "Apeldoorn" .
+
+gn:7331 gn:area "Apeldoorn" .
+
+gn:7332 gn:area "Apeldoorn" .
+
+gn:7333 gn:area "Apeldoorn" .
+
+gn:7334 gn:area "Apeldoorn" .
+
+gn:7335 gn:area "Apeldoorn" .
+
+gn:7336 gn:area "Apeldoorn" .
+
+gn:7339 gn:area "Ugchelen" .
+
+gn:7341 gn:area "Beemte Broekland" .
+
+gn:7345 gn:area "Wenum Wiesel" .
+
+gn:7346 gn:area "Hoog Soeren" .
+
+gn:7348 gn:area "Radio Kootwijk" .
+
+gn:7351 gn:area "Hoenderloo" .
+
+gn:7352 gn:area "Hoenderloo" .
+
+gn:7361 gn:area "Beekbergen" .
+
+gn:7364 gn:area "Lieren" .
+
+gn:7371 gn:area "Loenen" .
+
+gn:7381 gn:area "Klarenbeek" .
+
+gn:7382 gn:area "Klarenbeek" .
+
+gn:7383 gn:area "Voorst" .
+
+gn:7384 gn:area "Twello",
+        "Wilp" .
+
+gn:7391 gn:area "Twello",
+        "Wilp" .
+
+gn:7392 gn:area "Twello" .
+
+gn:7395 gn:area "Teuge" .
+
+gn:7396 gn:area "Terwolde" .
+
+gn:7397 gn:area "Nijbroek" .
+
+gn:7399 gn:area "Empe" .
+
+gn:7411 gn:area "Deventer" .
+
+gn:7412 gn:area "Deventer" .
+
+gn:7413 gn:area "Deventer" .
+
+gn:7414 gn:area "Deventer" .
+
+gn:7415 gn:area "Deventer" .
+
+gn:7416 gn:area "Deventer" .
+
+gn:7417 gn:area "Deventer" .
+
+gn:7418 gn:area "Deventer" .
+
+gn:7419 gn:area "Deventer" .
+
+gn:7421 gn:area "Deventer" .
+
+gn:7422 gn:area "Deventer" .
+
+gn:7423 gn:area "Deventer" .
+
+gn:7424 gn:area "Deventer" .
+
+gn:7425 gn:area "Deventer" .
+
+gn:7426 gn:area "Deventer" .
+
+gn:7427 gn:area "Deventer" .
+
+gn:7428 gn:area "Deventer" .
+
+gn:7429 gn:area "Colmschate" .
+
+gn:7431 gn:area "Diepenveen" .
+
+gn:7433 gn:area "Schalkhaar" .
+
+gn:7434 gn:area "Lettele" .
+
+gn:7435 gn:area "Okkenbroek" .
+
+gn:7437 gn:area "Bathmen" .
+
+gn:7439 gn:area "Steenenkamer" .
+
+gn:7441 gn:area "Nijverdal" .
+
+gn:7442 gn:area "Nijverdal" .
+
+gn:7443 gn:area "Nijverdal" .
+
+gn:7447 gn:area "Hellendoorn" .
+
+gn:7448 gn:area "Haarle" .
+
+gn:7451 gn:area "Holten" .
+
+gn:7461 gn:area "Rijssen" .
+
+gn:7462 gn:area "Rijssen" .
+
+gn:7463 gn:area "Rijssen" .
+
+gn:7466 gn:area "Zuna" .
+
+gn:7467 gn:area "Notter" .
+
+gn:7468 gn:area "Enter" .
+
+gn:7471 gn:area "Goor" .
+
+gn:7472 gn:area "Goor" .
+
+gn:7475 gn:area "Markelo" .
+
+gn:7478 gn:area "Diepenheim" .
+
+gn:7481 gn:area "Haaksbergen" .
+
+gn:7482 gn:area "Haaksbergen" .
+
+gn:7483 gn:area "Haaksbergen" .
+
+gn:7491 gn:area "Delden" .
+
+gn:7495 gn:area "Ambt Delden" .
+
+gn:7496 gn:area "Hengevelde" .
+
+gn:7497 gn:area "Bentelo" .
+
+gn:7511 gn:area "Enschede" .
+
+gn:7512 gn:area "Enschede" .
+
+gn:7513 gn:area "Enschede" .
+
+gn:7514 gn:area "Enschede" .
+
+gn:7521 gn:area "Enschede" .
+
+gn:7522 gn:area "Enschede" .
+
+gn:7523 gn:area "Enschede" .
+
+gn:7524 gn:area "Enschede" .
+
+gn:7525 gn:area "Enschede" .
+
+gn:7531 gn:area "Enschede" .
+
+gn:7532 gn:area "Enschede" .
+
+gn:7533 gn:area "Enschede" .
+
+gn:7534 gn:area "Enschede" .
+
+gn:7535 gn:area "Enschede" .
+
+gn:7536 gn:area "Enschede" .
+
+gn:7541 gn:area "Enschede" .
+
+gn:7542 gn:area "Enschede" .
+
+gn:7543 gn:area "Enschede" .
+
+gn:7544 gn:area "Enschede" .
+
+gn:7545 gn:area "Enschede" .
+
+gn:7546 gn:area "Enschede" .
+
+gn:7547 gn:area "Enschede" .
+
+gn:7548 gn:area "Enschede" .
+
+gn:7551 gn:area "Hengelo" .
+
+gn:7552 gn:area "Hengelo" .
+
+gn:7553 gn:area "Hengelo" .
+
+gn:7554 gn:area "Hengelo" .
+
+gn:7555 gn:area "Hengelo" .
+
+gn:7556 gn:area "Hengelo" .
+
+gn:7557 gn:area "Hengelo" .
+
+gn:7558 gn:area "Hengelo" .
+
+gn:7559 gn:area "Hengelo" .
+
+gn:7561 gn:area "Deurningen" .
+
+gn:7562 gn:area "Deurningen" .
+
+gn:7571 gn:area "Oldenzaal" .
+
+gn:7572 gn:area "Oldenzaal" .
+
+gn:7573 gn:area "Oldenzaal" .
+
+gn:7574 gn:area "Oldenzaal" .
+
+gn:7575 gn:area "Oldenzaal" .
+
+gn:7576 gn:area "Oldenzaal" .
+
+gn:7577 gn:area "Oldenzaal" .
+
+gn:7581 gn:area "Losser" .
+
+gn:7582 gn:area "Losser" .
+
+gn:7585 gn:area "Glane" .
+
+gn:7586 gn:area "Overdinkel" .
+
+gn:7587 gn:area "de Lutte" .
+
+gn:7588 gn:area "Beuningen" .
+
+gn:7591 gn:area "Denekamp" .
+
+gn:7595 gn:area "Weerselo" .
+
+gn:7596 gn:area "Rossum" .
+
+gn:7597 gn:area "Saasveld" .
+
+gn:7601 gn:area "Almelo" .
+
+gn:7602 gn:area "Almelo" .
+
+gn:7603 gn:area "Almelo" .
+
+gn:7604 gn:area "Almelo" .
+
+gn:7605 gn:area "Almelo" .
+
+gn:7606 gn:area "Almelo" .
+
+gn:7607 gn:area "Almelo" .
+
+gn:7608 gn:area "Almelo" .
+
+gn:7609 gn:area "Almelo" .
+
+gn:7610 gn:area "Almelo" .
+
+gn:7611 gn:area "Aadorp" .
+
+gn:7614 gn:area "Mariaparochie" .
+
+gn:7615 gn:area "Harbrinkhoek" .
+
+gn:7621 gn:area "Borne" .
+
+gn:7622 gn:area "Borne" .
+
+gn:7623 gn:area "Borne" .
+
+gn:7625 gn:area "Zenderen" .
+
+gn:7626 gn:area "Hertme" .
+
+gn:7627 gn:area "Bornerbroek" .
+
+gn:7631 gn:area "Ootmarsum" .
+
+gn:7634 gn:area "Tilligte" .
+
+gn:7635 gn:area "Lattrop-Breklenkamp" .
+
+gn:7636 gn:area "Agelo" .
+
+gn:7637 gn:area "Oud Ootmarsum" .
+
+gn:7638 gn:area "Nutter" .
+
+gn:7641 gn:area "Hoge Hexel",
+        "Wierden" .
+
+gn:7642 gn:area "Notter",
+        "Wierden" .
+
+gn:7645 gn:area "Enter",
+        "Hoge Hexel",
+        "Wierden" .
+
+gn:7651 gn:area "Tubbergen" .
+
+gn:7661 gn:area "Vasse" .
+
+gn:7662 gn:area "Hezingen" .
+
+gn:7663 gn:area "Mander" .
+
+gn:7664 gn:area "Manderveen" .
+
+gn:7665 gn:area "Albergen" .
+
+gn:7666 gn:area "Fleringen" .
+
+gn:7667 gn:area "Reutum" .
+
+gn:7668 gn:area "Haarle" .
+
+gn:7671 gn:area "Vriezenveen" .
+
+gn:7672 gn:area "Vriezenveen" .
+
+gn:7675 gn:area "Bruinehaar" .
+
+gn:7676 gn:area "Westerhaar-Vriezenveensewijk" .
+
+gn:7678 gn:area "Geesteren" .
+
+gn:7679 gn:area "Langeveen" .
+
+gn:7681 gn:area "Vroomshoop" .
+
+gn:7683 gn:area "Den Ham" .
+
+gn:7685 gn:area "Beerzerveld" .
+
+gn:7686 gn:area "Geerdijk" .
+
+gn:7687 gn:area "Daarlerveen" .
+
+gn:7688 gn:area "Daarle" .
+
+gn:7691 gn:area "Bergentheim" .
+
+gn:7692 gn:area "Mariënberg" .
+
+gn:7693 gn:area "Sibculo" .
+
+gn:7694 gn:area "Kloosterhaar" .
+
+gn:7695 gn:area "Bruchterveld" .
+
+gn:7696 gn:area "Brucht" .
+
+gn:7701 gn:area "Dedemsvaart" .
+
+gn:7702 gn:area "Dedemsvaart" .
+
+gn:7705 gn:area "Drogteropslagen" .
+
+gn:7707 gn:area "Balkbrug" .
+
+gn:7711 gn:area "Nieuwleusen" .
+
+gn:7715 gn:area "Punthorst" .
+
+gn:7721 gn:area "Dalfsen" .
+
+gn:7722 gn:area "Dalfsen" .
+
+gn:7731 gn:area "Ommen" .
+
+gn:7732 gn:area "Ommen" .
+
+gn:7734 gn:area "Vilsteren" .
+
+gn:7735 gn:area "Arriën" .
+
+gn:7736 gn:area "Beerze" .
+
+gn:7737 gn:area "Stegeren" .
+
+gn:7738 gn:area "Witharen" .
+
+gn:7739 gn:area "Vinkenbuurt" .
+
+gn:7741 gn:area "Coevorden" .
+
+gn:7742 gn:area "Coevorden" .
+
+gn:7751 gn:area "Dalen" .
+
+gn:7753 gn:area "Dalerpeel" .
+
+gn:7754 gn:area "Wachtum" .
+
+gn:7755 gn:area "Dalerveen" .
+
+gn:7756 gn:area "Stieltjeskanaal" .
+
+gn:7761 gn:area "Schoonebeek" .
+
+gn:7764 gn:area "Zandpol" .
+
+gn:7765 gn:area "Weiteveen" .
+
+gn:7766 gn:area "Nieuw-Schoonebeek" .
+
+gn:7771 gn:area "Hardenberg" .
+
+gn:7772 gn:area "Hardenberg" .
+
+gn:7773 gn:area "Hardenberg" .
+
+gn:7775 gn:area "Lutten" .
+
+gn:7776 gn:area "Slagharen" .
+
+gn:7777 gn:area "Schuinesloot" .
+
+gn:7778 gn:area "Loozen" .
+
+gn:7779 gn:area "Holthone" .
+
+gn:7781 gn:area "De Krim" .
+
+gn:7782 gn:area "De Krim" .
+
+gn:7783 gn:area "Gramsbergen" .
+
+gn:7784 gn:area "Ane" .
+
+gn:7785 gn:area "Anevelde" .
+
+gn:7786 gn:area "Den Velde" .
+
+gn:7787 gn:area "Holtheme" .
+
+gn:7788 gn:area "Anerveen" .
+
+gn:7791 gn:area "Radewijk" .
+
+gn:7792 gn:area "Venebrugge" .
+
+gn:7793 gn:area "Hoogenweg" .
+
+gn:7794 gn:area "Rheeze" .
+
+gn:7795 gn:area "Diffelen" .
+
+gn:7796 gn:area "Heemserveen" .
+
+gn:7797 gn:area "Rheezerveen" .
+
+gn:7798 gn:area "Collendoorn" .
+
+gn:7811 gn:area "Emmen" .
+
+gn:7812 gn:area "Emmen" .
+
+gn:7813 gn:area "Emmen" .
+
+gn:7814 gn:area "Emmen" .
+
+gn:7815 gn:area "Emmen" .
+
+gn:7821 gn:area "Emmen" .
+
+gn:7822 gn:area "Emmen" .
+
+gn:7823 gn:area "Emmen" .
+
+gn:7824 gn:area "Emmen" .
+
+gn:7825 gn:area "Emmen" .
+
+gn:7826 gn:area "Emmen" .
+
+gn:7827 gn:area "Emmen" .
+
+gn:7828 gn:area "Emmen" .
+
+gn:7831 gn:area "Nieuw-Weerdinge" .
+
+gn:7833 gn:area "Nieuw-Amsterdam" .
+
+gn:7841 gn:area "Sleen" .
+
+gn:7842 gn:area "Diphoorn" .
+
+gn:7843 gn:area "Erm" .
+
+gn:7844 gn:area "Veenoord" .
+
+gn:7845 gn:area "Holsloot" .
+
+gn:7846 gn:area "Noord-Sleen" .
+
+gn:7847 gn:area "'t Haantje" .
+
+gn:7848 gn:area "Schoonoord" .
+
+gn:7849 gn:area "De Kiel" .
+
+gn:7851 gn:area "Zweeloo" .
+
+gn:7852 gn:area "Wezup" .
+
+gn:7853 gn:area "Wezuperbrug" .
+
+gn:7854 gn:area "Aalden" .
+
+gn:7855 gn:area "Meppen" .
+
+gn:7856 gn:area "Benneveld" .
+
+gn:7858 gn:area "Eeserveen" .
+
+gn:7859 gn:area "Eeserveen" .
+
+gn:7861 gn:area "Oosterhesselen" .
+
+gn:7863 gn:area "Gees" .
+
+gn:7864 gn:area "Zwinderen" .
+
+gn:7871 gn:area "Klijndijk" .
+
+gn:7872 gn:area "Valthe" .
+
+gn:7873 gn:area "Odoorn" .
+
+gn:7874 gn:area "Odoornerveen" .
+
+gn:7875 gn:area "Exloo" .
+
+gn:7876 gn:area "Valthermond" .
+
+gn:7877 gn:area "2e Valthermond" .
+
+gn:7881 gn:area "Emmer-Compascuum",
+        "Klazienaveen" .
+
+gn:7884 gn:area "Barger-Compascuum" .
+
+gn:7885 gn:area "Nieuw-Dordrecht" .
+
+gn:7887 gn:area "Erica" .
+
+gn:7889 gn:area "Klazienaveen-Noord" .
+
+gn:7891 gn:area "Klazienaveen" .
+
+gn:7892 gn:area "Klazienaveen" .
+
+gn:7894 gn:area "Zwartemeer" .
+
+gn:7895 gn:area "Roswinkel" .
+
+gn:7901 gn:area "Hoogeveen" .
+
+gn:7902 gn:area "Hoogeveen" .
+
+gn:7903 gn:area "Hoogeveen" .
+
+gn:7904 gn:area "Hoogeveen" .
+
+gn:7905 gn:area "Hoogeveen" .
+
+gn:7906 gn:area "Hoogeveen" .
+
+gn:7907 gn:area "Hoogeveen" .
+
+gn:7908 gn:area "Hoogeveen" .
+
+gn:7909 gn:area "Hoogeveen" .
+
+gn:7910 gn:area "Nieuweroord" .
+
+gn:7911 gn:area "Nieuweroord",
+        "Noordscheschut" .
+
+gn:7912 gn:area "Nieuweroord" .
+
+gn:7913 gn:area "Hollandscheveld",
+        "Hoogeveen",
+        "Nieuweroord" .
+
+gn:7914 gn:area "Noordscheschut" .
+
+gn:7915 gn:area "Alteveer gem Hoogeveen" .
+
+gn:7916 gn:area "Elim",
+        "Hollandscheveld" .
+
+gn:7917 gn:area "Geesbrug" .
+
+gn:7918 gn:area "Nieuwlande" .
+
+gn:7921 gn:area "Zuidwolde" .
+
+gn:7924 gn:area "Veeningen" .
+
+gn:7925 gn:area "Linde" .
+
+gn:7926 gn:area "Kerkenveld" .
+
+gn:7927 gn:area "Alteveer" .
+
+gn:7928 gn:area "Stuifzand" .
+
+gn:7929 gn:area "Nieuwlande Coevorden" .
+
+gn:7931 gn:area "Fluitenberg" .
+
+gn:7932 gn:area "Echten" .
+
+gn:7933 gn:area "Pesse" .
+
+gn:7934 gn:area "Stuifzand" .
+
+gn:7935 gn:area "Eursinge" .
+
+gn:7936 gn:area "Tiendeveen" .
+
+gn:7937 gn:area "Tiendeveen" .
+
+gn:7938 gn:area "Nieuw-Balinge" .
+
+gn:7941 gn:area "Meppel" .
+
+gn:7942 gn:area "Meppel" .
+
+gn:7943 gn:area "Meppel" .
+
+gn:7944 gn:area "Meppel" .
+
+gn:7946 gn:area "Wanneperveen" .
+
+gn:7948 gn:area "Meppel",
+        "Nijeveen" .
+
+gn:7949 gn:area "Rogat" .
+
+gn:7951 gn:area "Staphorst" .
+
+gn:7954 gn:area "Rouveen" .
+
+gn:7955 gn:area "IJhorst" .
+
+gn:7957 gn:area "de Wijk" .
+
+gn:7958 gn:area "Koekange" .
+
+gn:7961 gn:area "Ruinerwold" .
+
+gn:7963 gn:area "Ruinen" .
+
+gn:7964 gn:area "Ansen" .
+
+gn:7965 gn:area "Broekhuizen" .
+
+gn:7966 gn:area "De Schiphorst" .
+
+gn:7971 gn:area "Havelte" .
+
+gn:7973 gn:area "Darp" .
+
+gn:7974 gn:area "Havelterberg" .
+
+gn:7975 gn:area "Uffelte" .
+
+gn:7981 gn:area "Diever" .
+
+gn:7983 gn:area "Wapse" .
+
+gn:7984 gn:area "Dieverbrug" .
+
+gn:7985 gn:area "Geeuwenbrug" .
+
+gn:7986 gn:area "Wittelte" .
+
+gn:7991 gn:area "Dwingeloo" .
+
+gn:8011 gn:area "Zwolle" .
+
+gn:8012 gn:area "Zwolle" .
+
+gn:8013 gn:area "Zwolle" .
+
+gn:8014 gn:area "Zwolle" .
+
+gn:8015 gn:area "Zwolle" .
+
+gn:8016 gn:area "Zwolle" .
+
+gn:8017 gn:area "Zwolle" .
+
+gn:8019 gn:area "Zwolle" .
+
+gn:8021 gn:area "Zwolle" .
+
+gn:8022 gn:area "Zwolle" .
+
+gn:8023 gn:area "Zwolle" .
+
+gn:8024 gn:area "Zwolle" .
+
+gn:8025 gn:area "Zwolle" .
+
+gn:8026 gn:area "Zwolle" .
+
+gn:8028 gn:area "Zwolle" .
+
+gn:8031 gn:area "Zwolle" .
+
+gn:8032 gn:area "Zwolle" .
+
+gn:8033 gn:area "Zwolle" .
+
+gn:8034 gn:area "Zwolle" .
+
+gn:8035 gn:area "Zwolle" .
+
+gn:8041 gn:area "Zwolle" .
+
+gn:8042 gn:area "Zwolle" .
+
+gn:8043 gn:area "Zwolle" .
+
+gn:8044 gn:area "Zwolle" .
+
+gn:8045 gn:area "Zwolle" .
+
+gn:8051 gn:area "Hattem" .
+
+gn:8052 gn:area "Hattem" .
+
+gn:8055 gn:area "Laag Zuthem" .
+
+gn:8061 gn:area "Hasselt" .
+
+gn:8064 gn:area "Zwartsluis" .
+
+gn:8066 gn:area "Belt-Schutsloot" .
+
+gn:8071 gn:area "Nunspeet" .
+
+gn:8072 gn:area "Nunspeet" .
+
+gn:8075 gn:area "Elspeet" .
+
+gn:8076 gn:area "Vierhouten" .
+
+gn:8077 gn:area "Hulshorst" .
+
+gn:8079 gn:area "Noordeinde Gld" .
+
+gn:8081 gn:area "Elburg" .
+
+gn:8082 gn:area "Elburg" .
+
+gn:8084 gn:area "'t Harde" .
+
+gn:8085 gn:area "Doornspijk" .
+
+gn:8091 gn:area "Wezep" .
+
+gn:8094 gn:area "Hattemerbroek" .
+
+gn:8095 gn:area "'t Loo Oldebroek" .
+
+gn:8096 gn:area "Oldebroek" .
+
+gn:8097 gn:area "Oosterwolde Gld" .
+
+gn:8101 gn:area "Raalte" .
+
+gn:8102 gn:area "Raalte" .
+
+gn:8103 gn:area "Raalte" .
+
+gn:8105 gn:area "Luttenberg" .
+
+gn:8106 gn:area "Mariënheem" .
+
+gn:8107 gn:area "Broekland" .
+
+gn:8111 gn:area "Heeten" .
+
+gn:8112 gn:area "Nieuw Heeten" .
+
+gn:8121 gn:area "Olst" .
+
+gn:8124 gn:area "Wesepe" .
+
+gn:8131 gn:area "Wijhe" .
+
+gn:8141 gn:area "Heino" .
+
+gn:8144 gn:area "Lierderholthuis" .
+
+gn:8146 gn:area "Dalmsholte" .
+
+gn:8147 gn:area "Giethmen" .
+
+gn:8148 gn:area "Lemele" .
+
+gn:8151 gn:area "Lemelerveld" .
+
+gn:8152 gn:area "Lemelerveld" .
+
+gn:8153 gn:area "Lemelerveld" .
+
+gn:8154 gn:area "Lemelerveld" .
+
+gn:8161 gn:area "Epe" .
+
+gn:8162 gn:area "Epe" .
+
+gn:8166 gn:area "Emst" .
+
+gn:8167 gn:area "Oene" .
+
+gn:8171 gn:area "Vaassen" .
+
+gn:8172 gn:area "Vaassen" .
+
+gn:8181 gn:area "Heerde" .
+
+gn:8191 gn:area "Wapenveld" .
+
+gn:8193 gn:area "Vorchten" .
+
+gn:8194 gn:area "Veessen" .
+
+gn:8196 gn:area "Welsum" .
+
+gn:8198 gn:area "Marle" .
+
+gn:8211 gn:area "Lelystad" .
+
+gn:8212 gn:area "Lelystad" .
+
+gn:8218 gn:area "Lelystad" .
+
+gn:8219 gn:area "Lelystad" .
+
+gn:8221 gn:area "Lelystad" .
+
+gn:8222 gn:area "Lelystad" .
+
+gn:8223 gn:area "Lelystad" .
+
+gn:8224 gn:area "Lelystad" .
+
+gn:8225 gn:area "Lelystad" .
+
+gn:8226 gn:area "Lelystad" .
+
+gn:8231 gn:area "Lelystad" .
+
+gn:8232 gn:area "Lelystad" .
+
+gn:8233 gn:area "Lelystad" .
+
+gn:8239 gn:area "Lelystad" .
+
+gn:8241 gn:area "Lelystad" .
+
+gn:8242 gn:area "Lelystad" .
+
+gn:8243 gn:area "Lelystad" .
+
+gn:8244 gn:area "Lelystad" .
+
+gn:8245 gn:area "Lelystad" .
+
+gn:8251 gn:area "Dronten" .
+
+gn:8252 gn:area "Dronten" .
+
+gn:8253 gn:area "Dronten" .
+
+gn:8254 gn:area "Dronten" .
+
+gn:8255 gn:area "Swifterbant" .
+
+gn:8256 gn:area "Biddinghuizen" .
+
+gn:8261 gn:area "Kampen" .
+
+gn:8262 gn:area "Kampen" .
+
+gn:8263 gn:area "Kampen" .
+
+gn:8264 gn:area "Kampen" .
+
+gn:8265 gn:area "Kampen" .
+
+gn:8266 gn:area "Kampen" .
+
+gn:8267 gn:area "Kampen" .
+
+gn:8271 gn:area "IJsselmuiden" .
+
+gn:8274 gn:area "Wilsum" .
+
+gn:8275 gn:area "'s-Heerenbroek" .
+
+gn:8276 gn:area "Zalk" .
+
+gn:8277 gn:area "Grafhorst" .
+
+gn:8278 gn:area "Kamperveen" .
+
+gn:8281 gn:area "Genemuiden" .
+
+gn:8291 gn:area "Mastenbroek" .
+
+gn:8293 gn:area "Mastenbroek" .
+
+gn:8294 gn:area "Mastenbroek" .
+
+gn:8301 gn:area "Emmeloord" .
+
+gn:8302 gn:area "Emmeloord" .
+
+gn:8303 gn:area "Emmeloord" .
+
+gn:8304 gn:area "Emmeloord" .
+
+gn:8305 gn:area "Emmeloord" .
+
+gn:8307 gn:area "Ens" .
+
+gn:8308 gn:area "Nagele" .
+
+gn:8309 gn:area "Tollebeek" .
+
+gn:8311 gn:area "Espel" .
+
+gn:8312 gn:area "Creil" .
+
+gn:8313 gn:area "Rutten" .
+
+gn:8314 gn:area "Bant" .
+
+gn:8315 gn:area "Luttelgeest" .
+
+gn:8316 gn:area "Marknesse" .
+
+gn:8317 gn:area "Kraggenburg" .
+
+gn:8319 gn:area "Schokland" .
+
+gn:8321 gn:area "Urk" .
+
+gn:8322 gn:area "Urk" .
+
+gn:8325 gn:area "Vollenhove" .
+
+gn:8326 gn:area "Sint Jansklooster" .
+
+gn:8331 gn:area "Steenwijk" .
+
+gn:8332 gn:area "Steenwijk" .
+
+gn:8333 gn:area "Steenwijk" .
+
+gn:8334 gn:area "Tuk" .
+
+gn:8335 gn:area "Witte Paarden" .
+
+gn:8336 gn:area "Baars" .
+
+gn:8337 gn:area "De Pol" .
+
+gn:8338 gn:area "Willemsoord" .
+
+gn:8339 gn:area "Marijenkampen" .
+
+gn:8341 gn:area "Steenwijkerwold" .
+
+gn:8342 gn:area "Basse" .
+
+gn:8343 gn:area "Zuidveen" .
+
+gn:8344 gn:area "Onna" .
+
+gn:8345 gn:area "Kallenkote" .
+
+gn:8346 gn:area "De Bult" .
+
+gn:8347 gn:area "Eesveen" .
+
+gn:8351 gn:area "Wapserveen" .
+
+gn:8355 gn:area "Giethoorn" .
+
+gn:8356 gn:area "Blokzijl" .
+
+gn:8361 gn:area "IJsselham" .
+
+gn:8362 gn:area "Nederland" .
+
+gn:8363 gn:area "Wetering" .
+
+gn:8371 gn:area "Scheerwolde" .
+
+gn:8372 gn:area "Baarlo" .
+
+gn:8373 gn:area "Blankenham" .
+
+gn:8374 gn:area "Kuinre" .
+
+gn:8375 gn:area "Oldemarkt" .
+
+gn:8376 gn:area "Ossenzijl" .
+
+gn:8377 gn:area "Kalenberg" .
+
+gn:8378 gn:area "Paasloo" .
+
+gn:8381 gn:area "Vledder" .
+
+gn:8382 gn:area "Frederiksoord" .
+
+gn:8383 gn:area "Nijensleek" .
+
+gn:8384 gn:area "Wilhelminaoord" .
+
+gn:8385 gn:area "Vledderveen" .
+
+gn:8386 gn:area "Doldersum" .
+
+gn:8387 gn:area "Boschoord" .
+
+gn:8388 gn:area "Oosterstreek" .
+
+gn:8389 gn:area "Zandhuizen" .
+
+gn:8391 gn:area "Noordwolde" .
+
+gn:8392 gn:area "Boijl" .
+
+gn:8393 gn:area "Vinkega" .
+
+gn:8394 gn:area "De Hoeve" .
+
+gn:8395 gn:area "Steggerda" .
+
+gn:8396 gn:area "Peperga" .
+
+gn:8397 gn:area "De Blesse" .
+
+gn:8398 gn:area "Blesdijke" .
+
+gn:8401 gn:area "Gorredijk" .
+
+gn:8403 gn:area "Jonkerslân" .
+
+gn:8404 gn:area "Langezwaag" .
+
+gn:8405 gn:area "Luxwoude" .
+
+gn:8406 gn:area "Tijnje" .
+
+gn:8407 gn:area "Terwispel" .
+
+gn:8408 gn:area "Lippenhuizen" .
+
+gn:8409 gn:area "Hemrik" .
+
+gn:8411 gn:area "Jubbega" .
+
+gn:8412 gn:area "Hoornsterzwaag" .
+
+gn:8413 gn:area "Oudehorne" .
+
+gn:8414 gn:area "Nieuwehorne" .
+
+gn:8415 gn:area "Bontebok" .
+
+gn:8421 gn:area "Oldeberkoop" .
+
+gn:8422 gn:area "Nijeberkoop" .
+
+gn:8423 gn:area "Makkinga" .
+
+gn:8424 gn:area "Elsloo" .
+
+gn:8425 gn:area "Langedijke" .
+
+gn:8426 gn:area "Appelscha" .
+
+gn:8427 gn:area "Ravenswoud" .
+
+gn:8428 gn:area "Fochteloo" .
+
+gn:8431 gn:area "Oosterwolde" .
+
+gn:8432 gn:area "Haule" .
+
+gn:8433 gn:area "Haulerwijk" .
+
+gn:8434 gn:area "Waskemeer" .
+
+gn:8435 gn:area "Donkerbroek" .
+
+gn:8437 gn:area "Zorgvlied" .
+
+gn:8438 gn:area "Wateren" .
+
+gn:8439 gn:area "Oude Willem" .
+
+gn:8441 gn:area "Heerenveen" .
+
+gn:8442 gn:area "Heerenveen" .
+
+gn:8443 gn:area "Heerenveen" .
+
+gn:8444 gn:area "Heerenveen" .
+
+gn:8445 gn:area "Heerenveen" .
+
+gn:8446 gn:area "Heerenveen" .
+
+gn:8447 gn:area "Heerenveen" .
+
+gn:8448 gn:area "Heerenveen" .
+
+gn:8449 gn:area "Terband" .
+
+gn:8451 gn:area "Oudeschoot" .
+
+gn:8452 gn:area "Nieuweschoot" .
+
+gn:8453 gn:area "Oranjewoud" .
+
+gn:8454 gn:area "Mildam" .
+
+gn:8455 gn:area "Katlijk" .
+
+gn:8456 gn:area "De Knipe" .
+
+gn:8457 gn:area "Gersloot" .
+
+gn:8458 gn:area "Tjalleberd" .
+
+gn:8459 gn:area "Luinjeberd" .
+
+gn:8461 gn:area "Rottum" .
+
+gn:8462 gn:area "Rotstergaast" .
+
+gn:8463 gn:area "Rotsterhaule" .
+
+gn:8464 gn:area "Sintjohannesga" .
+
+gn:8465 gn:area "Oudehaske" .
+
+gn:8466 gn:area "Nijehaske" .
+
+gn:8467 gn:area "Vegelinsoord" .
+
+gn:8468 gn:area "Haskerdijken" .
+
+gn:8469 gn:area "Nieuwebrug" .
+
+gn:8471 gn:area "Wolvega" .
+
+gn:8472 gn:area "Wolvega" .
+
+gn:8474 gn:area "Oldeholtpade" .
+
+gn:8475 gn:area "Nijeholtpade" .
+
+gn:8476 gn:area "Ter Idzard" .
+
+gn:8477 gn:area "Oldeholtwolde" .
+
+gn:8478 gn:area "Sonnega" .
+
+gn:8479 gn:area "Oldetrijne" .
+
+gn:8481 gn:area "Nijetrijne" .
+
+gn:8482 gn:area "Spanga" .
+
+gn:8483 gn:area "Scherpenzeel" .
+
+gn:8484 gn:area "Langelille" .
+
+gn:8485 gn:area "Munnekeburen" .
+
+gn:8486 gn:area "Oldelamer" .
+
+gn:8487 gn:area "Nijelamer" .
+
+gn:8488 gn:area "Nijeholtwolde" .
+
+gn:8489 gn:area "Slijkenburg" .
+
+gn:8491 gn:area "Akkrum" .
+
+gn:8493 gn:area "Terherne" .
+
+gn:8494 gn:area "Nes" .
+
+gn:8495 gn:area "Aldeboarn" .
+
+gn:8497 gn:area "Goëngahuizen" .
+
+gn:8501 gn:area "Joure" .
+
+gn:8502 gn:area "Joure" .
+
+gn:8503 gn:area "Joure" .
+
+gn:8505 gn:area "Snikzwaag" .
+
+gn:8506 gn:area "Haskerhorne" .
+
+gn:8507 gn:area "Rohel" .
+
+gn:8508 gn:area "Delfstrahuizen" .
+
+gn:8511 gn:area "Goingarijp" .
+
+gn:8512 gn:area "Broek" .
+
+gn:8513 gn:area "Ouwsterhaule" .
+
+gn:8514 gn:area "Ouwster-Nijega" .
+
+gn:8515 gn:area "Oldeouwer" .
+
+gn:8516 gn:area "Doniaga" .
+
+gn:8517 gn:area "Scharsterbrug" .
+
+gn:8521 gn:area "Sint Nicolaasga" .
+
+gn:8522 gn:area "Tjerkgaast" .
+
+gn:8523 gn:area "Idskenhuizen" .
+
+gn:8524 gn:area "Teroele" .
+
+gn:8525 gn:area "Langweer" .
+
+gn:8526 gn:area "Boornzwaag" .
+
+gn:8527 gn:area "Legemeer" .
+
+gn:8528 gn:area "Dijken" .
+
+gn:8529 gn:area "Koufurderrige" .
+
+gn:8531 gn:area "Lemmer" .
+
+gn:8532 gn:area "Lemmer" .
+
+gn:8534 gn:area "Eesterga" .
+
+gn:8535 gn:area "Follega" .
+
+gn:8536 gn:area "Oosterzee" .
+
+gn:8537 gn:area "Echten" .
+
+gn:8538 gn:area "Bantega" .
+
+gn:8539 gn:area "Echtenerbrug" .
+
+gn:8541 gn:area "Akmarijp" .
+
+gn:8542 gn:area "Terkaple" .
+
+gn:8551 gn:area "Woudsend" .
+
+gn:8552 gn:area "Smallebrugge" .
+
+gn:8553 gn:area "Indijk" .
+
+gn:8554 gn:area "Ypecolsga" .
+
+gn:8556 gn:area "Sloten" .
+
+gn:8561 gn:area "Balk" .
+
+gn:8563 gn:area "Wijckel" .
+
+gn:8564 gn:area "Ruigahuizen" .
+
+gn:8565 gn:area "Sondel" .
+
+gn:8566 gn:area "Nijemirdum" .
+
+gn:8567 gn:area "Oudemirdum" .
+
+gn:8571 gn:area "Harich" .
+
+gn:8572 gn:area "Rijs" .
+
+gn:8573 gn:area "Mirns" .
+
+gn:8574 gn:area "Bakhuizen" .
+
+gn:8581 gn:area "Elahuizen" .
+
+gn:8582 gn:area "Oudega" .
+
+gn:8583 gn:area "Kolderwolde" .
+
+gn:8584 gn:area "Hemelum" .
+
+gn:8601 gn:area "Sneek" .
+
+gn:8602 gn:area "Sneek" .
+
+gn:8603 gn:area "Sneek" .
+
+gn:8604 gn:area "Sneek" .
+
+gn:8605 gn:area "Sneek" .
+
+gn:8606 gn:area "Sneek" .
+
+gn:8607 gn:area "Sneek" .
+
+gn:8608 gn:area "Sneek" .
+
+gn:8611 gn:area "Gaastmeer" .
+
+gn:8612 gn:area "Idzega" .
+
+gn:8613 gn:area "Sandfirden" .
+
+gn:8614 gn:area "Oudega" .
+
+gn:8615 gn:area "Blauwhuis" .
+
+gn:8616 gn:area "Westhem" .
+
+gn:8617 gn:area "Abbega" .
+
+gn:8618 gn:area "Oosthem" .
+
+gn:8621 gn:area "Heeg",
+        "Indijk" .
+
+gn:8622 gn:area "Hommerts" .
+
+gn:8623 gn:area "Jutrijp" .
+
+gn:8624 gn:area "Uitwellingerga" .
+
+gn:8625 gn:area "Oppenhuizen" .
+
+gn:8626 gn:area "Offingawier" .
+
+gn:8627 gn:area "Gauw" .
+
+gn:8628 gn:area "Goënga" .
+
+gn:8629 gn:area "Scharnegoutum" .
+
+gn:8631 gn:area "Loënga" .
+
+gn:8632 gn:area "Tirns" .
+
+gn:8633 gn:area "Ysbrechtum" .
+
+gn:8635 gn:area "Boazum" .
+
+gn:8636 gn:area "Britswert" .
+
+gn:8637 gn:area "Wiuwert" .
+
+gn:8641 gn:area "Rien" .
+
+gn:8642 gn:area "Lytsewierrum" .
+
+gn:8644 gn:area "Dearsum" .
+
+gn:8647 gn:area "Sibrandabuorren" .
+
+gn:8651 gn:area "IJlst" .
+
+gn:8658 gn:area "Greonterp" .
+
+gn:8701 gn:area "Bolsward" .
+
+gn:8702 gn:area "Bolsward" .
+
+gn:8711 gn:area "Ferwoude",
+        "Workum" .
+
+gn:8713 gn:area "Hindeloopen" .
+
+gn:8715 gn:area "Stavoren" .
+
+gn:8721 gn:area "Warns" .
+
+gn:8722 gn:area "Molkwerum" .
+
+gn:8723 gn:area "Koudum" .
+
+gn:8724 gn:area "It Heidenskip" .
+
+gn:8731 gn:area "Wommels" .
+
+gn:8732 gn:area "Kûbaard" .
+
+gn:8733 gn:area "Iens" .
+
+gn:8734 gn:area "Easterein" .
+
+gn:8735 gn:area "Itens" .
+
+gn:8736 gn:area "Reahûs" .
+
+gn:8737 gn:area "Hidaard" .
+
+gn:8741 gn:area "Hartwerd" .
+
+gn:8742 gn:area "Burgwerd" .
+
+gn:8743 gn:area "Hichtum" .
+
+gn:8744 gn:area "Schettens" .
+
+gn:8745 gn:area "Longerhouw" .
+
+gn:8746 gn:area "Schraard" .
+
+gn:8747 gn:area "Wons" .
+
+gn:8748 gn:area "Witmarsum" .
+
+gn:8749 gn:area "Pingjum" .
+
+gn:8751 gn:area "Pingjum",
+        "Zurich" .
+
+gn:8752 gn:area "Kornwerderzand" .
+
+gn:8753 gn:area "Cornwerd" .
+
+gn:8754 gn:area "Makkum" .
+
+gn:8755 gn:area "Idsegahuizum" .
+
+gn:8756 gn:area "Piaam" .
+
+gn:8757 gn:area "Gaast" .
+
+gn:8758 gn:area "Allingawier" .
+
+gn:8759 gn:area "Exmorra" .
+
+gn:8761 gn:area "Ferwoude" .
+
+gn:8762 gn:area "Hieslum" .
+
+gn:8763 gn:area "Parrega" .
+
+gn:8764 gn:area "Dedgum" .
+
+gn:8765 gn:area "Tjerkwerd" .
+
+gn:8766 gn:area "Breezanddijk" .
+
+gn:8771 gn:area "Nijland" .
+
+gn:8772 gn:area "Tjalhuizum" .
+
+gn:8773 gn:area "Folsgare" .
+
+gn:8774 gn:area "Wolsum" .
+
+gn:8775 gn:area "Nijhuizum" .
+
+gn:8801 gn:area "Franeker" .
+
+gn:8802 gn:area "Franeker" .
+
+gn:8804 gn:area "Tzum" .
+
+gn:8805 gn:area "Hitzum" .
+
+gn:8806 gn:area "Achlum" .
+
+gn:8807 gn:area "Herbaijum" .
+
+gn:8808 gn:area "Dongjum" .
+
+gn:8809 gn:area "Boer" .
+
+gn:8811 gn:area "Ried" .
+
+gn:8812 gn:area "Peins" .
+
+gn:8813 gn:area "Schalsum" .
+
+gn:8814 gn:area "Zweins" .
+
+gn:8816 gn:area "Skingen" .
+
+gn:8821 gn:area "Kimswerd" .
+
+gn:8822 gn:area "Arum" .
+
+gn:8823 gn:area "Lollum" .
+
+gn:8831 gn:area "Winsum" .
+
+gn:8832 gn:area "Húns" .
+
+gn:8833 gn:area "Leons" .
+
+gn:8834 gn:area "Baard" .
+
+gn:8835 gn:area "Easterlittens" .
+
+gn:8841 gn:area "Baaium" .
+
+gn:8842 gn:area "Wjelsryp" .
+
+gn:8843 gn:area "Spannum" .
+
+gn:8844 gn:area "Hinnaard" .
+
+gn:8845 gn:area "Waaksens" .
+
+gn:8851 gn:area "Tzummarum" .
+
+gn:8852 gn:area "Firdgum" .
+
+gn:8853 gn:area "Klooster Lidlum" .
+
+gn:8854 gn:area "Oosterbierum" .
+
+gn:8855 gn:area "Sexbierum" .
+
+gn:8856 gn:area "Pietersbierum" .
+
+gn:8857 gn:area "Wijnaldum" .
+
+gn:8861 gn:area "Harlingen" .
+
+gn:8862 gn:area "Harlingen" .
+
+gn:8871 gn:area "Midlum" .
+
+gn:8872 gn:area "Midlum" .
+
+gn:8881 gn:area "West-Terschelling" .
+
+gn:8882 gn:area "Hee" .
+
+gn:8883 gn:area "Kaard" .
+
+gn:8884 gn:area "Baaiduinen" .
+
+gn:8885 gn:area "Kinnum" .
+
+gn:8891 gn:area "Midsland" .
+
+gn:8892 gn:area "Striep" .
+
+gn:8893 gn:area "Landerum" .
+
+gn:8894 gn:area "Formerum" .
+
+gn:8895 gn:area "Lies" .
+
+gn:8896 gn:area "Hoorn" .
+
+gn:8897 gn:area "Oosterend" .
+
+gn:8899 gn:area "Vlieland" .
+
+gn:8911 gn:area "Leeuwarden" .
+
+gn:8912 gn:area "Leeuwarden" .
+
+gn:8913 gn:area "Leeuwarden" .
+
+gn:8914 gn:area "Leeuwarden" .
+
+gn:8915 gn:area "Leeuwarden" .
+
+gn:8916 gn:area "Leeuwarden" .
+
+gn:8917 gn:area "Leeuwarden" .
+
+gn:8918 gn:area "Leeuwarden" .
+
+gn:8919 gn:area "Leeuwarden" .
+
+gn:8921 gn:area "Leeuwarden" .
+
+gn:8922 gn:area "Leeuwarden" .
+
+gn:8923 gn:area "Leeuwarden" .
+
+gn:8924 gn:area "Leeuwarden" .
+
+gn:8925 gn:area "Leeuwarden" .
+
+gn:8926 gn:area "Leeuwarden" .
+
+gn:8927 gn:area "Leeuwarden" .
+
+gn:8931 gn:area "Leeuwarden" .
+
+gn:8932 gn:area "Leeuwarden" .
+
+gn:8933 gn:area "Leeuwarden" .
+
+gn:8934 gn:area "Leeuwarden" .
+
+gn:8935 gn:area "Leeuwarden" .
+
+gn:8936 gn:area "Leeuwarden" .
+
+gn:8937 gn:area "Leeuwarden" .
+
+gn:8938 gn:area "Leeuwarden" .
+
+gn:8939 gn:area "Leeuwarden" .
+
+gn:8941 gn:area "Akkrum",
+        "Leeuwarden" .
+
+gn:9001 gn:area "Grou" .
+
+gn:9003 gn:area "Warten" .
+
+gn:9004 gn:area "Warstiens" .
+
+gn:9005 gn:area "Wergea" .
+
+gn:9006 gn:area "Eagum" .
+
+gn:9007 gn:area "Idaerd" .
+
+gn:9008 gn:area "Reduzum" .
+
+gn:9009 gn:area "Friens" .
+
+gn:9011 gn:area "Jirnsum" .
+
+gn:9012 gn:area "Raerd" .
+
+gn:9013 gn:area "Poppenwier" .
+
+gn:9014 gn:area "Tersoal" .
+
+gn:9021 gn:area "Easterwierrum" .
+
+gn:9022 gn:area "Mantgum" .
+
+gn:9023 gn:area "Jorwert" .
+
+gn:9024 gn:area "Weidum" .
+
+gn:9025 gn:area "Bears" .
+
+gn:9026 gn:area "Jellum" .
+
+gn:9027 gn:area "Hilaard" .
+
+gn:9031 gn:area "Boksum" .
+
+gn:9032 gn:area "Blessum" .
+
+gn:9033 gn:area "Deinum" .
+
+gn:9034 gn:area "Marsum" .
+
+gn:9035 gn:area "Dronryp" .
+
+gn:9036 gn:area "Menaam" .
+
+gn:9037 gn:area "Slappeterp" .
+
+gn:9038 gn:area "Ingelum" .
+
+gn:9041 gn:area "Berltsum" .
+
+gn:9043 gn:area "Wier" .
+
+gn:9044 gn:area "Bitgum" .
+
+gn:9045 gn:area "Bitgummole" .
+
+gn:9047 gn:area "Minnertsga" .
+
+gn:9051 gn:area "Stiens" .
+
+gn:9053 gn:area "Feinsum" .
+
+gn:9054 gn:area "Hijum" .
+
+gn:9055 gn:area "Britsum" .
+
+gn:9056 gn:area "Koarnjum" .
+
+gn:9057 gn:area "Jelsum" .
+
+gn:9061 gn:area "Gytsjerk" .
+
+gn:9062 gn:area "Oentsjerk" .
+
+gn:9063 gn:area "Mûnein" .
+
+gn:9064 gn:area "Aldtsjerk" .
+
+gn:9067 gn:area "Readtsjerk" .
+
+gn:9071 gn:area "Alde Leie" .
+
+gn:9072 gn:area "Nij Altoenae" .
+
+gn:9073 gn:area "Marrum" .
+
+gn:9074 gn:area "Hallum" .
+
+gn:9075 gn:area "Westhoek" .
+
+gn:9076 gn:area "St.-Annaparochie" .
+
+gn:9077 gn:area "Vrouwenparochie" .
+
+gn:9078 gn:area "Oudebildtzijl" .
+
+gn:9079 gn:area "St.-Jacobiparochie",
+        "Westhoek" .
+
+gn:9081 gn:area "Lekkum" .
+
+gn:9082 gn:area "Miedum" .
+
+gn:9083 gn:area "Snakkerburen" .
+
+gn:9084 gn:area "Goutum" .
+
+gn:9085 gn:area "Teerns" .
+
+gn:9086 gn:area "Hempens" .
+
+gn:9087 gn:area "Swichum" .
+
+gn:9088 gn:area "Wirdum" .
+
+gn:9089 gn:area "Wytgaard" .
+
+gn:9091 gn:area "Wyns" .
+
+gn:9101 gn:area "Dokkum" .
+
+gn:9102 gn:area "Dokkum" .
+
+gn:9103 gn:area "Dokkum" .
+
+gn:9104 gn:area "Damwâld" .
+
+gn:9105 gn:area "Rinsumageast" .
+
+gn:9106 gn:area "Sibrandahûs" .
+
+gn:9107 gn:area "Jannum" .
+
+gn:9108 gn:area "Broeksterwâld" .
+
+gn:9109 gn:area "De Falom" .
+
+gn:9111 gn:area "Burdaard" .
+
+gn:9112 gn:area "Burdaard" .
+
+gn:9113 gn:area "Wâlterswâld" .
+
+gn:9114 gn:area "Driezum" .
+
+gn:9121 gn:area "Aalsum" .
+
+gn:9122 gn:area "Wetsens" .
+
+gn:9123 gn:area "Metslawier" .
+
+gn:9124 gn:area "Jouswier" .
+
+gn:9125 gn:area "Oostrum" .
+
+gn:9131 gn:area "Ee" .
+
+gn:9132 gn:area "Engwierum" .
+
+gn:9133 gn:area "Anjum" .
+
+gn:9134 gn:area "Lioessens" .
+
+gn:9135 gn:area "Morra" .
+
+gn:9136 gn:area "Paesens" .
+
+gn:9137 gn:area "Oosternijkerk" .
+
+gn:9138 gn:area "Niawier" .
+
+gn:9141 gn:area "Wierum" .
+
+gn:9142 gn:area "Moddergat" .
+
+gn:9143 gn:area "Nes" .
+
+gn:9144 gn:area "Hantumhuizen" .
+
+gn:9145 gn:area "Ternaard" .
+
+gn:9146 gn:area "Hantumeruitburen" .
+
+gn:9147 gn:area "Hantum" .
+
+gn:9148 gn:area "Hiaure" .
+
+gn:9151 gn:area "Holwerd" .
+
+gn:9152 gn:area "Waaxens" .
+
+gn:9153 gn:area "Brantgum" .
+
+gn:9154 gn:area "Foudgum" .
+
+gn:9155 gn:area "Raard" .
+
+gn:9156 gn:area "Bornwird" .
+
+gn:9161 gn:area "Hollum" .
+
+gn:9162 gn:area "Ballum" .
+
+gn:9163 gn:area "Nes" .
+
+gn:9164 gn:area "Buren" .
+
+gn:9166 gn:area "Schiermonnikoog" .
+
+gn:9171 gn:area "Blije" .
+
+gn:9172 gn:area "Ferwert" .
+
+gn:9173 gn:area "Hegebeintum" .
+
+gn:9174 gn:area "Ginnum" .
+
+gn:9175 gn:area "Reitsum" .
+
+gn:9176 gn:area "Lichtaard" .
+
+gn:9177 gn:area "Jislum" .
+
+gn:9178 gn:area "Wânswert" .
+
+gn:9201 gn:area "Drachten" .
+
+gn:9202 gn:area "Drachten" .
+
+gn:9203 gn:area "Drachten" .
+
+gn:9204 gn:area "Drachten" .
+
+gn:9205 gn:area "Drachten" .
+
+gn:9206 gn:area "Drachten" .
+
+gn:9207 gn:area "Drachten",
+        "Drachten-Azeven" .
+
+gn:9211 gn:area "Kortehemmen" .
+
+gn:9212 gn:area "Boornbergum" .
+
+gn:9213 gn:area "De Wilgen" .
+
+gn:9214 gn:area "Smalle Ee" .
+
+gn:9215 gn:area "De Veenhoop" .
+
+gn:9216 gn:area "Oudega" .
+
+gn:9217 gn:area "Nijega" .
+
+gn:9218 gn:area "Opeinde" .
+
+gn:9219 gn:area "De Tike" .
+
+gn:9221 gn:area "Rottevalle" .
+
+gn:9222 gn:area "Drachtstercompagnie" .
+
+gn:9223 gn:area "Houtigehage" .
+
+gn:9231 gn:area "Surhuisterveen" .
+
+gn:9233 gn:area "Boelenslaan" .
+
+gn:9241 gn:area "Wijnjewoude" .
+
+gn:9243 gn:area "Bakkeveen" .
+
+gn:9244 gn:area "Beetsterzwaag" .
+
+gn:9245 gn:area "Nij Beets" .
+
+gn:9246 gn:area "Olterterp" .
+
+gn:9247 gn:area "Ureterp" .
+
+gn:9248 gn:area "Siegerswoude" .
+
+gn:9249 gn:area "Frieschepalen" .
+
+gn:9251 gn:area "Burgum" .
+
+gn:9254 gn:area "Hurdegaryp" .
+
+gn:9255 gn:area "Tytsjerk" .
+
+gn:9256 gn:area "Ryptsjerk" .
+
+gn:9257 gn:area "Noardburgum" .
+
+gn:9258 gn:area "Jistrum" .
+
+gn:9261 gn:area "Eastermar" .
+
+gn:9262 gn:area "Sumar" .
+
+gn:9263 gn:area "Garyp" .
+
+gn:9264 gn:area "Earnewâld" .
+
+gn:9265 gn:area "Suwâld" .
+
+gn:9269 gn:area "Feanwâlden" .
+
+gn:9271 gn:area "De Westereen" .
+
+gn:9281 gn:area "Harkema" .
+
+gn:9283 gn:area "Surhuizum" .
+
+gn:9284 gn:area "Augustinusga" .
+
+gn:9285 gn:area "Buitenpost" .
+
+gn:9286 gn:area "Twijzel" .
+
+gn:9287 gn:area "Twijzelerheide" .
+
+gn:9288 gn:area "Kootstertille" .
+
+gn:9289 gn:area "Drogeham" .
+
+gn:9291 gn:area "Kollum" .
+
+gn:9292 gn:area "Augsbuurt" .
+
+gn:9293 gn:area "Kollumerpomp" .
+
+gn:9294 gn:area "Oudwoude" .
+
+gn:9295 gn:area "Westergeest" .
+
+gn:9296 gn:area "Triemen" .
+
+gn:9297 gn:area "Veenklooster" .
+
+gn:9298 gn:area "Kollumerzwaag" .
+
+gn:9299 gn:area "Zwagerbosch" .
+
+gn:9301 gn:area "Roden" .
+
+gn:9302 gn:area "Roden" .
+
+gn:9304 gn:area "Lieveren" .
+
+gn:9305 gn:area "Roderesch" .
+
+gn:9306 gn:area "Alteveer" .
+
+gn:9307 gn:area "Steenbergen" .
+
+gn:9311 gn:area "Nieuw-Roden" .
+
+gn:9312 gn:area "Nietap" .
+
+gn:9313 gn:area "Leutingewolde" .
+
+gn:9314 gn:area "Foxwolde" .
+
+gn:9315 gn:area "Roderwolde" .
+
+gn:9321 gn:area "Peize" .
+
+gn:9331 gn:area "Norg" .
+
+gn:9333 gn:area "Langelo" .
+
+gn:9334 gn:area "Peest" .
+
+gn:9335 gn:area "Zuidvelde" .
+
+gn:9336 gn:area "Huis ter Heide" .
+
+gn:9337 gn:area "Westervelde" .
+
+gn:9341 gn:area "Veenhuizen" .
+
+gn:9342 gn:area "Een" .
+
+gn:9343 gn:area "Een-West" .
+
+gn:9351 gn:area "Leek",
+        "Nietap" .
+
+gn:9354 gn:area "Nieuw-Roden",
+        "Zevenhuizen" .
+
+gn:9355 gn:area "Midwolde" .
+
+gn:9356 gn:area "Tolbert" .
+
+gn:9359 gn:area "Boerakker" .
+
+gn:9361 gn:area "Boerakker" .
+
+gn:9362 gn:area "Boerakker" .
+
+gn:9363 gn:area "Marum" .
+
+gn:9364 gn:area "Nuis" .
+
+gn:9365 gn:area "Niebert" .
+
+gn:9366 gn:area "Jonkersvaart" .
+
+gn:9367 gn:area "De Wilp" .
+
+gn:9401 gn:area "Assen" .
+
+gn:9402 gn:area "Assen" .
+
+gn:9403 gn:area "Assen" .
+
+gn:9404 gn:area "Assen" .
+
+gn:9405 gn:area "Assen" .
+
+gn:9406 gn:area "Assen" .
+
+gn:9407 gn:area "Assen" .
+
+gn:9408 gn:area "Assen" .
+
+gn:9409 gn:area "Loon" .
+
+gn:9411 gn:area "Beilen" .
+
+gn:9412 gn:area "Beilen" .
+
+gn:9413 gn:area "Beilen" .
+
+gn:9414 gn:area "Hooghalen" .
+
+gn:9415 gn:area "Hijken" .
+
+gn:9416 gn:area "Oranje" .
+
+gn:9417 gn:area "Spier" .
+
+gn:9418 gn:area "Wijster" .
+
+gn:9419 gn:area "Drijber" .
+
+gn:9421 gn:area "Bovensmilde" .
+
+gn:9422 gn:area "Beetsterzwaag",
+        "Smilde" .
+
+gn:9423 gn:area "Hoogersmilde" .
+
+gn:9431 gn:area "Oosterwolde",
+        "Westerbork" .
+
+gn:9432 gn:area "Zuidveld" .
+
+gn:9433 gn:area "Zwiggelte" .
+
+gn:9434 gn:area "Eursinge" .
+
+gn:9435 gn:area "Bruntinge" .
+
+gn:9436 gn:area "Mantinge" .
+
+gn:9437 gn:area "Balinge" .
+
+gn:9438 gn:area "Garminge" .
+
+gn:9439 gn:area "Witteveen" .
+
+gn:9441 gn:area "Orvelte" .
+
+gn:9442 gn:area "Elp" .
+
+gn:9443 gn:area "Schoonloo" .
+
+gn:9444 gn:area "Grolloo" .
+
+gn:9445 gn:area "Vredenheim" .
+
+gn:9446 gn:area "Amen" .
+
+gn:9447 gn:area "Papenvoort" .
+
+gn:9448 gn:area "Marwijksoord" .
+
+gn:9449 gn:area "Nooitgedacht" .
+
+gn:9451 gn:area "Rolde" .
+
+gn:9452 gn:area "Nijlande" .
+
+gn:9453 gn:area "Eldersloo" .
+
+gn:9454 gn:area "Ekehaar" .
+
+gn:9455 gn:area "Geelbroek" .
+
+gn:9456 gn:area "Eleveld" .
+
+gn:9457 gn:area "Deurze" .
+
+gn:9458 gn:area "Balloo" .
+
+gn:9459 gn:area "Balloërveld" .
+
+gn:9461 gn:area "Gieten" .
+
+gn:9462 gn:area "Gasselte" .
+
+gn:9463 gn:area "Eext" .
+
+gn:9464 gn:area "Eexterzandvoort" .
+
+gn:9465 gn:area "Anderen" .
+
+gn:9466 gn:area "Gasteren" .
+
+gn:9467 gn:area "Anloo" .
+
+gn:9468 gn:area "Annen" .
+
+gn:9469 gn:area "Schipborg" .
+
+gn:9471 gn:area "Zuidlaren" .
+
+gn:9472 gn:area "Zuidlaren" .
+
+gn:9473 gn:area "De Groeve" .
+
+gn:9474 gn:area "Zuidlaarderveen" .
+
+gn:9475 gn:area "Midlaren" .
+
+gn:9479 gn:area "Noordlaren" .
+
+gn:9481 gn:area "Vries" .
+
+gn:9482 gn:area "Tynaarlo" .
+
+gn:9483 gn:area "Zeegse" .
+
+gn:9484 gn:area "Oudemolen" .
+
+gn:9485 gn:area "Taarlo" .
+
+gn:9486 gn:area "Rhee" .
+
+gn:9487 gn:area "Ter Aard" .
+
+gn:9488 gn:area "Zeijerveld" .
+
+gn:9489 gn:area "Zeijerveen" .
+
+gn:9491 gn:area "Zeijen" .
+
+gn:9492 gn:area "Ubbena" .
+
+gn:9493 gn:area "De Punt" .
+
+gn:9494 gn:area "Yde" .
+
+gn:9495 gn:area "Winde" .
+
+gn:9496 gn:area "Bunne" .
+
+gn:9497 gn:area "Donderen" .
+
+gn:9501 gn:area "Stadskanaal" .
+
+gn:9502 gn:area "Stadskanaal" .
+
+gn:9503 gn:area "Stadskanaal" .
+
+gn:9511 gn:area "Gieterveen" .
+
+gn:9512 gn:area "Nieuwediep" .
+
+gn:9514 gn:area "Gasselternijveen" .
+
+gn:9515 gn:area "Gasselternijveen",
+        "Gasselternijveenschemond" .
+
+gn:9521 gn:area "Nieuw-Buinen" .
+
+gn:9523 gn:area "Drouwenermond" .
+
+gn:9524 gn:area "Buinerveen" .
+
+gn:9525 gn:area "Drouwenerveen" .
+
+gn:9526 gn:area "Bronnegerveen" .
+
+gn:9527 gn:area "Bronneger" .
+
+gn:9528 gn:area "Buinen" .
+
+gn:9531 gn:area "Borger" .
+
+gn:9533 gn:area "Drouwen" .
+
+gn:9534 gn:area "Westdorp" .
+
+gn:9535 gn:area "Ellertshaar" .
+
+gn:9536 gn:area "Ees" .
+
+gn:9537 gn:area "Eesergroen" .
+
+gn:9541 gn:area "Vlagtwedde" .
+
+gn:9545 gn:area "Bourtange" .
+
+gn:9551 gn:area "Sellingen" .
+
+gn:9561 gn:area "Ter Apel" .
+
+gn:9563 gn:area "Ter Apelkanaal" .
+
+gn:9564 gn:area "Zandberg" .
+
+gn:9566 gn:area "Veelerveen" .
+
+gn:9571 gn:area "2e Exloërmond" .
+
+gn:9573 gn:area "1e Exloërmond" .
+
+gn:9574 gn:area "Exloërveen" .
+
+gn:9581 gn:area "Musselkanaal" .
+
+gn:9584 gn:area "Mussel" .
+
+gn:9585 gn:area "Vledderveen" .
+
+gn:9591 gn:area "Onstwedde" .
+
+gn:9601 gn:area "Hoogezand" .
+
+gn:9602 gn:area "Hoogezand" .
+
+gn:9603 gn:area "Hoogezand" .
+
+gn:9605 gn:area "Kiel-Windeweer" .
+
+gn:9606 gn:area "Kropswolde" .
+
+gn:9607 gn:area "Foxhol" .
+
+gn:9608 gn:area "Westerbroek" .
+
+gn:9609 gn:area "Waterhuizen" .
+
+gn:9611 gn:area "Sappemeer" .
+
+gn:9613 gn:area "Meerstad" .
+
+gn:9614 gn:area "Harkstede GN" .
+
+gn:9615 gn:area "Kolham" .
+
+gn:9616 gn:area "Scharmer" .
+
+gn:9617 gn:area "Harkstede" .
+
+gn:9618 gn:area "Woudbloem" .
+
+gn:9619 gn:area "Froombosch" .
+
+gn:9621 gn:area "Schildwolde",
+        "Slochteren" .
+
+gn:9622 gn:area "Lageland GN" .
+
+gn:9623 gn:area "Lageland" .
+
+gn:9624 gn:area "Luddeweer" .
+
+gn:9625 gn:area "Overschild" .
+
+gn:9626 gn:area "Schildwolde" .
+
+gn:9627 gn:area "Hellum" .
+
+gn:9628 gn:area "Siddeburen" .
+
+gn:9629 gn:area "Steendam" .
+
+gn:9631 gn:area "Borgercompagnie" .
+
+gn:9632 gn:area "Borgercompagnie" .
+
+gn:9633 gn:area "Tripscompagnie" .
+
+gn:9635 gn:area "Noordbroek" .
+
+gn:9636 gn:area "Zuidbroek" .
+
+gn:9641 gn:area "Veendam" .
+
+gn:9642 gn:area "Veendam" .
+
+gn:9644 gn:area "Veendam" .
+
+gn:9645 gn:area "Veendam" .
+
+gn:9646 gn:area "Veendam" .
+
+gn:9648 gn:area "Wildervank" .
+
+gn:9649 gn:area "Muntendam" .
+
+gn:9651 gn:area "Meeden" .
+
+gn:9654 gn:area "Annerveenschekanaal" .
+
+gn:9655 gn:area "Oud Annerveen" .
+
+gn:9656 gn:area "Spijkerboor" .
+
+gn:9657 gn:area "Nieuw Annerveen" .
+
+gn:9658 gn:area "Eexterveen" .
+
+gn:9659 gn:area "Eexterveenschekanaal" .
+
+gn:9661 gn:area "Alteveer" .
+
+gn:9663 gn:area "Nieuwe Pekela" .
+
+gn:9665 gn:area "Oude Pekela" .
+
+gn:9671 gn:area "Winschoten" .
+
+gn:9672 gn:area "Winschoten" .
+
+gn:9673 gn:area "Winschoten" .
+
+gn:9674 gn:area "Winschoten" .
+
+gn:9675 gn:area "Winschoten" .
+
+gn:9677 gn:area "Heiligerlee" .
+
+gn:9678 gn:area "Westerlee" .
+
+gn:9679 gn:area "Scheemda" .
+
+gn:9681 gn:area "Midwolda" .
+
+gn:9682 gn:area "Oostwold" .
+
+gn:9684 gn:area "Finsterwolde" .
+
+gn:9685 gn:area "Blauwestad" .
+
+gn:9686 gn:area "Beerta" .
+
+gn:9687 gn:area "Nieuw Beerta" .
+
+gn:9688 gn:area "Drieborg" .
+
+gn:9691 gn:area "Oudezijl" .
+
+gn:9693 gn:area "Bad Nieuweschans" .
+
+gn:9695 gn:area "Bellingwolde" .
+
+gn:9696 gn:area "Oudeschans" .
+
+gn:9697 gn:area "Blijham" .
+
+gn:9698 gn:area "Wedde" .
+
+gn:9699 gn:area "Vriescheloo" .
+
+gn:9711 gn:area "Groningen" .
+
+gn:9712 gn:area "Groningen" .
+
+gn:9713 gn:area "Groningen" .
+
+gn:9714 gn:area "Groningen" .
+
+gn:9715 gn:area "Groningen" .
+
+gn:9716 gn:area "Groningen" .
+
+gn:9717 gn:area "Groningen" .
+
+gn:9718 gn:area "Groningen" .
+
+gn:9721 gn:area "Groningen" .
+
+gn:9722 gn:area "Groningen" .
+
+gn:9723 gn:area "Groningen" .
+
+gn:9724 gn:area "Groningen" .
+
+gn:9725 gn:area "Groningen" .
+
+gn:9726 gn:area "Groningen" .
+
+gn:9727 gn:area "Groningen" .
+
+gn:9728 gn:area "Groningen" .
+
+gn:9731 gn:area "Groningen" .
+
+gn:9732 gn:area "Groningen" .
+
+gn:9733 gn:area "Groningen" .
+
+gn:9734 gn:area "Groningen" .
+
+gn:9735 gn:area "Groningen" .
+
+gn:9736 gn:area "Groningen" .
+
+gn:9737 gn:area "Groningen" .
+
+gn:9738 gn:area "Groningen" .
+
+gn:9741 gn:area "Groningen" .
+
+gn:9742 gn:area "Groningen" .
+
+gn:9743 gn:area "Groningen" .
+
+gn:9744 gn:area "Groningen" .
+
+gn:9745 gn:area "Groningen" .
+
+gn:9746 gn:area "Groningen" .
+
+gn:9747 gn:area "Groningen" .
+
+gn:9749 gn:area "Matsloot" .
+
+gn:9751 gn:area "Haren Gn" .
+
+gn:9752 gn:area "Haren Gn" .
+
+gn:9753 gn:area "Haren Gn" .
+
+gn:9755 gn:area "Onnen" .
+
+gn:9756 gn:area "Glimmen" .
+
+gn:9761 gn:area "Eelde" .
+
+gn:9765 gn:area "Paterswolde" .
+
+gn:9766 gn:area "Eelderwolde" .
+
+gn:9771 gn:area "Sauwerd" .
+
+gn:9773 gn:area "Wetsinge" .
+
+gn:9774 gn:area "Adorp" .
+
+gn:9781 gn:area "Bedum" .
+
+gn:9784 gn:area "Noordwolde" .
+
+gn:9785 gn:area "Zuidwolde" .
+
+gn:9791 gn:area "Ten Boer" .
+
+gn:9792 gn:area "Ten Post" .
+
+gn:9793 gn:area "Winneweer" .
+
+gn:9794 gn:area "Lellens" .
+
+gn:9795 gn:area "Woltersum" .
+
+gn:9796 gn:area "Sint Annen" .
+
+gn:9797 gn:area "Thesinge" .
+
+gn:9798 gn:area "Garmerwolde" .
+
+gn:9801 gn:area "Zuidhorn" .
+
+gn:9804 gn:area "Noordhorn" .
+
+gn:9805 gn:area "Briltil" .
+
+gn:9811 gn:area "Enumatil" .
+
+gn:9812 gn:area "Enumatil" .
+
+gn:9821 gn:area "Oldekerk" .
+
+gn:9822 gn:area "Niekerk" .
+
+gn:9824 gn:area "Noordwijk" .
+
+gn:9825 gn:area "Lucaswolde" .
+
+gn:9827 gn:area "Lettelbert" .
+
+gn:9828 gn:area "Oostwold" .
+
+gn:9831 gn:area "Aduard" .
+
+gn:9832 gn:area "Den Horn" .
+
+gn:9833 gn:area "Den Ham" .
+
+gn:9841 gn:area "Niezijl" .
+
+gn:9842 gn:area "Niezijl" .
+
+gn:9843 gn:area "Grijpskerk" .
+
+gn:9844 gn:area "Pieterzijl" .
+
+gn:9845 gn:area "Visvliet" .
+
+gn:9851 gn:area "Burum" .
+
+gn:9852 gn:area "Warfstermolen" .
+
+gn:9853 gn:area "Munnekezijl" .
+
+gn:9861 gn:area "Grootegast" .
+
+gn:9862 gn:area "Sebaldeburen" .
+
+gn:9863 gn:area "Doezum" .
+
+gn:9864 gn:area "Kornhorn" .
+
+gn:9865 gn:area "Opende" .
+
+gn:9866 gn:area "Lutjegast" .
+
+gn:9871 gn:area "Stroobos" .
+
+gn:9872 gn:area "Stroobos" .
+
+gn:9873 gn:area "Gerkesklooster" .
+
+gn:9881 gn:area "Kommerzijl" .
+
+gn:9882 gn:area "Kommerzijl" .
+
+gn:9883 gn:area "Oldehove",
+        "Zuurdijk" .
+
+gn:9884 gn:area "Niehove" .
+
+gn:9885 gn:area "Lauwerzijl" .
+
+gn:9886 gn:area "Saaksum" .
+
+gn:9891 gn:area "Ezinge" .
+
+gn:9892 gn:area "Feerwerd" .
+
+gn:9893 gn:area "Garnwerd" .
+
+gn:9901 gn:area "Appingedam" .
+
+gn:9902 gn:area "Appingedam" .
+
+gn:9903 gn:area "Appingedam" .
+
+gn:9904 gn:area "Krewerd" .
+
+gn:9905 gn:area "Holwierde" .
+
+gn:9906 gn:area "Bierum" .
+
+gn:9907 gn:area "Losdorp" .
+
+gn:9908 gn:area "Godlinze" .
+
+gn:9909 gn:area "Spijk" .
+
+gn:9911 gn:area "Oosterwijtwerd" .
+
+gn:9912 gn:area "Leermens" .
+
+gn:9913 gn:area "Eenum" .
+
+gn:9914 gn:area "Zeerijp" .
+
+gn:9915 gn:area "'t Zandt" .
+
+gn:9917 gn:area "Wirdum" .
+
+gn:9918 gn:area "Garrelsweer" .
+
+gn:9919 gn:area "Loppersum" .
+
+gn:9921 gn:area "Stedum" .
+
+gn:9922 gn:area "Westeremden" .
+
+gn:9923 gn:area "Garsthuizen" .
+
+gn:9924 gn:area "Startenhuizen" .
+
+gn:9925 gn:area "Startenhuizen" .
+
+gn:9931 gn:area "Delfzijl" .
+
+gn:9932 gn:area "Delfzijl" .
+
+gn:9933 gn:area "Delfzijl" .
+
+gn:9934 gn:area "Delfzijl" .
+
+gn:9936 gn:area "Farmsum" .
+
+gn:9937 gn:area "Meedhuizen" .
+
+gn:9939 gn:area "Tjuchem" .
+
+gn:9942 gn:area "'t Waar" .
+
+gn:9943 gn:area "Nieuw Scheemda" .
+
+gn:9944 gn:area "Nieuwolda" .
+
+gn:9945 gn:area "Wagenborgen" .
+
+gn:9946 gn:area "Woldendorp" .
+
+gn:9947 gn:area "Termunten" .
+
+gn:9948 gn:area "Termunterzijl" .
+
+gn:9949 gn:area "Borgsweer" .
+
+gn:9951 gn:area "Winsum" .
+
+gn:9953 gn:area "Baflo" .
+
+gn:9954 gn:area "Tinallinge" .
+
+gn:9955 gn:area "Rasquert" .
+
+gn:9956 gn:area "Den Andel" .
+
+gn:9957 gn:area "Saaxumhuizen" .
+
+gn:9959 gn:area "Onderdendam" .
+
+gn:9961 gn:area "Mensingeweer" .
+
+gn:9962 gn:area "Schouwerzijl" .
+
+gn:9963 gn:area "Warfhuizen" .
+
+gn:9964 gn:area "Wehe-den Hoorn" .
+
+gn:9965 gn:area "Leens",
+        "Zuurdijk" .
+
+gn:9966 gn:area "Zuurdijk" .
+
+gn:9967 gn:area "Eenrum" .
+
+gn:9968 gn:area "Pieterburen" .
+
+gn:9969 gn:area "Westernieland" .
+
+gn:9971 gn:area "Ulrum" .
+
+gn:9972 gn:area "Niekerk" .
+
+gn:9973 gn:area "Houwerzijl" .
+
+gn:9974 gn:area "Zoutkamp" .
+
+gn:9975 gn:area "Vierhuizen" .
+
+gn:9976 gn:area "Lauwersoog" .
+
+gn:9977 gn:area "Kloosterburen" .
+
+gn:9978 gn:area "Hornhuizen" .
+
+gn:9979 gn:area "Eemshaven" .
+
+gn:9981 gn:area "Uithuizen" .
+
+gn:9982 gn:area "Uithuizermeeden" .
+
+gn:9983 gn:area "Roodeschool" .
+
+gn:9984 gn:area "Oudeschip" .
+
+gn:9985 gn:area "Oosternieland" .
+
+gn:9986 gn:area "Oldenzijl" .
+
+gn:9987 gn:area "Zijldijk" .
+
+gn:9988 gn:area "Usquert" .
+
+gn:9989 gn:area "Warffum" .
+
+gn:9991 gn:area "Middelstum" .
+
+gn:9992 gn:area "Huizinge" .
+
+gn:9993 gn:area "Westerwijtwerd" .
+
+gn:9994 gn:area "Toornwerd" .
+
+gn:9995 gn:area "Kantens" .
+
+gn:9996 gn:area "Eppenhuizen" .
+
+gn:9997 gn:area "Zandeweer" .
+
+gn:9998 gn:area "Rottum" .
+
+gn:9999 gn:area "Stitswerd" .
+
