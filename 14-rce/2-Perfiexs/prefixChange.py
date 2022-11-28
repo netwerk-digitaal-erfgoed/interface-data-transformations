@@ -1,3 +1,4 @@
+
 import os
 import shutil
 import traceback
@@ -33,6 +34,7 @@ def processPrefixes(_entities, _dirPath, dirname, upload = "./corrected-prefixes
 
         for filename in _entities:
             path = f'{_dirPath + "/" + filename}.n3'
+            print(path)
             
             g = Graph()
             g.parse(path, format='ntriples')                       
@@ -40,7 +42,7 @@ def processPrefixes(_entities, _dirPath, dirname, upload = "./corrected-prefixes
             g.namespace_manager.bind('dcterms', URIRef("http://purl.org/dc/terms/"), replace=True)
             g.namespace_manager.bind('dc', URIRef("http://purl.org/dc/elements/1.1/"), replace=True)
             g.namespace_manager.bind('ore', URIRef("http://www.openarchives.org/ore/terms/"), replace=True)
-        g.serialize(destination=f'{correction}{filename}.ttl', format='turtle', encoding='utf-8')
+            g.serialize(destination=f'{correction}{filename}.ttl', format='turtle', encoding='utf-8')
         print(f'{filename} is serialize')
 
 
