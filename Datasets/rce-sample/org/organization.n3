@@ -1,0 +1,3 @@
+<https://beeldbank.cultureelerfgoed.nl/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://beeldbank.cultureelerfgoed.nl/> <https://schema.org/name> "beeldbank cultureelerfgoed"@nl .
+<https://beeldbank.cultureelerfgoed.nl/> <https://schema.org/mainEntityOfPage> <https://beeldbank.cultureelerfgoed.nl/> .

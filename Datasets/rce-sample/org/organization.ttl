@@ -1,0 +1,6 @@
+@prefix schema: <https://schema.org/> .
+
+<https://beeldbank.cultureelerfgoed.nl/> a schema:Organization ;
+    schema:mainEntityOfPage <https://beeldbank.cultureelerfgoed.nl/> ;
+    schema:name "beeldbank cultureelerfgoed"@nl .
+
