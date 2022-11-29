@@ -22,6 +22,12 @@ stedelijk-museum-schiedam-records,6158
 
 moderne-kunst-museum-deventer-records,2776
 
+
+
+Dordrechts-Museum-records,504
+mm-zaans-museum-records,236
+
+
 ### 2- creators with painting work
 
 catharijneconvent-records,968
@@ -76,6 +82,14 @@ museum-de-fundatie-records,35
 van-abbe-museum-records,92
 
 rijksakademie-records,95
+
+
+
+Dordrechts-Museum-records,203
+mm-zaans-museum-records,118
+
+
+
 
 ##### catharijneconvent
 
