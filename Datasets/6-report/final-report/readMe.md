@@ -22,11 +22,9 @@ stedelijk-museum-schiedam-records,6158
 
 moderne-kunst-museum-deventer-records,2776
 
-
-
 Dordrechts-Museum-records,504
-mm-zaans-museum-records,236
 
+mm-zaans-museum-records,236
 
 ### 2- creators with painting work
 
@@ -83,13 +81,9 @@ van-abbe-museum-records,92
 
 rijksakademie-records,95
 
-
-
 Dordrechts-Museum-records,203
+
 mm-zaans-museum-records,118
-
-
-
 
 ##### catharijneconvent
 
@@ -102,7 +96,6 @@ description contains tags and not real words.
 ##### moderne-kunst-museum-deventer
 
 No date and art period 
-
 
 ## rce-beeldbank dataset
 
