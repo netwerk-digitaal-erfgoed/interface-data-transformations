@@ -1,0 +1,237 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ore: <http://www.openarchives.org/ore/terms/>.
+@prefix edm: <http://www.europeana.eu/schemas/edm/>.
+@prefix schema: <https://schema.org/>.
+@prefix cd: <http://citydata.wu.ac.at/ns#>.
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+
+
+sh:Organization a sh:NodeShape ;
+sh:targetClass schema:Organization ;
+  sh:property [
+  sh:path schema:name ;
+  sh:minCount 1 ;
+  sh:maxCount 1;
+  sh:severity sh:Violation ;
+  sh:message "Error Organization: Name of organization must be exactly one organization.";
+ ];
+
+  sh:property [
+  sh:deactivated false;
+  sh:path schema:name ;
+  sh:languageIn ("nl");
+  sh:severity sh:Violation ;
+  sh:message "Error Organization: name of organization must have language tag.";
+ ] .
+
+sh:OrganizationIRI a sh:NodeShape ;
+sh:targetClass schema:Organization ;
+  sh:property [
+  sh:path schema:mainEntityOfPage ;
+  sh:severity sh:Violation ;
+  sh:minCount 1 ;
+  sh:maxCount 1;
+  sh:message "Error Organization: invalid path: mainEntityOfPage must have only one path ";
+ ];
+
+ sh:OrganizationIRI sh:NodeShape ;
+ sh:targetClass schema:Organization ;
+  sh:property [
+  sh:path schema:mainEntityOfPage ;
+  sh:severity sh:Violation ;
+  sh:nodeKind sh:IRI ;
+  sh:message "Error Organization: invalid datatype: mainEntityOfPage of organization (website) must be IRI ";
+ ] .
+
+sh:CreativeWork a sh:NodeShape ;
+sh:targetClass schema:CreativeWork ;
+  sh:property [
+  sh:path schema:dateCreated;
+  sh:deactivated false;
+  sh:minCount 1 ;
+  sh:maxCount 1;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-dateCreated: invalid datatype: dateCreated must have exactly dateCreated path. ";
+   ];
+
+  sh:property [
+  sh:path schema:dateCreated;
+  sh:deactivated false;
+  sh:datatype  xsd:gYear;
+  sh:pattern "[0-9]{4}";
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-dateCreated: invalid datatype: dateCreated's data type must be gYear. ";
+   ];
+
+  sh:property [
+  sh:path schema:description;
+  sh:deactivated false;
+  sh:minCount 1 ;
+  sh:maxCount 1;
+  sh:severity sh:Violation ;
+  sh:message "Error description: description must have exactly one description. ";
+   ];
+
+  sh:property [
+  sh:path schema:description;
+  sh:deactivated false;
+  sh:languageIn ("nl");
+  sh:severity sh:Violation ;
+  sh:message "Error description: description must have @nl tag.";
+   ];
+
+  sh:property [
+  sh:path schema:isBasedOn;
+  sh:deactivated false;
+  sh:nodeKind sh:IRI ;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-isBasedOn: ArtWork has invalid IRI. ";
+   ];
+
+  sh:property [
+  sh:path schema:isBasedOn;
+  sh:deactivated false;
+  sh:minCount 1 ;
+  sh:maxCount 1;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-isBasedOn: ArtWork must have exactly one version. ";
+   ];
+
+  sh:property [
+  sh:path schema:name;
+  sh:deactivated false;
+  sh:maxCount 1;
+  sh:severity sh:Violation ;
+  sh:message "Error name of Art: Name path does not meet cardinality(exact one).  ";
+   ];
+
+  sh:property [
+  sh:path schema:name;
+  sh:deactivated false;
+  sh:languageIn ("nl");
+  sh:severity sh:Violation ;
+  sh:message "Error name of Art: Name path have language tag @nl.  ";
+   ];
+
+  sh:property [
+  sh:path schema:publisher;
+  sh:deactivated false;
+  sh:nodeKind sh:IRI ;
+  sh:severity sh:Violation ;
+  sh:message "Error publisher: Invalid IRI.";
+   ];
+
+  sh:property [
+  sh:path schema:publisher;
+  sh:deactivated false;
+  sh:minCount 1 ;
+  sh:maxCount 1;
+  sh:severity sh:Violation ;
+  sh:message "Error publisher: exactly one publisher is required.";
+   ];
+
+  sh:property [
+  sh:path schema:temporalCoverage;
+  sh:deactivated false;
+  sh:maxCount 1 ;
+  sh:severity sh:Violation ;
+  sh:message "Error temporalCoverage: temporalCoverage must have at least one path.  ";
+   ];
+
+  sh:property [
+  sh:path schema:temporalCoverage;
+  sh:deactivated false;
+  sh:nodeKind sh:IRI ;
+  sh:severity sh:Violation ;
+  sh:message "Error temporalCoverage: Invalid IRI.  ";
+   ];
+
+  sh:property [
+  sh:path schema:temporal;
+  sh:deactivated false;
+  sh:minCount 1 ;
+  sh:maxCount 1;
+  sh:severity sh:Violation ;
+  sh:message "Error temporal: one temporal is required.";
+   ];
+
+  sh:property [
+  sh:path schema:temporal;
+  sh:deactivated false;
+  sh:datatype  xsd:string;
+  sh:severity sh:Violation ;
+  sh:message "Error temporal: datatype is not valid.";
+   ];
+
+  sh:property [
+  sh:path schema:image;
+  sh:deactivated false;
+  sh:nodeKind sh:BlankNode ;
+  sh:severity sh:Violation ;
+  sh:message "Error image: datatype is not correct.  ";
+   ];
+
+  sh:property [
+  sh:path schema:image;
+  sh:deactivated false;
+  sh:minCount 1 ;
+  sh:maxCount 1;
+  sh:severity sh:Violation ;
+  sh:message "Error image: image must have exactly image object.  ";
+   ].
+
+sh:ArtWork-imageObject a sh:NodeShape ;
+sh:targetClass schema:ImageObject ;
+  sh:property [
+  sh:path schema:contentUrl;
+  sh:minCount 1 ;
+  sh:maxCount 1;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-contentUrl: exactly one contentUrl is required. ";
+   ] .
+
+  sh:ArtWork-imageObject a sh:NodeShape ;
+  sh:targetClass schema:ImageObject ;
+  sh:property [
+  sh:path schema:contentUrl;
+  sh:nodeKind sh:IRI ;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-contentUrl: invalid IRI. ";
+   ] ;
+
+  sh:property [
+  sh:path schema:encodingFormat ;
+  sh:datatype  xsd:string;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-encodingFormat: encodingFormat object has invalid datatype. ";
+   ] ;
+
+  sh:property [
+  sh:path schema:encodingFormat ;
+  sh:maxCount 1 ;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-encodingFormat: encodingFormat has invalid cardinality. ";
+   ] ;
+
+  sh:property [
+  sh:path schema:license;
+  sh:minCount 1 ;
+  sh:maxCount 1;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-license: exactly one license is required. ";
+   ];
+
+  sh:property [
+  sh:path schema:license;
+  sh:nodeKind sh:IRI ;
+  sh:severity sh:Violation ;
+  sh:message "Error ArtWork-license: invalid IRI. ";
+   ].

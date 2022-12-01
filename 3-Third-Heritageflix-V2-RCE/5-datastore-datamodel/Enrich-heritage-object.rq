@@ -1,0 +1,58 @@
+PREFIX ore: <http://www.openarchives.org/ore/terms/>
+PREFIX edm: <http://www.europeana.eu/schemas/edm/>
+PREFIX schema: <https://schema.org/>
+PREFIX cd: <http://citydata.wu.ac.at/ns#>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX edmfp: <http://www.europeanafashion.eu/edmfp/>
+
+#<https://beeldbank.cultureelerfgoed.nl/>
+
+CONSTRUCT {
+  ?heritageObject
+        rdf:type schema:CreativeWork ; #ok
+		schema:description ?discribeNL ;#ok
+    	schema:identifier ?id ;
+		schema:about ?about ;#ok
+		schema:publisher <https://beeldbank.cultureelerfgoed.nl/> ;#ok
+		schema:creator ?creators ; #ok
+  		schema:temporal ?temporal ; #ok 1907-09-28
+		schema:dateCreated ?yearCreated;#ok
+        schema:contentLocation ?contentLocation ; ##or 1
+    	schema:mainEntityOfPage ?isShownAt ; ##ok
+		schema:isBasedOn ?heritageObject ; #ok
+    	schema:image ?image .#ok
+  ?image rdf:type schema:ImageObject ;
+ 		schema:contentUrl ?isShownBy2 ;#ok 1
+  	    schema:encodingFormat ?img ;
+		schema:license ?rights.
+  ?creators rdf:type schema:Person ;
+			schema:name ?creator .
+}
+
+WHERE {
+    ?heritageObject a edm:ProvidedCHO ;
+		dc:description ?discription ;#ok 1
+		edm:creator ?creators ; #ok cardinality 1
+		dc:creator ?creator ;
+  		dcterms:created ?temporal ; #ok 1
+		dcterms:dateCreated ?yearCreated ; #ok 1
+		edm:image ?image .#ok
+
+		OPTIONAL { ?heritageObject dc:subjectURL ?about }
+		OPTIONAL {?heritageObject dc:spatialURI ?contentLocation} ###enrich change edm
+		BIND(STRLANG(str(?discription), "nl") as ?discribeNL)
+		FILTER(LANG(?discribeNL) = "nl")
+	BIND(STRAFTER(STR(?heritageObject), "http://data.collectienederland.nl/resource/document/rce-beeldbank/") AS ?id)
+
+	?aggregation a ore:Aggregation;
+		edm:aggregatedCHO ?heritageObject ;
+		edm:isShownBy ?isShownBy ;#ok 1
+		edm:rights ?rights .#ok
+		BIND(URI(?isShownBy) as ?isShownBy2) #ok 1
+		OPTIONAL { ?aggregation edm:isShownAt ?isShownAt } ##ok  0 or 1
+		OPTIONAL { ?aggregation dcterms:format ?img }
+}
