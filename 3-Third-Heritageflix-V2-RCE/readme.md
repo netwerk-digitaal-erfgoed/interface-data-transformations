@@ -4,7 +4,10 @@ https://github.com/netwerk-digitaal-erfgoed/interface-usable-visible/blob/main/h
 
 https://github.com/netwerk-digitaal-erfgoed/interface-usable-visible/blob/main/heritageflix/backend/v2/transformations.md
 
+Last version of dataset:
+https://data.netwerkdigitaalerfgoed.nl/MaryamSajjadian/checkedCardinalityRCE/graphs
 
+duplications have been deleted except Bnodes.
 
 Todo:
 
