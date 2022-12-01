@@ -1,6 +1,0 @@
-@prefix schema: <https://schema.org/> .
-
-<https://zaansmuseum.nl> a schema:Organization ;
-    schema:mainEntityOfPage <https://zaansmuseum.nl> ;
-    schema:name "zaansmuseum"@nl .
-

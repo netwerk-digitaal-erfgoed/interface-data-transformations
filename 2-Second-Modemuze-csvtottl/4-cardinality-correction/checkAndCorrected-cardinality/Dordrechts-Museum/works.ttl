@@ -13,7 +13,7 @@
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/10436> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Sitsen damesjakje met grote mouwen. ( bezaaid met ornamentjes op fijne paarse streping )."@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/10438> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -26,7 +26,7 @@
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/10438> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Anthraciet zwartgestreepte rok of potloodrok"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/10439> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419> ;
@@ -38,7 +38,7 @@
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/10439> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "herenvest met libel-en rozenmotief"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/10538> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -55,7 +55,7 @@ De stof is gerimpeld aan de tailleband gezet vlakbij de sluiting. De plooitjes z
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Lang jak voor kind"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/10623> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -75,7 +75,7 @@ Mouwen hebben één pand en zijn zeer sterk gerimpeld aan de bovenkant tot schap
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/10623> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Jakje met schapenboutmouwen; bruin met bloemen"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/10658a-b> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692>,
@@ -95,7 +95,7 @@ B: De zwart strak gerende lange rok bestaat uit 3 panden. Middenachter is een pa
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10351>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Zwarte japon met kant"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/10659a-c> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692>,
@@ -120,7 +120,7 @@ C: ceintuur van zwart satijn, dubbelgevouwen van vouw blind vastgezet. Binnenkan
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Tweedelige zwarte japon met kant"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/10660a-b> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692>,
@@ -141,7 +141,7 @@ B: Lange zwarte wollen rok, gerend, geen tailleband. Blinde sluiting voor door m
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/10660a-b> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10351> ;
     schema:name "Tweedelige zwarte japon van keperstof"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/10661> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10386> ;
@@ -156,7 +156,7 @@ Versiering;: langs de hals en voor tot 20 cm geplooide zijden strook aan zijden 
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/10661> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Zwarte mantel"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/10662> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10386> ;
@@ -171,7 +171,7 @@ Versiering: de mantel en de mouwen zijn geheel versier met gekloste tule, 4 cm b
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/10662> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Zwarte mantel"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/10663> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10386> ;
@@ -185,7 +185,7 @@ Versiering: langs V-hals en hals achter op filet ondergrond 3 gevlochten platte 
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/10663> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Zwarte mantel"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/10840> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10428> ;
@@ -200,7 +200,7 @@ plus een langwerpige, rechthoekige doos met goudpapier bies langs de bovenranden
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "mouwloos vest met geborduurde rand"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/11053> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692>,
@@ -214,7 +214,7 @@ plus een langwerpige, rechthoekige doos met goudpapier bies langs de bovenranden
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/11053> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Zwarte pellerine"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/11743> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10381>,
@@ -235,7 +235,7 @@ De lange mouwen bestaat uit een boven- en onderpand en zijn bij de schouder afge
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Kinderjurk met queue"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/11745> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -248,7 +248,7 @@ De lange mouwen bestaat uit een boven- en onderpand en zijn bij de schouder afge
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/11745> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Pellerine"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/11746a-b> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10805> ;
@@ -262,7 +262,7 @@ De lange mouwen bestaat uit een boven- en onderpand en zijn bij de schouder afge
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/11746a-b> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Zwarte herenjas met vest"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/11887> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10381>,
@@ -281,7 +281,7 @@ Langs middenvoor en daar waar geen franje van kralen hangen is de rand afgezet m
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10765> ;
     schema:name "Cape"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/11889> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10428>,
@@ -297,7 +297,7 @@ Langs middenvoor en daar waar geen franje van kralen hangen is de rand afgezet m
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10765> ;
     schema:name "Zwarte stola"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/12021> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -311,7 +311,7 @@ Langs middenvoor en daar waar geen franje van kralen hangen is de rand afgezet m
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Robe"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/12023a-d> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -334,7 +334,7 @@ D: Restant van de sleep. Ivoorkleurige zijden fragment, bestaande uit twee schui
             schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/12023a-d> ;
     schema:name "Trouwjapon van Lijsje Vreugdenhil-Bouthoorn"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/12024> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10420>,
@@ -349,7 +349,7 @@ D: Restant van de sleep. Ivoorkleurige zijden fragment, bestaande uit twee schui
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Rok"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/12068> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10124>,
@@ -362,7 +362,7 @@ D: Restant van de sleep. Ivoorkleurige zijden fragment, bestaande uit twee schui
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/12068> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Zwembroek"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/12075a-w> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10005> ;
@@ -404,7 +404,7 @@ a. Wit batisten fichu met langs de rand opengewerkte ovaaltjes, met verschillend
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Japon"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/12076> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -418,7 +418,7 @@ a. Wit batisten fichu met langs de rand opengewerkte ovaaltjes, met verschillend
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Bruin zijden japon met schapenboutmouwen"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/1375> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10428>,
@@ -434,7 +434,7 @@ a. Wit batisten fichu met langs de rand opengewerkte ovaaltjes, met verschillend
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10349>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10577> ;
     schema:name "Kaproen van de Kloveniers, met standaard"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/14002a> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10696> ;
@@ -447,7 +447,7 @@ a. Wit batisten fichu met langs de rand opengewerkte ovaaltjes, met verschillend
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/14002a> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Rok"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/14002b> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10696> ;
@@ -461,7 +461,7 @@ Aan de taille is een wit band van 1 cm genaaid. Door deze tunnel is een schuin g
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/14002b> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Rok"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/14050a> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10427>,
@@ -476,7 +476,7 @@ Aan de taille is een wit band van 1 cm genaaid. Door deze tunnel is een schuin g
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/14050a> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Nationale feestrok of bevrijdingsrok"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/14050b> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10427>,
@@ -492,7 +492,7 @@ gedragen op 2 september 1948."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/14050b> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Nationale feestrok of bevrijdingsrok"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/1517> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10005>,
@@ -505,7 +505,7 @@ gedragen op 2 september 1948."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/1517> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Ivoorkleurige empire japon van Anne Cornelie van Wageningen"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/15232> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10005> ;
@@ -517,7 +517,7 @@ gedragen op 2 september 1948."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/15232> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Zwarte avondjurk met kralen"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/15233> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10743> ;
@@ -529,7 +529,7 @@ gedragen op 2 september 1948."""@nl ;
             schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/15233> ;
     schema:name "Zwarte avondjurk met goudgalon en strass steentjes"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/15234a-b> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10124>,
@@ -542,7 +542,7 @@ gedragen op 2 september 1948."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/15234a-b> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Tweedelig zwempak"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/15241> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10086> ;
@@ -558,7 +558,7 @@ B. langwerpige met wit damast papier beplakte doos."""@nl ;
         <http://thesaurus.europeanafashion.eu/thesaurus/10572>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10574> ;
     schema:name "Droit Devant korset"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/15242> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10086> ;
@@ -572,7 +572,7 @@ B. langwerpige met wit damast papier beplakte doos."""@nl ;
         <http://thesaurus.europeanafashion.eu/thesaurus/10355>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10545> ;
     schema:name "Korset"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/15243> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10086> ;
@@ -585,7 +585,7 @@ B. langwerpige met wit damast papier beplakte doos."""@nl ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10545> ;
     schema:name "Bandkorset of sportkorset"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/15285> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10389>,
@@ -599,7 +599,7 @@ B. langwerpige met wit damast papier beplakte doos."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/15285> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Calotje"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/15451a-c> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10379>,
@@ -620,7 +620,7 @@ C: Twee ongelijke stroken met aan het eind ivoorkleurig kant met bruin bladmotie
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/15451a-c> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Trouwjapon van Willemina Frederika de Geus-de Leeuw"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/15461> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10373>,
@@ -639,7 +639,7 @@ Aan de sluiting roze stofmerkje rood; Maison de Bonnetrie Amsterdam, Dan Haag (i
             schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/15461> ;
     schema:name "Negligé of peignoir van Geertje Bonthuis de Vries"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/15462a-b> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10124> ;
@@ -660,7 +660,7 @@ Rijpak is gemaakt in ca. 1897 voor Geertje Bonthuis de Vries, geboren in 1879 op
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10351>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Amazonekostuum van Geertje Bonthuis de Vries"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/15472> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -678,7 +678,7 @@ Met viltstift in de voering geschreven: Stumpel"""@nl ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Jakje"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/15510> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10603> ;
@@ -689,7 +689,7 @@ Met viltstift in de voering geschreven: Stumpel"""@nl ;
             schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/15510> ;
     schema:name "Pierrettepakje "@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/15714> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10124>,
@@ -702,7 +702,7 @@ Met viltstift in de voering geschreven: Stumpel"""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/15714> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Zwart badpak"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/15999I-IV> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10427>,
@@ -726,7 +726,7 @@ De rok heeft twee donkerblauwe helmselen van 3 cm welke zijn gevoerd met grijsbl
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/15999I-IV> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Nationale feestrok of bevrijdingsrok met baret en bijbehorende papieren van mevrouw Margaretha Gerarda Daamen"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/16045> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10086> ;
@@ -739,7 +739,7 @@ De rok heeft twee donkerblauwe helmselen van 3 cm welke zijn gevoerd met grijsbl
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10857> ;
     schema:name "Korset"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/16186I> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10086> ;
@@ -752,7 +752,7 @@ De rok heeft twee donkerblauwe helmselen van 3 cm welke zijn gevoerd met grijsbl
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10810> ;
     schema:name "Babykorsetje"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/16363a-c> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10124>,
@@ -770,7 +770,7 @@ B: Witte katoenen rok. Tailleband van 4 cm breed met sluiting opzij van 2 haken 
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/16363a-c> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Matrozenpakje of gymnastiek outflit van J. Juchter"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/16364> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10805> ;
@@ -784,7 +784,7 @@ B: Witte katoenen rok. Tailleband van 4 cm breed met sluiting opzij van 2 haken 
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/16364> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10351> ;
     schema:name "Meisjesbadpak"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/16421> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10379>,
@@ -801,7 +801,7 @@ De japon heeft strooimotieven, de mouwen zijn niet geborduurd en afgewerkt met a
             schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/16421> ;
     schema:name "Lichtblauwe crepe japon met roze bloempjes"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/16650a-i> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -823,7 +823,7 @@ Sleep: (zie inv.kaart) De onderrand van de sleep: heeft een opgestikte rand van 
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/16650a-i> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Bruidskostuum Dina Vliegenhart-Lebret"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/16651a-f> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10732> ;
@@ -842,7 +842,7 @@ F Gebreide kniekousen in wollen blauw garen. 5 cm in boordsteek gebreid 2 recht,
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10539> ;
     schema:name "Schaatskostuum van de Dordtse Schaatsvereniging"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/16773> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10046> ;
@@ -859,7 +859,7 @@ Rechts binnen op taille hoogte Joy Coats."""@nl ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10351>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10361> ;
     schema:name " Damesmantel"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/1713> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10420> ;
@@ -876,7 +876,7 @@ Rok is met gepliseerde plooitjes aan het lijfje handmatig vastgezet, behalve pli
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Boerinnenjak van Top Naeff"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/18053a-b> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -893,7 +893,7 @@ B: Wit schort van katoen. Tailleband is 3,5 cm breed en heeft middenachter op de
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/18053a-b> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Verpleegstersuniform van Louisa Rond"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/18090> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10373>,
@@ -908,7 +908,7 @@ B: Wit schort van katoen. Tailleband is 3,5 cm breed en heeft middenachter op de
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/18090> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Kinderjasje of negligé gedragen door Suzanna Wilhelmina Blomhert"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/18091> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10373>,
@@ -922,7 +922,7 @@ B: Wit schort van katoen. Tailleband is 3,5 cm breed en heeft middenachter op de
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/18091> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Kinderjurkje van witte batist met kantje"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/18092> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10373> ;
@@ -936,7 +936,7 @@ B: Wit schort van katoen. Tailleband is 3,5 cm breed en heeft middenachter op de
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/18092> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Kinderjurkje of schortjas"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/18239a-b> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053642>,
@@ -957,7 +957,7 @@ B: Zwarte tafzijden gladde rok met tailleband van 2 cm gevoerd met zwart katoen.
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Trouwjapon van Pieternella Jacoba Reus-Ouburgh"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/18936> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10124>,
@@ -969,7 +969,7 @@ B: Zwarte tafzijden gladde rok met tailleband van 2 cm gevoerd met zwart katoen.
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/18936> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10351> ;
     schema:name "Wollen badpak"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/18937> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10124>,
@@ -981,7 +981,7 @@ B: Zwarte tafzijden gladde rok met tailleband van 2 cm gevoerd met zwart katoen.
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/18937> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10351> ;
     schema:name "Badpak van A. Spengler"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19093a-b> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053658> ;
@@ -1001,7 +1001,7 @@ b. De rok heeft aan de binnenkant een ophijssysteem waardoor de draagster de rok
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19093a-b> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Tweedelige, roodbruin geruite japon bestaande uit rok en bolero"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19094a-b> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10732>,
@@ -1020,7 +1020,36 @@ b. Zwarte zijde met enkele horizontale stroken fluweel. """@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19094a-b> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Zwarte visitejapon"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19095> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10005> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=2-%20HVG/19095%20VZ.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19095> ;
+    schema:name "Witte katoenen japon met schapenboutmouwen"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19096.1> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10091> ;
+    schema:dateCreated "1850"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=2-%20HVG/19096.1%20KZ.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19096.1> ;
+    schema:name "Eenvoudige onderrok"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19096.2> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10091> ;
+    schema:dateCreated "1850"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=2-%20HVG/19096.1%20KZ.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19096.2> ;
+    schema:name "Versierde onderrok"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19097> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10200> ;
@@ -1031,7 +1060,41 @@ b. Zwarte zijde met enkele horizontale stroken fluweel. """@nl ;
             schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19097> ;
     schema:name "Zwarte luifelhoed"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19098> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10200> ;
+    schema:dateCreated "1845"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19098_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19098> ;
+    schema:name "Witte luifelhoed met gekleurde bloemetjes "@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19099> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10200> ;
+    schema:dateCreated "1875"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19099_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19099> ;
+    schema:name "Zwarte hoed met kunstbloemen"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19100a-b> a schema:CreativeWork ;
+    edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10732>,
+        <http://vocab.getty.edu/aat/300053658> ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10005>,
+        <http://thesaurus.europeanafashion.eu/thesaurus/10019>,
+        <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19100%20a-b_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19100a-b> ;
+    schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
+    schema:name "Tweedelige zwarte japon met vermaakte mouwen"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19101> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10295> ;
@@ -1045,7 +1108,7 @@ Binnenkant is afgezet met bruin linnen (?)."""@nl ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Zwarte omslagdoek met kralen"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19102> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10295> ;
@@ -1058,7 +1121,7 @@ Binnenkant is afgezet met bruin linnen (?)."""@nl ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Zwarte omslagdoek"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19103> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10732>,
@@ -1071,7 +1134,7 @@ Binnenkant is afgezet met bruin linnen (?)."""@nl ;
             schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19103> ;
     schema:name "Ondermouwen van tule met kant"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19104.1> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10732> ;
@@ -1085,7 +1148,7 @@ Binnenkant is afgezet met bruin linnen (?)."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19104.1> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Ceintuur gekleurd  met magenta aniline "@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19104.2> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10732> ;
@@ -1099,7 +1162,7 @@ Binnenkant is afgezet met bruin linnen (?)."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19104.2> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Ceintuur gekleurd met magenta aniline "@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19105a-b> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053658> ;
@@ -1113,7 +1176,51 @@ Binnenkant is afgezet met bruin linnen (?)."""@nl ;
             schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19105a-b> ;
     schema:name "Verkleedpakje van 'pappie'"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19166> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10124>,
+        <http://thesaurus.europeanafashion.eu/thesaurus/10624> ;
+    schema:dateCreated "1900/1905"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19166.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19166> ;
+    schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
+    schema:name """Rood katoenen dames zwempak
+"""@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19167> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10124>,
+        <http://thesaurus.europeanafashion.eu/thesaurus/10201>,
+        <http://thesaurus.europeanafashion.eu/thesaurus/10645> ;
+    schema:dateCreated "1900/1905"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=2-%20HVG/19167%20VZ.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19167> ;
+    schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
+    schema:name "Rood zwart gestreepte badmuts"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19168> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10293> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19168_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19168> ;
+    schema:name "Wit katoenen schortje met broderie en twee passementen"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19169> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10293> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19169_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19169> ;
+    schema:name "Wit katoenen schortje met broderie en ingeweven streep"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19170a-b> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10840> ;
@@ -1124,7 +1231,7 @@ Binnenkant is afgezet met bruin linnen (?)."""@nl ;
             schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19170a-b> ;
     schema:name "Twee werkmouwen met bandje"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19171a-b> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10840> ;
@@ -1135,7 +1242,45 @@ Binnenkant is afgezet met bruin linnen (?)."""@nl ;
             schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19171a-b> ;
     schema:name "Twee halve mouwen"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19172> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10293> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19172_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19172> ;
+    schema:name "Werkschort met broderie en rechthoekige zak"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19173> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10293> ;
+    schema:dateCreated "1900/1920"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19173_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19173> ;
+    schema:name "Werkschort met broderie en ronde zak"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19174> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10091> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19174_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19174> ;
+    schema:name "Donkerblauw wit gestreepte onderrok"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19175> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10293> ;
+    schema:dateCreated "1900/1920"@nl ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19175_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19175> ;
+    schema:name "Blauw wit geruit werkschort"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19176a-b> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035>,
@@ -1152,7 +1297,317 @@ b. Rok heeft voor en achter een verticale rij van 9 knopen. De bovenste 2 knopen
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10351>,
         <http://vocab.getty.edu/aat/300411398> ;
     schema:name "Tweedelig schaatskostuum bestaande uit rok en jasje"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19177> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10018> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19177_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19177> ;
+    schema:name "Witte damesblouse met open naaiwerk en broderie"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19178> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10018> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19178_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19178> ;
+    schema:name "Witte damesblouse met open naaiwerk en doorstoppen"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19179> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10095> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19179_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19179> ;
+    schema:name "Batisten onderjurk (verlengd)"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19180> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10095> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19180_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19180> ;
+    schema:name "Batisten onderjurk met passementen"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19181> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10439> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19181_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19181> ;
+    schema:name "Negligé"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19182> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10095> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19182_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19182> ;
+    schema:name "Onderjurk van katoen met broderie "@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19183> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10091> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19183_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19183> ;
+    schema:name "Onderrok van katoen met broderie"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19184.1> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10099> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19184.1_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19184.1> ;
+    schema:name "Onderbroek met motief zijkant"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19184.2> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10099> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19184.2_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19184.2> ;
+    schema:name "Onderbroek met strook"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19184.3> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10099> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19184.3_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19184.3> ;
+    schema:name "Onderbroek met puntmotief"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19185.1> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10088> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19185.1_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19185.1> ;
+    schema:name "Luier"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19185.2> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10088> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19185.2_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19185.2> ;
+    schema:name "Luier"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19185.3> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10088> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19185.3_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19185.3> ;
+    schema:name "Luier met bandje"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19185.4> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10088> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19185.4_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19185.4> ;
+    schema:name "Luier met bandje"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19186.1> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10095> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19186.1_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19186.1> ;
+    schema:name "Onderjurkje van katoen"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19186.2> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10095> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19186.2_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19186.2> ;
+    schema:name "Onderjurkje van katoen"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19187.1> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10088> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19187.1_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19187.1> ;
+    schema:name "Inpakrokje van katoen"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19187.2> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10088> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19187.2_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19187.2> ;
+    schema:name "Inpakrokje van katoen"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19188.1> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10088> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19188.1_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19188.1> ;
+    schema:name "Inpakrokje van geruwd katoen"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19188.2> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10088> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19188.2_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19188.2> ;
+    schema:name "Inpakrokje van geruwd katoen"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19189> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10088> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19189_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19189> ;
+    schema:name "Luierbroek"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19190> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10201> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19190_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19190> ;
+    schema:name "Muts met rand"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19191.1> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10091> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19191.1_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19191.1> ;
+    schema:name "Onderrok met rozengang geruwd katoen"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19191.2> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10091> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19191.2_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19191.2> ;
+    schema:name "Onderrok met rozengang geruwd katoen"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19192.1> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10005> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19192.1_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19192.1> ;
+    schema:name "Wit katoenen meisjesjurkje met assymmetrische sluiting"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19192.2> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10005> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19192.2_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19192.2> ;
+    schema:name "Wit katoenen meisjesjurkje met assymmetrische sluiting"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19193.1> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10288> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19193.1_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19193.1> ;
+    schema:name "Gebreide kousen groen"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19193.2> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10288> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19193.2_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19193.2> ;
+    schema:name "Gebreide kousen oker"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19193.3> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10288> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19193.3_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19193.3> ;
+    schema:name "Gebreiden kousen ecru"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19194> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10191> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19194_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19194> ;
+    schema:name "Gebreide slaapmuts voor een volwassene"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19195a-b> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10250> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19195%20a-b_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19195a-b> ;
+    schema:name "Paar zwarte dames veterlaarsjes"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19196a-b> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10250> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19196%20a-b_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19196a-b> ;
+    schema:name "Paar bruine dames veterlaarsjes"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19197.1-3a-b> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10124>,
+        <http://thesaurus.europeanafashion.eu/thesaurus/10247>,
+        <http://thesaurus.europeanafashion.eu/thesaurus/10250> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=19197.1-3%20a-b_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19197.1-3a-b> ;
+    schema:name "Paar zwarte veterlaarzen (1) voor heren met kunstschaatsijzers (2) met beschermers (3-"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/19198a-b> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10124>,
+        <http://thesaurus.europeanafashion.eu/thesaurus/10247>,
+        <http://thesaurus.europeanafashion.eu/thesaurus/10250> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=2-%20HVG/19198ab%20(Kant%2001)%20Met%20schroeven.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19198a-b> ;
+    schema:name "Paar dames kunstschaatsen"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19235> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10029> ;
@@ -1165,7 +1620,7 @@ b. Rok heeft voor en achter een verticale rij van 9 knopen. De bovenste 2 knopen
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Mouwloos vest versierd met pailletten"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19308> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10428>,
@@ -1183,7 +1638,7 @@ oud voorlopig inventarisnummer was: x0591"""@nl ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Goudbruine rokjas"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19309> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692>,
@@ -1208,7 +1663,7 @@ oud voorlopig inventarisnummer was: x0599"""@nl ;
         <http://thesaurus.europeanafashion.eu/thesaurus/10747>,
         <http://vocab.getty.edu/aat/300417874> ;
     schema:name "Zwarte mantelet of visité "@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19310> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10428>,
@@ -1230,7 +1685,7 @@ De mouwen zijn lang en bestaan uit 2 panden en zijn glad aangenaaid met een koor
         <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10587> ;
     schema:name "Ivoorkleurige negligé met verticale rij knopen en sleep, decoratief afgezet met Engels borduurwerk en ruches "@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19318> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -1244,7 +1699,7 @@ De mouwen zijn lang en bestaan uit 2 panden en zijn glad aangenaaid met een koor
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10351>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Visité of mantille"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19319> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -1261,7 +1716,7 @@ Aan de voering van de mouw zit een strak tulen mouwtje met aan de rand een bandj
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Droite devant japon"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19320> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692>,
@@ -1275,7 +1730,7 @@ Kraag is aan de onderkant gevoerd met een ecrukleurige zijden poolweefsel. De kr
             schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19320> ;
     schema:name "Pellerine van groen velours"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19321> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -1291,7 +1746,7 @@ Aan de wijdvallende mouw is een stuk stof gezet van 8 cm en naar 5 cm  omgezoomd
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19321> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Japon"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/19322> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -1312,7 +1767,7 @@ Midden achter zitten 3 ogen aan de binnenkant. De onderkant van dit lijfje is me
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/19322> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Lijfje van een tweedelige japon"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2389> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10035> ;
@@ -1326,7 +1781,7 @@ Midden achter zitten 3 ogen aan de binnenkant. De onderkant van dit lijfje is me
         <http://thesaurus.europeanafashion.eu/thesaurus/10547>,
         <http://vocab.getty.edu/aat/300411398> ;
     schema:name "Paarse rokjas"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2390> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10371>,
@@ -1343,7 +1798,7 @@ Midden achter zitten 3 ogen aan de binnenkant. De onderkant van dit lijfje is me
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Sitsen jak"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2393> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10397>,
@@ -1358,7 +1813,7 @@ Midden achter zitten 3 ogen aan de binnenkant. De onderkant van dit lijfje is me
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10351>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10521> ;
     schema:name "Cape van harig wollen laken"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2394> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10382> ;
@@ -1370,7 +1825,7 @@ Midden achter zitten 3 ogen aan de binnenkant. De onderkant van dit lijfje is me
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2394> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Wit herenvest met franje"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2395> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10029> ;
@@ -1382,7 +1837,7 @@ Midden achter zitten 3 ogen aan de binnenkant. De onderkant van dit lijfje is me
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "mouwloos vest met zijden bloemen geborduurd"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2398> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10428>,
@@ -1398,7 +1853,7 @@ Midden achter zitten 3 ogen aan de binnenkant. De onderkant van dit lijfje is me
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10351>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Rok met geborduurde bloemranken"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2399> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10371>,
@@ -1413,7 +1868,7 @@ Midden achter zitten 3 ogen aan de binnenkant. De onderkant van dit lijfje is me
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Empire japon van grauwpaars satijn"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2400> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053642> ;
@@ -1427,7 +1882,7 @@ Midden achter zitten 3 ogen aan de binnenkant. De onderkant van dit lijfje is me
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Vermaakte japon van lichtblauwe moirézijde"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2401> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10040>,
@@ -1443,7 +1898,7 @@ De cape heft een vulling van een dunne laag vlies van wol. De kraag is gevoerd m
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10351>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Gevoerde cape met grote kraag"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2402> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10607> ;
@@ -1456,7 +1911,7 @@ De cape heft een vulling van een dunne laag vlies van wol. De kraag is gevoerd m
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Blauwe bolero met zwarte kraalversiering van gitten"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2403> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053642> ;
@@ -1471,7 +1926,7 @@ De cape heft een vulling van een dunne laag vlies van wol. De kraag is gevoerd m
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Robe à l'anglaise van blauwe zijde damast"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2404> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053658> ;
@@ -1485,7 +1940,7 @@ De cape heft een vulling van een dunne laag vlies van wol. De kraag is gevoerd m
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2404> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Japon van gestreepte changeant zijde"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2405a-b> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10373> ;
@@ -1501,7 +1956,7 @@ B. vest met voorsluiting van 9 kleine knopen als voren; een dito rij voor de sym
         <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://vocab.getty.edu/aat/300411398> ;
     schema:name "Herenrok en vest van Incroyable"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2406a-b> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10373>,
@@ -1520,7 +1975,7 @@ De rok is geplisseerd aan een tailleband van linnenbies van 1 cm. hoog, van acht
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Rok en kabaja, met bloemen geborduurde witte batist"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2407a-b> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -1543,7 +1998,7 @@ Er kan een queue onder gedragen worden of iets in die tunnels in de onderrok."""
         <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Japon van bedrukte katoen"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2408a-b> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10382>,
@@ -1562,7 +2017,7 @@ Rok van een robe à la Francáise; onder de rok kunnen paniers; de rok bestaat u
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Blauwgrijze robe à la Française van gebrocheerde zijde"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2409> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10381> ;
@@ -1574,7 +2029,7 @@ Rok van een robe à la Francáise; onder de rok kunnen paniers; de rok bestaat u
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2409> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "mouwloos vest met verticale banen"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2410> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10381> ;
@@ -1587,7 +2042,7 @@ Rok van een robe à la Francáise; onder de rok kunnen paniers; de rok bestaat u
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2410> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "mouwloos vest; met bloempjes bezaaid"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2412a-e> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10382> ;
@@ -1608,7 +2063,7 @@ E: Delen van een lijfje van een met de hand genaaide robe à justée: lichtblauw
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Trouwjapon van Wilhelmina van der Putten"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2413a-c> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10936>,
@@ -1629,7 +2084,7 @@ b-c: Enkele stukken van een zijden stof in ribsbinding die is gebrocheerd en ide
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Japon van Wilhelmina Maas-Van de Putten, gedragen tijdens de bruidsdagen"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2414a-c> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053642>,
@@ -1648,7 +2103,7 @@ C: Roze gestreepte onderrok, niet meer aanwezig."""@nl ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Robe à l'anglaise van gestreepte zijde"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2415a-c> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053642>,
@@ -1668,7 +2123,7 @@ C: onderrok, niet meer aanwezig."""@nl ;
         <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Robe à l'anglaise van groene zijde damast"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2416> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053642> ;
@@ -1691,7 +2146,7 @@ De pofmouw is uit een stuk, schuin geknop, gerimpeld op het lijfje gestikt. De r
         <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Blauw-groen gestreepte empire japon "@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2417a-b> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053642> ;
@@ -1708,7 +2163,7 @@ B: Stof aan de meter, lap ivoor-kleurige zijde, de zijde is damastgeweven in een
         <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Japon van Francina Timmers Verhoeven-Morjé "@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2418a-b> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053642> ;
@@ -1724,7 +2179,7 @@ Gemaakt uit dezelfde, mogelijk 18e-eeuwse lap stof als japon 12075."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2418a-b> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Japon van bruine ribszijde gedragen door Henrietta Jacoba Timmers Verhoeven-Cramer"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2419a-b> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10373>,
@@ -1744,7 +2199,7 @@ Machinaal vervaardigde geplooide onderrok aan een tailleband van 2 cm. breed; aa
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Avondjapon met horizontale stroken tule"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2420a-f> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053642>,
@@ -1765,7 +2220,7 @@ F: twee stukjes geweven franje in groen, rood, zwart en geel en een stukje zwart
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2420a-f> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Tweedelige japon van Schotsgeruite zijde"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2421> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053343> ;
@@ -1778,7 +2233,7 @@ F: twee stukjes geweven franje in groen, rood, zwart en geel en een stukje zwart
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2421> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "driekante omslagdoek met bloemen beschilderd"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2422a-b> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10737>,
@@ -1796,7 +2251,7 @@ F: twee stukjes geweven franje in groen, rood, zwart en geel en een stukje zwart
         <http://thesaurus.europeanafashion.eu/thesaurus/10355>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10574> ;
     schema:name "Trouwjapon van Cornelia Agatha van Gijn-Vriesendorp"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2430> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10373>,
@@ -1810,7 +2265,7 @@ F: twee stukjes geweven franje in groen, rood, zwart en geel en een stukje zwart
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2430> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Zomerjapon van witte batist"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2431a-c> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053642> ;
@@ -1829,7 +2284,7 @@ C: De onderrok is geheel met de hand gemaakt van witte, gesteven batist en besta
         <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Trouwjapon van Johanna Houkjen Staring-Blussé"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2432a-b> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053642> ;
@@ -1850,7 +2305,7 @@ b. Effen blauwgrijze rok bestaande uit 10 panden met een sluiting links opzij be
         <http://thesaurus.europeanafashion.eu/thesaurus/10355>,
         <http://vocab.getty.edu/aat/300014057> ;
     schema:name "Tweedelige blauwgrijze japon van Geertruida Johanna Sophia barones van Lynden"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2432eI-II> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10250> ;
@@ -1864,7 +2319,7 @@ b. Effen blauwgrijze rok bestaande uit 10 panden met een sluiting links opzij be
         <http://thesaurus.europeanafashion.eu/thesaurus/10504>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10557> ;
     schema:name "Schoenen, behorend bij een blauwgrijze tweedelige japon, circa 1875"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2448> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10029> ;
@@ -1876,7 +2331,7 @@ b. Effen blauwgrijze rok bestaande uit 10 panden met een sluiting links opzij be
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "mouwloos vest; geborduurde voorpanden"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2457> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10029> ;
@@ -1889,7 +2344,7 @@ b. Effen blauwgrijze rok bestaande uit 10 panden met een sluiting links opzij be
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "mouwloos vest;  met grauwblauwe bloemversiering"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2458> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10382> ;
@@ -1903,7 +2358,7 @@ b. Effen blauwgrijze rok bestaande uit 10 panden met een sluiting links opzij be
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Jas van goudkleurig damast"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2459> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10029> ;
@@ -1915,7 +2370,7 @@ b. Effen blauwgrijze rok bestaande uit 10 panden met een sluiting links opzij be
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2459> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "mouwloos vest;  hardgeel gestreept"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2475> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10805> ;
@@ -1928,7 +2383,7 @@ b. Effen blauwgrijze rok bestaande uit 10 panden met een sluiting links opzij be
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2475> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Bruingebloemd damesjak"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2491> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10381> ;
@@ -1941,7 +2396,16 @@ b. Effen blauwgrijze rok bestaande uit 10 panden met een sluiting links opzij be
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2491> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Doorgestike kinderjas"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
+
+<https://modemuze.nl/localID/europeana-fashion/2500> a schema:CreativeWork ;
+    schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10250> ;
+    schema:image [ a schema:ImageObject ;
+            schema:contentUrl <https://dordrecht.adlibhosting.com/ais6/webapi/wwwopac.ashx?command=getcontent&server=images&value=2-%20HVG/2500_1.jpg&width=500&height=500> ;
+            schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
+    schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2500> ;
+    schema:name "Kinderschoentjes"@nl ;
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2501> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053642> ;
@@ -1955,7 +2419,7 @@ b. Effen blauwgrijze rok bestaande uit 10 panden met een sluiting links opzij be
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2501> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Damespet van 'De Groene Club', onderafdeling van de Dordrechtsche Lawn Tennisclub"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2550> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10095>,
@@ -1968,7 +2432,7 @@ b. Effen blauwgrijze rok bestaande uit 10 panden met een sluiting links opzij be
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2550> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Onderjurk van doopjurk van Simon van Gijn"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2551> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10740> ;
@@ -1980,7 +2444,7 @@ b. Effen blauwgrijze rok bestaande uit 10 panden met een sluiting links opzij be
             schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2551> ;
     schema:name "Kinderdoopmanteltje van Simon van Gijn"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2552> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10373>,
@@ -1993,7 +2457,7 @@ b. Effen blauwgrijze rok bestaande uit 10 panden met een sluiting links opzij be
             schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2552> ;
     schema:name "Doopjurk van Simon van Gijn"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2553> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10373> ;
@@ -2004,7 +2468,7 @@ b. Effen blauwgrijze rok bestaande uit 10 panden met een sluiting links opzij be
             schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2553> ;
     schema:name "kindermuts"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2556> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10428> ;
@@ -2019,7 +2483,7 @@ b. Effen blauwgrijze rok bestaande uit 10 panden met een sluiting links opzij be
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Kabaja"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2559> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10939>,
@@ -2033,7 +2497,7 @@ b. Effen blauwgrijze rok bestaande uit 10 panden met een sluiting links opzij be
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2559> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "gehaakt babymutsje"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2587> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -2051,7 +2515,7 @@ Vanaf de oksel is aan beide kanten middenvoor een oprijg gemaakt. Beide mouwen z
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2587> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Gebloemd jak wit met bloemtakjes bedrukt"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2588> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419> ;
@@ -2068,7 +2532,7 @@ Dit jakje is gemaakt van gebruikte stof. Op het achterpand en op het schootjes z
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Jakje wit bedrukt met gele 'linten' en bloemranken"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2589> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419> ;
@@ -2083,7 +2547,7 @@ Beide zijnaden hebben samen ook een dubbele stolplooi op taille hoogte waar hij 
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Jakje wit met kleine bloemornament bezaaid"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2590> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -2097,7 +2561,7 @@ Beide zijnaden hebben samen ook een dubbele stolplooi op taille hoogte waar hij 
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2590> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Schoudermantel"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2591> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -2111,7 +2575,7 @@ Beide zijnaden hebben samen ook een dubbele stolplooi op taille hoogte waar hij 
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2591> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Schoudermantel"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2593> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10428> ;
@@ -2124,7 +2588,7 @@ Beide zijnaden hebben samen ook een dubbele stolplooi op taille hoogte waar hij 
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2593> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Wit driehoekig halsdoekje"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2598> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -2137,7 +2601,7 @@ Beide zijnaden hebben samen ook een dubbele stolplooi op taille hoogte waar hij 
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2598> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Witte kapmantel"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2599> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -2151,7 +2615,7 @@ Tegen de binnenkant, langs de hals is een band van 2,5 cm genaaid die als tunnel
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2599> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Witte kapmantel"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2628a-k> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -2194,7 +2658,7 @@ K: kleine fragmenten stof."""@nl ;
         <http://thesaurus.europeanafashion.eu/thesaurus/10585>,
         <http://vocab.getty.edu/aat/300192974> ;
     schema:name "Lijfje met driekwartmouw en doos met losse stukken stof"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2630> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -2207,7 +2671,7 @@ K: kleine fragmenten stof."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2630> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Damesjak"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2631> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -2220,7 +2684,7 @@ K: kleine fragmenten stof."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2631> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Damesjak"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2632> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -2234,7 +2698,7 @@ K: kleine fragmenten stof."""@nl ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Gevoerd damesjak"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2633> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -2247,7 +2711,7 @@ K: kleine fragmenten stof."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2633> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Damesjak"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2681> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -2260,7 +2724,7 @@ K: kleine fragmenten stof."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2681> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Damesjak"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2682> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -2273,7 +2737,7 @@ K: kleine fragmenten stof."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2682> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Kapmantel met kraag"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2683> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -2286,7 +2750,7 @@ K: kleine fragmenten stof."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2683> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Damesjak"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2684> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -2299,7 +2763,7 @@ K: kleine fragmenten stof."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2684> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Kapmantel met kraag"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2691> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053642> ;
@@ -2313,7 +2777,7 @@ K: kleine fragmenten stof."""@nl ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Rok van gestreepte bruine changeant zijde"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2786> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10086> ;
@@ -2323,7 +2787,7 @@ K: kleine fragmenten stof."""@nl ;
             schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2786> ;
     schema:name "Mouwloos vest of keurs"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2794> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053642> ;
@@ -2337,7 +2801,7 @@ K: kleine fragmenten stof."""@nl ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Middagjapon van lichtroze katoen"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2795> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -2352,7 +2816,7 @@ K: kleine fragmenten stof."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2795> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Reformjapon van katoen"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2796> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10420>,
@@ -2369,7 +2833,7 @@ Aan de binnenkant op de taille bies in blauw paars de letters S-B op een biesje 
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Rok wit met paarse bloemen bedrukt."@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2797> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10046> ;
@@ -2385,7 +2849,7 @@ Langs de sluiting middenvoor tot onderaan de japon een band van 3cm breed genaai
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10351>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "zwarte redingote met wijde bovenmouwen"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2798> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -2400,7 +2864,7 @@ Langs de sluiting middenvoor tot onderaan de japon een band van 3cm breed genaai
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2798> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Empire-japon van bedrukt katoen of sits"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2799> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692>,
@@ -2422,7 +2886,7 @@ Onder aan de rok zit een strook zwart fluweel van 13 cm breed. Het fluweel is ve
         <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Japon van paarse changeant zijde"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2800a-b> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10005>,
@@ -2440,7 +2904,7 @@ Gewatteerde, smalle ceintuur wordt bewaard in dezelfde doos maar hoort mogelijk 
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2800a-b> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Okerkleurige redingote"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2802> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -2453,7 +2917,7 @@ Gewatteerde, smalle ceintuur wordt bewaard in dezelfde doos maar hoort mogelijk 
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2802> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Roze damesrok"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2803> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053642> ;
@@ -2471,7 +2935,7 @@ Lijfje is geheel gevoerd met bruin linnen. Lijfje heeft schoudervulling van kapo
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Groen lijf met lange, poffende ondermouwen behorende bij driedelige japon"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2805a-b> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -2494,7 +2958,7 @@ In de rechter split op de voering een stukje dacron waarop staat: Museum Mr. Sim
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2805a-b> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Jak en rok van bruingrijze katoen"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2806> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10005> ;
@@ -2507,7 +2971,7 @@ In de rechter split op de voering een stukje dacron waarop staat: Museum Mr. Sim
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Rok van een japon, onderdeel van mouwloos lijfje en lijfje met mouwen"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2807> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053642> ;
@@ -2527,7 +2991,7 @@ De japon is uitgelegd: plooien op het achterpand bij de sluiting zijn losgehaald
         <http://thesaurus.europeanafashion.eu/thesaurus/10585>,
         <http://vocab.getty.edu/aat/300192974> ;
     schema:name "Middagjapon met schapenboutmouwen"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2808> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10371>,
@@ -2546,7 +3010,7 @@ Aan een dubbel genaaide linnen tailleband (3.5cm breed) zijn twee rokken van ver
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2808> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Avondjapon met tule rok"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2809a-b> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10942> ;
@@ -2570,7 +3034,7 @@ Twee kartonnen kaartjes met metalen pinnen met daarop 'nr. 69' hangen in een pla
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2809a-b> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Tweedelige japon van gebrocheerde paars met zwarte zijde, gedragen door Johanna Houkjen Staring-Blussé"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2810> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053642>,
@@ -2585,7 +3049,7 @@ Twee kartonnen kaartjes met metalen pinnen met daarop 'nr. 69' hangen in een pla
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2810> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Japonse rok kimonomodel"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2811> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10058>,
@@ -2599,7 +3063,7 @@ Twee kartonnen kaartjes met metalen pinnen met daarop 'nr. 69' hangen in een pla
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10351>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Kraag of pellerine van kinderjurk van bruine ribszijde"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2812> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692>,
@@ -2618,7 +3082,7 @@ De stof is met de hand gestikt in de matelassé techniek, met een lichtblauwe zi
         <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Lichtblauwe matelassé rok"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2813> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053642>,
@@ -2633,7 +3097,7 @@ De stof is met de hand gestikt in de matelassé techniek, met een lichtblauwe zi
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Bruine, jacquard geweven damesrok"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2815> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10373>,
@@ -2653,7 +3117,7 @@ De korte mouwen zijn glad aan het lijf op de katoenen voering van de mouw gezet.
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2815> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Zomerjapon van batist met stippenmotief"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2816> a schema:CreativeWork ;
     edmfp:technique <http://vocab.getty.edu/aat/300053658> ;
@@ -2670,7 +3134,7 @@ Patroon doet denken aan die van japon 2809"""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2816> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10351> ;
     schema:name "Paarse schoudermantel"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2817> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692>,
@@ -2695,7 +3159,7 @@ Zowel voor als achter zijn in het gladde gedeelte onder de tailleband stukken zi
         <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Roodpaarse matelassé rok"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2818a-c> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692>,
@@ -2726,7 +3190,7 @@ Mogelijke datering: ca. 1900-1902."""@nl ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Japon met twee lijfjes"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2820> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10397> ;
@@ -2738,7 +3202,7 @@ Mogelijke datering: ca. 1900-1902."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2820> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "muts"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2828a-h> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10732> ;
@@ -2758,7 +3222,7 @@ H. buidel van rozerood fluweel met dito riem en versiering van goudband. en 4 br
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2828a-h> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Maskeradekostuum van Simon van Gijn"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2853> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10086> ;
@@ -2768,7 +3232,7 @@ H. buidel van rozerood fluweel met dito riem en versiering van goudband. en 4 br
             schema:license <http://rightsstatements.org/vocab/InC/1.0/> ] ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2853> ;
     schema:name "Paars-rode keurslijf"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2873> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10420>,
@@ -2790,7 +3254,7 @@ De voering is van neteldoek."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/2873> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Rok van sits bedrukt met rode bloemen"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2877> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10420>,
@@ -2812,7 +3276,7 @@ Onderaan de rok op de voering staat (mogelijk met potlood): 'Trouwrok'."""@nl ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Witte rok van sits bedrukt met rode bloemen en bladmotieven"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2878a-d> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10029>,
@@ -2831,7 +3295,7 @@ D. Bijbehorend (?) zwarte rokjas van zijde glanzende zwarte stof.; de hoog-afges
         <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://vocab.getty.edu/aat/300411398> ;
     schema:name "Kostuum van zwart laken"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/2977I-II> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10261>,
@@ -2845,7 +3309,7 @@ D. Bijbehorend (?) zwarte rokjas van zijde glanzende zwarte stof.; de hoog-afges
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10504> ;
     schema:name "Paar laarzen van het maskerade-kostuum van Mr. S. van Gijn"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/3071> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10238> ;
@@ -2857,7 +3321,7 @@ D. Bijbehorend (?) zwarte rokjas van zijde glanzende zwarte stof.; de hoog-afges
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/3071> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "lichtblauwe cumberband"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/3072> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10958>,
@@ -2872,7 +3336,7 @@ D. Bijbehorend (?) zwarte rokjas van zijde glanzende zwarte stof.; de hoog-afges
         <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10810> ;
     schema:name "Haarkransje behorend tot bruidskostuum"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/3074> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -2887,7 +3351,7 @@ Aan de binnenkant van de tailleband voor zijn twee haken genaaid met roze zijde.
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Roze zijden rok"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/3077> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -2901,7 +3365,7 @@ Aan de binnenkant van de tailleband voor zijn twee haken genaaid met roze zijde.
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/3077> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Rok van bedrukt katoen met kleine ornamentjes"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/3086> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -2915,7 +3379,7 @@ Aan de binnenkant van de tailleband voor zijn twee haken genaaid met roze zijde.
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/3086> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Gebloemd jak"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/3087> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419> ;
@@ -2928,7 +3392,7 @@ Aan de binnenkant van de tailleband voor zijn twee haken genaaid met roze zijde.
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/3087> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Jak met ikat-effect"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/3088> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10386>,
@@ -2946,7 +3410,7 @@ Het lijfje heeft in de zijnaden baleinen en 3 baleinen midden voor die in een pu
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Lijfje met pofmouwen"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/3090> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -2961,7 +3425,7 @@ In de voering geborduurd: M I N, dit ook deel in inv.nr. 10436."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/3090> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Jak voor jong meisje"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/3094> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10086> ;
@@ -2974,7 +3438,7 @@ In de voering geborduurd: M I N, dit ook deel in inv.nr. 10436."""@nl ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10810> ;
     schema:name "Smal keurslijfje"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/3095> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10692> ;
@@ -2997,7 +3461,7 @@ Het ronde koordje is opgebouwd uit 4 geknoopte draden. Het gehele jasje is gevoe
         <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10545> ;
     schema:name "Roze ikat jasje met verticaal ingeweven groene streep"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/3096> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -3018,7 +3482,7 @@ Vanaf de taille middenvoor is bij beide panden een halve stolpplooi gemaakt. Van
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/3096> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Gevouwen jak met rode bloempjes aan groene takken"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/3097> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -3037,7 +3501,7 @@ Lijf heeft 2 zij achterpanden met aangeknipt schootje. Achterpand heeft een scho
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/3097> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Lijfje met schapenboutmouwen"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/3099> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419> ;
@@ -3050,7 +3514,7 @@ Lijf heeft 2 zij achterpanden met aangeknipt schootje. Achterpand heeft een scho
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/3099> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Kort jakje van bruine sits"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/3100> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10373>,
@@ -3065,7 +3529,7 @@ Lijf heeft 2 zij achterpanden met aangeknipt schootje. Achterpand heeft een scho
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/3100> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Lijfje van een japon"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/3101> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419> ;
@@ -3079,7 +3543,7 @@ Lijf heeft 2 zij achterpanden met aangeknipt schootje. Achterpand heeft een scho
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Gebloemd jak wit met bloemtakjes bedrukt"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/3103> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419> ;
@@ -3093,7 +3557,7 @@ Lijf heeft 2 zij achterpanden met aangeknipt schootje. Achterpand heeft een scho
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Tuniek"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/3105a-b> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10005> ;
@@ -3108,7 +3572,7 @@ b: meubelhoes voor een chaise longue."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/3105a-b> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Redingote van wit katoen met hermelijnpatroon in goudverf"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/9949> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10046> ;
@@ -3121,7 +3585,7 @@ b: meubelhoes voor een chaise longue."""@nl ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10589> ;
     schema:name "Goudkleurige avondmantel met dons"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/9965a> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -3140,7 +3604,7 @@ De naden hebben een ingenaaid koordje. Boven de plissé zit een verhoogde taille
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Jak met roze bloemenranken op paarse ruiten tegen wit fond"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/9965b> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -3159,7 +3623,7 @@ Door het formaat, lijkt dit een jakje voor een meisje van ca. 10 jaar."""@nl ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Jak met bruine bloemen op blauw fond"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/9965c> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -3175,7 +3639,7 @@ Door het formaat, lijkt dit een jakje voor een meisje van ca. 10 jaar."""@nl ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Wit jak met rood en blauwe bloempjes bezaaid"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/9965d> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -3197,7 +3661,7 @@ Door het formaat kan het voor een meisje van ca. 10 jaar zijn."""@nl ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Wit jak met bruine bloempjes in het fond"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/9965e> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -3213,7 +3677,7 @@ Door het formaat kan het voor een meisje van ca. 10 jaar zijn."""@nl ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Jak met verticale banen waarin bloemornament"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/9965f> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10419>,
@@ -3227,7 +3691,7 @@ Door het formaat kan het voor een meisje van ca. 10 jaar zijn."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/9965f> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "Sitsen jak met verhoogde taille"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/9965g> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10420> ;
@@ -3241,7 +3705,7 @@ Door het formaat kan het voor een meisje van ca. 10 jaar zijn."""@nl ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10355> ;
     schema:name "Sitsen jak"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/9967> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10740> ;
@@ -3253,7 +3717,7 @@ Door het formaat kan het voor een meisje van ca. 10 jaar zijn."""@nl ;
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/9967> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10354> ;
     schema:name "mouwloos vest"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/9970> a schema:CreativeWork ;
     edmfp:technique <http://thesaurus.europeanafashion.eu/thesaurus/10743> ;
@@ -3269,7 +3733,7 @@ Als versiering zijn links en rechts op de gebouwen achterpanden 5 lila stoffen k
     schema:isBasedOn <https://modemuze.nl/localID/europeana-fashion/9970> ;
     schema:material <http://thesaurus.europeanafashion.eu/thesaurus/10352> ;
     schema:name "Lichtgrijs met paars lijfje"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 
 <https://modemuze.nl/localID/europeana-fashion/DM/015/S90> a schema:CreativeWork ;
     schema:additionalType <http://thesaurus.europeanafashion.eu/thesaurus/10005> ;
@@ -3288,5 +3752,5 @@ In beide zijnaden is vanaf de zoom een spie ingenaaid: 65 cm hoog en 21 cm breed
         <http://thesaurus.europeanafashion.eu/thesaurus/10355>,
         <http://thesaurus.europeanafashion.eu/thesaurus/10545> ;
     schema:name "Empire japon van Maria Catharina Meertens"@nl ;
-    schema:publisher <https://zaansmuseum.nl> .
+    schema:publisher <https://www.dordrechtsmuseum.nl/> .
 

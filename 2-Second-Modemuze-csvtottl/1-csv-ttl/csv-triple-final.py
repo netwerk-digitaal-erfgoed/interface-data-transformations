@@ -58,17 +58,16 @@ def parse_csv(_entities, cleanCSV = "./clean-csv/" ,result = "./enrich-step1/" )
                        URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index])))
                 try:
 
-                    g.add((URIRef(zm["rdf:RDF - ore:Aggregation - rdf:about"][index]), DC.creator,
-
-                           Literal(zm["rdf:RDF - dc:creator - rdf:about"][index])))
+                    g.add((URIRef(zm["rdf:RDF - ore:Aggregation - rdf:about"][index]), DC.creator,Literal(zm["rdf:RDF - dc:creator - rdf:about"][index])))
+                         
 
                 except:
 
                     print("Warning: No creator in dataset.")
 
                 g.add((URIRef(zm["rdf:RDF - ore:Aggregation - rdf:about"][index]), EDM.providers,
-                       Literal(zm["rdf:RDF - ore:Aggregation - edm:provider - edm:Agent - skos:prefLabel"][
-                                   index])))  ###checks
+                       Literal(zm["rdf:RDF - ore:Aggregation - edm:provider - edm:Agent - skos:prefLabel"][index])))
+                                   
 
                 g.add((URIRef(zm["rdf:RDF - ore:Aggregation - rdf:about"][index]), EDM.isShownBy,
                        URIRef(zm["rdf:RDF - ore:Aggregation - edm:isShownBy - edm:WebResource - rdf:about"][index])))
@@ -81,71 +80,73 @@ def parse_csv(_entities, cleanCSV = "./clean-csv/" ,result = "./enrich-step1/" )
 
                 g.add((URIRef(zm["rdf:RDF - ore:Aggregation - rdf:about"][index]), EDM.dataProvider,
                        Literal(zm["rdf:RDF - ore:Aggregation - edm:dataProvider - edm:Agent - skos:prefLabel"][index],
-                               lang=zm[
-                                   "rdf:RDF - ore:Aggregation - edm:dataProvider - edm:Agent - skos:prefLabel - xml:lang"][
-                                   index])))
+                               lang=zm["rdf:RDF - ore:Aggregation - edm:dataProvider - edm:Agent - skos:prefLabel - xml:lang"][index])))
+                                   
+                                   
 
-                g.add((URIRef(zm["rdf:RDF - ore:Aggregation - rdf:about"][index]), EDM.rights,
-                       URIRef(zm["rdf:RDF - ore:Aggregation - edm:rights - rdf:resource"][index])))
+                g.add((URIRef(zm["rdf:RDF - ore:Aggregation - rdf:about"][index]), EDM.rights,URIRef(zm["rdf:RDF - ore:Aggregation - edm:rights - rdf:resource"][index])))
+                       
 
             for index in zm.index:
                 for col in zm.columns:
                     if col == "rdf:RDF - edm:ProvidedCHO - dc:title" and pd.notna(zm[col][index]):
-                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), DC.title,
-                               Literal(zm[col][index],
-                                       lang=zm["rdf:RDF - edm:ProvidedCHO - dc:title - xml:lang"][index])))
+                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), DC.title,Literal(zm[col][index],lang=zm["rdf:RDF - edm:ProvidedCHO - dc:title - xml:lang"][index])))                         
+                                       
 
                     if col == "rdf:RDF - edm:ProvidedCHO - edm:type" and pd.notna(zm[col][index]):
-                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), EDM.type,
-                               Literal(zm[col][index])))
+                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), EDM.type,Literal(zm[col][index])))
+                               
 
                     if col == "rdf:RDF - edm:ProvidedCHO - dcterms:medium - rdf:resource" and pd.notna(zm[col][index]):
-                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), DCTERMS.medium,
-                               Literal(zm[col][index])))
+                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), DCTERMS.medium,Literal(zm[col][index])))
+                               
 
                     if col == "rdf:RDF - edm:ProvidedCHO - dc:identifier" and pd.notna(zm[col][index]):
-                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), DC.identifier,
-                               Literal(zm[col][index])))
+                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), DC.identifier,Literal(zm[col][index])))
+                               
 
-                    if col == "rdf:RDF - edm:ProvidedCHO - dc:type - skos:Concept - rdf:about" and pd.notna(
-                            zm[col][index]):
-                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), DC.additionalType,
-                               URIRef(zm["rdf:RDF - edm:ProvidedCHO - dc:type - skos:Concept - rdf:about"][index])))
+                    if col == "rdf:RDF - edm:ProvidedCHO - dc:type - skos:Concept - rdf:about" and pd.notna(zm[col][index]):                           
+                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), DC.additionalType, URIRef(zm["rdf:RDF - edm:ProvidedCHO - dc:type - skos:Concept - rdf:about"][index])))                                                     
+                   
+                    if col == "dc:type_URI" and pd.notna(zm[col][index]):                       
+                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), DC.additionalType,URIRef(zm["dc:type_URI"][index])))                                                  
+                       
                     if col == "dc:type_URI" and pd.notna(zm[col][index]):
-                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), DC.type,
-                               URIRef(zm["dc:type_URI"][index])))
+                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), DC.type,URIRef(zm["dc:type_URI"][index])))
+                               
                     if col == "dcterms:medium_URI" and pd.notna(zm[col][index]):
-                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), DCTERMS.medium_URI,
-                               URIRef(zm["dcterms:medium_URI"][index])))
+                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), DCTERMS.medium_URI,URIRef(zm["dcterms:medium_URI"][index])))
+                    
+                    
+                    if col == "rdf:RDF - edm:ProvidedCHO - dcterms:medium - rdf:resource" and pd.notna(zm[col][index]):
+                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), DCTERMS.medium_URI,URIRef(zm["rdf:RDF - edm:ProvidedCHO - dcterms:medium - rdf:resource"][index])))                           
+                               
                     if col == "rdf:RDF - edm:ProvidedCHO - dcterms:medium" and pd.notna(zm[col][index]):
-                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), DCTERMS.martial,
-                               Literal(zm[col][index])))
+                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), DCTERMS.martial,Literal(zm[col][index])))                           
 
                     if col == "edmfp:technique_URI" and pd.notna(zm[col][index]):
-                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), EDMFP.technique_URI,
-                               URIRef(zm["edmfp:technique_URI"][index])))
-
+                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), EDMFP.technique_URI,URIRef(zm["edmfp:technique_URI"][index])))
+                           
+                
+                    if col == "rdf:RDF - edm:ProvidedCHO - edmfp:technique - rdf:resource" and pd.notna(zm[col][index]):
+                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), EDMFP.technique_URI,URIRef(zm["rdf:RDF - edm:ProvidedCHO - edmfp:technique - rdf:resource"][index])))
+                           
+                               
                     if col == "rdf:RDF - edm:ProvidedCHO - edmfp:technique" and pd.notna(zm[col][index]):
-                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), EDMFP.techniques,
-                               Literal(zm[col][index])))
-
+                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), EDMFP.techniques,Literal(zm[col][index])))
+                               
                     if col == "rdf:RDF - edm:ProvidedCHO - dc:description" and pd.notna(zm[col][index]):
                         g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), DC.description,
-                               Literal(zm[col][index],
-                                       lang=zm["rdf:RDF - edm:ProvidedCHO - dc:description - xml:lang"][index])))
-
+                               Literal(zm[col][index],lang=zm["rdf:RDF - edm:ProvidedCHO - dc:description - xml:lang"][index])))
+                                       
                     if col == "rdf:RDF - edm:ProvidedCHO - dcterms:created" and pd.notna(zm[col][index]):
                         g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), DCTERMS.created,
-                               Literal(zm[col][index],
-                                       lang=zm["rdf:RDF - edm:ProvidedCHO - dcterms:created - xml:lang"][index])))
-
-                    if col == "rdf:RDF - ore:Aggregation - edm:dataProvider - edm:Agent - skos:prefLabel" and pd.notna(
-                            zm[col][index]):
-                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), EDM.Agent,
-                               Literal(zm[col][index],
-                                       lang=zm[
-                                           "rdf:RDF - ore:Aggregation - edm:dataProvider - edm:Agent - skos:prefLabel - xml:lang"][
-                                           index])))
+                               Literal(zm[col][index],lang=zm["rdf:RDF - edm:ProvidedCHO - dcterms:created - xml:lang"][index])))
+                                       
+                    if col == "rdf:RDF - ore:Aggregation - edm:dataProvider - edm:Agent - skos:prefLabel" and pd.notna(zm[col][index]):                           
+                        g.add((URIRef(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]), EDM.Agent,Literal(zm[col][index],lang=zm["rdf:RDF - ore:Aggregation - edm:dataProvider - edm:Agent - skos:prefLabel - xml:lang"][index])))                            
+                                                                            
+                                          
 
             g.serialize(f'{result}{fileName}.ttl')
 

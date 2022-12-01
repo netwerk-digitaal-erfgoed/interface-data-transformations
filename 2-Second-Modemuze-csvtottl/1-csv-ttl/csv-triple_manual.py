@@ -5,7 +5,7 @@ from rdflib import Graph, URIRef, RDF, OWL, Namespace, Literal
 import pandas as pd
 import urllib.parse
 
-# print(pd.__version__)
+
 
 def startProcessing(_path="./csv/"):
     try:
@@ -113,12 +113,23 @@ def parse_csv(_entities, cleanCSV = "./clean-csv/" ,result = "./enrich-step1/" )
                         zm[col][index]):
                     g.add((subject, DC.additionalType,
                            URIRef(zm["rdf:RDF - edm:ProvidedCHO - dc:type - skos:Concept - rdf:about"][index])))
+                    
+                if col == "dc:type_URI" and pd.notna(
+                        zm[col][index]):
+                    g.add((subject, DC.additionalType,
+                           URIRef(zm["dc:type_URI"][index])))
+                    
                 if col == "dc:type_URI" and pd.notna(zm[col][index]):
                     g.add((subject, DC.type,
                            URIRef(zm["dc:type_URI"][index])))
                 if col == "dcterms:medium_URI" and pd.notna(zm[col][index]):
                     g.add((subject, DCTERMS.medium_URI,
                            URIRef(zm["dcterms:medium_URI"][index])))
+                    
+                if col == "rdf:RDF - edm:ProvidedCHO - dcterms:medium - rdf:resource" and pd.notna(zm[col][index]):
+                    g.add((subject, DCTERMS.medium_URI,
+                           URIRef(zm["rdf:RDF - edm:ProvidedCHO - dcterms:medium - rdf:resource"][index])))
+                    
                 if col == "rdf:RDF - edm:ProvidedCHO - dcterms:medium" and pd.notna(zm[col][index]):
                     g.add((subject, DCTERMS.martial,
                            Literal(zm[col][index])))
@@ -126,6 +137,11 @@ def parse_csv(_entities, cleanCSV = "./clean-csv/" ,result = "./enrich-step1/" )
                 if col == "edmfp:technique_URI" and pd.notna(zm[col][index]):
                     g.add((subject, EDMFP.technique_URI,
                            URIRef(zm["edmfp:technique_URI"][index])))
+                
+                if col == "rdf:RDF - edm:ProvidedCHO - edmfp:technique - rdf:resource" and pd.notna(zm[col][index]):
+                    g.add((subject, EDMFP.technique_URI,
+                           URIRef(zm["rdf:RDF - edm:ProvidedCHO - edmfp:technique - rdf:resource"][index])))
+                
                 
                 if col == "rdf:RDF - edm:ProvidedCHO - edmfp:technique" and pd.notna(zm[col][index]):
                     g.add((subject, EDMFP.techniques,

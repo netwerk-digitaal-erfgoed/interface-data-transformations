@@ -28,7 +28,6 @@ def processCardinality(_entities, _dirPath, dirname, upload = "./checkAndCorrect
             path = f'{_dirPath + "/" + filename}.ttl'
             g_data = rdflib.Graph()
             g_data.parse(path, format='ttl')
-            print(f'{_dirPath} parsed successfully, number of triples: {len(g_data)}')
             predicates = ['<https://schema.org/name>', '<https://schema.org/description>',
                           '<https://schema.org/temporal>','<https://schema.org/dateCreated>',
                           '<https://schema.org/publisher>', '<https://schema.org/isBasedOn>',
