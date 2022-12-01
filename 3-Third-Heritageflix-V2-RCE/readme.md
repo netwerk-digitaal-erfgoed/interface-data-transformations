@@ -12,10 +12,13 @@ duplications have been deleted except Bnodes.
 Todo:
 
 1- Invalid URIs
+
 2- Create store for all steps
+
 3- Add identifier ---> add to enrichment phase
 
 BIND(STRAFTER(STR(?heritageObject), "http://data.collectienederland.nl/resource/document/rce-beeldbank/") AS ?id)
 
 4- Repeat enrichment and check steps 3 and 4
+
 5- Shape validation
