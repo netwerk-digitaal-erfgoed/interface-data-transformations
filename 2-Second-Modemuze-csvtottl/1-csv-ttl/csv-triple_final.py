@@ -3,7 +3,7 @@ import shutil
 import traceback
 from rdflib import Graph, URIRef, RDF, OWL, Namespace, Literal
 import pandas as pd
-import urllib.parse
+
 
 
 
@@ -55,12 +55,12 @@ def parse_csv(_entities, cleanCSV = "./clean-csv/" ,result = "./enrich-step1/" )
         g.bind('dcterms', DCTERMS)
         g.bind('rdf', RDF)
         for index in eerste_regels:
-            subject_1 = URIRef(urllib.parse.quote(zm["rdf:RDF - ore:Aggregation - rdf:about"][index]).replace('%3A', ':'))
+            subject_1 = URIRef((zm["rdf:RDF - ore:Aggregation - rdf:about"][index]))
             g.add((subject_1, RDF.type, ORE.Aggregation))
-            g.add((URIRef(urllib.parse.quote(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]).replace('%3A', ':')), RDF.type, EDM.ProvidedCHO))
+            g.add((URIRef((zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index])), RDF.type, EDM.ProvidedCHO))
             
             # url encode only part of the URL
-            g.add((subject_1, EDM.aggregatedCHO, URIRef(urllib.parse.quote(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]).replace('%3A', ':'))))
+            g.add((subject_1, EDM.aggregatedCHO, URIRef((zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]))))
             try:
                 g.add((subject_1, DC.creator,
                        Literal(zm["rdf:RDF - dc:creator - rdf:about"][index])))
@@ -72,8 +72,8 @@ def parse_csv(_entities, cleanCSV = "./clean-csv/" ,result = "./enrich-step1/" )
                    Literal(zm["rdf:RDF - ore:Aggregation - edm:provider - edm:Agent - skos:prefLabel"][
                                index])))
             
-            # g.add((subject_1, EDM.isShownBy,
-            #        URIRef(zm["rdf:RDF - ore:Aggregation - edm:isShownBy - edm:WebResource - rdf:about"][index])))
+            g.add((subject_1, EDM.isShownBy,
+                   URIRef(zm["rdf:RDF - ore:Aggregation - edm:isShownBy - edm:WebResource - rdf:about"][index])))
             
             g.add((subject_1, EDM.isShownAt,
                    URIRef(zm["rdf:RDF - ore:Aggregation - edm:isShownAt - edm:WebResource - rdf:about"][index])))
@@ -91,7 +91,7 @@ def parse_csv(_entities, cleanCSV = "./clean-csv/" ,result = "./enrich-step1/" )
                    URIRef(zm["rdf:RDF - ore:Aggregation - edm:rights - rdf:resource"][index])))
         for index in zm.index:
             for col in zm.columns:
-                subject = URIRef(urllib.parse.quote(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]).replace('%3A', ':'))
+                subject = URIRef((zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]))
                 if col == "rdf:RDF - edm:ProvidedCHO - dc:title" and pd.notna(zm[col][index]):
                     g.add((subject, DC.title,
                            Literal(zm[col][index],

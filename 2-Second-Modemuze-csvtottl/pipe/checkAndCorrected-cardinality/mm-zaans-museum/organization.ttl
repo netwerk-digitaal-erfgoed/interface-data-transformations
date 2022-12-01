@@ -1,0 +1,6 @@
+@prefix schema: <https://schema.org/> .
+
+<https://www.dordrechtsmuseum.nl/> a schema:Organization ;
+    schema:mainEntityOfPage <https://www.dordrechtsmuseum.nl/> ;
+    schema:name "dordrechtsmuseum"@nl .
+
