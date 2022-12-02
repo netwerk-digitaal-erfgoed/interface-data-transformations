@@ -7,6 +7,12 @@ This pipline allows you to convert csv files to extrenal data model and then che
 
 Install required libraries using following command before running script. pip install -r requirements.txt
 
+### Run script
+Find your python path on your system :
+python = "C:\Program Files\Python37\python.exe"
+`python Script.py`
+
+
 ## input folders
 
 CSV folder and shp
