@@ -10,7 +10,7 @@ Install required libraries using following command before running script. pip in
 1- Add all files in a csv folder.
 `Please Note that the name of files must be stable and consistent.`
 
-### 1- Run script
+### Run script
 
 Find your python path on your system :
 
@@ -19,7 +19,7 @@ python = "C:\Program Files\Python37\python.exe"
 1- `python csv-triple_manual.py`
 2- `python csv-triple_final.py`(if your csv file is final. The example files are not please run the first script. )
 
-### 3- Folders after running script:
+### Folders after running script:
 
 1- clean-csv
 

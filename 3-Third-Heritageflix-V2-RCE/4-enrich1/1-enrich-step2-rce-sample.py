@@ -41,6 +41,9 @@ def startEnrichment(_entities,_edm,_rdf,_dcterms,_dc,_aat, result_enrichment = '
             }"""
             qres = g.query(getByIdentifiers)
             for index, row in enumerate(qres):
+                
+                ### if you can add Identifier here, will be great!
+                
                 if (str(row.p) == 'http://purl.org/dc/elements/1.1/date'):
                     g.add((row.s, _edm['image'], BNode(index)))
                     g.add((BNode(index), _rdf['type'], _edm['ImageObject']))

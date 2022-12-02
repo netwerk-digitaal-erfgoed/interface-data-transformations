@@ -19,16 +19,15 @@ def processCardinality():
       enrichWorkObjectStore.clear()
     predicates = ['<https://schema.org/description>',
                    '<https://schema.org/temporal>',
-                  '<https://schema.org/dateCreated>',
-                  '<https://schema.org/name>',
+                  '<https://schema.org/dateCreated>', 
                   '<https://schema.org/publisher>',
                   '<https://schema.org/isBasedOn>',
+                  '<https://schema.org/name>',
                   '<https://schema.org/mainEntityOfPage>',
+                  '<https://schema.org/identifier>'
                   '<https://schema.org/image>',
-                  '<https://schema.org/creator>',
-                  '<https://schema.org/encodingFormat>',
                   '<https://schema.org/contentUrl>',
-                  '<https://schema.org/contentUrl/license>']
+                  '<https://schema.org/license>'] https://schema.org/contentLocation
     for predicate in predicates:
         query_txt = """
              DELETE { ?s """ + predicate + """ ?o2 .}
@@ -41,8 +40,5 @@ def processCardinality():
         print(query_txt)
         store.update(query_txt)
     store.dump(f'{result}RCE-cardinality-2.ttl', "text/turtle")
-
-
-
 
 processCardinality()

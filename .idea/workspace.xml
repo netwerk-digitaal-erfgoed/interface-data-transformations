@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec65b05d-c59c-4f0a-8fd4-d651d4280fc3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/github.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/github.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Second-Modemuze-csvtottl/1-csv-ttl/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/2-Second-Modemuze-csvtottl/1-csv-ttl/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Second-Modemuze-csvtottl/1-csv-ttl/clean-csv/TextielMuseum-work.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/2-Second-Modemuze-csvtottl/1-csv-ttl/clean-csv/TextielMuseum-work.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Second-Modemuze-csvtottl/1-csv-ttl/clean-csv/TextielMuseum.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/2-Second-Modemuze-csvtottl/1-csv-ttl/clean-csv/TextielMuseum.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Second-Modemuze-csvtottl/1-csv-ttl/csv-triple_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-Second-Modemuze-csvtottl/1-csv-ttl/csv-triple_final.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-Second-Modemuze-csvtottl/1-csv-ttl/csv-triple_manual.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-Second-Modemuze-csvtottl/1-csv-ttl/csv-triple_manual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Third-Heritageflix-V2-RCE/4-enrich1/.idea/3-enrich1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/3-Third-Heritageflix-V2-RCE/4-enrich1/.idea/3-enrich1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-Third-Heritageflix-V2-RCE/4-enrich1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/3-Third-Heritageflix-V2-RCE/4-enrich1/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +26,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Taxonic/00Project/github"
+    "last_opened_file_path": "C:/Taxonic/00Project/Github/3-Third-Heritageflix-V2-RCE"
   }
 }]]></component>
   <component name="RunManager" selected="Python.14-mm-zaans-museum-datamodel -V1">

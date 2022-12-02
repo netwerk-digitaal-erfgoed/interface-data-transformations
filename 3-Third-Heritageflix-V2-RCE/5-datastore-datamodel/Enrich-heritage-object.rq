@@ -15,7 +15,7 @@ CONSTRUCT {
   ?heritageObject
         rdf:type schema:CreativeWork ; #ok
 		schema:description ?discribeNL ;#ok
-    	schema:identifier ?id ;
+    	# schema:identifier ?id ;
 		schema:about ?about ;#ok
 		schema:publisher <https://beeldbank.cultureelerfgoed.nl/> ;#ok
 		schema:creator ?creators ; #ok
@@ -46,7 +46,7 @@ WHERE {
 		OPTIONAL {?heritageObject dc:spatialURI ?contentLocation} ###enrich change edm
 		BIND(STRLANG(str(?discription), "nl") as ?discribeNL)
 		FILTER(LANG(?discribeNL) = "nl")
-	BIND(STRAFTER(STR(?heritageObject), "http://data.collectienederland.nl/resource/document/rce-beeldbank/") AS ?id)
+	# BIND(STRAFTER(STR(?heritageObject), "http://data.collectienederland.nl/resource/document/rce-beeldbank/") AS ?id)
 
 	?aggregation a ore:Aggregation;
 		edm:aggregatedCHO ?heritageObject ;

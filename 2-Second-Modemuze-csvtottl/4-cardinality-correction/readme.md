@@ -10,7 +10,7 @@ One folder is required as inputs:
 
 1- Produced after data model(step 5).
 
-### 1- Run script
+### Run script
 
 Find your python path on your system :
 
@@ -18,7 +18,7 @@ python = "C:\Program Files\Python37\python.exe"
 
 `python vcardinality-correction-final.py`
 
-### 3- Folders after running script:
+### Folders after running script:
 
 One folder named 'checkAndCorrected-cardinality'.
 

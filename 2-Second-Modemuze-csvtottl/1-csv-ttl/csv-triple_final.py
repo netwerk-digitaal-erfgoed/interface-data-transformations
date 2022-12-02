@@ -5,8 +5,6 @@ from rdflib import Graph, URIRef, RDF, OWL, Namespace, Literal
 import pandas as pd
 
 
-
-
 def startProcessing(_path="./csv/"):
     try:
         _entities = []
@@ -72,11 +70,11 @@ def parse_csv(_entities, cleanCSV = "./clean-csv/" ,result = "./enrich-step1/" )
                    Literal(zm["rdf:RDF - ore:Aggregation - edm:provider - edm:Agent - skos:prefLabel"][
                                index])))
     
-            g.add((subject_1, EDM.isShownBy,
-                   URIRef(zm["rdf:RDF - ore:Aggregation - edm:isShownBy - edm:WebResource - rdf:about"][index])))
+            # g.add((subject_1, EDM.isShownBy,
+            #        URIRef(zm["rdf:RDF - ore:Aggregation - edm:isShownBy - edm:WebResource - rdf:about"][index])))
             
-            g.add((subject_1, EDM.isShownAt,
-                   URIRef(zm["rdf:RDF - ore:Aggregation - edm:isShownAt - edm:WebResource - rdf:about"][index])))
+            # g.add((subject_1, EDM.isShownAt,
+            #        URIRef(zm["rdf:RDF - ore:Aggregation - edm:isShownAt - edm:WebResource - rdf:about"][index])))
             
             g.add((subject_1, EDM.provider,
                    URIRef(zm["rdf:RDF - ore:Aggregation - edm:provider - edm:Agent - rdf:about"][index])))
