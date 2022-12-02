@@ -22,5 +22,6 @@ Todo:
 BIND(STRAFTER(STR(?heritageObject), "http://data.collectienederland.nl/resource/document/rce-beeldbank/") AS ?id)
 
 4- Repeat enrichment step 3(start with new datastore)
+Start point: https://github.com/netwerk-digitaal-erfgoed/interface-data-transformations/tree/main/3-Third-Heritageflix-V2-RCE/3-merge-csv
 
 5- Shape validation
