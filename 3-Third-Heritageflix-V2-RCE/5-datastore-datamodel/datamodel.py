@@ -45,5 +45,5 @@ def datamodel():
         enrichWorkObjectStore.add(Quad(r.subject, r.predicate, r.object))
     enrichWorkObjectStore.dump(f'{result}RCE.ttl', "text/turtle")
 
-# startProcessing()
+startProcessing()
 datamodel()

@@ -71,7 +71,7 @@ def parse_csv(_entities, cleanCSV = "./clean-csv/" ,result = "./enrich-step1/" )
             g.add((subject_1, EDM.providers,
                    Literal(zm["rdf:RDF - ore:Aggregation - edm:provider - edm:Agent - skos:prefLabel"][
                                index])))
-            
+    
             g.add((subject_1, EDM.isShownBy,
                    URIRef(zm["rdf:RDF - ore:Aggregation - edm:isShownBy - edm:WebResource - rdf:about"][index])))
             

@@ -55,10 +55,11 @@ def parse_csv(_entities, cleanCSV = "./clean-csv/" ,result = "./enrich-step1/" )
         g.bind('dcterms', DCTERMS)
         g.bind('rdf', RDF)
         for index in eerste_regels:
+            # print(index)
             subject_1 = URIRef(urllib.parse.quote(zm["rdf:RDF - ore:Aggregation - rdf:about"][index]).replace('%3A', ':'))
             g.add((subject_1, RDF.type, ORE.Aggregation))
             g.add((URIRef(urllib.parse.quote(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]).replace('%3A', ':')), RDF.type, EDM.ProvidedCHO))
-            
+            print(index)
             # url encode only part of the URL
             g.add((subject_1, EDM.aggregatedCHO, URIRef(urllib.parse.quote(zm["rdf:RDF - edm:ProvidedCHO - rdf:about"][index]).replace('%3A', ':'))))
             try:
@@ -72,8 +73,8 @@ def parse_csv(_entities, cleanCSV = "./clean-csv/" ,result = "./enrich-step1/" )
                    Literal(zm["rdf:RDF - ore:Aggregation - edm:provider - edm:Agent - skos:prefLabel"][
                                index])))
             
-            # g.add((subject_1, EDM.isShownBy,
-            #        URIRef(zm["rdf:RDF - ore:Aggregation - edm:isShownBy - edm:WebResource - rdf:about"][index])))
+            g.add((subject_1, EDM.isShownBy,
+                   URIRef(zm["rdf:RDF - ore:Aggregation - edm:isShownBy - edm:WebResource - rdf:about"][index])))
             
             g.add((subject_1, EDM.isShownAt,
                    URIRef(zm["rdf:RDF - ore:Aggregation - edm:isShownAt - edm:WebResource - rdf:about"][index])))

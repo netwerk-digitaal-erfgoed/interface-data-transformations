@@ -16,45 +16,33 @@ def processCardinality():
     # shutil.rmtree(result, ignore_errors=True)
     # os.makedirs(result, exist_ok=True)
     enrichWorkObjectStore = Store('cardinalityOutput')
-    enrichWorkObjectStore.clear()
+      enrichWorkObjectStore.clear()
+    predicates = ['<https://schema.org/description>',
+                   '<https://schema.org/temporal>',
+                  '<https://schema.org/dateCreated>',
+                  '<https://schema.org/name>',
+                  '<https://schema.org/publisher>',
+                  '<https://schema.org/isBasedOn>',
+                  '<https://schema.org/mainEntityOfPage>',
+                  '<https://schema.org/image>',
+                  '<https://schema.org/creator>',
+                  '<https://schema.org/encodingFormat>',
+                  '<https://schema.org/contentUrl>',
+                  '<https://schema.org/contentUrl/license>']
+    for predicate in predicates:
+        query_txt = """
+             DELETE { ?s """ + predicate + """ ?o2 .}
+             WHERE {
+               ?s """ + predicate + """ ?o1, ?o2 .
+               FILTER(?o1 != ?o2)
+               FILTER(str(?o1) > str(?o2))
+             }"""
+
+        print(query_txt)
+        store.update(query_txt)
+    store.dump(f'{result}RCE-cardinality-2.ttl', "text/turtle")
 
 
-    # predicates = ['<https://schema.org/image>',
-    #               '<https://schema.org/creator>']
-    # for predicate in predicates:
-    query_txt = """
-         DELETE { ?s schema:image ?o1 .
-           ?image rdf:type schema:ImageObject ;
- 		    schema:contentUrl ?isShownBy2 ;
-  	        schema:encodingFormat ?img ;
-		    schema:license ?rights.}
-         WHERE {       
-    ?s
-        rdf:type schema:CreativeWork ;
-		schema:description ?discribeNL ;
-		schema:about ?about ;
-		schema:publisher <https://beeldbank.cultureelerfgoed.nl/> ;
-		schema:creator ?creators ; 
-  		schema:temporal ?temporal ; 
-		schema:dateCreated ?yearCreated;
-        schema:contentLocation ?contentLocation ;
-    	schema:mainEntityOfPage ?isShownAt ; 
-		schema:isBasedOn ?heritageObject ; 
-    	schema:image ?o1, ?o2 .
-    	FILTER(?o1 != ?o2)
-        FILTER(str(?o1) > str(?o2))
-    ?image rdf:type schema:ImageObject ;
- 		schema:contentUrl ?isShownBy2 ;
-  	    schema:encodingFormat ?img ;
-		schema:license ?rights.
-    ?creators rdf:type schema:Person ;
-			schema:name ?creator .
-
-         }"""
-
-    print(query_txt)
-    store.update(query_txt)
-    store.dump(f'{result}RCE-cardinality-img.ttl', "text/turtle")
 
 
 processCardinality()

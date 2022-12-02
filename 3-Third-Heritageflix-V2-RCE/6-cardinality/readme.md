@@ -1,16 +1,20 @@
 ## Cardinality correction
 
-The python script is one step before validation and adjust dataset with cardinality of the first prototype datasets.
+The python script is one step before validation and adjust dataset with cardinality of datasets:
 
-Requirements install required libraries using following command before running script. pip install -r requirements.txt
+https://github.com/netwerk-digitaal-erfgoed/interface-usable-visible/blob/main/heritageflix/frontend/v2/datamodel.md
 
-one folder is required as inputs:
+## Requirements
+
+install required libraries using following command before running script. pip install -r requirements.txt
+
+one folder( a data store) is required as inputs:
 
 1- enrichWorkObjectStore folder
 
 ## Usage
 
-### 1- Run script
+### Run script
 
 Find your python path on your system :
 
@@ -18,14 +22,13 @@ python = "C:\Program Files\Python37\python.exe"
 
 `python vcardinality-store.py`
 
-### 3- Folders after running script:
+### Folders after running script:
+
 1- enrichWorkObjectStore folder: it is updated now
+
 2- outputs-for uploads: if validation report confirms, the files insides can be uploaded.
 
-
-
-
-## source Github
+## Source Github
 
 https://github.com/netwerk-digitaal-erfgoed/interface-usable-visible/blob/main/heritageflix/frontend/v2/datamodel.md
 

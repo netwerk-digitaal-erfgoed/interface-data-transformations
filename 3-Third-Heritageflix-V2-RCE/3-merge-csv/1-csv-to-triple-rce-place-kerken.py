@@ -5,11 +5,6 @@ import os
 import shutil
 import traceback
 
-def main ():
-    startProcessing()
-    strartProcessCorrectedPrefixes()
-
-
 edm = Namespace("http://www.europeana.eu/schemas/edm/")
 rdf = Namespace("http://www.w3.org/1999/02/22-rdf-syntax-ns#")
 dcterms = Namespace("http://purl.org/dc/terms/")
@@ -36,11 +31,10 @@ def csvToTripleProcess(_path, _entities, finalPath='./final-triples/', enrichfil
     try:
         g = Graph()
         for index, csvFile in enumerate(_entities):
-        # for index, csvFile in _entities:
             entity = csvFile.split("-")[0]
             print(entity)
             with open(f'{_path}{csvFile}.csv') as fileHanler:
-                csvreader = csv.reader(fileHanler) 
+                csvreader = csv.reader(fileHanler)
                 next(csvreader, None)
                 for row in csvreader:
                     if (len(row[3])) > 25 and entity == "kerk":
@@ -57,6 +51,21 @@ def csvToTripleProcess(_path, _entities, finalPath='./final-triples/', enrichfil
             g2.namespace_manager.bind('dc', URIRef('http://purl.org/dc/elements/1.1/'), replace=True)
             g2.serialize(destination=f'{finalPath}{entity}{index}.ttl', format='turtle', encoding='utf-8')
         integration(finalPath, enrichfile)
+
+                # This comments are for when the number of ttl file is more than one, and they must be merged together
+                # gseperateTTL = Graph()
+                # for i in range(1,2):
+                #     path = f'./corrected-prefixes/rce3_{i}.ttl'
+                #     try:
+                #
+                #         gseperateTTL.parse(f'{path}', format='turtle')
+                #         gseperateTTL.serialize(destination=f'{finalPath}rce.ttl', format='turtle', encoding='utf-8')
+                #         print(f'{i} processed and serialized successfully!')
+                #
+                #     except :
+                #         print(f'Chunk {i} has uri coding error.')
+
+
 
     except Exception as e:
         print(str(e), traceback.format_exc())
@@ -86,25 +95,29 @@ def strartProcessCorrectedPrefixes(_path="./corrected-prefixes/"):
         print(str(e), traceback.format_exc())
 
 
-def ProcessCorrectedPrefixes(_path, _entities,finalPath='./mergeForenrichtment/'):
+def ProcessCorrectedPrefixes(_path, _entities, mergePerfixesfiles = './mergePerfixesfiles/',finalPath='./enrichment-step-1/'):
     shutil.rmtree(finalPath, ignore_errors=True)
     os.makedirs(finalPath, exist_ok=True)
+    shutil.rmtree(mergePerfixesfiles, ignore_errors=True)
+    os.makedirs(mergePerfixesfiles, exist_ok=True)
 
     try:
 
         gcsv = Graph()
         enrichfile = './integrationstep1/kerkenspatial.ttl'
         gcsv.parse(enrichfile, format='ttl')
-        g = Graph()
+
         for ttlFile in _entities:
+            g = Graph()
 
             path = f'{_path}{ttlFile}.ttl'
             print(path)
             g.parse(path, format='ttl')
-
+            integrationGraph = Graph() ##empty graph
             integrationGraph = g + gcsv
 
             integrationGraph.serialize(destination=f'{finalPath}{ttlFile}.ttl')
+
 
             print(f' final enrichment has been done! your final datasets are in {finalPath} path')
 
@@ -112,4 +125,7 @@ def ProcessCorrectedPrefixes(_path, _entities,finalPath='./mergeForenrichtment/'
     except Exception as e:
         print(str(e), traceback.format_exc())
 
-main()
+
+# startProcessing()
+
+strartProcessCorrectedPrefixes()

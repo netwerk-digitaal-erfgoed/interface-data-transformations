@@ -21,6 +21,6 @@ Todo:
 
 BIND(STRAFTER(STR(?heritageObject), "http://data.collectienederland.nl/resource/document/rce-beeldbank/") AS ?id)
 
-4- Repeat enrichment and check steps 3 and 4
+4- Repeat enrichment and check steps 3
 
 5- Shape validation

@@ -1,6 +1,6 @@
-# prefix Change
+# Enrichment
 
-This script allows you to correct prefixes and transform them to turtle.
+This script allows you to enrich the ouput of pervious step.
 
 ## Requirements
 
@@ -8,23 +8,18 @@ Install required libraries using following command before running script. pip in
 
 ### folders or file:
 
-One folder: invalidperfixes from the first step
+enrichment-step-1
 
-## Usage
+### Usage
 
 Find your python path on your system :
 
 python = "C:\Program Files\Python37\python.exe"
 
-#### Run:
+### Run:
 
-`python prefixChange.py`
+`python 1-enrich-step2-rce-sample.py`
 
 ### Files after running script:
 
-One folder named corrected-prefixes and contains 152 ttl files
-
-
-
-
-
+enrich-data-for-datamodel

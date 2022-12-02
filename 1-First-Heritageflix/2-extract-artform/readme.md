@@ -17,6 +17,8 @@ python = "C:\Program Files\Python37\python.exe"
 
 ##### Folders
 
-input = converted 
+Input = converted 
 
-output = art_type_All
+Output = art_type_All
+
+
