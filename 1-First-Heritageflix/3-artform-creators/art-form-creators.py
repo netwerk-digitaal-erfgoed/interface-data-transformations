@@ -79,7 +79,6 @@ def processArtFormCsv(_entities):
                         }""")
                         sparql = SPARQLWrapper(sparqlEndpoint)
                         sparql.setQuery(query)
-                        # time.sleep(1)  # imported from time
                         sparql.setReturnFormat(JSON)
                         results = sparql.query().convert()
                         for result in results["results"]["bindings"]:

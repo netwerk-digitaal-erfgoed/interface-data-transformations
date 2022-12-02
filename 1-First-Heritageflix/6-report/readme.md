@@ -11,7 +11,7 @@ Install required libraries using following command before running script. pip in
 
 ## Usage
 
-### 1- Run script
+### Run script
 
 Find your python path on your system :
 

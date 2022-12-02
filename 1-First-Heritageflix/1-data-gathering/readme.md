@@ -20,7 +20,7 @@ python = "C:\Program Files\Python37\python.exe"
 
 `python oai-pmh.py` 
 
-### 1- Collect dataset from single OAI-PMH API: 
+### Collect dataset from single OAI-PMH API: 
 
 `python oai-pmh.py -u "url_base_path" -e entity`
 
@@ -32,7 +32,7 @@ For example:
 
 `python oai-pmh.py -e mauritshuis`
 
-### 2- Collect datasets from multiple OAI-PMH API
+### Collect datasets from multiple OAI-PMH API
 
 add url base and entities in code(oai-pmh.py) and run codes in commandline:
 

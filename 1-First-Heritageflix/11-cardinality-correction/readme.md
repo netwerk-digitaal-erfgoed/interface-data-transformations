@@ -4,13 +4,13 @@ The python script is one step before validation and adjust dataset with cardinal
 
 Requirements install required libraries using following command before running script. pip install -r requirements.txt
 
-one folder is required as inputs:
+One folder is required as inputs:
 
 1- upload folder, i.e.,produced after data model(step 5).
 
 ## Usage
 
-### 1- Run script
+### Run script
 
 Find your python path on your system :
 
@@ -18,11 +18,11 @@ python = "C:\Program Files\Python37\python.exe"
 
 `python vcardinality-correction-final.py`
 
-### 3- Folders after running script:
+### Folders after running script:
 
 One folder named upload-correction.
 
-test on your prototype as a final product.
+Test on your prototype as a final product.
 
 In the link below, you can test invalid-upload and try using the script and again validate them
 

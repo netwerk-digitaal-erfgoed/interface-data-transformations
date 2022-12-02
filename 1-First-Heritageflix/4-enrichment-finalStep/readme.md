@@ -6,7 +6,7 @@ Requirements
 Install required libraries using following command before running script. pip install -r requirements.txt
 
 ##### Two folders are required as inputs:
-1- Add creators folder result of open refine (creator folder).
+1- Add creators folder result of open refined (creator folder).
 
 2- Add the results of enrichment step one (enrich-step1 folder).
 
@@ -15,7 +15,7 @@ Only name of files can be changed.`
 
 ## Usage
 
-### 1- Run script
+### Run script
 
 Find your python path on your system :
 
@@ -26,7 +26,7 @@ python = "C:\Program Files\Python37\python.exe"
 If date is in dc:date into two seperate lines or have only dc:date, first, run 2-date-change.py and then run  1-enrich-step2.py
 
 
-### 3- Folders after running script:
+### Folders after running script:
 
 1- final-creator-triple
 

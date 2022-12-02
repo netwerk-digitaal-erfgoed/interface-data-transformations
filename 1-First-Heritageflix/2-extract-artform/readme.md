@@ -19,6 +19,6 @@ python = "C:\Program Files\Python37\python.exe"
 
 Input = converted 
 
-Output = art_type_All
+Output = art_type_All for reconciliation.
 
 
